@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2481.ogg",
+        "matched_line": "我真傻，真的。",
+        "recognized_text": "我真傻真的",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5153.ogg",
+        "matched_line": "我美吗？",
+        "recognized_text": "我吗",
+        "match_score": 67
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_1283.ogg",
+        "matched_line": "……我怎么觉得好像在历史书上见过这两个人？是我记错了吗？",
+        "recognized_text": "我怎么觉得好像在历史书上见过这两个人手机错了吗",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5328.ogg",
+        "matched_line": "德丽莎要教我们如何控制崩坏兽的力量。",
+        "recognized_text": "丽莎叫我们如何控制崩坏兽的力量",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_198.ogg",
+        "matched_line": "布洛妮娅姐姐是和爱因斯坦博士一起过来的吧？我和萝莎莉娅是妈妈派来迎接你们的。",
+        "recognized_text": "不然你姐姐是爱因斯坦博士一起过来的吧我很有利呀是妈妈派来迎接你们的",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5414.ogg",
+        "matched_line": "我们已经是大人了，再把我们当孩子可是会吃苦头的。",
+        "recognized_text": "我们已经是大人了再把我们当孩子可是会吃苦头的",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1300.ogg",
+        "matched_line": "失、失算了！演艺名门的大小姐，这对手完全不可能赢啊！",
+        "recognized_text": "算了一名门的大小姐是对手完全不可能赢了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5424.ogg",
+        "matched_line": "初次见面，请多关照。",
+        "recognized_text": "初次见面请多关照",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1277.ogg",
+        "matched_line": "她看过来了……好警觉的家伙！",
+        "recognized_text": "他看过来了好紧脚的家伙",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5321.ogg",
+        "matched_line": "博士收留了孤儿院的孩子，她们会暂时搬去盐湖基地。听说那儿很安全。",
+        "recognized_text": "博士收留了孤儿院的孩子他们会暂时搬去盐湖基地听说那很安全",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5322.ogg",
+        "matched_line": "我就知道。",
+        "recognized_text": "我就知道",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_802.ogg",
+        "matched_line": "她们以前没能看到这样的风景，但现在可以一直住在这里了。",
+        "recognized_text": "他们以前没能看到这样的风景现在可以一直住在这里了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_262.ogg",
+        "matched_line": "这几个月里，天命一直在追踪渴望宝石。世界各地的逆熵驻地都受到了攻击。",
+        "recognized_text": "这几个月里天天一直在追踪渴望宝石世界各地的丽商住地都受到了攻击",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_179.ogg",
+        "matched_line": "不愧是萝莎莉娅，竟然在这么短的时间里就消灭了20只崩坏兽，我心服口服。",
+        "recognized_text": "不愧是说咋的啊这么短的时间里就消灭了二十只崩坏兽我心服口服",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5423.ogg",
+        "matched_line": "萝莎莉娅是个笨蛋，如有冒犯，只是她的个人行为，和莉莉娅没有关系。",
+        "recognized_text": "说咱俩是个笨蛋如有冒犯只是他的个人行为和丽丽也没有关系",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_817.ogg",
+        "matched_line": "这些墓碑是可可利亚妈妈和我们一起立在这里的。",
+        "recognized_text": "这些墓碑是否可利亚妈妈和我们一起立在这里的",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_731.ogg",
+        "matched_line": "这是萝莎莉娅自己写的剧本，虽然她的字很难看，但我保证这是一个好故事。",
+        "recognized_text": "这是我家的要自己写的剧本虽然他的字很难看但我保证这是一个好故事",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1394.ogg",
+        "matched_line": "萝莎莉娅这样的笨蛋能演好女主角吗？女主角应该由我来扮演才对。",
+        "recognized_text": "我要这样的笨蛋能演好女主角吗女主角应该由我来扮演才对",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_705.ogg",
+        "matched_line": "小猫、小狗、小鸟…石头？",
+        "recognized_text": "小猫小狗小鸟石头",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_768.ogg",
+        "matched_line": "是我们无意中发现的小岛，可能是从海渊城上剥落下来的。",
+        "recognized_text": "是我们无意中发现了小岛可能是从海员厂商没落下来的",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_424.ogg",
+        "matched_line": "妈妈让我们检查一下海渊城的受损情况。布洛妮娅姐姐，可以帮我们一把吗？",
+        "recognized_text": "妈妈让我们检查一下海员长的生存情况年姐姐可以帮我一把吗",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_770.ogg",
+        "matched_line": "但这里很漂亮，就像是童话书里的世界。",
+        "recognized_text": "暗这里很漂亮就像是童话书里的世界",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1398.ogg",
+        "matched_line": "我饰演……女主角的姨妈？",
+        "recognized_text": "我饰演女主角的姨妈",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_719.ogg",
+        "matched_line": "找地方太麻烦了，我只要跟着萝莎莉娅就好了。",
+        "recognized_text": "找地方太麻烦了我只要跟着家里要就好了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5409.ogg",
+        "matched_line": "（你又把不该说的说出去了。）",
+        "recognized_text": "你要把不该说的说出去了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1269.ogg",
+        "matched_line": "萝莎莉娅，我记得这个人这应该是圣芙蕾雅歌剧团的首席男役。",
+        "recognized_text": "澳大利亚我记得这个人应该是胜负雷亚歌剧团的首席男役",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5199.ogg",
+        "matched_line": "你就别来了吧。",
+        "recognized_text": "你就别来了吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_645.ogg",
+        "matched_line": "唉，都是因为凳子太少了，一共才三个。",
+        "recognized_text": "都是因为凳子太少了一共才三个",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4342.ogg",
+        "matched_line": "有两个一模一样的人？",
+        "recognized_text": "有两个一模一样的人",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5410.ogg",
+        "matched_line": "（我要告诉妈妈，对你施以揪尾巴之刑。）",
+        "recognized_text": "我要告诉妈妈对你是一句尾巴之行",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_650.ogg",
+        "matched_line": "萝莎莉娅，现在已经不是早上了。",
+        "recognized_text": "我这里啊现在已经不是早上了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1179.ogg",
+        "matched_line": "小心，又有敌人靠近了！",
+        "recognized_text": "就有敌人靠近了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5421.ogg",
+        "matched_line": "海渊城，您应该知道具体坐标，爱因斯坦博士。",
+        "recognized_text": "海源城你应该知道具体坐标爱因斯坦博士",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_711.ogg",
+        "matched_line": "我是亚历山大·阿列克谢耶维奇·陀思妥耶夫斯基。",
+        "recognized_text": "不是亚历山大阿列克西耶维奇陀思妥耶夫斯基",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5296.ogg",
+        "matched_line": "未来……究竟会变成什么样子。",
+        "recognized_text": "未来究竟会变成什么样子",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1293.ogg",
+        "matched_line": "十字架一般不都是挂在脖子上吗？看来这玩意的功能主要是增高。",
+        "recognized_text": "十字架一般不都是挂在脖子上吗看来这玩意儿的功能主要是增高",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_182.ogg",
+        "matched_line": "不过，我早料到了自己会输，所以出发前就把蛋糕吃掉了。",
+        "recognized_text": "不过我早料到了自己会说所以出发前就把蛋糕吃掉了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_652.ogg",
+        "matched_line": "捉迷藏很好，不用动，我很喜欢。",
+        "recognized_text": "捉迷藏很好不用动我很喜欢",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5325.ogg",
+        "matched_line": "虽然还是很远的事，但又总觉得，好像很近。",
+        "recognized_text": "虽然还是很远的事但总觉得好像很近",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1254.ogg",
+        "matched_line": "第一次见到这么拥挤的场合，有点害怕……",
+        "recognized_text": "第一次见到这么拥挤的场合有点害怕",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5420.ogg",
+        "matched_line": "自我介绍就到这里，我们赶紧出发吧。",
+        "recognized_text": "自我介绍就到这里我们赶紧出发吧",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_792.ogg",
+        "matched_line": "（完蛋了…）",
+        "recognized_text": "完蛋了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1261.ogg",
+        "matched_line": "而且这次的参赛选手看起来都很有来头，我们真的能赢吗？",
+        "recognized_text": "而且这次参赛选手看起来都很有来头我们真的能赢吗",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_204.ogg",
+        "matched_line": "布洛妮娅姐姐还是和以前一模一样，一点都没变。",
+        "recognized_text": "不然你姐姐还是和以前一模一样一点都没变",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1295.ogg",
+        "matched_line": "可是我们的身高跟她差不多啊。",
+        "recognized_text": "可是我们的身高跟他差不多啊",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_812.ogg",
+        "matched_line": "我们告诉了她这座小岛，她也很喜欢这儿。",
+        "recognized_text": "我们告诉了他这个小岛她也很喜欢这样",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_778.ogg",
+        "matched_line": "伊莎贝拉…布洛妮娅姐姐来看你了。",
+        "recognized_text": "伊萨贝拉让你姐姐来看你了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1280.ogg",
+        "matched_line": "红色配蓝色，元气配三无……这两个家伙和我们重合度也太高了！",
+        "recognized_text": "红色配蓝色元气配三五两个家伙和我们重合度也太高了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1193.ogg",
+        "matched_line": "不，没有。它们又来了——",
+        "recognized_text": "不没有他们又来了",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_660.ogg",
+        "matched_line": "其实一共就一次。",
+        "recognized_text": "其实一共就一次",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_707.ogg",
+        "matched_line": "阿列克谢·格里戈里耶维奇·陀思妥耶夫斯基的第四个孩子…",
+        "recognized_text": "阿列克谢格里格里维奇陀思妥耶夫斯基的第四个孩子",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_664.ogg",
+        "matched_line": "全是孤儿院里的孩子。",
+        "recognized_text": "全是孤儿院里的孩子",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_721.ogg",
+        "matched_line": "年幼的孩子都留在孤儿院里，杏·玛尔在照顾她们。",
+        "recognized_text": "你要的孩子都留在孤儿院里希马尔在照顾他们",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5419.ogg",
+        "matched_line": "对不起，这是我们的秘密，请不要过问。",
+        "recognized_text": "对不起这是我们的秘密请不要过问",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_649.ogg",
+        "matched_line": "只限于可可利亚孤儿院内。",
+        "recognized_text": "之星可可利亚孤儿院内",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_814.ogg",
+        "matched_line": "她说，这里和雪原不一样，和孤儿院也不一样，是外面的世界，是看着就能让人感到幸福的地方。",
+        "recognized_text": "他说这里和血源不一样和孤儿院也不一样是外面的世界是看着就能让人感到幸福的地方",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1408.ogg",
+        "matched_line": "呜……可是剧本上并没有写这个时候该露出什么表情。",
+        "recognized_text": "可是剧本上并没有写这个时候该露出什么表情啊",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_706.ogg",
+        "matched_line": "布洛妮娅姐姐，大家真的都很喜欢我们的故事的。",
+        "recognized_text": "不然要姐姐大家真的都很喜欢我们的故事",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1206.ogg",
+        "matched_line": "……萝莎莉娅，这里真令人感到不舒服。",
+        "recognized_text": "说啥啊这里真令人感到不舒服",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1246.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5872.ogg",
+        "matched_line": "呼…呼…呼…",
+        "recognized_text": "呼呼呼",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1532.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3381.ogg",
+        "matched_line": "抓住你了。",
+        "recognized_text": "抓住你了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10545.ogg",
+        "matched_line": "唔…完全听不懂她在说什么啊。",
+        "recognized_text": "哦完全听不懂你在说什么",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1316.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1294.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5179.ogg",
+        "matched_line": "所以…",
+        "recognized_text": "所以",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1278.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1300.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1303.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_830.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1359.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_362.ogg",
+        "matched_line": "我就知道。",
+        "recognized_text": "我就知道",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7265.ogg",
+        "matched_line": "还远远不够呢！",
+        "recognized_text": "这些还远远不够呢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_322.ogg",
+        "matched_line": "哪个？",
+        "recognized_text": "哪个头",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1549.ogg",
+        "matched_line": "看来，你也是个有故事的人。",
+        "recognized_text": "可能是个有故事的人",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_801.ogg",
+        "matched_line": "咳咳。",
+        "recognized_text": "咳咳",
+        "match_score": 80
+    }
+]

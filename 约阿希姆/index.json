@@ -1,0 +1,470 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_2358.ogg",
+        "matched_line": "神父，苦瓜饼可没法分着吃。没有人下得了口，最后都会进德丽莎的肚子。",
+        "recognized_text": "胜负苦瓜饼可没法分着吃没有人下得了口最后都会进德丽莎的肚子",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2859.ogg",
+        "matched_line": "你先去了，为了预备先行的道路。",
+        "recognized_text": "你先去了为了预备先行的道路",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2689.ogg",
+        "matched_line": "神的庇护……？以善的名义杀人，就能受到神的庇护么？",
+        "recognized_text": "神的庇护一单的名义杀人就不受到神的庇护",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2666.ogg",
+        "matched_line": "不用了……",
+        "recognized_text": "不用了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2888.ogg",
+        "matched_line": "瓦尔特的肉体已经消散，他的存在在量子之海中化作了迷宫本身。",
+        "recognized_text": "瓦尔特的肉体已经消散它的存在在量子之海中化作了迷宫本身",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2886.ogg",
+        "matched_line": "来吧，我会为你打开最后的道路。",
+        "recognized_text": "来吧我会为你打开最后的道路",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2860.ogg",
+        "matched_line": "神会庇护你，我们的英雄。",
+        "recognized_text": "神会庇护你我们的英雄",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1520.ogg",
+        "matched_line": "它们是从量子之海中诞生的“影子”，是认知的投射，从你的记忆中诞生的怪物。",
+        "recognized_text": "他们是从量子之海中诞生出来的影子是认知的投射从你记忆中诞生的怪物",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2878.ogg",
+        "matched_line": "没错，布洛妮娅。它就是现在你所在的这座巨大迷宫。",
+        "recognized_text": "没错过你它就是现在你所在的这座巨大迷宫",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2750.ogg",
+        "matched_line": "只是，有句话我无论如何都想说出口——",
+        "recognized_text": "有句话我无论如何都想说出口",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2364.ogg",
+        "matched_line": "我知道你希望我们打起精神，但是你不用强迫自己去负起安慰我们的责任。",
+        "recognized_text": "我知道你希望我们打起精神但是你不用强迫自己去复习安慰我们的责任",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2885.ogg",
+        "matched_line": "欢迎回来。看来，你眉宇之间的忧虑，比进去前少了些。",
+        "recognized_text": "欢迎回来看来你眉宇之间的忧郁比进去减少了些",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1510.ogg",
+        "matched_line": "它也是源自量子之海的力量，但你还没有理解它的全部。",
+        "recognized_text": "他也是原子量子之海的力量但你还没有理解它的全部",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2258.ogg",
+        "matched_line": "但……我看到你的心中还有迷茫。",
+        "recognized_text": "我看到你的心中还有迷茫",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1523.ogg",
+        "matched_line": "重装小兔，真是可爱的名字。",
+        "recognized_text": "重装小兔真是可爱的名字",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2735.ogg",
+        "matched_line": "我愿意……我愿意踏出这一步，继承这个孤儿院，继承你的职责！",
+        "recognized_text": "鬼愿意愿意踏出这一步提成这个孤儿院其成员的职责",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3432.ogg",
+        "matched_line": "你很特别，你的过去与众不同，它赋予了你与年龄不符的坚强意志。",
+        "recognized_text": "你很特别你的过去与众不同他赋予了你与年龄不符的坚强意志",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2875.ogg",
+        "matched_line": "你很了不起。我想，我应该告诉你真相。",
+        "recognized_text": "你很了不起我想我应该告诉你真相",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1484.ogg",
+        "matched_line": "你还是放弃吧，进入量子之海……",
+        "recognized_text": "你还是放弃吧进入量子之海",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2879.ogg",
+        "matched_line": "你在这里看到的所有景象，都是他的过去，他的迷茫——",
+        "recognized_text": "你在这里看到的所有景象都是他的过去他的迷茫",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1251.ogg",
+        "matched_line": "我不同意。",
+        "recognized_text": "我不同意",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2916.ogg",
+        "matched_line": "我将化作你的力量，引导你去往理之核心的所在地。",
+        "recognized_text": "我将化作你的力量引导你去往礼之核心的所在地",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1486.ogg",
+        "matched_line": "——是需要资格的。",
+        "recognized_text": "是需要资格的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2862.ogg",
+        "matched_line": "你往哪里去，我们知道。",
+        "recognized_text": "你往哪里去我们知道",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2254.ogg",
+        "matched_line": "但如果你想真正找到她，就必须进入量子之海。",
+        "recognized_text": "但如果你想真正找到他就必须进入量子之海",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2746.ogg",
+        "matched_line": "我现在还是很迷茫，也不知道以后该怎么做。",
+        "recognized_text": "我现在还是很迷茫也不知道以后该怎么做",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1515.ogg",
+        "matched_line": "可惜越是坚强的人，内心就越是有可能留下脆弱的空洞。",
+        "recognized_text": "可惜越是坚强的人内心就越有可能留下脆弱的空洞",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2910.ogg",
+        "matched_line": "这就是最后的世界了。",
+        "recognized_text": "这就是最后的世界",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2259.ogg",
+        "matched_line": "我想你已经知道了我是谁。重新自我介绍一下吧。",
+        "recognized_text": "我想你已经知道了我是谁重新自我介绍一下吧",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1496.ogg",
+        "matched_line": "我看到你从巨大的虫洞里掉了出来，你是外面来的人吗？",
+        "recognized_text": "我看到你从巨大的虫洞里掉了出来你是外面来的人吗",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2887.ogg",
+        "matched_line": "作为这个迷宫的一部分，我感到它正在渐渐瓦解和收缩。",
+        "recognized_text": "作为这个迷宫的一部分我感到它正在渐渐瓦解和收缩",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2880.ogg",
+        "matched_line": "还有，他的希望。",
+        "recognized_text": "还有他的希望",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1521.ogg",
+        "matched_line": "你很特别，你的过去与众不同，它赋予了你与年龄不符的坚强意志。",
+        "recognized_text": "你很特别你的过去与众不同他赋予了你与年龄不符的坚强意志",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2876.ogg",
+        "matched_line": "他的敌人太过强大，纵使他拼尽全力也无法扭转战局。",
+        "recognized_text": "他的敌人太过强大就是他拼尽全力也无法扭转占据",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1488.ogg",
+        "matched_line": "你，想进入量子之海的深处？",
+        "recognized_text": "你想进入量子之海的深处",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1517.ogg",
+        "matched_line": "布洛妮娅，你要接受的考验才刚刚开始——",
+        "recognized_text": "说你你要接受的考验才刚刚开始",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2864.ogg",
+        "matched_line": "你的路，我们也知道。",
+        "recognized_text": "你的路我们也知道",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2252.ogg",
+        "matched_line": "你想问那个女孩，希儿的事吗？",
+        "recognized_text": "你想问那个女孩儿需要的是",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2671.ogg",
+        "matched_line": "对不起，我不能收下……",
+        "recognized_text": "对不起我不能说",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2772.ogg",
+        "matched_line": "所以，请你们继续做我的家人，不要让我走上错误的路……！",
+        "recognized_text": "请你们继续做我的家人不要让我走上错误的路",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2260.ogg",
+        "matched_line": "她身上有一种特殊的力量，让她能够在量子之海中穿行。",
+        "recognized_text": "他身上有一种特殊的力量让他能在量子之海中穿行",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2269.ogg",
+        "matched_line": "在之后的世界中，你或许也能见到她。",
+        "recognized_text": "在之后的世界中你或许也能见到他",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2874.ogg",
+        "matched_line": "……瓦尔特·杨，在量子之海中战斗到了最后一刻。",
+        "recognized_text": "瓦尔特量子之海中战斗到了最后一刻",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2670.ogg",
+        "matched_line": "什么都不明白的人是你……！",
+        "recognized_text": "什么都明白的人是你",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2724.ogg",
+        "matched_line": "我不想再想这个问题了……别管我了，让我一个人待一会儿。",
+        "recognized_text": "我不想再想这个问题了别管我了让我一个人待一会儿",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1485.ogg",
+        "matched_line": "不要担心，你被吞噬进量子之海的时间还不长。趁现在，你还来得及回去。",
+        "recognized_text": "不要担心你被吞噬净量子之海的时间还不长趁现在你还来得及回去",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1492.ogg",
+        "matched_line": "我一直守候在这座巨大的迷宫里，阻止迷路的人误入其中。",
+        "recognized_text": "我一直守护在这座巨大的迷宫里阻止迷路的人物属其中",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2345.ogg",
+        "matched_line": "卡雷尔走了。大家都需要一点时间，你也是。",
+        "recognized_text": "可怜而走了大家都需要一点时间你也是",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2720.ogg",
+        "matched_line": "别管我，你们担心的根本不是我……你们担心的，是放不下我的神父。",
+        "recognized_text": "别怪我你们担心的根本不是我你们担心的是放不下我的神父",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2267.ogg",
+        "matched_line": "欢迎回来，恭喜你解开了第一个世界。",
+        "recognized_text": "欢迎回来恭喜你解开了第一个世界",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2789.ogg",
+        "matched_line": "神父，你昨晚弄丢了这个十字架，所以我把它找回来了。",
+        "recognized_text": "师傅你昨晚弄丢了这个十字架所以我把它找回来了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2686.ogg",
+        "matched_line": "你没事就好……",
+        "recognized_text": "你没事就好",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2264.ogg",
+        "matched_line": "但看起来，她还无法自由地控制这股力量。",
+        "recognized_text": "但看起来她还无法自由的控制这股力量",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2907.ogg",
+        "matched_line": "但千万不要接触律者核心太久，它会撕碎你的身体。",
+        "recognized_text": "千万不要接触律者核心太久它会撕碎你的身体",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2754.ogg",
+        "matched_line": "你说过，要把它送给我的。",
+        "recognized_text": "你说过要把他送给我的",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2250.ogg",
+        "matched_line": "那本书是联系着你和她的纽带，它会为你指引前进的方向。",
+        "recognized_text": "那本书是联系着你和他的纽带它会为你指引前进的方向",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2251.ogg",
+        "matched_line": "我是第一律者瓦尔特·杨的分身，是他所留下的一枚碎片，受命守护着这里。",
+        "recognized_text": "我是第一类者瓦尔特杨的分身他所留下的一枚碎片受命守护着这里",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2255.ogg",
+        "matched_line": "我不知道她是谁，也捕捉不到她的痕迹。",
+        "recognized_text": "我不知道他是谁也捕捉不到它的痕迹",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2745.ogg",
+        "matched_line": "到底怎么做才算对……",
+        "recognized_text": "怎么做才算对",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1522.ogg",
+        "matched_line": "不过，这不是我们现在该谈论的话题。",
+        "recognized_text": "不过这不是我们现在该谈论的话题",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2293.ogg",
+        "matched_line": "这是第二个世界，它与你产生了共鸣，正在呼唤着你。去吧，布洛妮娅。",
+        "recognized_text": "这是第二个世界他与你产生了共鸣正在呼唤着你不说了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2266.ogg",
+        "matched_line": "也许，她的本体还在量子之海中漂流，只是偶然间和这座迷宫产生了重叠。",
+        "recognized_text": "也许他的本体还在量子之海中漂流只是偶然间合作做迷宫产生了重叠",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2675.ogg",
+        "matched_line": "都收拾好了。",
+        "recognized_text": "收拾好了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1494.ogg",
+        "matched_line": "那里很危险，你不能靠近。",
+        "recognized_text": "那里很危险你不能靠近",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2911.ogg",
+        "matched_line": "不管接下来你见到什么，绝对，不要让“蛇”逃离这里。",
+        "recognized_text": "不管接下来你见到什么绝对不要让蛇逃离这里",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1490.ogg",
+        "matched_line": "这里是现实与可能的夹缝，认知与存在的空间，是通往量子之海的入口。",
+        "recognized_text": "这里是现实与可能的家伙认知与存在的空间是通往量子之海的入口",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2883.ogg",
+        "matched_line": "在生命的最后时刻，他选择用自己残存的全部力量，构造出一道隔断量子之海与现实的屏障。",
+        "recognized_text": "在生命的最后一刻他选择用自己残存的全部力量构造出一道隔断量子之涵与现实的屏障",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2262.ogg",
+        "matched_line": "那个叫做可可利亚的人，让你非常痛苦。",
+        "recognized_text": "那个叫做可可利亚的人让你非常痛苦",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2268.ogg",
+        "matched_line": "如果你想知道答案，就继续前进吧。",
+        "recognized_text": "如果你想知道答案就继续前进吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1519.ogg",
+        "matched_line": "只要置身于这片空间，你就会不断看到自己“内心深处”的景象。",
+        "recognized_text": "只要置身于这片空间你就会不断看到自己内心深处的景象",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1511.ogg",
+        "matched_line": "和我的意志无关，你越是接近量子之海，“影子”就会变得越活跃。",
+        "recognized_text": "和我的意志无关你越是接近量子之海影子就会变得越活越",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2292.ogg",
+        "matched_line": "你解开了第一个世界，迷宫也随之发生了变化。",
+        "recognized_text": "你解开了第一个世界迷宫也随之发生了变化",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1518.ogg",
+        "matched_line": "武器对它们的伤害有限，不过……你似乎拥有能对抗它们的力量。",
+        "recognized_text": "武器对他们的伤害有限不过你似乎拥有能对抗他们的力量",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2882.ogg",
+        "matched_line": "这道屏障不会隔绝死物，但会对每一个进入其中的生命进行“考验”。",
+        "recognized_text": "这道屏障不会隔绝死物但会对每一个进入其中的生命进行考验",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2914.ogg",
+        "matched_line": "当你离开它的时候，你也就走出了这座迷宫。",
+        "recognized_text": "当你离开他的时候也就走出了这座迷宫",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2858.ogg",
+        "matched_line": "如果你问我为什么有的人早早地离世……",
+        "recognized_text": "如果你问我为什么有的人早早地离世",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2912.ogg",
+        "matched_line": "借助它，你就可以进入量子之海。",
+        "recognized_text": "记住她你就可以进入量子之海",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1403.ogg",
+        "matched_line": "快进去看看！",
+        "recognized_text": "快看看",
+        "match_score": 67
+    }
+]

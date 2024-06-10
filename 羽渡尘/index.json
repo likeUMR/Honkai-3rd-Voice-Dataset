@@ -1,0 +1,104 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_2620.ogg",
+        "matched_line": "他带着我来到此处。一直以来，我顺应他的意志守护着这片雪原。",
+        "recognized_text": "她带着我来到此处汽车以来我顺应他的意志守护着这片雪原",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2619.ogg",
+        "matched_line": "——这也是那一刻，你选择跃入海渊之眼的理由。",
+        "recognized_text": "这也是那一刻你选择月入海渊之眼的理由",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2612.ogg",
+        "matched_line": "这不仅仅是他们的心结，也是你的心结。",
+        "recognized_text": "这不仅仅是他们的心情也是你的心情",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2609.ogg",
+        "matched_line": "但如今，他大限将至，而我的力量也将随他的精神一同走向尽头。",
+        "recognized_text": "但如今它大限将至而是我的力量也将随他的精神一同走向尽头",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2621.ogg",
+        "matched_line": "终有一日，你会走出过往，找到属于自己的道路。",
+        "recognized_text": "终有一日你会走出过往找到属于自己的道路",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2623.ogg",
+        "matched_line": "虽然你存在于每一个人的记忆中，但你并不属于这个世界。",
+        "recognized_text": "虽然你存在于每个人的记忆中但你并不属于这个世界",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2616.ogg",
+        "matched_line": "然而，他与那个人之间，有着无法跨越的隔阂。",
+        "recognized_text": "婴儿他与那个人之前就是无法跨越的隔阂",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2631.ogg",
+        "matched_line": "你的身上，残留着“羽毛”的痕迹。它让你看见了我，也让我知道了你的一切。",
+        "recognized_text": "你的身上残留着羽毛的痕迹他让你看见了我先让我知道了你的一切",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2633.ogg",
+        "matched_line": "我是羽渡尘所留下的三千羽毛中的一片，感应那个男人守护的心意而现身于此。",
+        "recognized_text": "我是宇宙尘所留下的三千羽毛中的一片感谢那个男人守护的心意而献身于此",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2607.ogg",
+        "matched_line": "他还有牵挂，还有留恋。但束缚他最深的，是他心中的一个空洞。",
+        "recognized_text": "他还有牵挂还有留恋但舒服他最深的是他心中的一个空洞",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3426.ogg",
+        "matched_line": "但你真正想找的，并非是别人，而是你自己的答案。",
+        "recognized_text": "但你真正想找的并非是别人而是你自己的答案",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3434.ogg",
+        "matched_line": "终有一日，你会走出过往，找到属于自己的道路。",
+        "recognized_text": "终有一日你会走出过往找到属于自己的道路",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2622.ogg",
+        "matched_line": "那个男人想把我托付给另一个人，一个他认可的人，将我的力量传承下去。",
+        "recognized_text": "这个男人想把我托付给另一个人一个他认可的人将我的力量传承下去",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2615.ogg",
+        "matched_line": "他对羽渡尘的主人有恩，作为报答，她在他心中留下了一片羽毛。",
+        "recognized_text": "他对于都城的主人有恩作为报答她在他心中留下了一片羽毛",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2625.ogg",
+        "matched_line": "但你真正想找的，并非是别人，而是你自己的答案。",
+        "recognized_text": "但你真正想找的并非是别人而是你自己的答案",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2628.ogg",
+        "matched_line": "若要知道答案，就继续向前吧。",
+        "recognized_text": "说要知道答案就继续向前吧",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2634.ogg",
+        "matched_line": "真令人吃惊，你不属于这里。",
+        "recognized_text": "群里人吃鸡你不属于这里",
+        "match_score": 67
+    }
+]

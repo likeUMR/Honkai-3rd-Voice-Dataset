@@ -1,0 +1,542 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_5334.ogg",
+        "matched_line": "力量要交给更有潜力的人。",
+        "recognized_text": "力量要交给更有潜力的人",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3145.ogg",
+        "matched_line": "我没有疯，我战胜了世界……！",
+        "recognized_text": "我没有我战胜了世界",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1451.ogg",
+        "matched_line": "……花了一点时间，总算平息了骚乱。",
+        "recognized_text": "花了一点时间总算平息了骚乱",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3126.ogg",
+        "matched_line": "所有的人都死了。",
+        "recognized_text": "所有的人都死了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2969.ogg",
+        "matched_line": "别在战场轻易相信别人，女武神，这会要了你的命。",
+        "recognized_text": "别再战场轻易相信别人女武神这会要了你的命",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3944.ogg",
+        "matched_line": "也不能说是没事，维持现在这个样子就是我的极限了。",
+        "recognized_text": "也不能说是没事维持现在这个样子就是我的极限",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3124.ogg",
+        "matched_line": "我不知道你说的希儿是谁，但这不重要，只有你一个人活了下来。",
+        "recognized_text": "我不知道你说的希尔是谁但是不重要只有你一个人活了下来",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3946.ogg",
+        "matched_line": "做得好，理之律者的核心已经接受了你。",
+        "recognized_text": "做理智律者的核心已经接受了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1467.ogg",
+        "matched_line": "还有爱茵和特斯拉……",
+        "recognized_text": "还有爱音和特斯拉",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1475.ogg",
+        "matched_line": "很感人吧？",
+        "recognized_text": "很感人吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5316.ogg",
+        "matched_line": "我的意思是，它在你手中能发挥更大的力量。",
+        "recognized_text": "我的意思是它在你手中能发挥更大的力量",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1349.ogg",
+        "matched_line": "既然这样，为了公平起见，就请不符合要求的德丽莎选手退赛吧。",
+        "recognized_text": "既然这样为了公平起见究竟不符合要求的德莉莎选手退赛吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1409.ogg",
+        "matched_line": "相比之下，丽塔选手饰演的敌人强大、冷静，堪称满分表演。",
+        "recognized_text": "相比之下力拓选手饰演的敌人强大冷静堪称满分表演",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3137.ogg",
+        "matched_line": "憎恨，迷茫，绝望，这是一切的砥柱，最纯粹最强大的力量。",
+        "recognized_text": "怎么很迷茫绝望这是一切的砥柱纯粹最强大的力量",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3142.ogg",
+        "matched_line": "他们在我眼前一个一个被天命的女武神杀死，而我却只能可耻地逃跑。",
+        "recognized_text": "他们在我眼前一刻一刻被天命的女武神杀死而我去吃的可耻的逃跑",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3151.ogg",
+        "matched_line": "哼哼，你说得没错，他们都是温柔又强大的人。",
+        "recognized_text": "你说的没错他们都是温柔又强大的人",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3132.ogg",
+        "matched_line": "……可是，我为什么要扮演一个失败的影子……？",
+        "recognized_text": "可是为什么要扮演一个失败的影子",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3119.ogg",
+        "matched_line": "我，毁灭了天命。",
+        "recognized_text": "我毁灭了天命",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3120.ogg",
+        "matched_line": "我做到了那个男人没能做到的事，我已经超越了他……！",
+        "recognized_text": "我做到了那个男人没能做到的事我已经超越了他",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1347.ogg",
+        "matched_line": "奥托，既然你谈到了年龄标准，你孙女的年纪也不符合吧！",
+        "recognized_text": "奥拓既然你谈到了年龄标准你孙女的年纪也不符合吧",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1403.ogg",
+        "matched_line": "莉莉娅选手的表现不尽如人意啊。激动的时候表现的很冷静，受伤的时候又太过浮夸。",
+        "recognized_text": "力量选手的表现不尽如人意啊激动的时候表现得很冷静受伤的时候又太过浮夸",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5338.ogg",
+        "matched_line": "你不用现在回答我，多考虑一下吧。最重要的还是你自己的想法。",
+        "recognized_text": "你不用现在回答我多考虑一下吧最重要的还是你自己的想法",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1458.ogg",
+        "matched_line": "为什么这两个人好像完全没有按照剧本来演？",
+        "recognized_text": "为什么这两个人好像完全没有按照剧本来呀",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2975.ogg",
+        "matched_line": "活下来了吗，女武神？",
+        "recognized_text": "活下来了吗女武神",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5300.ogg",
+        "matched_line": "因为“约阿希姆”选择了你。",
+        "recognized_text": "因为约亚西姆选择了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5342.ogg",
+        "matched_line": "有没有输，那要看你如何理解“失败”。",
+        "recognized_text": "有没有输那要看你如何理解失败",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3947.ogg",
+        "matched_line": "能和你对话，也是因为你已经与核心融为了一体。",
+        "recognized_text": "能和你对话也是因为你已经有核心融为一体",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1447.ogg",
+        "matched_line": "布洛妮娅选手似乎使用的是方法派的演技。不过她入戏太深了，让各位受到了惊吓，真是抱歉。",
+        "recognized_text": "不说你要选手似乎使用的是方法派的演技不过他入戏太深让各位受到了惊吓真是抱歉",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1339.ogg",
+        "matched_line": "这种鬼话谁会相信！",
+        "recognized_text": "这种鬼话谁会相信",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1461.ogg",
+        "matched_line": "嗯，我也参与了一部分创作。",
+        "recognized_text": "我也参与了一部分创作",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3945.ogg",
+        "matched_line": "我们必须赶紧行动。",
+        "recognized_text": "我们必须赶紧行动",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3153.ogg",
+        "matched_line": "那个叫瓦尔特·乔伊斯的男人，在1955年珍而重之地将它托付给了我。",
+        "recognized_text": "那个乔瓦尔特乔伊斯的男人在1955年沉而种植的将她托付给了我",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2982.ogg",
+        "matched_line": "不要松懈，战争还没有结束。",
+        "recognized_text": "不要松懈战争还没有结束",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1441.ogg",
+        "matched_line": "经过了刚刚一轮的试演后，我们已经对参赛选手的水平有了基本的了解。",
+        "recognized_text": "经过刚刚一轮的试演后我们已经对参赛选手的水平有了基本的了解",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3942.ogg",
+        "matched_line": "……是渴望宝石，宝石的力量在不断压迫着屏障。",
+        "recognized_text": "是渴望老师宝石的力量在不断压迫的屏障",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3123.ogg",
+        "matched_line": "力量、归宿、理想，当我继承了瓦尔特之名，我也同时得到了那个男人的一切。",
+        "recognized_text": "力量归宿理想等我记成了博尔特之谜我也同时得到了那个男人的一切",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1350.ogg",
+        "matched_line": "是吗，我可是从小听着德丽莎的歌长大的！",
+        "recognized_text": "是吧我可是从小听着德丽莎的歌长大的",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5337.ogg",
+        "matched_line": "对一个人而言，只要守住了“自我”，那就没有输。",
+        "recognized_text": "对一个人而言只要守住了自我那就没有输",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5095.ogg",
+        "matched_line": "别开玩笑了，我们绝不会认同你的做法！",
+        "recognized_text": "别开玩笑了我们绝对不会认同你的做法",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5058.ogg",
+        "matched_line": "我也是第一次见到他真正的样子。",
+        "recognized_text": "我也是第一次见到的真正的样子",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3150.ogg",
+        "matched_line": "即便被天命夺走了一切，他们也能放下心中的仇恨，继续为理想而战。",
+        "recognized_text": "几点被签订夺走了一切他们也能放下心中的仇恨继续为理想而战",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3148.ogg",
+        "matched_line": "没错！是我杀死了空之律者，拯救了这个世界！",
+        "recognized_text": "没错是我杀死了控制律者拯救了这个世界",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3157.ogg",
+        "matched_line": "祝贺你，女武神。你活过了第二次崩坏。",
+        "recognized_text": "祝贺你女武神你活过了第二次崩坏",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3125.ogg",
+        "matched_line": "在每一个看不到光的黑夜，我都会梦见那个男人。",
+        "recognized_text": "陈美一个看不见光的黑夜我都会梦见这个男人",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3144.ogg",
+        "matched_line": "我记得他们每个人的名字。因为记住他们，是我唯一能做的事。",
+        "recognized_text": "我记得他们每个人的名字因为记住他们是我唯一能做的事",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3156.ogg",
+        "matched_line": "前线的女武神也好，后方的驻守人员也好。",
+        "recognized_text": "前线的女武神也好后方的助手人员也好",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3146.ogg",
+        "matched_line": "——所以，他们付出了代价。",
+        "recognized_text": "所以他们付出了代价",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5327.ogg",
+        "matched_line": "看来你的伙伴们正在找你，我们以后再聊吧。",
+        "recognized_text": "看来你的伙伴们正在找你我们以后再聊吧",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1473.ogg",
+        "matched_line": "但是不管怎样，能够走到这一步，萝莎莉娅和琪亚娜选手都有过人之处。",
+        "recognized_text": "但是不管怎样能够走到这一步惹咱了选手和田样的选手都有过人之处",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3024.ogg",
+        "matched_line": "……只是，你们已无处可逃。",
+        "recognized_text": "只是你们已无处可逃",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3141.ogg",
+        "matched_line": "他躺在血泊中，把他的名字和律者核心托付给我，一遍又一遍。",
+        "recognized_text": "她躺在血泊中把他的名字和律者核心托付给我一片又一片",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3921.ogg",
+        "matched_line": "去吧，布洛妮娅。我的力量散落在各个世界泡中，回收它们能让核心变得更强。",
+        "recognized_text": "去了你我的力量散落在各个世界泡泡回收能让核心变得更强",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5317.ogg",
+        "matched_line": "在量子之海里，你已经证明了自己。",
+        "recognized_text": "咱俩子之海里你已经证明了自己",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3134.ogg",
+        "matched_line": "你的眼里充满了惊讶，悲伤和憎恨，就像过去的我。",
+        "recognized_text": "你的眼里充满了惊讶悲伤和憎恨就像过去的我",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3140.ogg",
+        "matched_line": "因为这是我的使命。",
+        "recognized_text": "因为这是我的使命",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3023.ogg",
+        "matched_line": "趋利避害，懂得逃跑是动物最重要的本能。",
+        "recognized_text": "趋利避害懂得逃跑是动物最重要的本能",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5309.ogg",
+        "matched_line": "律者核心并不是成为盟主的必要条件。",
+        "recognized_text": "律者核心并不是成为盟主的必要条件",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1390.ogg",
+        "matched_line": "难得我会赞同奥托的看法。小姑娘，你还需要更加努力才行。3分。",
+        "recognized_text": "兰州我会赞同我的看法小姑娘你还要更加努力才行三分",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1378.ogg",
+        "matched_line": "各位选手将各自抽选一份女主角的台词剧本。请用符合角色身份、状态的语气将台词念出来。",
+        "recognized_text": "各位选手将各自抽选一份女主角的台词剧本请用符合角色身份状态的语气将台词念出来",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3916.ogg",
+        "matched_line": "量子之海的情况很不乐观，我能感知到屏障正在变得越来越脆弱。",
+        "recognized_text": "两次是孩子情况很不乐观我能感知道屏障正在变得越来越脆弱",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3135.ogg",
+        "matched_line": "这才是我自己的力量，我自己的归宿，我自己的理想……",
+        "recognized_text": "这才是我自己的力量我自己的归宿我自己的理想",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1373.ogg",
+        "matched_line": "……不过还好现场及时恢复了秩序。",
+        "recognized_text": "不过还好现场及时恢复了秩序",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1468.ogg",
+        "matched_line": "那么，请开始你们的表演。",
+        "recognized_text": "那么请开始你们的表演",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2981.ogg",
+        "matched_line": "我会带着机甲部队消灭正面的敌人，打开一个突破口。",
+        "recognized_text": "我会带着机甲部队消灭正面的敌人打开一个突破口",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1367.ogg",
+        "matched_line": "糟糕，难道是因为压力过大产生了第二人格。",
+        "recognized_text": "难道是因为压力过大产生了第二人格",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3128.ogg",
+        "matched_line": "不，那是逆熵毁灭的日子。",
+        "recognized_text": "那是你生毁灭的日子",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1382.ogg",
+        "matched_line": "克服害羞的情绪，瓦尔特叔叔给你加油！",
+        "recognized_text": "克服害羞的情绪沃尔特叔叔给你加油",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1266.ogg",
+        "matched_line": "（哼，奥托，不管你有什么阴谋，都别想得逞。）",
+        "recognized_text": "好不管你有什么阴谋都别想得逞",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3130.ogg",
+        "matched_line": "最终，我回来了，用他的名字，兑现他为人类而战的承诺。",
+        "recognized_text": "最终我回来了用他的名字兑现它为人类而战的承诺",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1391.ogg",
+        "matched_line": "（你的运气随你爸爸，居然抽中了最糟糕的剧本……但是，芽衣你可以的！）",
+        "recognized_text": "你的运气随你爸爸居然抽中了最糟糕的剧本你可以的",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5054.ogg",
+        "matched_line": "他在和我对话……他能感知到我的存在？",
+        "recognized_text": "对话感知到我的存在",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1323.ogg",
+        "matched_line": "太失礼了，你竟然质疑女孩子的年纪！",
+        "recognized_text": "太失礼了你竟然是女孩子的年纪",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1260.ogg",
+        "matched_line": "……但是！我们仍然会本着公平、公正、公开的原则进行评审。",
+        "recognized_text": "但是我们仍然会本着公平公正公开的原则进行评审",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3138.ogg",
+        "matched_line": "你，还能思考？哼，真是有意思。",
+        "recognized_text": "你还能思考真是有意思",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5091.ogg",
+        "matched_line": "不准对她出手……！",
+        "recognized_text": "不准对她出手",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1480.ogg",
+        "matched_line": "我也不禁想起了我的老师。当年因为我做不完《吉米多维奇》，她差点对我做了同样的事情。",
+        "recognized_text": "我也不禁想起了我的老师正确因为我做不完吉米多维奇他差点对我做了同样的事情",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5308.ogg",
+        "matched_line": "如果你愿意接受。我会亲自训练你学会运用这枚核心的力量。",
+        "recognized_text": "如果你愿意接受我会亲自训练你学会应用最为核心的力量",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1340.ogg",
+        "matched_line": "无话可说了吧，这张黑胶唱片就是她在1972年的出道作品。",
+        "recognized_text": "无话可说了吧这张黑胶唱片就是他在1972年的出道作品",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1381.ogg",
+        "matched_line": "完全不行啊，丽塔小姐，你要饰演的可是个活泼调皮的女主角，不是女仆。2分。",
+        "recognized_text": "完全不行的立场小姐你要是演的可是个活泼调皮的女主角不是女仆两分",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3136.ogg",
+        "matched_line": "但是……在这个名字底下，却没有什么属于我的东西。我只是在扮演一个死去多年的影子。",
+        "recognized_text": "但是这几个名字底下没有什么属于我的东西我只是在扮演一个死去多年的影子",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3021.ogg",
+        "matched_line": "逃吧，就和当初的我一样，像受伤的野兽那样东躲西藏，努力生存下去。",
+        "recognized_text": "淘宝就和当初的我一样小受伤的野兽那样东躲西藏努力生存下去",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3941.ogg",
+        "matched_line": "这是一场风险极大的赌注，但我们没有别的选择。",
+        "recognized_text": "这是一项风险极大的赌注但我们没有别的选择",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3154.ogg",
+        "matched_line": "瓦尔特·乔伊斯、丽瑟尔·阿尔伯特·爱因斯坦、芙蕾德莉卡·尼古拉·特斯拉、埃玛·普朗克、埃尔温·薛定谔……",
+        "recognized_text": "瓦尔特乔伊斯李斯尔伯特爱因斯坦佛雷德利卡尼古拉特斯拉艾玛普朗克埃尔温薛定谔玛格丽塔耶特",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1401.ogg",
+        "matched_line": "非常抱歉中断了比赛，现在我们重新开始。下一个环节，试演。",
+        "recognized_text": "非常抱歉中断的比赛现在我们重新开始下一个环节饰演",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5569.ogg",
+        "matched_line": "不！听从你的理性。像劝我时那样冷静就行了。",
+        "recognized_text": "不听从你的理性想劝我冷静就行了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5574.ogg",
+        "matched_line": "爱茵，无论如何，别回头。",
+        "recognized_text": "阿姨无论如何别回头",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5556.ogg",
+        "matched_line": "为人类带来永久的解放……？不，我不同意。我绝不可能认同这样的计划！这根本不是在拯救……",
+        "recognized_text": "会人类带来永久的解放我不同意我绝不可能认同这样的计划就根本不是在拯救",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5523.ogg",
+        "matched_line": "不行……空间结构的扰动越来越严重了。真抱歉，爱茵！我必须……",
+        "recognized_text": "不行空间结构的时候都越来越严重了抱歉歉而已我必须",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5575.ogg",
+        "matched_line": "非常抱歉，博士……我没有听从你的劝告。这是我犯下的失误，必须由我亲自来补救。",
+        "recognized_text": "非常抱歉不是我没有听从你的劝告这是我犯下的失误必须由我亲自来补救",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5534.ogg",
+        "matched_line": "……所以这就是你的计划吗？想通过这种方式去终结崩坏吗……？",
+        "recognized_text": "所以这就是你的计划想通过这种方式去终结崩坏吗",
+        "match_score": 86
+    }
+]

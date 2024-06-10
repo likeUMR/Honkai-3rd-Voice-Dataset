@@ -1,0 +1,86 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4290.ogg",
+        "matched_line": "你们这是在做什么？",
+        "recognized_text": "你是想做什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3292.ogg",
+        "matched_line": "你们这是在做什么？",
+        "recognized_text": "你现在做什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3057.ogg",
+        "matched_line": "那个人？",
+        "recognized_text": "那个人死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6048.ogg",
+        "matched_line": "不可。",
+        "recognized_text": "谁不可",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_48.ogg",
+        "matched_line": "小玄，我们恐怕没有那么多的时间了。",
+        "recognized_text": "我们没有那么多时间",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3821.ogg",
+        "matched_line": "那个人？",
+        "recognized_text": "那个对的人",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10411.ogg",
+        "matched_line": "熊孩子？",
+        "recognized_text": "孩子",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3578.ogg",
+        "matched_line": "熊孩子？",
+        "recognized_text": "孩子",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_396.ogg",
+        "matched_line": "那个人？",
+        "recognized_text": "那个人是",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_723.ogg",
+        "matched_line": "小玄！下一波要来了！",
+        "recognized_text": "小心下一波敌人来了",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1272.ogg",
+        "matched_line": "为何要给我看这些？",
+        "recognized_text": "为什么要给我看这些",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3807.ogg",
+        "matched_line": "为何要给我看这些？",
+        "recognized_text": "为什么要让我看这些人",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2249.ogg",
+        "matched_line": "熊孩子？",
+        "recognized_text": "那个熊孩子",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3674.ogg",
+        "matched_line": "那…好吧。",
+        "recognized_text": "那好吧",
+        "match_score": 75
+    }
+]

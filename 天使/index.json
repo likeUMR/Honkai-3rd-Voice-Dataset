@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_5158.ogg",
+        "matched_line": "都是你们…",
+        "recognized_text": "是你们",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3141.ogg",
+        "matched_line": "都是你们…",
+        "recognized_text": "都是你呀",
+        "match_score": 67
+    }
+]

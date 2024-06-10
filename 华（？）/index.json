@@ -1,0 +1,2786 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3376.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_690.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3828.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3388.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3503.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3025.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4866.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3210.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4811.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2041.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2611.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4816.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_225.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3841.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4834.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_460.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_457.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1307.ogg",
+        "matched_line": "嘻嘻。",
+        "recognized_text": "嘻嘻",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1642.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6430.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_696.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_542.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3383.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1536.ogg",
+        "matched_line": "嘻嘻。",
+        "recognized_text": "嘻嘻",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_254.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_978.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1293.ogg",
+        "matched_line": "嘻嘻。",
+        "recognized_text": "嘻嘻",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7003.ogg",
+        "matched_line": "为什么啊？",
+        "recognized_text": "为什么打不到啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_250.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6569.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_558.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1643.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_426.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2142.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3131.ogg",
+        "matched_line": "闭嘴！",
+        "recognized_text": "闭嘴",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9583.ogg",
+        "matched_line": "为什么啊？",
+        "recognized_text": "好为什么啊",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_441.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_438.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4755.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4241.ogg",
+        "matched_line": "嗯，放心吧。",
+        "recognized_text": "放心吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_604.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1489.ogg",
+        "matched_line": "嘻嘻。",
+        "recognized_text": "嘻嘻",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1548.ogg",
+        "matched_line": "嘻嘻。",
+        "recognized_text": "嘻嘻",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_552.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_539.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2791.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_260.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_439.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_452.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6929.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_442.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_543.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1391.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈嘻",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1421.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_468.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3495.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2953.ogg",
+        "matched_line": "你看！",
+        "recognized_text": "你看的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1333.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3592.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1966.ogg",
+        "matched_line": "你看！",
+        "recognized_text": "你看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_580.ogg",
+        "matched_line": "你看！",
+        "recognized_text": "你看你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_482.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2001.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3508.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3504.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_246.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哼哈哈",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1016.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_850.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1019.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1245.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1224.ogg",
+        "matched_line": "嘻嘻。",
+        "recognized_text": "嘻嘻",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_701.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_775.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1615.ogg",
+        "matched_line": "回来吧。",
+        "recognized_text": "回来吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1323.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_962.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2923.ogg",
+        "matched_line": "不需要被以前的我束缚住，我现在是全新的我。",
+        "recognized_text": "不需要被以前的我是复仇我现在是全新的我",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2767.ogg",
+        "matched_line": "哎不对，我好像以前有一个……太虚派什么的，现在还存在吗？",
+        "recognized_text": "哎不对我好像以前有一个太虚派什么的现在还存在吗",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3118.ogg",
+        "matched_line": "没事了，我把坏蛋全都打倒了。",
+        "recognized_text": "没事了我把坏蛋全都打倒了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2871.ogg",
+        "matched_line": "或者就是，什么关键的东西坏了。",
+        "recognized_text": "或者就是什么关键的东西坏了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4092.ogg",
+        "matched_line": "嘿，世上什么时候讲过公平——呃，怎么不公平了？",
+        "recognized_text": "世界上什么时候讲过公平啊怎么不公平了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4149.ogg",
+        "matched_line": "有什么话，你也可以说。觉得我不对就补充，正好琪亚娜也在这里。",
+        "recognized_text": "有什么话你可以说觉得我不对就补充正好听的也在这里",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2751.ogg",
+        "matched_line": "不知道，没想好。我也不急，等把自己的事情整理清楚了再说吧。",
+        "recognized_text": "不知道没想好我也不急等把自己的事情整理清楚了再说吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3133.ogg",
+        "matched_line": "没关系，我心情已经很糟了，随你怎么讲也不会更糟，想说就说吧。",
+        "recognized_text": "没关系我心情已经很糟了所以你怎么想也不会更早想说就说吧",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4340.ogg",
+        "matched_line": "看来老古董也不是什么都跟你说啊，琪亚娜！你想救她？……别说你根本没机会赢我，就算你赢了，救她也是痴心妄想！",
+        "recognized_text": "看来老古董也不是什么都跟你说的你想叫他别说你根本没机会赢我就算你赢了就他也是痴心妄想",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3227.ogg",
+        "matched_line": "我在这座山上找到了多少羽渡尘？十片有吗？",
+        "recognized_text": "我在这座山上找到了多少鱼都沉十片有吗",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2468.ogg",
+        "matched_line": "我以为你要说什么……两清？我只不过杀了你的一具身体，你现在就好端端地在我面前。这算什么两清？",
+        "recognized_text": "我以为你要说什么两千我只不过杀了你的一句身体你现在就好端端的在我面前这是什么表情",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3298.ogg",
+        "matched_line": "为什么总是唯唯诺诺，为什么总是优柔寡断，为什么把选择都留给别人。",
+        "recognized_text": "为什么总是微微诺诺会什么总是优柔寡断为什么把选择都留给别人",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3394.ogg",
+        "matched_line": "你这人也太扫兴了吧。",
+        "recognized_text": "这也太扫兴了吧",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2434.ogg",
+        "matched_line": "也许去拜访下我的老朋友们，她们要是发现我还活着，想必会很吃惊吧。",
+        "recognized_text": "也许去拜访下我的老朋友们他们要是发现我还活着想必会很吃惊吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2666.ogg",
+        "matched_line": "他可能根本就不知道我在这儿。",
+        "recognized_text": "他可能根本就不知道我在这儿",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3925.ogg",
+        "matched_line": "一共就那么几段记忆，我还特地安排了人指引你们，怎么会用这么长时间啊。",
+        "recognized_text": "提供就那么几段记忆我还特地安排的人指引你们怎么会用这么长时间啊",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4146.ogg",
+        "matched_line": "别人对我说：“你走这条路。”我就照做，把思考的任务交给梅，交给奥托。",
+        "recognized_text": "别人对我说你走这条路我就照做把思考的任务交给梅",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2582.ogg",
+        "matched_line": "喂，听得见吧？这玩意应该有收音功能吧？喂？喂？123123——",
+        "recognized_text": "听得见吗吃完药应该有声音功能吧喂喂123123",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4296.ogg",
+        "matched_line": "都说了我不是她。你要考虑的是我和她谁更好。",
+        "recognized_text": "都说了我不是他你要考虑的是我和他谁更好",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3052.ogg",
+        "matched_line": "嗯，没错，路见不平正该拔刀相助。",
+        "recognized_text": "没错路见不平拔刀相助",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2926.ogg",
+        "matched_line": "哈，说什么傻话。",
+        "recognized_text": "说什么傻话",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3930.ogg",
+        "matched_line": "说到底，还是不习惯呗。",
+        "recognized_text": "说到底还是不习惯呗",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4288.ogg",
+        "matched_line": "嗯，没错。过去的我力量很强，却是个弱者；而我不是。",
+        "recognized_text": "没错过去的我力量很强却是个弱智还不是",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2536.ogg",
+        "matched_line": "到时候我也要给凯文来上这么一下，说不定他连拔出天火的机会都没有。",
+        "recognized_text": "到时候我也要给凯文来上这么一下说不定他连把我的机会都没有",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3918.ogg",
+        "matched_line": "……是我的错觉，还是这种地方都长一个模样？",
+        "recognized_text": "是我的错觉还是这种地方都长一个模样",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3963.ogg",
+        "matched_line": "喂，喂——干嘛呀！我只是让她休息一会儿罢了！",
+        "recognized_text": "干嘛呀我只是让它休息一会儿罢了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4141.ogg",
+        "matched_line": "可你就是活在过去的人。",
+        "recognized_text": "可你就是活在过去的人",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4349.ogg",
+        "matched_line": "琪亚娜，老古董，既然你俩执迷不悟，就别怪我动真格的了。",
+        "recognized_text": "西安老古董既然你俩痴迷不悟就别怪我动真格的了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3045.ogg",
+        "matched_line": "那村子与我何干？这世上灾难那么多，律者接二连三地蹦出来，干嘛还要在乎一个小村庄的事。",
+        "recognized_text": "那穿着与我何干这世上真的那么多律者接二连三的蹦出来干嘛还要再回一个小村庄的事",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2556.ogg",
+        "matched_line": "怪了，这里的意识都死气沉沉的，一点情绪都没有。反应很强的只有……两个，不对，三个，不对……",
+        "recognized_text": "坏了这里的意思都死气沉沉的一点情绪都没有反应很强的只有两个不对三个",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2883.ogg",
+        "matched_line": "好方便啊，有什么解释不通的，推给羽渡尘就好了。",
+        "recognized_text": "好方便啊有什么解释不通的这个宇宙成就好了",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2723.ogg",
+        "matched_line": "……你好懂我啊，我也正有此意。",
+        "recognized_text": "你要懂我我也正有此意",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3051.ogg",
+        "matched_line": "既然有这么多死士，那个村子应该是凶多吉少了吧。",
+        "recognized_text": "既然有这么多死事那个村子应该是凶多吉少了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2789.ogg",
+        "matched_line": "加入你嘛，还是算了。我可不想当你的部下，不如自己也建个组织好了。",
+        "recognized_text": "加入你们还是算了我可不想当你的不想不如自己也欠了组织好了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4305.ogg",
+        "matched_line": "也不是，唔……应该说我根本不想成为弱者。",
+        "recognized_text": "不是应该说我根本不想成为弱者",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3201.ogg",
+        "matched_line": "说说她们的事吧。",
+        "recognized_text": "说说他们的事吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3075.ogg",
+        "matched_line": "……至少这个我还比较擅长。",
+        "recognized_text": "至少这个我还比较擅长",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3296.ogg",
+        "matched_line": "我们想尽办法救她，我们好不容易来到她面前。她没有攻击我，她还记得我，她叫我的名字，对我微笑……",
+        "recognized_text": "我们想尽办法救他我们好不容易来到他面前他们要攻击我他还记得我他叫我的名字对我微笑",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2423.ogg",
+        "matched_line": "还没想好。天下很大，哪里我都去得，但也没有哪里特别想去。",
+        "recognized_text": "还没想好天下很大哪里我都去的但也没有哪里特别想去",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2932.ogg",
+        "matched_line": "没必要——担心担心你自己吧。",
+        "recognized_text": "担心担心你自己吧",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4310.ogg",
+        "matched_line": "这是回答吗？这就是你的答案？",
+        "recognized_text": "这是回答吗这就是你的答案",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3391.ogg",
+        "matched_line": "不靠梅博士，不靠奥托，不靠凯文和他的世界蛇！我，符华！我将用我的方式拯救人类，我将战胜崩坏！",
+        "recognized_text": "不靠美国是不靠脱不靠凯文和他的世界浮华好像用我的方式拯救人类我将战胜崩坏",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3361.ogg",
+        "matched_line": "甚至攻打你我发誓守护的神州，令神州生灵涂炭——这样的组织为何要留？",
+        "recognized_text": "是职工打你我发誓守护的神兽令神州生灵涂炭这样的组织为何要留",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2572.ogg",
+        "matched_line": "这种小玩具，我砸烂不知道多少架了。",
+        "recognized_text": "这种小玩具我咋了不知道多少钱",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3331.ogg",
+        "matched_line": "因为你就是我，我的痛苦你一定也能体会。瞧，我俩并不是不能相互理解的。",
+        "recognized_text": "请问你就是我我的痛苦你一定也能体会我俩并不是不能相互理解的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4094.ogg",
+        "matched_line": "至少应该让你知道……我和那个老古董有什么区别。",
+        "recognized_text": "至少应该让你知道我和那个老公的我有什么区别",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3006.ogg",
+        "matched_line": "这儿也有一根。",
+        "recognized_text": "这也有一个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3975.ogg",
+        "matched_line": "第二，我希望你们更了解我。",
+        "recognized_text": "第二我希望你们更了解我",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4363.ogg",
+        "matched_line": "好啊！你想打，那就打吧！本人奉陪到底！",
+        "recognized_text": "好啊你想打就打吧本人奉陪到底",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2478.ogg",
+        "matched_line": "嘿，你还有脸说这个。我当然不是坏人，我这是替天行道。",
+        "recognized_text": "你还有脸说这个我当然不是坏人我这是替天行道",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3199.ogg",
+        "matched_line": "他像不像这个世界的主宰？不对，主宰不合适，他就像是……编剧，说什么就是什么，反正都在他的计划之中。",
+        "recognized_text": "他像不像这个世界的主宰除草不合适它就像是编剧说什么就是什么反正都在他的计划之中",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3363.ogg",
+        "matched_line": "就应该在此消灭天命，彻底摧毁这支远征军，夺回属于我们的神之键，粉碎邪恶的野心！",
+        "recognized_text": "请在在此消灭甜蜜彻底摧毁这是远征军夺回属于我们的神之键粉碎邪恶的",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3889.ogg",
+        "matched_line": "看我的！",
+        "recognized_text": "看看我的",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3167.ogg",
+        "matched_line": "……我被她掌控？我，失去了自我，成了羽毛的傀儡？",
+        "recognized_text": "我被他掌控失去了自称羽毛的傀儡",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2683.ogg",
+        "matched_line": "喔，之前探测的很强的意识，就是这东西啊。",
+        "recognized_text": "之前探测的很强的意思就是这些东西啊",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3124.ogg",
+        "matched_line": "我让她做了个梦。",
+        "recognized_text": "我让她做了个梦",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4010.ogg",
+        "matched_line": "嘿嘿，不怪你们，是我太强了。",
+        "recognized_text": "不怪你们是我太强了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2534.ogg",
+        "matched_line": "我不要，太麻烦了。",
+        "recognized_text": "我不要太麻烦了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2456.ogg",
+        "matched_line": "……行，那我再杀你一次。既然半个天命灭不掉你，这次就毁了整个天命试试。",
+        "recognized_text": "行那我再杀一次既然半个甜蜜灭不掉你这一次就毁了整个甜蜜试试",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2483.ogg",
+        "matched_line": "你当初对我头上开枪的时候，怎么没想到会有今天呢？",
+        "recognized_text": "你当时对我头上开枪的时候怎么没想到会有今天呢",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3472.ogg",
+        "matched_line": "——裁判这不就来了嘛！",
+        "recognized_text": "裁判这不就来了吗",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3119.ogg",
+        "matched_line": "你是一片羽渡尘…是上个世代的律者。我本该立刻把你毁掉。你说的一句话都不能听信。",
+        "recognized_text": "你是一片雨渡陈是上个世代的绿茶我本该立刻把你毁掉你说的一句话都不能听写",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3228.ogg",
+        "matched_line": "你做好准备了吗？",
+        "recognized_text": "你做好准备了吗",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3048.ogg",
+        "matched_line": "现在也没有什么“入魔必诛”的说法了吧。剑心碎了后，这限制不就没了吗。",
+        "recognized_text": "现在也没有什么事魔必出的说法了吧心碎了后这限制不就没了吗",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3018.ogg",
+        "matched_line": "看看人家，你要是有她这么懂事就好了。",
+        "recognized_text": "看看人家你要是有他这么懂事就好了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3428.ogg",
+        "matched_line": "如果说我们中有一个人是崩坏那边的叛徒，很显然你比我更合适！",
+        "recognized_text": "如果说我们中有一个人是崩溃那边的叛徒很显然你比我更合适",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2622.ogg",
+        "matched_line": "笨蛋，我会飞啊，你以为通电就能麻痹我？",
+        "recognized_text": "笨蛋我会飞啊你以为通天求的麻痹我",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2888.ogg",
+        "matched_line": "不要紧，我会帮你的，再怎么说你也是我的分身嘛，就像姐妹一样，不分彼此。",
+        "recognized_text": "不要紧我会帮你的怎么说你也是我的分身吗就像姐妹一样部分彼此",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3332.ogg",
+        "matched_line": "别懊恼了，想想看……我这一生犯下的错，又何止这一个？",
+        "recognized_text": "别闹了想想看我这一生犯下的错何止这一个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4205.ogg",
+        "matched_line": "之后……",
+        "recognized_text": "之后",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4147.ogg",
+        "matched_line": "遇到困难就去克服，人类不就是这么成长的吗？火种计划的本质，我看只是梅博士的自大罢了。",
+        "recognized_text": "遇到困难就去克服人类不就是这么成长的吗狐宠期货的本质或看只是没博士的自大罢了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2881.ogg",
+        "matched_line": "但你……你在一根羽毛里，它又没有所谓的大脑，你的记忆又存在哪里呢？估计答案还是羽渡尘。",
+        "recognized_text": "但你你在一个羽毛里他又没有所谓的大脑你的记忆又存在哪里呢估计答案还是一度",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2570.ogg",
+        "matched_line": "那当然，你看我有受半点伤吗？",
+        "recognized_text": "那当然你看我有说半点伤吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3958.ogg",
+        "matched_line": "我怎么耍你们啦？你们有受到伤害吗？有遇到危险吗？你们全程都在我的监控之下，一点点出事的可能性都没有。",
+        "recognized_text": "我怎么耍你们了你没有受到伤害吗有遇到危险吗你们全程都在我的监控之下一点点出事的可能性都没有",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3185.ogg",
+        "matched_line": "……所以，奥托杀死我之后，什么也没有做？",
+        "recognized_text": "所以奥托杀死我之后什么也没有做",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4208.ogg",
+        "matched_line": "他根本不算什么。",
+        "recognized_text": "他干嘛不算什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2799.ogg",
+        "matched_line": "明白了就回来吧，把力量和记忆都交给我，我正想知道死后发生了什么呢。",
+        "recognized_text": "明白了就回来吧把力量和记忆都交给我我就想知道死后发生了什么呢",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2756.ogg",
+        "matched_line": "你在念叨什么呢？",
+        "recognized_text": "你在家等什么呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2748.ogg",
+        "matched_line": "嗯，你是羽渡尘的一片羽毛。是我将自己的人格与思想复制后分出的个体。",
+        "recognized_text": "你是于都城的一片羽毛是我将自己的人格与思想复制后分出的个体",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2419.ogg",
+        "matched_line": "虽然可惜了那些女武神，想想看，她们也只是被奥托摆布的棋子……",
+        "recognized_text": "唉虽然可惜了那些女武神想想看他们也只是不要拖把布的棋子",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2660.ogg",
+        "matched_line": "我没忘，他不出来呀。",
+        "recognized_text": "我没啊他不出来呀",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3343.ogg",
+        "matched_line": "噢，怪不得他这次出世对圣痕计划这么有信心，活生生的完美例子珠玉在前。嗨，不说别的了，你看这战场。",
+        "recognized_text": "怪不得他这次出事对身痕计划这么有信心活生生的完美例子出于在前不说别的了你看这战场",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4145.ogg",
+        "matched_line": "换作是我，才不会对那个黄毛小子唯命是从！",
+        "recognized_text": "换作是我才不会对那个黄毛小子文明是从",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3321.ogg",
+        "matched_line": "我不明白，有战争就有牺牲，我凭什么会觉得这些平民的性命比我重要的朋友，比我的得力助手更重要呢？",
+        "recognized_text": "我不明白有战争就有牺牲或凭什么会觉得这些平民的心理比我重要的朋友比我的得力助手更重要的",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2990.ogg",
+        "matched_line": "……真不喜欢我以前的行事作风。",
+        "recognized_text": "真不喜欢我以前的行事作风",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3047.ogg",
+        "matched_line": "梅博士的“神音”不会在你我脑子里捣鬼，要我们干这个干那个啦。",
+        "recognized_text": "雷博士的声音不会在你我脑子里捣鬼让我们干这个干那个了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2880.ogg",
+        "matched_line": "你没有实体，眼睛怎么接收光信号呢？",
+        "recognized_text": "你没有实体眼睛怎么接受光信号",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2750.ogg",
+        "matched_line": "现在你相信我是本人了吧。",
+        "recognized_text": "现在你相信我是本人了吧",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4355.ogg",
+        "matched_line": "对，你也要死了！我不会再分给你哪怕一点力量，除了我没人能救你！去死吧！",
+        "recognized_text": "你也要死了我不会再分给你拿他一点力量除了我没人能叫你去死吧",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3252.ogg",
+        "matched_line": "我明白，我也很抱歉。你是个很好的伙伴，有时候我甚至觉得你就像一位姐姐一样……",
+        "recognized_text": "我明白我也很抱歉你是个很好的伙伴有时候我甚至觉得你就像一位姐姐一样",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2746.ogg",
+        "matched_line": "……搞不清楚了，我得好好回忆一下。",
+        "recognized_text": "搞不清楚了我得好好回忆一下",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3923.ogg",
+        "matched_line": "可恶！每个人都来这套……",
+        "recognized_text": "客户每个人都来这套",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2914.ogg",
+        "matched_line": "你以为我没注意到吗？你总是拿长辈看着孩子的眼神盯着我。",
+        "recognized_text": "你以为我没注意到吗你总是拿着长辈看着孩子的眼神盯着",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3291.ogg",
+        "matched_line": "你记得她吗？",
+        "recognized_text": "你记得她吗",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3010.ogg",
+        "matched_line": "拿结果来说：人类在她的领导下一败涂地，几乎全灭，甚至得用冷冻舱躲到终焉消失才敢出来。",
+        "recognized_text": "结果来说人类在他的领导下一败涂地几乎全面甚至都有冷冻舱躲到中间消失才敢出来",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2466.ogg",
+        "matched_line": "喂……你该不会想跟我走吧？",
+        "recognized_text": "你该不会想跟我走吧",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3248.ogg",
+        "matched_line": "时代变了！我们不用扮演融合战士，不用扮演女武神，或者圣芙蕾雅的学生！我们可以做自己了，真正的自己！",
+        "recognized_text": "时代变了我们不用把融合战士不能扮演女武神或者说份量的学生我们可以做自己了真正的自己",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2640.ogg",
+        "matched_line": "只有一根，能力很弱。不到肉眼可见的距离没办法精准操作。",
+        "recognized_text": "只有一根能力很弱不知道肉眼可见的距离没办法精准操作",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2428.ogg",
+        "matched_line": "崩坏还没有消灭，往后的清闲日子不多了。至少现在——走一步算一步吧。",
+        "recognized_text": "工会还没有消灭往后的清闲日子不多了至少现在走一步算一步吧",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3426.ogg",
+        "matched_line": "……可那样的话，我是不是律者又有什么关系呢？只要我站在人类这一边不就好了吗？",
+        "recognized_text": "可能的话我是不是立着有什么关系呢只要我站在人类这一边不就好了吗",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4278.ogg",
+        "matched_line": "看我的！",
+        "recognized_text": "看我的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3082.ogg",
+        "matched_line": "替她报仇。",
+        "recognized_text": "替他报仇",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3044.ogg",
+        "matched_line": "正确在哪里，你说说？",
+        "recognized_text": "正确在哪里你说说",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3431.ogg",
+        "matched_line": "可是，我一直的信念都是对抗崩坏，不是吗？难道崩坏会允许这样的使徒存在吗？一边拿取祂的力量，一边向祂高举反抗之剑。",
+        "recognized_text": "可是我一直的信念都是对抗崩坏不是吗难道崩坏会允许这样的石头存在吗随便拿起他的力量一边向他高举反抗之见",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2796.ogg",
+        "matched_line": "哈，我还没说是为它而来呢，你猜得挺准啊。",
+        "recognized_text": "我还没说是为他而来呢你猜的挺准啊",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2991.ogg",
+        "matched_line": "我现在的感觉可好了，从没这么好过！自醒来后，我第一次觉得自由：无忧无虑，无牵无挂。",
+        "recognized_text": "我现在的感觉可好了从没这么好过这醒来后我第一次觉得自由无忧无虑无牵无挂",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3283.ogg",
+        "matched_line": "说明我们拥有力量，我们不再弱小，不再任人宰割，不再听由摆布。",
+        "recognized_text": "说明我们拥有力量我们不再弱小不再任人宰割不再有百度",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2964.ogg",
+        "matched_line": "但是时间不等我，敌人不等我，战友们也不会等我。我必须接受这个事实，我必须接受自己，必须成为华……",
+        "recognized_text": "但是时间不等我的人不等我这有没有不会等我必须接受这个事实我必须接受自己必须成为花",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4292.ogg",
+        "matched_line": "而我呢！我做什么都会成功！我能杀死奥托！我能战胜凯文！为什么不欢迎这个新的我呢？！",
+        "recognized_text": "我的我做什么都会成功我能杀死奥托我能战胜凯文为什么不欢迎这个新的我呢",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2773.ogg",
+        "matched_line": "对了。提醒你个事：叫我来找你的人是奥托·阿波卡利斯。",
+        "recognized_text": "对了提醒你个事叫我来找你的人拖布卡雷斯",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3089.ogg",
+        "matched_line": "我会的，我会的。",
+        "recognized_text": "我会的我会的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3398.ogg",
+        "matched_line": "干嘛？你知道这是假的呀，过过干瘾而已。这是属于我的幻境，我想做什么就做什么。",
+        "recognized_text": "干嘛啊你知道是假的我该应而已这是属于我的环境我想做什么就做什么",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3084.ogg",
+        "matched_line": "告诉我，这里发生了什么事？",
+        "recognized_text": "告诉我这里发生了什么事",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2868.ogg",
+        "matched_line": "你啊，落到凯文手里的时候毛都快秃了，记忆肯定也受了不少损伤。",
+        "recognized_text": "你坐到凯文手里的时候毛都快秃了记忆肯定也受了不少损伤",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4150.ogg",
+        "matched_line": "可你知道放弃思考代表什么吗？代表逃避责任。我不会再逃避了。",
+        "recognized_text": "可你知道放弃思考代表什么嘛代表逃避责任我不会再逃避了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3924.ogg",
+        "matched_line": "哎…吓着了？",
+        "recognized_text": "吓着了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3354.ogg",
+        "matched_line": "哈，既然不谈以后，只谈当时——天命将我们逐火之蛾的神之键挪为己用，为一己私利多次发动侵略战争。",
+        "recognized_text": "呵呵既然不谈以后只谈当时我们火车的神之键能为己用为一己私利多次发动侵略战争",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3293.ogg",
+        "matched_line": "……为什么不随心所欲地战斗？",
+        "recognized_text": "为什么不随心所欲的战斗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2717.ogg",
+        "matched_line": "我记得你，我们五万年前曾经并肩作战。所以我想……我们应该是朋友吧。",
+        "recognized_text": "我记得你我们五万年前曾经并肩作战所以我想我们应该是朋友吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3255.ogg",
+        "matched_line": "嘿，只要我不同意，你想反抗也没办法——咦？",
+        "recognized_text": "只要我不同意你想反抗也没办法",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3383.ogg",
+        "matched_line": "……我和羽渡尘朝夕相处，身体留下了肌肉记忆。",
+        "recognized_text": "我和你都神朝夕相处身体留下的肌肉记忆",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2879.ogg",
+        "matched_line": "那么多羽毛我都分出去了，连奥托都塞过一根，还计较你么～",
+        "recognized_text": "那么多羽毛我都分出去了连奥拓都赛过一个还记着你吗",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2866.ogg",
+        "matched_line": "看——风景很好吧？",
+        "recognized_text": "风景很好吧",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3433.ogg",
+        "matched_line": "我倒要问问你：你就一定是正确的吗？",
+        "recognized_text": "我倒要问问你你就一定是正确的吗",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3015.ogg",
+        "matched_line": "博士是个彻头彻尾的失败者，我真搞不懂为什么全人类都以她马首是瞻。",
+        "recognized_text": "博士是个彻头彻尾的失败者我真搞不懂为什么全人类都他妈是实战",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2986.ogg",
+        "matched_line": "呃，这片又是奥托的。原来有许多记忆是我从别人那里取来的啊。",
+        "recognized_text": "视频用手托的全身有许多记忆是我从别人那里取来的",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2721.ogg",
+        "matched_line": "你的手下从哪找的？怪有意思的。",
+        "recognized_text": "你的手下从哪儿找的有意思的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3244.ogg",
+        "matched_line": "我希望你成为我的一部分。",
+        "recognized_text": "我希望你成为我的一部分",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4304.ogg",
+        "matched_line": "我不是符华，她才是……这就是你的回答？",
+        "recognized_text": "我不是浮华他才是这就是你的回答",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2532.ogg",
+        "matched_line": "这玩意对有意识的活物来说，根本是无解的。",
+        "recognized_text": "这玩意都有意识的活动来说根本是无解的",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2873.ogg",
+        "matched_line": "比如记忆——它应该存在我的大脑里对吧？当年我被七个小混蛋戳穿了头，就忘记了一大堆事情。",
+        "recognized_text": "书记它应该存在我的大脑里对吧当年我被七个小混蛋戳穿了头就忘记了一大堆事情",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2716.ogg",
+        "matched_line": "喔，还是老一套。",
+        "recognized_text": "哦还是老一套",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3358.ogg",
+        "matched_line": "而让他从五百年前的纯情小子变成现在的狡猾人渣的关键转折，就是这一天。",
+        "recognized_text": "还让她从五百年前的纯情小子变成现在的狡猾人家的关键转折就是这一天",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2929.ogg",
+        "matched_line": "提醒你：不要说什么你才是真符华这种话。我心情不好。",
+        "recognized_text": "提醒醒你不要说什么你才是真佛话这种话我心情不好",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2422.ogg",
+        "matched_line": "不了，记忆太多，这种小细节可以放放。",
+        "recognized_text": "不了记忆太多这种小细节可以放放",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4345.ogg",
+        "matched_line": "对朋友我宅心仁厚，对敌人从不手下留情。",
+        "recognized_text": "朋友我才精神好对敌人从不手下留情",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2920.ogg",
+        "matched_line": "说呀？我听着呢。",
+        "recognized_text": "说呀我听着呢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3081.ogg",
+        "matched_line": "行。",
+        "recognized_text": "行",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3189.ogg",
+        "matched_line": "哈哈，真的很有意思。看他的眼睛就知道，他绝对没想到会死在这里。",
+        "recognized_text": "真的很有意思啊看他的眼睛就知道他绝对没想到会死在这里",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3955.ogg",
+        "matched_line": "于是我就用上了，我尽可能给她充分的自由——这才叫演戏嘛。你们都没识破，对吧？",
+        "recognized_text": "其实我就用上了我尽可能给他充分的自由这才叫演戏吗你们都没识破对吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3928.ogg",
+        "matched_line": "你们花了好久啊，我都等得不耐烦了。",
+        "recognized_text": "你们花了好久啊活动等得不耐烦了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3396.ogg",
+        "matched_line": "发现什么？我什么都没发现。是你太烦了，区区一根羽毛，别对我指手画脚的——",
+        "recognized_text": "发现什么什么都没发现是你太烦了出去一个羽毛别对我这说话脚的",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2987.ogg",
+        "matched_line": "这些羽毛，这些记忆……都是我的。有无数的可能性在等待我，我不知道该怎么选择，但无所谓，我有的是选择！",
+        "recognized_text": "谢谢羽毛这些记忆都是我的无数的可能性在等待我我不知道该怎么选择但无所谓我有的是选择",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3250.ogg",
+        "matched_line": "事实？事实就是除你以外的所有羽渡尘一见到我就俯首称臣！事实就是只有你脑子有问题，以为自己说的都是对的！",
+        "recognized_text": "事实事实就是除你以外的所有有都成一见我就首称臣事实就是只有你脑子有问题以为自己说的都是对的",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2455.ogg",
+        "matched_line": "不关你事。",
+        "recognized_text": "不管你事",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2664.ogg",
+        "matched_line": "我能探测到他的意识，锐利，沉重，准是他没错。但他的情绪毫无波动……",
+        "recognized_text": "可能探测到它的意思顺利沉重准是他没错但她的情绪毫无波动",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2425.ogg",
+        "matched_line": "算了，我跟自己废话什么。",
+        "recognized_text": "算了我跟自己废话什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2714.ogg",
+        "matched_line": "对啊，我也觉得。",
+        "recognized_text": "对啊我也觉得",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2782.ogg",
+        "matched_line": "我是你的主人啊。",
+        "recognized_text": "我是你的主人啊",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4246.ogg",
+        "matched_line": "不过，好啊，就试试看吧。我把力量借给你。",
+        "recognized_text": "不过好啊就是试看吧伙把力量借给你",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3257.ogg",
+        "matched_line": "你看！",
+        "recognized_text": "你看",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2874.ogg",
+        "matched_line": "……说来，你也能听见我的话，咄咄怪事，你有鼓膜吗？听觉系统怎么运作呢？",
+        "recognized_text": "出来你也能听见我的话咄咄怪事你有骨膜吗听觉系统怎么运作呢",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3240.ogg",
+        "matched_line": "不同的灵魂？……你代表过去，我代表现在，仅此而已。",
+        "recognized_text": "不同的灵魂你代表过去代表现在仅此而已",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2870.ogg",
+        "matched_line": "跟我一起走吧，咱俩正好搭个伴，一个人也太无聊了。",
+        "recognized_text": "跟我一起走吧咱俩正好搭个伴一个人也太无聊了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2768.ogg",
+        "matched_line": "不知为什么你落到了凯文手上——别问我，我那时死了——我从他那里把你夺了回来。明白了吗？",
+        "recognized_text": "不知为什么一路到了凯文手上别问我我的是死了我从他那里把你夺了回来明白了吗",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3917.ogg",
+        "matched_line": "这什么狼的……口气不小啊。",
+        "recognized_text": "这有什么难的口气不小",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3078.ogg",
+        "matched_line": "也许都死了，都成了死士……这也好，现在我们只需要把死士打扫干净就行了。",
+        "recognized_text": "也许到死了都成此事这也好现在我们只需要把此事打扫干净就行了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2614.ogg",
+        "matched_line": "鼠辈藏头露尾，台词倒是说得挺像回事。",
+        "recognized_text": "手背藏头露尾台词都是说的挺像回事儿",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2418.ogg",
+        "matched_line": "嗯？哪有。作为战果来说——这已经够显赫了。",
+        "recognized_text": "哪有作为战国来说这已经够显赫了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3357.ogg",
+        "matched_line": "你知道吗？这家伙就是一切的罪魁祸首。",
+        "recognized_text": "你知道吗这家伙就是一切的罪魁祸首",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2682.ogg",
+        "matched_line": "抱歉，但凡活物都不是我的对手。还有什么手段都拿出来吧，我赶时间。",
+        "recognized_text": "抱歉凡活物都不是我的对手还有什么手段都拿出来吧我赶时间",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4011.ogg",
+        "matched_line": "不打了吗？那也好嘛，我只想和你们聊聊——",
+        "recognized_text": "不打了吗那好嘛不只想和你们聊聊",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3120.ogg",
+        "matched_line": "……不要再试图扰乱我的思绪，崩坏。",
+        "recognized_text": "不要再试图扰乱我的思绪崩坏",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4341.ogg",
+        "matched_line": "你早就决定了，对不对？你根本没有认真对待过我——从来都不是什么选择。",
+        "recognized_text": "你早就决定了对不对你根本没有认真对待过我从来都不是什么选择",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4137.ogg",
+        "matched_line": "嗯，是你成为律者的那一段时间。",
+        "recognized_text": "是你成为绿色的那一段时间",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2573.ogg",
+        "matched_line": "……怎么也是好多年的老战友啊。",
+        "recognized_text": "怎么也是好多年的老战友",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3241.ogg",
+        "matched_line": "……你太固执了，看不清楚事实的人是你。我——你还活在过去，明白吗？你还把自己当作梅博士的工具！",
+        "recognized_text": "你太固执了看不清楚事实的认识你你还活在过去明白吗你还把自己当成故事的工具",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3961.ogg",
+        "matched_line": "…这样你们才能作出公正的裁决嘛。",
+        "recognized_text": "这样你们才能做出公正的裁决",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3319.ogg",
+        "matched_line": "……等我赶来，蚩尤已经被封印了，这儿就只剩这种臭鱼烂虾。",
+        "recognized_text": "我敢来蚩尤已经被封印了这就只剩这种臭鱼烂虾",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2711.ogg",
+        "matched_line": "老实说，我之前死了一回，被奥托冲着头来了一枪。现在我刚刚苏醒，很多事情还搞不清楚。",
+        "recognized_text": "老师说我这些死了一会儿不要拖冲着偷懒了一下现在我刚刚苏醒很多事情还搞不清楚",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4367.ogg",
+        "matched_line": "这具身体是我的！以她现在的力量想占据我的身体？门也没有！但没有我的身体，她的力量就恢复不了。",
+        "recognized_text": "太极身体是我的以他现在的力量想占据我的身体门儿也没有但没有我的身体他的力量就恢复不了",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2928.ogg",
+        "matched_line": "干嘛要学曾经的样子呢？我做自己就好了。",
+        "recognized_text": "干嘛要去重庆的样子呢火车自己就好了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2875.ogg",
+        "matched_line": "我不喜欢高处。从很高的地方往下看，什么都很渺小，不好。这太自大了。",
+        "recognized_text": "我不喜欢高处从很高的地方往下看什么都很渺小不好这太大了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2487.ogg",
+        "matched_line": "跟你这种人还有什么道理可讲。",
+        "recognized_text": "跟你这种人还有什么道理可讲",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3647.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2989.ogg",
+        "matched_line": "这就是归属感——我很好。",
+        "recognized_text": "这就是归属感我很好",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2533.ogg",
+        "matched_line": "（现在的我，就算面对凯文也……不对，我在想什么？当然要赢！）",
+        "recognized_text": "现在的我就算面对凯文一不对我的叫什么当然要",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1950.ogg",
+        "matched_line": "这就对了！",
+        "recognized_text": "这就对了嘛",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2568.ogg",
+        "matched_line": "防卫战力还挺强。",
+        "recognized_text": "保卫战里还挺强",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2872.ogg",
+        "matched_line": "意识转移啊，记忆复制啊，总是容易搞出自我认知错误的纰漏。奥托跟我都遇到过这种事，很正常，会好的。",
+        "recognized_text": "一是转移271复制啊总是容易搞出自我认知错误的批了老婆跟我都遇到过这种事很正常会好的",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3071.ogg",
+        "matched_line": "…她还没有被转变呢。",
+        "recognized_text": "他还没有被转变呢",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2965.ogg",
+        "matched_line": "随便。",
+        "recognized_text": "随便",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3187.ogg",
+        "matched_line": "可他就猜不到我会复活。",
+        "recognized_text": "可他就猜不到我快复活",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2780.ogg",
+        "matched_line": "能量都快耗尽了……",
+        "recognized_text": "能量都快耗尽了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4014.ogg",
+        "matched_line": "一个半律者合起来，结果也不怎么样嘛。",
+        "recognized_text": "一个半月整合起来也不怎么样啊",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2917.ogg",
+        "matched_line": "不过你有一点说的没错。",
+        "recognized_text": "不过你有一点说的没错",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2642.ogg",
+        "matched_line": "（好在温度不算高，还有充足的时间思考怎么逃出去。）",
+        "recognized_text": "好在温度不算高还有充足的时间思考怎么逃出去",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3191.ogg",
+        "matched_line": "真可惜，她是位可敬的战士。",
+        "recognized_text": "真可惜他是位可敬的战士",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4351.ogg",
+        "matched_line": "白痴！傻瓜！笨蛋！",
+        "recognized_text": "白痴傻瓜笨蛋",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4302.ogg",
+        "matched_line": "我……当然是！但……我已经变了。",
+        "recognized_text": "当然是我已经变了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2540.ogg",
+        "matched_line": "我拿奥托试了试，从他那里复制了一段记忆，结果他完全没有察觉。",
+        "recognized_text": "我的脱了是从他那里复制一顿气结果她完全没有察觉",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3446.ogg",
+        "matched_line": "我才不要成为奥托的棋子——不，扯远了。",
+        "recognized_text": "我才不要成为我的妻子不扯远了",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4210.ogg",
+        "matched_line": "我不能冒险，才不会冒险！",
+        "recognized_text": "我不能冒险才不会冒险",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2802.ogg",
+        "matched_line": "奥托想让我和凯文两败俱伤，他好坐收渔翁之利。",
+        "recognized_text": "好脱想让我和凯文两败俱伤他好坐收渔翁之利",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2795.ogg",
+        "matched_line": "……怪不得凯文要把你封起来。",
+        "recognized_text": "怪不得凯我要把你封起来",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4088.ogg",
+        "matched_line": "哈哈，不出所料。",
+        "recognized_text": "不出所料",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3049.ogg",
+        "matched_line": "反正对我来说，只是举手之劳，哈哈。",
+        "recognized_text": "反正对我来说只是举手之劳",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3256.ogg",
+        "matched_line": "才不是这么愚蠢的理由，对不对？真正的原因是，你觉得你比我更纯正——你认为你是个比我更配得上的符华。",
+        "recognized_text": "才不是这么愚蠢的理由对不对真正的原因是你觉得你比我更纯真你认为你是个比我更配得上的浮华",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3387.ogg",
+        "matched_line": "我明白什么？",
+        "recognized_text": "明白什么",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3377.ogg",
+        "matched_line": "我更明白应该如何做到这一切！",
+        "recognized_text": "我更明白应该如何做到这一切",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3355.ogg",
+        "matched_line": "这个时代的崩坏进展，可以说都是奥托一手炮制的。你我现在这么惨，他是最应该负责的人。",
+        "recognized_text": "这个时代的崩坏进展可以说都是托一手炮制的如果现在这么惨他是最应该负责的人",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2722.ogg",
+        "matched_line": "为了战胜崩坏，什么能利用的都要用上，对吧？",
+        "recognized_text": "为了战神崩坏什么能利用的都要用上对吧",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2661.ogg",
+        "matched_line": "闹了这么大的动静，凯文一点反应都没有。",
+        "recognized_text": "闹了这么大的动静看我一点反应都没有",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3341.ogg",
+        "matched_line": "她们当然也算。不过，没有她们就没有现在的我，再说人都死了……有几个我没印象了。凌霜死了吗？",
+        "recognized_text": "他们当然也算不过没有他们就没有现在的我人都死了有几个我们印象了你说死了吗",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3230.ogg",
+        "matched_line": "外面打扫干净了，接下来……",
+        "recognized_text": "后面打扫干净了切下来",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3136.ogg",
+        "matched_line": "你说让我救她，我能做的就这么多。",
+        "recognized_text": "你说让我叫他我能做的就这么多",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4244.ogg",
+        "matched_line": "…不过，我还蛮难想象自己没有身体的样子。",
+        "recognized_text": "不过我还蛮难想象自己没有身体的样子",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4116.ogg",
+        "matched_line": "至少应该让你知道……我和那个老古董有什么区别。",
+        "recognized_text": "至少应该让你知道我和那个老公的我有什么区别",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2755.ogg",
+        "matched_line": "嗯？…好像有这么回事，不过我记得好像是……",
+        "recognized_text": "好像有这么回事不过我记得好像是",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3946.ogg",
+        "matched_line": "我从前是个闷葫芦，什么都不告诉外人，以至于惹出许多事端。现在我幡然醒悟啦：我会对你们很坦诚。",
+        "recognized_text": "我从前是个闷葫芦什么都不告诉坏人以至于惹出许多事端现在我幡然醒悟了我会对你们很坦诚",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3393.ogg",
+        "matched_line": "闭嘴！",
+        "recognized_text": "闭嘴",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3009.ogg",
+        "matched_line": "也太多了吧！我在山上留了这么多羽渡尘？",
+        "recognized_text": "铁太多了吧我在身上留了这么多有多单",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2803.ogg",
+        "matched_line": "听说你和他达成了同盟？告诉你，他的话一句也别信，这小子今天跟你称兄道弟，翻脸就让我来害你，可见不是什么好东西。",
+        "recognized_text": "听说你和她达成了同盟告诉你他的话一句也别信这小子今天跟你称兄道弟翻脸就让我来害你可见不是什么好东西",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2530.ogg",
+        "matched_line": "什么叫偷？那本来就是我留给他的，这叫物归原主！",
+        "recognized_text": "什么叫本来就是我留给他的这种乌龟原主",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3640.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2433.ogg",
+        "matched_line": "要不是天命和奥托，很多事情根本不会变得这么糟，这世界也会更和平一些。",
+        "recognized_text": "要不是甜蜜和奥托很多事情根本不会变的这么糟这世界和和平一些",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3359.ogg",
+        "matched_line": "要是那一天我们直接杀掉卡莲和挡在她前面的奥托，一切就都会改写了。",
+        "recognized_text": "笑是一天我们直接杀掉卡莲和挡在他面前的老婆一切都会改写了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4053.ogg",
+        "matched_line": "刚刚把你忘了嘛，以为你乘机逃跑了——你没跑吧？是我想多了吗？",
+        "recognized_text": "刚刚把你忘了吗喜欢你成绩逃跑了你没跑吧了吗",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2797.ogg",
+        "matched_line": "唉，机会不少，可惜对手是你，想抓住空隙也太难了。",
+        "recognized_text": "机会不少可惜对手是你想抓住空隙也太难了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2778.ogg",
+        "matched_line": "回来吧。",
+        "recognized_text": "回来吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2877.ogg",
+        "matched_line": "于是你胡思乱想，觉得自己不仅仅是根羽毛……觉得自己才是本尊——这也可以理解嘛！",
+        "recognized_text": "就是你胡思乱想觉得自己不仅仅是个羽毛觉得自己才是本分哎呀这也可以理解嘛",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2885.ogg",
+        "matched_line": "……对了，你能看见吗？",
+        "recognized_text": "对了你能看见吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2955.ogg",
+        "matched_line": "就像个刚出生没多久的婴儿，你能指望婴儿规划好自己未来一百年的人生吗？",
+        "recognized_text": "就像个刚出生没多久的婴儿你能指望婴儿规划好自己未来一百年的人生吗",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2869.ogg",
+        "matched_line": "但再往上一点，到了云上……就很好，阳光也好，空气也好。放眼望去一片雪茫茫，白色的波浪翻腾起伏，仙境也不过如此。",
+        "recognized_text": "但在网上一点儿到了云上就很好阳光也好空气也好放眼望去一片雪茫茫白色的波浪翻腾起伏仙境也不过如此",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3970.ogg",
+        "matched_line": "戏耍？！",
+        "recognized_text": "戏耍",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3282.ogg",
+        "matched_line": "对……不再听由任何人摆布……",
+        "recognized_text": "不在听任何人摆布",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3927.ogg",
+        "matched_line": "犯得着谁见到我都问这句话吗。我是你们的班长啊！样子又没变！",
+        "recognized_text": "犯得着谁见到我都这句话吗我是你们的班长啊样子又没变",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4343.ogg",
+        "matched_line": "去死吧！你们都去死吧！",
+        "recognized_text": "死吧你们都去死吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3258.ogg",
+        "matched_line": "……即使你只是一根羽毛。",
+        "recognized_text": "其实你只是一根羽毛",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4140.ogg",
+        "matched_line": "可是转念又想：火种计划当真很重要么？不见得吧，让人类自由生长，结果也未必会很糟。",
+        "recognized_text": "可是昨天有小火种计划当真很重要吗不见得吧人类自由生长结果也未必会很糟",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3005.ogg",
+        "matched_line": "送去探索宇宙的方舟不知道去哪了，躲进量子之海的恒沙连音讯都没有。",
+        "recognized_text": "送去探索宇宙的方舟不知道去哪儿了躲进量子之海的行连音讯都没有",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4262.ogg",
+        "matched_line": "…这什么地方？",
+        "recognized_text": "这什么地方",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2476.ogg",
+        "matched_line": "你？你能有什么好建议？",
+        "recognized_text": "你你能有什么好建议",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3290.ogg",
+        "matched_line": "只有悔恨…我拾起的回忆越多，对自己的悔恨就越深沉。",
+        "recognized_text": "去悔恨或拾起的回忆越多对自己的悔恨雀雀",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3959.ogg",
+        "matched_line": "都说了不许说多余的话嘛。要公平竞赛，你别作弊。",
+        "recognized_text": "都说了不许说多余的话吗要公平竞赛你别作弊",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2776.ogg",
+        "matched_line": "以后说不定还有机会并肩作战呢，老朋友。",
+        "recognized_text": "以后说不定还有机会并肩作战呢小朋友",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2794.ogg",
+        "matched_line": "砰！——以后，我就什么都不知道了。",
+        "recognized_text": "动以后我就什么都不知道了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3083.ogg",
+        "matched_line": "等我回来，好吗。",
+        "recognized_text": "等我回来好吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3079.ogg",
+        "matched_line": "我只能给她这个——你也知道，她活不长了。",
+        "recognized_text": "我只能给她这个你也知道他活不长了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3229.ogg",
+        "matched_line": "休息的时间要结束了。我得……成为符华了。",
+        "recognized_text": "休息的时间要结束了成为浮华了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3190.ogg",
+        "matched_line": "她死了吗？",
+        "recognized_text": "它死了吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4114.ogg",
+        "matched_line": "嘿，世上什么时候讲过公平——呃，怎么不公平了？",
+        "recognized_text": "世界上什么时候讲过公平啊怎么不公平了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2509.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3125.ogg",
+        "matched_line": "在梦里，这些都没有发生，一切都称心如意。她可以快乐地活着，直到死去。",
+        "recognized_text": "在梦里这些都没有发生一切都称心如意她可以快乐的活着直到死去",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3117.ogg",
+        "matched_line": "哈，我真好看。",
+        "recognized_text": "我真好看",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3224.ogg",
+        "matched_line": "我一直在逃避，在拖延时间，但该来的总是要来。是时候收拾自己的心情了。",
+        "recognized_text": "我一直在逃避在拖延时间但该来的总是要来是时候收拾自己的心情了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2994.ogg",
+        "matched_line": "我也终于明白了我是谁：我就是符华，就这么简单！这座太虚山就是我的故乡，走在这里，一切都那么熟悉，又那么新奇……",
+        "recognized_text": "我也终于明白了我是谁我就是浮华就这么简单这次太虚山就是我的故乡走在这里一切都那么熟悉就那么亲切",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2968.ogg",
+        "matched_line": "但我已经规划好了，因为……没办法，因为我是符华，符华有她必须做的事。",
+        "recognized_text": "但我已经规划好了因为我是浮华孵化有他必须做的事",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3072.ogg",
+        "matched_line": "嗯，放心吧。",
+        "recognized_text": "放心吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3288.ogg",
+        "matched_line": "怨谁？梅博士已死，上个世代余留下来的也只有几个人。我已经没有可怨的对象了。",
+        "recognized_text": "莫不是已死盛世的余留下来的也只有几个人或已经没有可用的对象了",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3194.ogg",
+        "matched_line": "嗯，那也算是死了。",
+        "recognized_text": "那也算是死了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2426.ogg",
+        "matched_line": "……我控制得很好。我只破坏了囚笼，毁了几栋建筑还有……啊，唔……该死！我控制得不是很好吗！",
+        "recognized_text": "我控制的很好我只破坏了囚笼混了几栋建筑还有艾斯控制的不是很好吗",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3922.ogg",
+        "matched_line": "喏，她们喜欢跟你聊，你来跟她们解释吧。不许说多余的话。",
+        "recognized_text": "他们喜欢跟你聊你来跟他们解释吧不许说多余的话",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2432.ogg",
+        "matched_line": "等有空了，我再慢慢消化五万年的过去。",
+        "recognized_text": "等有空了我再慢慢消化五万年的过去",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3974.ogg",
+        "matched_line": "…第一，太虚山可不假，我只是针对你们的意识做了点修改，好把我设计的情节放进去。这自始至终都是真正的太虚山呀。",
+        "recognized_text": "一开学上课不假我只是针对你们的意思做了点修改好吧我设计的情节放进去这自始至终都是真正的泰山呀",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3342.ogg",
+        "matched_line": "是啊，五百年前。天命的远征军打到了这里。",
+        "recognized_text": "五百年前天命的远征军打到了这里",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3170.ogg",
+        "matched_line": "奇怪，我好久没有和自己对话了。",
+        "recognized_text": "奇怪我好久没有和自己对话了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3315.ogg",
+        "matched_line": "……当时，也是丹朱主动提出，要亲自去弥补自己犯下的错。",
+        "recognized_text": "当时其实当初主动提出要亲自去弥补自己犯下的错",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4111.ogg",
+        "matched_line": "是我不好，琪亚娜，我应该先介绍自己才对。",
+        "recognized_text": "是我不好听的我应该先介绍自己才对",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2720.ogg",
+        "matched_line": "我是华啊，你的老朋友。",
+        "recognized_text": "我是华你的老朋友",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4365.ogg",
+        "matched_line": "你们在演什么啊？偶像剧吗？真恶心！",
+        "recognized_text": "唉你们在演什么偶像剧吗恶心",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2800.ogg",
+        "matched_line": "有什么诈？不可能，刚刚的比武你也看见了，凯文对羽渡尘的了解能有我深？",
+        "recognized_text": "笑什么啊不可能刚刚的比武你也看见了凯文对于都城的了解能有我深",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2747.ogg",
+        "matched_line": "在消灭崩坏之前可别死了，老朋友。",
+        "recognized_text": "在消灭包括之前可别死了老朋友",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3392.ogg",
+        "matched_line": "看！你可以做到！",
+        "recognized_text": "你可以做到",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2475.ogg",
+        "matched_line": "我要杀你杀到灰飞烟灭，让你再也不能复活才行，奥托！",
+        "recognized_text": "我要杀你杀的会费页面让你再也不能复活才行好粗",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2636.ogg",
+        "matched_line": "这下时间不多了……",
+        "recognized_text": "剩下时间不多了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4298.ogg",
+        "matched_line": "不论谁挡在我的路上，我都会打倒。我想要的一定要得到。如果事情不如我所想，那我就把它变成我喜欢的样子。",
+        "recognized_text": "除了谁挡着我的路上我都会达到我想要的一定要得到如果事情不如我所想那我就把它变成我喜欢的样子",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3811.ogg",
+        "matched_line": "行。",
+        "recognized_text": "行",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3292.ogg",
+        "matched_line": "她在澳洲支部变成了律者。",
+        "recognized_text": "他在澳洲支付变成了律者",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4307.ogg",
+        "matched_line": "你选择……她？你选她？",
+        "recognized_text": "你选择她你想她",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2954.ogg",
+        "matched_line": "我刚刚苏醒，明白吗？我什么都不知道呢，脑袋里一片空白。",
+        "recognized_text": "我刚刚苏醒明白吗我什么都不知道呢脑袋里一片空白",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3356.ogg",
+        "matched_line": "我在这儿饶了她一命，似乎还点拨了几句。她回到欧洲后背叛了天命，带着封印第十二律者的盒子逃跑，被处死了。",
+        "recognized_text": "火在烧烧了她一面似乎还点拨了几句他回到欧洲后背叛的甜蜜带着封印第十二任者的盒子逃跑被处死了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3314.ogg",
+        "matched_line": "胡说八道！必须？谁规定的？梅博士吗？我干嘛要听她的话？这么多年过去，这所谓全人类的福祉又在哪儿呢？",
+        "recognized_text": "胡说八道必须谁规定的梅博士吗我干嘛要听他的话这么多年过去这所谓全人类的福祉在哪儿呢",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3115.ogg",
+        "matched_line": "你今天都不怎么爱说话，肯定是有话想说吧。",
+        "recognized_text": "你今天都不怎么爱说话肯定是有话想说吧",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2715.ogg",
+        "matched_line": "不妨这么想吧，凯文：我是一个比过去更好的华。",
+        "recognized_text": "这么想吧看完我是一个比过去更好的话",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2783.ogg",
+        "matched_line": "唉，看来记忆也消耗得差不多了……怎么说你也是我的分身。看见你变成这个样子，还真有点难受。",
+        "recognized_text": "唉看来记忆也消耗的差不多了怎么说你也是我的分身看见你变成这个样子啊还真有点难受",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3964.ogg",
+        "matched_line": "第三——你们还关心这个？——做戏就要做全套嘛。我亲自给你们引路，这出戏不就泄底了？",
+        "recognized_text": "你们还不姓这个做戏就要做全套嘛我亲自给你们引路这出息不就彻底了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4354.ogg",
+        "matched_line": "你不是要她吗？你们都要她——我还给你！",
+        "recognized_text": "你不是要看吗你们都要她我还给你",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3129.ogg",
+        "matched_line": "大家都恢复正常了，你很快也会好起来的，放心吧。",
+        "recognized_text": "大家都恢复正常了你很快就会好起来的放心吧",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2764.ogg",
+        "matched_line": "凯文这家伙，怎么把你用成这个样子？",
+        "recognized_text": "凯文这家伙怎么把你弄成这个样子",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2922.ogg",
+        "matched_line": "我倒觉得奇怪的是你才对，明明就是一片羽毛，反而一副自己才是正主的做派。",
+        "recognized_text": "我都觉得奇怪的是你才对明明就是一片羽毛反而依附自己才是正确的做法",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2798.ogg",
+        "matched_line": "我就不信了——",
+        "recognized_text": "我就不信了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3473.ogg",
+        "matched_line": "我们俩争执不下，除了给彼此添堵外根本没有意义嘛。旁观者清，谁才是对的，谁才是应该存在的符华，当然不由我俩说了算。",
+        "recognized_text": "我们俩争持不下除了给彼此添堵啊根本没有意义嘛旁观者清谁才是对的谁才是应该存在的浮华当然不由我俩说了算",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4215.ogg",
+        "matched_line": "可恶，这明明是我的幻境！就算是追求真实，也不应该让他摆了一道——他算什么！",
+        "recognized_text": "这明明是我的环境就算是追求真实也不应该让她买了一套他算什么",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_424.ogg",
+        "matched_line": "行。",
+        "recognized_text": "行",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4168.ogg",
+        "matched_line": "的确，如果是我的话……",
+        "recognized_text": "的确说过是我的话",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2754.ogg",
+        "matched_line": "……不打了吗？",
+        "recognized_text": "不打了吗",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4139.ogg",
+        "matched_line": "这次复活后，我想了很多……",
+        "recognized_text": "这次复活后我想了很多",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2915.ogg",
+        "matched_line": "我就是你，你就是我。咱们是一心双体，你应该更能理解我才对啊。",
+        "recognized_text": "我就是你你就是我咱们是一些身体应该更能理解我才对啊",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2662.ogg",
+        "matched_line": "当然是闹得再大一点咯——比如，把狼头给他摘下来。",
+        "recognized_text": "当然适当的再大一点咯比如把榔头给他摘下来",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4342.ogg",
+        "matched_line": "对，别白费心思了！羽渡尘可没那么简单！",
+        "recognized_text": "别白费心思了阅读成可没那么简单",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4142.ogg",
+        "matched_line": "过去的我，会为了所谓的“未来”、“希望”、“胜利”执行别人交付的计划，不问缘由，不理结果。",
+        "recognized_text": "过去的我会为了所谓的未来希望胜利之心别人交付的计划不问缘由不理结果",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2429.ogg",
+        "matched_line": "赶快离开空港吧。",
+        "recognized_text": "赶快离开空港吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4214.ogg",
+        "matched_line": "就是这种人将全世界玩弄于股掌，愚我多年……",
+        "recognized_text": "就是这种人将全世界玩弄于鼓掌与我多年",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4272.ogg",
+        "matched_line": "……有什么关系！消灭掉不就好了！",
+        "recognized_text": "有什么关系消灭掉不就好了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2474.ogg",
+        "matched_line": "……也是，你这家伙哪有这么容易死。",
+        "recognized_text": "显示你这家伙哪有这么容易死",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4353.ogg",
+        "matched_line": "这就是完全的赤鸢，完全的符华——完全的我！",
+        "recognized_text": "这就是完全的契约完全的浮华完全的我",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3476.ogg",
+        "matched_line": "谁说要牵扯了？放心，我只想让她俩来帮个忙。",
+        "recognized_text": "血色牵扯了放心我只想让他俩来帮个忙",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4275.ogg",
+        "matched_line": "潜入的本质就是没人发现你来过，全杀光也是一种做法！",
+        "recognized_text": "禽兽的本质就是没人发现你来过全删光也是一种做法",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2775.ogg",
+        "matched_line": "那可敬谢不敏。唉，我都不知道你什么时候回来的，奥托那家伙……",
+        "recognized_text": "那个敬谢不敏我都不知道你什么时候回来的好脱那家伙",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3475.ogg",
+        "matched_line": "现在好办了，你看——",
+        "recognized_text": "现在好办了你看",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4213.ogg",
+        "matched_line": "……用“爱”战胜律者什么的，奥托也把它挂在嘴边。我不相信……不，我不是不信，而是……不对……",
+        "recognized_text": "熊爱战胜率着什么的奥拓也把它挂在嘴边不相信我不是不信而是",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3445.ogg",
+        "matched_line": "你指控我是个律者，但你的证据根本没有力量；你想说我是个威胁，可又拿不出合理的说辞。",
+        "recognized_text": "你指控我是个绿者那你的证据根本没有力量你想说我是个危险可又拿不出合理的说辞",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2957.ogg",
+        "matched_line": "我想去一个能够被称为家的地方，所谓…落叶归根吧。我想去那儿看看，也许拥有了归宿的人，就更容易接受自己一些。",
+        "recognized_text": "我想去一个能够被称为家的地方所谓落叶归根吧我想去看看也许拥有了归宿的人就更容易接受自己一些",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4043.ogg",
+        "matched_line": "老古董……",
+        "recognized_text": "老古董",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4138.ogg",
+        "matched_line": "至于救命之恩……哼，就算他不出手，难道我就对付不了么？",
+        "recognized_text": "至于救命之恩就算他不出手难道我觉得分不了了吗",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2538.ogg",
+        "matched_line": "（奥托没有骗我……他确实完全治好了我的旧伤。）",
+        "recognized_text": "奥拓没有骗我他确实完全治好了我的旧伤",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2889.ogg",
+        "matched_line": "这就对了！",
+        "recognized_text": "这次对了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3318.ogg",
+        "matched_line": "我为什么不放下别的事情，用最快的速度赶来消灭蚩尤，拯救我的友人？",
+        "recognized_text": "不为什么不放下别的事情用最快的速度赶来消灭蚩尤拯救我的友人",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2421.ogg",
+        "matched_line": "……就算是她也牺牲了许多人，对吧？为了胜利，正义，总是得有点牺牲。",
+        "recognized_text": "羞涩是她也牺牲了许多人对吗为了胜利正义总是有点牺牲",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2993.ogg",
+        "matched_line": "我知道你也瞧不上我。",
+        "recognized_text": "我知道你也瞧不上我",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2781.ogg",
+        "matched_line": "有恩要偿，有仇要报；有一堆伙伴要照顾，还有崩坏等着我去对付……不急，不急。能休息的时间就这么多啦。",
+        "recognized_text": "小恩药厂有仇要报有一堆伙伴要照顾还有崩坏等着我去不急不急能休息的时间就这么多了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3966.ogg",
+        "matched_line": "……结果你们就用这样的敌意来回馈我。",
+        "recognized_text": "结果你们就这样的第一个回馈我",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2925.ogg",
+        "matched_line": "我有她的身体，我有她的记忆，我又不是她——那还能是谁？",
+        "recognized_text": "我有他的身体我有他的记忆我又不是他那还能是谁",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3021.ogg",
+        "matched_line": "反正这一次，我再也不要听她的了——也不要服从奥托，不要跟随凯文。一切，我都要自己做主。",
+        "recognized_text": "反正这一次我再也不要听他的也不要服从奥托不要跟随凯文一切我都要自己作主",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2867.ogg",
+        "matched_line": "等你想清楚了，再把力量还给我也不迟…哎，算了，你也别还了，我不是个小气的人。",
+        "recognized_text": "等你想清楚了再把力量还给我也不迟唉算了你也别换了我不是个小气的人",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4176.ogg",
+        "matched_line": "应该会毫不犹豫地杀掉你。",
+        "recognized_text": "应该会毫不犹豫的杀掉你",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3184.ogg",
+        "matched_line": "可是，把弑神装甲交给姬子不是我自作主张的决定吗？既然奥托认为我拦了他的路，他应该出手拦下姬子才对啊？",
+        "recognized_text": "可是把视频中讲交给妻子不是我自作主张的决定吗然后拖着我拦了他的路他应该出手拦下妻子才对啊",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3017.ogg",
+        "matched_line": "唔，就是不信任智慧，行吧。飞蛾扑火的勇气，玉石俱焚的决心。好耶。",
+        "recognized_text": "就是不信任智慧行吗飞蛾扑火的勇气与石俱焚的决心",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4311.ogg",
+        "matched_line": "你这个白痴！！！",
+        "recognized_text": "你这个白痴",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3299.ogg",
+        "matched_line": "那你应该也记得她是怎么死的，对不？",
+        "recognized_text": "那你应该也记得他是怎么死的对不",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2772.ogg",
+        "matched_line": "这种小伎俩，我怎么可能上当？看，不费吹灰之力，我就把羽毛夺了回来。",
+        "recognized_text": "这种小伎俩我怎么可能上当不费吹灰之力我去把羽毛了回来",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2557.ogg",
+        "matched_line": "喔，地下人还不少。",
+        "recognized_text": "地下城还不少",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2569.ogg",
+        "matched_line": "他现在好歹也是个组织的头目，尊主什么的。我去见他岂不显得我矮了一截？",
+        "recognized_text": "他现在好歹也是个组织的头目鳟属什么的我去见他行不行得晚了一些",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4467.ogg",
+        "matched_line": "用直觉来判断，你觉得呢？是这个更强更果断，更有理智的符华，还是那个老古董？",
+        "recognized_text": "持续的判断你觉得呢是这个更强更果断有理智的浮华还是那个老古董",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2424.ogg",
+        "matched_line": "谁能面面俱到，把上上下下所有细节都考虑清楚？谁能？梅博士能吗？",
+        "recognized_text": "谁都没人去的把上上下下所有细节都考虑清楚谁能没事了吗",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2719.ogg",
+        "matched_line": "我翻看以前的记忆时总是这么想：怎么回事啊，怎么搞成这样？唔，大概重生让我看清了很多事情吧。",
+        "recognized_text": "我翻看以前的记忆是总是这么想怎么回事啊这么搞成这样大概重生让我看清了很多事情",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3186.ogg",
+        "matched_line": "不，他猜不到我会这样复活。你知道我是怎么揍他的吗？",
+        "recognized_text": "他猜不到我会这样复活你知道我是怎么揍他的吗",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3440.ogg",
+        "matched_line": "跟你这个人完全没办法交流啊！",
+        "recognized_text": "跟你这个人完全没办法交流啊",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4264.ogg",
+        "matched_line": "哈！潜入——这我最拿手了！羽渡尘的能力可以让我们来去自如，神不知鬼不觉。",
+        "recognized_text": "潜入就在哪守了一座城的能力可以让我们来去自如神不知鬼不觉",
+        "match_score": 66
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2931.ogg",
+        "matched_line": "……我很不理解。",
+        "recognized_text": "我很不理解",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3226.ogg",
+        "matched_line": "每一片羽渡尘都是我的分身，它们归还了属于我的力量与记忆。收回的越多，就越难对这世界无动于衷。",
+        "recognized_text": "每一天有多沉都是我的分身她们归还了属于我的力量与记忆收获的越多球却对着世界无动于衷",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2609.ogg",
+        "matched_line": "好吵啊，这家伙傻的吗？哪有广播自己战术的……",
+        "recognized_text": "哎呀好丑啊这家伙傻的吗哪有广播自己这样说的",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3130.ogg",
+        "matched_line": "我只要一个念头就能让你闭嘴，也可以轻而易举地让你消失。",
+        "recognized_text": "我只有一个念头就能让你闭嘴却可以轻而易举的让你消失",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4212.ogg",
+        "matched_line": "不知道，不知道！反正如果是我的话，我会当机立断，尽最大力量消灭律者。",
+        "recognized_text": "不知道不知道反正如果是我的话我会当机立断尽最大力量消灭旅程",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3012.ogg",
+        "matched_line": "我为什么这么听她的话？",
+        "recognized_text": "我为什么这么听他的话",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3300.ogg",
+        "matched_line": "可我们只是工具，我们无话可说。如果最上头的人认为律者无可救药，我们就什么也做不到。",
+        "recognized_text": "我们只是工具我们无话可说说过最上头的人生为律者无可救药我们就什么也做不到",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3336.ogg",
+        "matched_line": "别找了，那几个小坏蛋我没变出来。她们在这场战争里本来也无足轻重，犯不着给自己添堵。",
+        "recognized_text": "别找了这几个小坏蛋我们便出来他们在这场战争里本来也无足轻重犯不着给自己添堵",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3344.ogg",
+        "matched_line": "……可惜了，那孩子才是货真价实的怪物啊。她的事情你没有告诉凯文吧？",
+        "recognized_text": "可惜了孩子才是货真价实的怪物他的事情也没有告诉凯文吧",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4346.ogg",
+        "matched_line": "好啊，你要那个符华，我还给你——还给你！",
+        "recognized_text": "好啊你用那个浮华我还给你还给你",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4239.ogg",
+        "matched_line": "你又来了，我一忽略你，你就突然冒出来……",
+        "recognized_text": "你又来了我一忽略你你就突然冒出来",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4301.ogg",
+        "matched_line": "为什么你们都抓着过去不放？我不比她更好吗？她做成过什么事吗？没有！她做什么都是失败，失败！失败！",
+        "recognized_text": "为什么你们都穿着过去不放我不比他更好吗他做什么什么事吗没有他做什么都是失败失败失败",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1822.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3439.ogg",
+        "matched_line": "我也能说一样的话！这种话有什么意义！",
+        "recognized_text": "我也都说一样的话这种话有什么意义",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2788.ogg",
+        "matched_line": "喔，就是我们当年那套格斗术的化劲。我给它们改了名字——入乡随俗嘛。",
+        "recognized_text": "就是我们当年那套格斗说的话我给他们改了名字入乡随俗嘛",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4136.ogg",
+        "matched_line": "要向你展示我和过去的不同，最好是让你亲身体验，不是吗？",
+        "recognized_text": "就像你真是我和过去的不同最好是让你亲身体验不是吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1826.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3008.ogg",
+        "matched_line": "是没什么意义，她在讲她的计划。",
+        "recognized_text": "是没什么意义他在讲他的计划",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3429.ogg",
+        "matched_line": "你说我脑子里的声音是崩坏意识在蛊惑，那你不是更可疑吗！你是连肉体都没有的存在，你的介质是上个世代的律者核心。",
+        "recognized_text": "你说我脑子里的声音是崩溃一直在蛊惑那你不是更可疑吗你是连肉体都没有的存在你的戒指是上个时代的核心",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3435.ogg",
+        "matched_line": "你能否认这件事吗？难道德丽莎和希儿不也是极具潜质的律者素体吗？这一切很可能都在奥托的计划之中。",
+        "recognized_text": "你能否认这件事吗难道德莉莎和希尔不也是极具潜质的律者素体吗这一切很可能都在我的计划之中",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2566.ogg",
+        "matched_line": "我要他主动来见我。",
+        "recognized_text": "我要他主动来接我",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2541.ogg",
+        "matched_line": "我就是羽渡尘的主人。那根羽毛一见到我，不就乖乖地俯首称臣了吗？",
+        "recognized_text": "我就是神的主人那个羽毛一见到我不就乖乖的俯首称臣了吗",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3951.ogg",
+        "matched_line": "告诉她我们是谁就够了。",
+        "recognized_text": "告诉他我们是谁就够了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4019.ogg",
+        "matched_line": "…嗯？你们在干嘛？",
+        "recognized_text": "你们在干嘛",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3929.ogg",
+        "matched_line": "不好意思，想给你们个惊喜——嗯好吧，有点过了。",
+        "recognized_text": "不好意思想给你们个惊喜好吧有点过了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3427.ogg",
+        "matched_line": "你看——这里只有我们两个人，我不费吹灰之力就能销毁你。可我没有这么做，为什么？！",
+        "recognized_text": "你看这里只有我们两个人会不费吹灰之力就能销毁你可我没有这么做为什么",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3960.ogg",
+        "matched_line": "…但恰好我脑袋里有一个被封印的家伙，原因我忘了，但她拥有一套完整的虚拟记忆和人格。",
+        "recognized_text": "按恰好我脑袋里有一个被封印的家伙谁有办法但她拥有一套完整的虚拟记忆和人格",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2988.ogg",
+        "matched_line": "哈哈！……有什么可担心的。",
+        "recognized_text": "有什么可担心的啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3317.ogg",
+        "matched_line": "我可以强行要求她留下，等我回来，我却没有这么做。",
+        "recognized_text": "我可以强行要求他留下等我回来我却没有这么做",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3135.ogg",
+        "matched_line": "瞧——这是你记忆里的样子吗？",
+        "recognized_text": "这是你记忆里的样子吗",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2535.ogg",
+        "matched_line": "反正很快就知道答案了，何必多此一举。",
+        "recognized_text": "反正很快就知道答案了何必多此一举",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4109.ogg",
+        "matched_line": "我本以为你会选她呢，毕竟人免不了先入为主，但是……哇。",
+        "recognized_text": "我本以为你会选它呢毕竟人免不了先入为主但是",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4206.ogg",
+        "matched_line": "之后……我就要消灭奥托这个祸患。",
+        "recognized_text": "之后我就要消灭这个货款",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2558.ogg",
+        "matched_line": "乌鸦嘴！",
+        "recognized_text": "乌鸦嘴",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4151.ogg",
+        "matched_line": "原因不过是一次救命之恩，加上对“火种计划”的执著而已。",
+        "recognized_text": "原因不过是一次救命之恩加上对火种计划的执着而已",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2779.ogg",
+        "matched_line": "别动，我先给你点能量。你连显形都费劲。再这么下去，你就得化成飞灰，烟消云散啦。",
+        "recognized_text": "我先给你点能量你连血型都费劲再这么下去你就得化成飞灰天宵云散了",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3173.ogg",
+        "matched_line": "不，她从来没有试图影响我，她才做不到！",
+        "recognized_text": "它从来没有试图影响我他才做不到",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2924.ogg",
+        "matched_line": "你为什么对我有这么大的敌意？",
+        "recognized_text": "你为什么对我有这么大的敌意",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3390.ogg",
+        "matched_line": "我明白我拥有怎样的力量，我明白自己肩负怎样的责任！",
+        "recognized_text": "我明白我又有怎样的力量啊我明白自己肩负怎样的责任",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4248.ogg",
+        "matched_line": "我现在这么强大了，这种事情根本不会再发生啦，哈哈哈！",
+        "recognized_text": "我现在这么强大了这种事情根本不会再发生了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3432.ogg",
+        "matched_line": "你说我是一个律者。",
+        "recognized_text": "你说我是一个猎场",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3050.ogg",
+        "matched_line": "什么是正确的，由我说了算。",
+        "recognized_text": "什么是正确的因为我说了算",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3397.ogg",
+        "matched_line": "又来了。看你这么执著，我都不忍心点破：喂，你只是根羽毛啊。你要接受这个现实，不能一直欺骗自己。",
+        "recognized_text": "又来了看你这么执着我都不忍心点破你只是个羽毛啊你要接受这个现实不能一直欺骗自己",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3131.ogg",
+        "matched_line": "但我尊重你，我允许你独立存在，允许你跟在我身边。你应该对我的尊重表达敬意。",
+        "recognized_text": "但我尊重你我允许你独立存在允许你跟在我身边应该对我的尊重表达敬意",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3971.ogg",
+        "matched_line": "以前的失败、错误、执迷不悟，我都会让你们看清楚。",
+        "recognized_text": "以前的失败错误执迷不悟我都会让你们看清楚",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3007.ogg",
+        "matched_line": "我将扭转万象，让一切再不相同。你瞧着吧。",
+        "recognized_text": "我叫牛转腕向上一切再不相同你瞧着吧",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3019.ogg",
+        "matched_line": "我瞧瞧这段记忆……",
+        "recognized_text": "瞧瞧这记忆",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3447.ogg",
+        "matched_line": "因为你是我的朋友！你是另一个我，我喜欢你！我不会仅仅因为你得罪了我而杀掉你，这不正是我拥有人性的铁证吗？",
+        "recognized_text": "请问你是我的朋友你是另一个我我喜欢你我不会仅仅因为你得罪了我杀掉呢知不知道我拥有人性的铁证吗",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2613.ogg",
+        "matched_line": "原来你听得见我说话啊。",
+        "recognized_text": "你听得见我说话",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4089.ogg",
+        "matched_line": "是我不好，琪亚娜，我应该先介绍自己才对。",
+        "recognized_text": "是我不好听的我应该先介绍自己才对",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4415.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2537.ogg",
+        "matched_line": "（仔细想想，以前我一次都没赢过他，但我俩也没认真交过手。）",
+        "recognized_text": "仔细想想以前我一次都没赢过他但我俩也没认真交过手",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3013.ogg",
+        "matched_line": "我是你的主人，把记忆和力量还我。",
+        "recognized_text": "我是你的主人把记忆和力量还我",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4350.ogg",
+        "matched_line": "原来只有我还想着……真不公平。",
+        "recognized_text": "原来只有我还想着不公平",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2959.ogg",
+        "matched_line": "我很清楚这一点，但我实在……提不起精神。你可以说我在逃避，我确实在逃避，我连自己的记忆都不敢回顾。",
+        "recognized_text": "我很清楚这一点但我实在提不起精神你可以说我在逃避我确实在逃避我连自己的记忆都不敢回顾",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2354.ogg",
+        "matched_line": "哈哈。",
+        "recognized_text": "哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2583.ogg",
+        "matched_line": "算了，你们做好准备。天命已经被我一锅端了，接下来轮到你们了。",
+        "recognized_text": "算了你们做好准备甜蜜已经被我一锅端了接下来轮到你们了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3362.ogg",
+        "matched_line": "因为她的死，奥托·阿波卡利斯决定多活几百年。这小子夺权了天命，把欧洲搞得一团糟又跑来神州捣乱，最后当上了大独裁者。",
+        "recognized_text": "因为他的死后托不考虑是决定多活几百年小子多了甜蜜把欧洲搞的一团糟就跑来神州捣乱最后都是大独裁者",
+        "match_score": 65
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3239.ogg",
+        "matched_line": "那么…",
+        "recognized_text": "那么",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9484.ogg",
+        "matched_line": "情况怎么样？",
+        "recognized_text": "情况怎么样",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5535.ogg",
+        "matched_line": "终于结束了吗？",
+        "recognized_text": "终于空间探讨结束了吗",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3124.ogg",
+        "matched_line": "那么…",
+        "recognized_text": "那么",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1390.ogg",
+        "matched_line": "那么…",
+        "recognized_text": "那么累",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1274.ogg",
+        "matched_line": "那么…",
+        "recognized_text": "那么累",
+        "match_score": 67
+    }
+]

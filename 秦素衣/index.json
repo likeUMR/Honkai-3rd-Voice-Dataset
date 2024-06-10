@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_1545.ogg",
+        "matched_line": "你们是来阻止的吗？",
+        "recognized_text": "你们是来阻止的吗",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1756.ogg",
+        "matched_line": "这只是一段记忆，真的吗？我已经死了……",
+        "recognized_text": "试试这一段记忆真的吗我已经死了",
+        "match_score": 76
+    }
+]

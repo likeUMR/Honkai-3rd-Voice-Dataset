@@ -1,0 +1,38 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3219.ogg",
+        "matched_line": "我答应你。",
+        "recognized_text": "我不答应",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7786.ogg",
+        "matched_line": "一定。",
+        "recognized_text": "一定",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_806.ogg",
+        "matched_line": "一定。",
+        "recognized_text": "一定的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1040.ogg",
+        "matched_line": "对不起……对不起……",
+        "recognized_text": "对不起对不起",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1035.ogg",
+        "matched_line": "对不起……对不起……",
+        "recognized_text": "对不起对不起",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1414.ogg",
+        "matched_line": "我老婆能不能回来？",
+        "recognized_text": "老婆能不能回来",
+        "match_score": 88
+    }
+]

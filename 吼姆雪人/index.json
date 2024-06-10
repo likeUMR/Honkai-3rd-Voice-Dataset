@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_1618.ogg",
+        "matched_line": "还没。",
+        "recognized_text": "还没得",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10390.ogg",
+        "matched_line": "还没。",
+        "recognized_text": "还没",
+        "match_score": 80
+    }
+]

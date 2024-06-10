@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_3_5_3_6_1527.ogg",
+        "matched_line": "快逃…",
+        "recognized_text": "快逃",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1277.ogg",
+        "matched_line": "这是…什么意思？",
+        "recognized_text": "这是什么意思",
+        "match_score": 86
+    }
+]

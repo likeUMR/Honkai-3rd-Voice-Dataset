@@ -1,0 +1,572 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3858.ogg",
+        "matched_line": "是你隐藏起来的那把神之键赋予了你力量吗？",
+        "recognized_text": "藏起来的那把神之键赋予了你力量吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3513.ogg",
+        "matched_line": "在学园里，她对你一直很严厉。你以为那只是她性格冷淡，但事实却并非如此……",
+        "recognized_text": "学原理他对你一直很严厉你以为那只是他性格冷淡但事实却并非如此",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3578.ogg",
+        "matched_line": "总有一天，你会亲眼看着我完完全全地支配这具身体……",
+        "recognized_text": "总有一天你会亲眼看着我完完全全的支配这具身体",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4416.ogg",
+        "matched_line": "哈哈哈哈哈~★",
+        "recognized_text": "哈哈哈哈哈",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3517.ogg",
+        "matched_line": "哈哈哈哈……对她而言你永远是猎物。看，她现在又来狩猎你了~★",
+        "recognized_text": "哈哈哈哈哈对他而言永远是猎物他现在又来狩猎你了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3538.ogg",
+        "matched_line": "你的诞生。确切的说，是我被重新带回人世的那一天。",
+        "recognized_text": "的诞生确切的说是我被重新带回人世的那一天",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3539.ogg",
+        "matched_line": "你的名字和过去全都是编造出来的谎言，它们从来都不属于你。",
+        "recognized_text": "你的名字吓过去都是编造出来的谎言他们从来都不属于你",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3853.ogg",
+        "matched_line": "她已经彻底放弃了一切，她不会回应你的呼唤的。",
+        "recognized_text": "彻底放弃了一切他不会回应你的呼唤",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3865.ogg",
+        "matched_line": "她的过去，她的名字，是你们人类打造、用来囚禁神明的枷锁。",
+        "recognized_text": "你们人类打造用来囚禁的枷锁",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3835.ogg",
+        "matched_line": "这就是为什么，你永远不可能摆脱我。",
+        "recognized_text": "这就是为什么你永远不可能摆脱",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3838.ogg",
+        "matched_line": "逃？你又能逃到哪儿去呢？",
+        "recognized_text": "你又能逃到哪儿去呢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3568.ogg",
+        "matched_line": "我能感受到她的情绪……愤怒、悲伤、压抑。",
+        "recognized_text": "我感受到他的情绪愤怒悲伤压抑",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3534.ogg",
+        "matched_line": "你和我，都是受害者。",
+        "recognized_text": "你和我受害者",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3497.ogg",
+        "matched_line": "当她们目睹了你内心的真面目后，还愿意让你靠近她们，拥抱她们吗？",
+        "recognized_text": "当他们目睹了你内心的真面目后还愿意让你靠近他们拥抱他们吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3541.ogg",
+        "matched_line": "既然这样，为什么不和我一起狠狠还击这些欺骗我们，摆布我们命运的人类？",
+        "recognized_text": "为什么不和我一起狠狠还击这些欺骗我们百度我们命运的人",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3519.ogg",
+        "matched_line": "她自始至终把你当成一个怪物，时刻监视着你，戒备着你。",
+        "recognized_text": "他自始至终把你当成一个怪物时刻监视着你戒备着你",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3520.ogg",
+        "matched_line": "最后，她又亲手摧毁了你的生活，把你交给了奥托主教……",
+        "recognized_text": "最后他又亲手摧毁了你的生活把你交给了奥托主教",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3518.ogg",
+        "matched_line": "还记得这张可憎的脸吗，琪亚娜？她辜负了你的信任。",
+        "recognized_text": "还记得讲课中的脸吗辜负了你的信任",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3860.ogg",
+        "matched_line": "因为这个女孩从一开始就注定要成为我重回人世的容器。",
+        "recognized_text": "因为这个女孩从一开始就注定要成为我重回人世的生气",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3496.ogg",
+        "matched_line": "那些口口声声说要带你回家的朋友们……",
+        "recognized_text": "那些口口声声说要带你回家的朋友们",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3854.ogg",
+        "matched_line": "只不过，你再怎么努力也是徒劳。",
+        "recognized_text": "只不过你再怎么努力也是徒劳",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3836.ogg",
+        "matched_line": "人类，总是犯下相同的错误。为了拯救别人，不惜牺牲自己的一切。",
+        "recognized_text": "人类总是犯相同的错误为了拯救别人不惜牺牲自己的一切",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3840.ogg",
+        "matched_line": "可是，她从没有想到，伴随她的牺牲，你的心里留下了一个永远无法愈合的伤口，一个让我再次归来的裂缝。",
+        "recognized_text": "从没有想到伴随它的心声那个心里留下了一个永远无法愈合的伤口一个让我再次归来的裂缝",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3500.ogg",
+        "matched_line": "此时此刻，在她们的眼中，那个叫做琪亚娜的女孩已经不复存在了。现在唯一能拯救你的方法，就是消灭你。",
+        "recognized_text": "那个叫做平安的女孩已经不复存在了现在唯一能拯救你的方法就是消灭你",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3859.ogg",
+        "matched_line": "你努力想要挽救的那个女孩，从一开始就只是幻影。",
+        "recognized_text": "的那个女孩儿从一开始就只是幻影",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3856.ogg",
+        "matched_line": "不管是在现实中，还是在精神世界里，明知必然会失败，你还是一次又一次向我发起挑战。",
+        "recognized_text": "中还是精神世界里必然会失败你还是一次又一次向我发起挑战",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3837.ogg",
+        "matched_line": "任何一次短暂的分神，任何一段痛苦的回忆，都会给我更多的自由，把每一个你停留的地方变成废墟。",
+        "recognized_text": "是一段痛苦的回忆都会给我更多的自由每一个你停留的地方变成废墟",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3861.ogg",
+        "matched_line": "这种可悲的顽固，甚至让我对人类产生了一点儿敬意。",
+        "recognized_text": "这种可悲的顽固甚至让我对人类产生了一点儿敬意",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3584.ogg",
+        "matched_line": "她的存在一天比一天虚弱，而我只需要耐心的等待就行了。",
+        "recognized_text": "一天比一天虚弱韩国只需要耐心的等待就行了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4417.ogg",
+        "matched_line": "终于，被我找到你们了！",
+        "recognized_text": "终于被我找到你们了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3394.ogg",
+        "matched_line": "啊，我想起来了，在我沉睡之前，也见过这样的眼睛。",
+        "recognized_text": "我想起来了在我沉睡之前也见过这样的眼睛",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3722.ogg",
+        "matched_line": "哼…她不值得我动手。既然你想要的话，就留给你吧。",
+        "recognized_text": "图片不值得我动手既然你想要的话就留给你吧",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3314.ogg",
+        "matched_line": "垂死挣扎，只不过是加速死亡的到来。",
+        "recognized_text": "垂死挣扎只不过是加速死亡的到来",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3392.ogg",
+        "matched_line": "虽然看起来很小，倒也有点本事。",
+        "recognized_text": "虽然看起来很小但也有点本事",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3353.ogg",
+        "matched_line": "是时候，轮到反派一个一个退场了——",
+        "recognized_text": "是时候轮到反派一个一个退场了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3451.ogg",
+        "matched_line": "来吧！来成为神的祭品吧！",
+        "recognized_text": "来吧成为神的祭品吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3378.ogg",
+        "matched_line": "觉得小聪明得逞了吗？看见胜利了吗？产生希望了吗？",
+        "recognized_text": "觉得小聪明得逞了吗看见胜利了吗产生希望了吗",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3444.ogg",
+        "matched_line": "一同创造过珍贵甜蜜的回忆吗？结下过牢不可破的约定吗？",
+        "recognized_text": "一同创造和珍贵甜蜜的回忆吗接下来不可破的约定吗",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3450.ogg",
+        "matched_line": "是吗，是吗？她是你们重要的伙伴，重要的家人吗？",
+        "recognized_text": "是吗是吗他是你们重要的伙伴重要的家人",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3379.ogg",
+        "matched_line": "想要活下去的意志，对未来的希望，拼尽全力要去守护的一切，以及——",
+        "recognized_text": "对未来的希望拼劲全力去守护的一切以及",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3376.ogg",
+        "matched_line": "——和那时相比，你还真是一点长进都没有！",
+        "recognized_text": "和相比你还真是一点长进都没有",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3454.ogg",
+        "matched_line": "我要你们扭曲的面容，残破的肢体，成为她眼中最后的景象。",
+        "recognized_text": "我想你们有趣的面容残破的肢体成为他眼中最后的景象",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4418.ogg",
+        "matched_line": "虽然顺序有所改变，但不要紧，无非都是些无名蝼蚁。",
+        "recognized_text": "虽然顺序有所改变但不要紧无非都是先胡铭楼",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3703.ogg",
+        "matched_line": "但也无妨，这并不会改变什么。",
+        "recognized_text": "但也无妨却并不会改变什么",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3385.ogg",
+        "matched_line": "又是这些锁链…？你究竟还想试几次！",
+        "recognized_text": "就是这些锁链你究竟还想试几次",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4420.ogg",
+        "matched_line": "哎呀，竟然被挡下了吗？演出不按照剧本来，可不行哦☆",
+        "recognized_text": "哎呀竟然被打吗演出不按照剧本来可不行",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3738.ogg",
+        "matched_line": "我对你们没兴趣，那些小姑娘才是我的目标。",
+        "recognized_text": "对你们没兴趣那些小姑娘才是我的目标",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3449.ogg",
+        "matched_line": "啊…多么悦耳的雷鸣，多么美妙的电光。",
+        "recognized_text": "啊多么悦耳的雷鸣多么美妙的典故",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3453.ogg",
+        "matched_line": "你们想要夺回这具身体，想要拯救这个女孩吗？",
+        "recognized_text": "你们想要多喝这些身体想要救这个女孩儿",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3693.ogg",
+        "matched_line": "一样滑稽的打扮，一样可憎的面容，让我想起了许多不快的回忆。",
+        "recognized_text": "任何的打扮一样的面容让我想起了许多不快的回忆",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1975.ogg",
+        "matched_line": "哈哈哈哈哈~★",
+        "recognized_text": "哈哈哈哈哈",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3711.ogg",
+        "matched_line": "——为什么？明明拥有两把神之键，你却始终不肯使用“另一把”呢？",
+        "recognized_text": "为什么明明拥有两把神之键始终不可使用另一把呢",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3755.ogg",
+        "matched_line": "不过说到底，终究还是人类。",
+        "recognized_text": "说到底终究还是人类",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3708.ogg",
+        "matched_line": "稍微给你一点赞扬吧，你确实与众不同。",
+        "recognized_text": "稍微给你一点赞吧确实与众不同",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3692.ogg",
+        "matched_line": "为自己的无礼，付出代价吧！",
+        "recognized_text": "为自己的无礼付出代价了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3452.ogg",
+        "matched_line": "就让我用她的身体，她的双手，把你们一个一个地杀死吧！",
+        "recognized_text": "如果他的身体他的双手把你们一个一个的杀死了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3358.ogg",
+        "matched_line": "最后，我的半身，只留下你我二人，在这片舞台上继续我们未完成的仪式。",
+        "recognized_text": "只留下你我二人在这片舞台上继续我们未完成的仪式",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3307.ogg",
+        "matched_line": "看着你们木偶般拙劣的舞蹈，也不失为一种乐趣。",
+        "recognized_text": "看着你们木偶般拙劣的舞蹈也不失为一种乐趣",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3743.ogg",
+        "matched_line": "即使在刚才的战斗里，你也没有使出全力。",
+        "recognized_text": "其实在刚才的战斗力也没有使出全力",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3380.ogg",
+        "matched_line": "我从你的眼中，看到了对她的关切，爱护，还有满满的愧疚。",
+        "recognized_text": "我从你的眼睛看他对她的关切爱护还有满满的愧疚",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3396.ogg",
+        "matched_line": "精彩的剧目总得有惊心动魄的反转——真是让我看到了美妙的演出呢。",
+        "recognized_text": "总有惊心动魄的反转真是让我看到了美妙的演出呢",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3386.ogg",
+        "matched_line": "所有这些，在我面前，什么都不是…！",
+        "recognized_text": "所有这些在我面前什么都不是",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3312.ogg",
+        "matched_line": "小姑娘，你为何又要阻挡在我面前？",
+        "recognized_text": "小姑娘你为何要阻挡在我面前",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3688.ogg",
+        "matched_line": "你也是为了保护这个女孩而来的吗？",
+        "recognized_text": "是为了保护这个女孩儿来的吗",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3687.ogg",
+        "matched_line": "…我记得你。",
+        "recognized_text": "我记得你",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3348.ogg",
+        "matched_line": "呵，真是扫兴的开场。",
+        "recognized_text": "真是扫兴的开场",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3347.ogg",
+        "matched_line": "那么，就进入正剧吧——正好这个舞台，我也看腻了…！",
+        "recognized_text": "那么就进入证据吧正好这个舞台我也看腻了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3718.ogg",
+        "matched_line": "认为还不到使用的时候吗？还是说…控制不了它呢？",
+        "recognized_text": "还不到使用的时候吗还是说控制不了他呢",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3475.ogg",
+        "matched_line": "准备好，接受你们的命运了吗？",
+        "recognized_text": "准备好接受你们的命运了吗",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3300.ogg",
+        "matched_line": "过了这么久，你还是不明白这个道理。",
+        "recognized_text": "过了这么久你还是不明白这个道理",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4468.ogg",
+        "matched_line": "那就用我全部的力量，把你撕成碎片！！",
+        "recognized_text": "那就是我全部的力量把你撕成碎片",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4463.ogg",
+        "matched_line": "为什么…！明明只是一只蝼蚁！",
+        "recognized_text": "为什么明明只是一只蝼蚁",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_431.ogg",
+        "matched_line": "哈哈哈哈哈~★",
+        "recognized_text": "哈哈哈哈哈",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3769.ogg",
+        "matched_line": "又或者说，根本就无法使用呢？",
+        "recognized_text": "又或者说根本就无法使用了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3771.ogg",
+        "matched_line": "你就是将我唤醒的人，觊觎神之力的，可悲的人类。",
+        "recognized_text": "你就是将我唤醒的人去神之力的可悲的人类",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3474.ogg",
+        "matched_line": "呵，看来，飞来了一只不识趣的小虫子——",
+        "recognized_text": "什么意思看来飞来一只不识趣的小虫子",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3361.ogg",
+        "matched_line": "好了，让我好好欣赏一下吧。蝼蚁们，究竟会如何挣扎。",
+        "recognized_text": "好了让我好好欣赏一下吧老爷们究竟会如何挣扎",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3321.ogg",
+        "matched_line": "——是为我的降生，所准备的祭品。",
+        "recognized_text": "因为我的叫声所准备的祭品",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3304.ogg",
+        "matched_line": "贝拉，去指导一下他们的舞姿吧。",
+        "recognized_text": "对了去指导一下她们的舞姿吧",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3443.ogg",
+        "matched_line": "让她最珍视的人为了拯救她而遭受最恶毒的痛苦，最残忍的死亡。",
+        "recognized_text": "他最真实的人为了拯救她而遭受最恶毒的痛苦在残忍的死亡",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3397.ogg",
+        "matched_line": "但她根本就不理解我，也根本，什么都无法拯救。",
+        "recognized_text": "他根本就不理解我根本什么都无法拯救",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3373.ogg",
+        "matched_line": "你不会以为，这种过时的玩具真的会有用吧？",
+        "recognized_text": "你不会以为这种故事的玩具真的会有用吗",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9859.ogg",
+        "matched_line": "为自己的无礼，付出代价吧！",
+        "recognized_text": "为你自己的愚蠢付出代价吧",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3761.ogg",
+        "matched_line": "…但你这样的人竟会成为王。人类，还真是悲哀。",
+        "recognized_text": "那你这样的人竟会成为人类还真是悲哀",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3401.ogg",
+        "matched_line": "抓住你了，小姑娘☆",
+        "recognized_text": "抓住你了小姑娘",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3306.ogg",
+        "matched_line": "可笑。这具身体，是贪婪的人类为我所制造的容器。",
+        "recognized_text": "身体是贪婪的人类为我所制造的容器",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3382.ogg",
+        "matched_line": "那双眼睛的主人天真地向我伸出了援手，自以为能保护我。",
+        "recognized_text": "眼睛的主人天真的笑我伸出援手自以为能保护我",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3445.ogg",
+        "matched_line": "让美好的过往，一点一点支离破碎，在绝望和悲痛中走向幻灭。",
+        "recognized_text": "美好的困惑1.1点支离破碎在绝望和悲痛走向幻灭",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3663.ogg",
+        "matched_line": "呵。人类就像杀之不尽的蝇虫，杀死一只，又会冒出来无数只。",
+        "recognized_text": "就像杀之不尽的淫虫杀死一只又会冒出来无数",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3666.ogg",
+        "matched_line": "没有人告诉过你，打扰别人的宴会是很失礼的吗？",
+        "recognized_text": "没有人告诉过你打扰别人的宴会是很顺利的吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3670.ogg",
+        "matched_line": "但就算扎堆在一起，也改变不了你们的渺小☆",
+        "recognized_text": "就算插队在一起改变不了你们的描写",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3446.ogg",
+        "matched_line": "…她不该拥有，不配拥有，不将拥有！",
+        "recognized_text": "他不该拥有不配拥有不想拥有",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3355.ogg",
+        "matched_line": "首先…嗯，是那位发型奇怪的小女孩，接着…是那个拿十字架的小姑娘。",
+        "recognized_text": "是因为发型奇怪的小女孩接着是那个拿十字架的小姑娘",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3780.ogg",
+        "matched_line": "哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3388.ogg",
+        "matched_line": "哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈",
+        "match_score": 86
+    }
+]

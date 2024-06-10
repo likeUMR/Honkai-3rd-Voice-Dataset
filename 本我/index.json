@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_6.ogg",
+        "matched_line": "有话以后再说吧，看看你现在在什么地方！",
+        "recognized_text": "以后再说吧看看你现在在什么地方",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_57.ogg",
+        "matched_line": "她们是你的一部分，明白没？没时间耽搁了，一旦你的脑信号波动传出去，他很快就会发现的……",
+        "recognized_text": "他们是你的一部分明白没时间耽搁了一下你的脑子好不都传出去他很快就会发现的",
+        "match_score": 76
+    }
+]

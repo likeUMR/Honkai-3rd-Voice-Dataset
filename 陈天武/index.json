@@ -1,0 +1,224 @@
+[
+    {
+        "audio_file": "AUDIO_3_5_3_6_1369.ogg",
+        "matched_line": "安娜……",
+        "recognized_text": "安娜",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_940.ogg",
+        "matched_line": "更可怕的是，如果被它们咬到，你的身体也会开始变异。",
+        "recognized_text": "更可怕的是如果被它们咬到你的身体也会开始变异",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1087.ogg",
+        "matched_line": "所以，不管你答不答应，我都会追随你的。",
+        "recognized_text": "所以不管你答不答应我都会追随你的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1077.ogg",
+        "matched_line": "能在末日中遇到你，是我生命中最幸运的事情。",
+        "recognized_text": "那在末日中遇到你是我生命中最幸运的事情",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1079.ogg",
+        "matched_line": "我有要寻找的家人，有还要去完成的事。",
+        "recognized_text": "我要寻找的家人又还要去完成的事",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_956.ogg",
+        "matched_line": "看来，女武神和普通的女孩子，也没什么区别。",
+        "recognized_text": "看来你有神和普通的女孩子也没什么区别",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_960.ogg",
+        "matched_line": "是的…浑身腐烂，还有恶臭，普通的手段都无法杀死它们。",
+        "recognized_text": "是的浑身腐烂还有恶臭扑腾的手段都无法杀死他们",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1130.ogg",
+        "matched_line": "安娜，我会去找你的，这根项链……",
+        "recognized_text": "我会去找你的这根项链",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1056.ogg",
+        "matched_line": "安娜，如果带着我的话，我们都逃不出去。",
+        "recognized_text": "如果带着我的话我们都逃不出去",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1052.ogg",
+        "matched_line": "我们来打个赌吧。",
+        "recognized_text": "我们来打个赌吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_963.ogg",
+        "matched_line": "而且更恐怖的是……",
+        "recognized_text": "而且更恐怖的事",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_943.ogg",
+        "matched_line": "你的手在颤抖。",
+        "recognized_text": "你的手在颤抖",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_939.ogg",
+        "matched_line": "原来你害怕这种吗？",
+        "recognized_text": "原来你害怕这种吗",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1131.ogg",
+        "matched_line": "现在，她还被困在那片废墟里……",
+        "recognized_text": "现在还被困在那片废墟里",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1359.ogg",
+        "matched_line": "两年……",
+        "recognized_text": "两年",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1128.ogg",
+        "matched_line": "安娜，拜托了。请帮我找找她的下落吧……",
+        "recognized_text": "拜托了请帮我找找他的下落吧",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1086.ogg",
+        "matched_line": "别认真，我开玩笑的。",
+        "recognized_text": "别认真我开玩笑的",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_959.ogg",
+        "matched_line": "原来如此……我还以为是和丧尸游戏一样的东西。",
+        "recognized_text": "转来首次我还以为是和丧尸游戏一样的东西",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1126.ogg",
+        "matched_line": "她叫陈天文，是我的妹妹，我要寻找的家人。",
+        "recognized_text": "他就成天玩是我的妹妹我要寻找的家人",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_944.ogg",
+        "matched_line": "丧失理智…变成和它们一样的行尸走肉。",
+        "recognized_text": "丧失理智变成和他们一样的形式早上",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1066.ogg",
+        "matched_line": "安娜，不用管我……如果你一个人的话应该能摆脱它们。",
+        "recognized_text": "不用管我如果你一个人的话应该能摆脱他们",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1082.ogg",
+        "matched_line": "怎么样，是不是放松一些了？",
+        "recognized_text": "怎么样是不是放松一下",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1358.ogg",
+        "matched_line": "我妹妹，她有消息么？",
+        "recognized_text": "我妹妹他有消息吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1062.ogg",
+        "matched_line": "是你一直陪在我身边，告诉我不要放弃，告诉我继续坚持，我才能撑到这里。",
+        "recognized_text": "是你一直陪在我身边他说不要放弃告诉我继续坚持我才能撑到这里",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1075.ogg",
+        "matched_line": "如果不是这样的身份，你还会救我么？",
+        "recognized_text": "如果不是这样的身份你还会救我吗",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1063.ogg",
+        "matched_line": "安娜，我不会这么简单地死去。",
+        "recognized_text": "我不会这么简单的死去",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1071.ogg",
+        "matched_line": "别担心。我会想办法隐藏自己，等你找到援军后再来救我。",
+        "recognized_text": "给我我会想办法隐藏自己等你找到援军后再来救我",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1139.ogg",
+        "matched_line": "抱歉……如果可以的话，我也想和你一起去找她……",
+        "recognized_text": "如果可以的话我也想和你一起去找他",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_955.ogg",
+        "matched_line": "你在…害怕么？",
+        "recognized_text": "你在害怕吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_938.ogg",
+        "matched_line": "这场灾难的确很可怕。人类变成怪物互相攻击，奇怪的猛兽在街道上横行……",
+        "recognized_text": "这场灾难的确很可怕省内变成怪物互相攻击奇怪的猛兽在街道上横行",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_964.ogg",
+        "matched_line": "只能破坏它们的脑袋或者用火烧成焦炭。",
+        "recognized_text": "只能破坏他们的脑袋或者用火烧成焦炭",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1061.ogg",
+        "matched_line": "我说的是实话。因为有你，我才有了活下去的机会。",
+        "recognized_text": "我说的是实话因为有你我才有了活下去的机会",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1057.ogg",
+        "matched_line": "就因为你是女武神，所以必须履行自己的职责吗？",
+        "recognized_text": "就因为你是女武神所以必须履行自己的职责",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1070.ogg",
+        "matched_line": "所以，我不会轻易死去的……相信我。",
+        "recognized_text": "所以我不会轻易死去的相信我",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_953.ogg",
+        "matched_line": "我叫陈天武，你呢？",
+        "recognized_text": "我叫陈天国你呢",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1058.ogg",
+        "matched_line": "嗯。如果我们都活了下来，你就和我约会吧。",
+        "recognized_text": "如果我们都活了下来你就和我约会吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1133.ogg",
+        "matched_line": "没关系，我不能总是把问题推给你……",
+        "recognized_text": "没关系我不能总是把问题推给你",
+        "match_score": 90
+    }
+]

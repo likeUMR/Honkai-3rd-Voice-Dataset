@@ -1,0 +1,74 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4744.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生什么",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2608.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生了什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4341.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "枪手发生了什么",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9653.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生了什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4380.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生了什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3094.ogg",
+        "matched_line": "看起来是个又美丽又温柔的人，她真的是女武神吗？",
+        "recognized_text": "看起来是个又美丽又温柔的人唉真的是你有什么",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8824.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生了什么事",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2881.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生了什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3500.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "愤怒的斯发生了什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1150.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生了什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_622.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生了什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1518.ogg",
+        "matched_line": "发生了什么？",
+        "recognized_text": "发生了什么",
+        "match_score": 91
+    }
+]

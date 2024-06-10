@@ -1,0 +1,260 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_5453.ogg",
+        "matched_line": "好长啊。",
+        "recognized_text": "好啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_133.ogg",
+        "matched_line": "不要太勉强自己呀，赤鸢。",
+        "recognized_text": "你不要太勉强自己",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_810.ogg",
+        "matched_line": "不知道呢。",
+        "recognized_text": "不知道",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3907.ogg",
+        "matched_line": "不知道呢。",
+        "recognized_text": "不知道你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5261.ogg",
+        "matched_line": "不知道呢。",
+        "recognized_text": "不知道你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1589.ogg",
+        "matched_line": "不知道呢。",
+        "recognized_text": "不知道你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10047.ogg",
+        "matched_line": "不知道呢。",
+        "recognized_text": "不知道",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2028.ogg",
+        "matched_line": "好长啊。",
+        "recognized_text": "哇好长啊",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1465.ogg",
+        "matched_line": "辛苦你了，小羲——",
+        "recognized_text": "辛苦你了小学",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_809.ogg",
+        "matched_line": "唉，结果都在博士的预料之中。",
+        "recognized_text": "结果都在博士的预料之中",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_799.ogg",
+        "matched_line": "真正的崩坏——还没有到来。",
+        "recognized_text": "真正的崩坏还没有到来",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_722.ogg",
+        "matched_line": "已经是这个月的第三次啦！",
+        "recognized_text": "已经是这个月的第三次了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_723.ogg",
+        "matched_line": "怎么可能！你还是人类啊，是人类就需要休息！不管大脑还是身体都要适当地放放假，才能健健康康的嘛。",
+        "recognized_text": "怎么可能你还是人类啊使人累就需要休息不管大脑还是身体都适当的放放假才能健健康康的",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_793.ogg",
+        "matched_line": "好大的家伙！这回该给它起个什么名字呢……",
+        "recognized_text": "好大的家伙这回该给它起个什么名字呢",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1456.ogg",
+        "matched_line": "如果没有人看护着，她一定会慢慢走向那个使命吧。她就是那样的人。",
+        "recognized_text": "如果没有人看护着他一定会慢慢走向那个使命吧他就是那样的人",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_792.ogg",
+        "matched_line": "我们都会死的，但赤鸢还会活下去。她还会遇到很多很多人，不是吗？她们不会知道博士的计划，她们会真心地对待她。",
+        "recognized_text": "我们都会死的但愿还会活下去她还会遇到很多很多人不是吗他们不会知道博士的计划他们会真心的对待她",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1452.ogg",
+        "matched_line": "你就用自己的眼睛看着精卫吧，她看上去有些冷，但实际上是个很好相处的人。",
+        "recognized_text": "用自己的眼睛看着吃烟吧她看上去有些冷但实际上是个很好相处的人",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_803.ogg",
+        "matched_line": "不是为了消灭崩坏，不是为了守护人类而活。不是梅博士的工具。就算违背命令，我也想阻止赤鸢成为“那个样子”。",
+        "recognized_text": "不是为了消灭崩坏不是为了守护人类而活不是不是的工具三维的命令我也想阻止支援成为那个样子",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2027.ogg",
+        "matched_line": "我们一直都在你身边呀。",
+        "recognized_text": "一直都在你身边呀",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_828.ogg",
+        "matched_line": "比起执行梅的计划，比起世界的新生……我更希望她能拥有属于自己的人生。",
+        "recognized_text": "比起之行美的计划比起世界的心声我更希望他能拥有属于自己的人生",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1450.ogg",
+        "matched_line": "是个冷酷又无情的残酷使命。直说了吧，我们不喜欢这件事。",
+        "recognized_text": "是个冷酷又无情的残酷使命直说了吧我们不喜欢这件事",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2036.ogg",
+        "matched_line": "有多久了呀？",
+        "recognized_text": "有多久呀",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1444.ogg",
+        "matched_line": "她有自己的人生，她应该拥有自己的选择。",
+        "recognized_text": "还有自己的人生她应该拥有自己的选择",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2463.ogg",
+        "matched_line": "嗨！",
+        "recognized_text": "嗨",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3114.ogg",
+        "matched_line": "嗨！",
+        "recognized_text": "嗨",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_810.ogg",
+        "matched_line": "那就好呀，说明这只是一次偶然发生的异常……",
+        "recognized_text": "那就好呀说明这只是一次偶然发生的一场",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_813.ogg",
+        "matched_line": "……她这么觉得吗？",
+        "recognized_text": "还这么觉得吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_719.ogg",
+        "matched_line": "真是的，还是睡得太少啦。",
+        "recognized_text": "嗯真是的还是睡得太少了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_755.ogg",
+        "matched_line": "你们两个别聊天啦！妖兽的头儿来了！",
+        "recognized_text": "你们两个别聊天了又说头来了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1440.ogg",
+        "matched_line": "…没有的话，也行吧，毕竟我也不会知道啦。",
+        "recognized_text": "没有的话也行吧毕竟我也不会知道了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_798.ogg",
+        "matched_line": "华开始产生自我认知的障碍了，她排斥记忆操作，这已经表现得很清楚了。",
+        "recognized_text": "开始产生自我认知的障碍了他才吃鸡操作这已经表现得很清楚了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3701.ogg",
+        "matched_line": "好长啊。",
+        "recognized_text": "好啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_807.ogg",
+        "matched_line": "我们还有足够的时间推进“火种”计划，不是吗？你们两个，干嘛还愁眉苦脸的啦。",
+        "recognized_text": "我们还有足够的时间推进活动计划不是吗哎呀你们两个干嘛还愁眉苦脸的",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_806.ogg",
+        "matched_line": "这是她的故事，我们的戏份就到这里结束啦。",
+        "recognized_text": "这是他的故事我们的细分就到这里结束了",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2042.ogg",
+        "matched_line": "不过，你的时间并不会停止。",
+        "recognized_text": "不过你的时间并不会停止",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_811.ogg",
+        "matched_line": "这就够啦，姐姐。",
+        "recognized_text": "这就够了姐姐",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_751.ogg",
+        "matched_line": "不知道呢。",
+        "recognized_text": "不知道的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_818.ogg",
+        "matched_line": "姐姐呢？你的看法呢？",
+        "recognized_text": "姐姐呢你的看法呢",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1457.ogg",
+        "matched_line": "我相信你也会喜欢上她的。",
+        "recognized_text": "我相信你也会喜欢上它的",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2031.ogg",
+        "matched_line": "真的很对不起，丢下你一个人。",
+        "recognized_text": "真的很对不起丢下你一个人",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1460.ogg",
+        "matched_line": "毕竟我俩都背叛了上级，也没什么脸面要别人听咱们的话。",
+        "recognized_text": "毕竟我俩都背叛了上级也没什么脸面让别人听咱们的话",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2025.ogg",
+        "matched_line": "不知道呢。",
+        "recognized_text": "不知道呢",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_727.ogg",
+        "matched_line": "不要太勉强自己呀，赤鸢。",
+        "recognized_text": "不要太勉强自己啊十元",
+        "match_score": 64
+    }
+]

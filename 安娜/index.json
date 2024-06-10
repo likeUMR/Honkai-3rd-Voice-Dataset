@@ -1,0 +1,206 @@
+[
+    {
+        "audio_file": "AUDIO_3_8_4_0_526.ogg",
+        "matched_line": "主教大人……",
+        "recognized_text": "主教大人",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1023.ogg",
+        "matched_line": "我将效忠天命，效忠主教，为了崇高的目标奉献我的一生。",
+        "recognized_text": "我将效忠天命笑中主将为了崇高的目标奉献我的一生",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1060.ogg",
+        "matched_line": "但是…我不能抛下你……",
+        "recognized_text": "我不能抛下你",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1164.ogg",
+        "matched_line": "永别了……",
+        "recognized_text": "永别了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_946.ogg",
+        "matched_line": "坚持住！坚持住！",
+        "recognized_text": "坚持住坚持住",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1182.ogg",
+        "matched_line": "我想以人类的身份……死去……",
+        "recognized_text": "我想一人类的身份死去",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1055.ogg",
+        "matched_line": "真是个奇怪的人……",
+        "recognized_text": "是个奇怪的人",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1025.ogg",
+        "matched_line": "我将把我的所有献于人类，在消灭崩坏的战斗中不惜一切代价。",
+        "recognized_text": "我想把我的所有限于人类在消灭崩坏的战斗中不惜一切代价",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_973.ogg",
+        "matched_line": "才不是！我可没说害怕！只是恶心而已……",
+        "recognized_text": "才不是我可没说害怕只是恶心而已",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1258.ogg",
+        "matched_line": "抱歉……我是天命的女武神，我的使命是消灭崩坏。",
+        "recognized_text": "我是甜蜜的女武神我的使命是消灭崩坏",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_965.ogg",
+        "matched_line": "嗯，你别担心。我是天命的女武神，从崩坏中保护你是我的职责。",
+        "recognized_text": "你别担心我是天命的女武神总共快充保护你是我的职责",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1138.ogg",
+        "matched_line": "那条项链……你不用还给我了……",
+        "recognized_text": "那条项链你不用还给我了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1059.ogg",
+        "matched_line": "真不知道都到这个时候了，你的脑子里到底在想什么！",
+        "recognized_text": "真不知道都到这个时候了你的脑子里到底在想什么",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_971.ogg",
+        "matched_line": "啊……对不起，对一般人来说的确很难理解。",
+        "recognized_text": "对不起对一般人来说的确很难理解",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1183.ogg",
+        "matched_line": "陈天武……已经够了……是时候结束了……",
+        "recognized_text": "今天五已经够了是时候结束了",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1243.ogg",
+        "matched_line": "请你忘了我吧……",
+        "recognized_text": "请忘了我吧",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1038.ogg",
+        "matched_line": "我想做的事…不是这样的！",
+        "recognized_text": "我想做的事不是这样的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1132.ogg",
+        "matched_line": "这张照片是……？",
+        "recognized_text": "这张照片是",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1084.ogg",
+        "matched_line": "不，我不能这样做……！",
+        "recognized_text": "我不能这样做",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_968.ogg",
+        "matched_line": "不，不客气！",
+        "recognized_text": "不客气",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1085.ogg",
+        "matched_line": "对不起…明明已经走到这一步了……我可能…还是保护不了你……",
+        "recognized_text": "对不起你们已经走到这一步了可能还是保护不了你",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1127.ogg",
+        "matched_line": "对不起，我该走了……",
+        "recognized_text": "对不起我该走了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1027.ogg",
+        "matched_line": "我将为深陷灾难的人带来希望，为每一个痛苦的受难者而战。",
+        "recognized_text": "我想会深陷灾难的人带来希望为每一个痛苦的受难者而战",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1034.ogg",
+        "matched_line": "我还有更重要的任务…不能在这里停留……",
+        "recognized_text": "我还有更重要的任务不能在这里停留",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1067.ogg",
+        "matched_line": "所以，我接受你的赌约。",
+        "recognized_text": "所以我接受你的图片",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1073.ogg",
+        "matched_line": "但是我也希望你能相信我，我们会一起离开这里……",
+        "recognized_text": "但是我希望你能相信我我们会一起离开这里",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1050.ogg",
+        "matched_line": "真是的！都这个时候了就别开玩笑了！",
+        "recognized_text": "绅士的都这个时候了就别开玩笑了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1026.ogg",
+        "matched_line": "不畏艰难，不惧伤痛，不怕死亡。",
+        "recognized_text": "不会艰难不去伤痛不怕死亡",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1054.ogg",
+        "matched_line": "这次恐怕…真的逃不出去了……",
+        "recognized_text": "妻子恐怕真的逃不出去了",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_967.ogg",
+        "matched_line": "坚持住…不要放弃，你一定会活下去的！",
+        "recognized_text": "坚持住不要放弃你一定会活下去的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_954.ogg",
+        "matched_line": "为什么忽然说这种话题，还有这种比死士还恶心的生物吗……？",
+        "recognized_text": "为什么忽然说这种话题还有这种彼此释怀恶心的生物吗",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1253.ogg",
+        "matched_line": "陈天武，这次灾难只不过是你生命中的一次意外。",
+        "recognized_text": "3500去次灾难只不过是你生命中的一次意外",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_941.ogg",
+        "matched_line": "安娜…安娜·沙尼亚特。",
+        "recognized_text": "安娜安娜沙尼亚特",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1024.ogg",
+        "matched_line": "从今日起，我愿意成为天命荣耀的女武神之一！",
+        "recognized_text": "从今日起火线已成为天命荣耀的女武神之一",
+        "match_score": 80
+    }
+]

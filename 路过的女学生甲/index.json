@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_1019.ogg",
+        "matched_line": "哎，放学后咱们去哪？",
+        "recognized_text": "放学后咱们去哪",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1013.ogg",
+        "matched_line": "明天你想睡多久都行啊，一周就这一天可以离校，当然要玩个痛快啦。我都想好了…",
+        "recognized_text": "哎呀明天你想睡多久都行啊一周就这一天可以理想当然要玩个痛快啦我都想好了",
+        "match_score": 86
+    }
+]

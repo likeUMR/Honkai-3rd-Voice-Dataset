@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_181.ogg",
+        "matched_line": "难道是？",
+        "recognized_text": "他们难道是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1527.ogg",
+        "matched_line": "难道是？",
+        "recognized_text": "难道",
+        "match_score": 67
+    }
+]

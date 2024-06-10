@@ -1,0 +1,26 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4696.ogg",
+        "matched_line": "是啊。",
+        "recognized_text": "是啊",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1551.ogg",
+        "matched_line": "是啊。",
+        "recognized_text": "是啊",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2586.ogg",
+        "matched_line": "是啊。",
+        "recognized_text": "是谁啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1437.ogg",
+        "matched_line": "是啊。",
+        "recognized_text": "是啊",
+        "match_score": 80
+    }
+]

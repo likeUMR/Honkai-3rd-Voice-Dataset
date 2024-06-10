@@ -1,0 +1,896 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_596.ogg",
+        "matched_line": "是吗？那我就放心了。",
+        "recognized_text": "是吗那我就放心了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4770.ogg",
+        "matched_line": "继续前进吧。",
+        "recognized_text": "我们继续前进吧",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5118.ogg",
+        "matched_line": "舰长才是最忙的那个人吧？难得空闲下来，请去休息吧。",
+        "recognized_text": "县长才是最忙的那个人吧难得空闲下来请去休息吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1134.ogg",
+        "matched_line": "对不起，舰长，是你知道的太多了...",
+        "recognized_text": "对不起现场是你知道的太多了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4911.ogg",
+        "matched_line": "本来还担心如果舰长不喜欢的话怎么办……",
+        "recognized_text": "本来还担心如果现场不喜欢的话怎么办",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9691.ogg",
+        "matched_line": "你是谁？你怎么会知道我的名字？",
+        "recognized_text": "你怎么会知道我的名字",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1033.ogg",
+        "matched_line": "在下八重樱，不是江湖骗子。",
+        "recognized_text": "这下八重樱不是江湖骗子",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1055.ogg",
+        "matched_line": "经过测量，舰长的确比刚才长高了不少，括号，包含耳朵。",
+        "recognized_text": "经过测量进展的确比钢材长高了不少括号包含耳朵",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5113.ogg",
+        "matched_line": "也许吧。",
+        "recognized_text": "也许吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1351.ogg",
+        "matched_line": "不用担心我，快把钱收回去吧。",
+        "recognized_text": "不用担心我快把钱收回去吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_918.ogg",
+        "matched_line": "在下八重樱，八重诊所的护士。",
+        "recognized_text": "在下八重樱八成诊所的护士",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1184.ogg",
+        "matched_line": "那边有一片很漂亮的樱花树林，不如去看看吧。",
+        "recognized_text": "那边有一片很漂亮的樱花树林不如去看看吧",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1064.ogg",
+        "matched_line": "舰长，你来帮我测试药水了吗？太感谢你了。",
+        "recognized_text": "进展你来帮我测试药水了吗太感谢你了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1171.ogg",
+        "matched_line": "那已经是500年前的事了。",
+        "recognized_text": "那已经是五百年前的事了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1030.ogg",
+        "matched_line": "感情是要靠自己去争取的，就算遭遇了千万种坎坷，也一定不要放弃。",
+        "recognized_text": "感情是要靠自己去争取的就算遭遇了千万种坎坷也一定不要放弃",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1174.ogg",
+        "matched_line": "不，正是因为这些经历，才有了现在的我。",
+        "recognized_text": "正是因为这些经历才有了现在的我",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4901.ogg",
+        "matched_line": "神社的事差不多忙完了，想起舰长说过邀请我来圣芙蕾雅学园看看……",
+        "recognized_text": "神兽的事差不多忙完了想起介绍说过邀请我来送福利亚学院看看",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1034.ogg",
+        "matched_line": "另外，这里也会出售一些我闲暇时开发的药水，希望能够帮到你们。",
+        "recognized_text": "没关系这位舰长如果哪里不舒服的话也可以来检查一下另外这里会出售一些我闲暇时开发的药水希望能够帮到你们",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1185.ogg",
+        "matched_line": "这种宁静的感觉，让我回想起了过去。",
+        "recognized_text": "这种年轻的感觉让我回想起了过去",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1067.ogg",
+        "matched_line": "她告诉我，她是为了正义才需要这瓶药水的。",
+        "recognized_text": "他告诉我他是为了正义才需要这瓶药水的",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1070.ogg",
+        "matched_line": "不如舰长再来一瓶成长药水吧？我这里还有一些。",
+        "recognized_text": "现场再来一瓶成长药水吧我这里还有一些",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1135.ogg",
+        "matched_line": "看来还是失败了…",
+        "recognized_text": "看来还是失败了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5720.ogg",
+        "matched_line": "既然舰长喜欢的话，等到春天花开的时候，再来尝一次吧。",
+        "recognized_text": "前经常喜欢的话等到春天花开的时候再唱一次吧",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2097.ogg",
+        "matched_line": "外伤我已经帮她治好了。至于要不要拆穿她，这个选择就交给舰长了。",
+        "recognized_text": "卫生我已经帮她治好了要不要拆穿他这个选择就交给店长了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10421.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1081.ogg",
+        "matched_line": "舰长午安。",
+        "recognized_text": "县长午安",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1124.ogg",
+        "matched_line": "咦，我头上有这样的东西吗？",
+        "recognized_text": "我头上有这样的东西吗",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5020.ogg",
+        "matched_line": "仰望星空？好美的名字……",
+        "recognized_text": "仰望星空好美的名字",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1120.ogg",
+        "matched_line": "舰长感觉怎么样？",
+        "recognized_text": "现场感觉怎么样",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4908.ogg",
+        "matched_line": "我还准备了烤秋刀鱼和味增汤，请慢慢享用。",
+        "recognized_text": "我还准备了烤秋刀鱼和味增汤请慢慢享用",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1167.ogg",
+        "matched_line": "舰长，我真的帮到他们了吗？",
+        "recognized_text": "现场我真的帮到他们了吗",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1065.ogg",
+        "matched_line": "请不要利用药水做违法的事情，这可是舰长告诉我的。",
+        "recognized_text": "请不要利用药水做违法的事情这可是现场告诉我的",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1132.ogg",
+        "matched_line": "我发现舰长晕倒在路边，所以把你带回诊所治疗。",
+        "recognized_text": "我发现经常晕倒在路边所以把你带回诊所治疗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1068.ogg",
+        "matched_line": "完成了。",
+        "recognized_text": "完成了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5715.ogg",
+        "matched_line": "这只是一点小心意。",
+        "recognized_text": "具体是一点小心意",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5423.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6826.ogg",
+        "matched_line": "谢谢你的好意。",
+        "recognized_text": "我知道了谢谢你的好意",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1062.ogg",
+        "matched_line": "不，据我了解，沧海市有一种叫做吼姆的吉祥物，非常流行。",
+        "recognized_text": "据我了解沧海是有一种叫做洪武的吉祥物非常流行",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5173.ogg",
+        "matched_line": "……偶尔这样，也不错。",
+        "recognized_text": "偶尔这样也不错",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4903.ogg",
+        "matched_line": "嗯。而且，这种和大家热热闹闹聚在一起做料理的感觉…有点开心。",
+        "recognized_text": "而且这种和大家热热闹闹聚在一起做料理的感觉有点开心",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1128.ogg",
+        "matched_line": "前几日有一位白发双麻花辫的小姐向我订购智慧药水，想要变得更加聪明。",
+        "recognized_text": "前几日有一位白发双麻花辫的小姐向我订购智慧药水想要变得更加聪明我发现他甚至连乘法表都背不全",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5727.ogg",
+        "matched_line": "虽然极东没有这种传统，但既然我身处异乡，也得入乡随俗才行。",
+        "recognized_text": "虽然启动没有这种传统但既然我身处异乡也得入乡随俗才行",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1127.ogg",
+        "matched_line": "难道是药水的副作用吗？舰长，我听不懂你在说什么。",
+        "recognized_text": "难道是药水的副作用吗现场我听不懂你在说什么",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2096.ogg",
+        "matched_line": "TeRiRi，不管再怎么撒娇，药还是要吃的。",
+        "recognized_text": "不管再怎么撒娇药还是要吃的",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1164.ogg",
+        "matched_line": "500年过去了，我经历了各种各样的生离死别…",
+        "recognized_text": "五百年过去了我经历了各种各样的生离死别我看得太多了",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1183.ogg",
+        "matched_line": "但是我听别人说，摩天轮是要和最重要的人一起乘坐的...",
+        "recognized_text": "但是我听别人说摩天轮是要和最重要的人一起乘坐的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2095.ogg",
+        "matched_line": "可能是工作压力太大。",
+        "recognized_text": "可能是工作压力太大",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1187.ogg",
+        "matched_line": "每天忙着研究药水有些累了，想休息一下。",
+        "recognized_text": "每天晚上研就要睡有些累了想休息一下",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1051.ogg",
+        "matched_line": "那么舰长先到这里来测一下身高吧。然后喝下这瓶药水，休息一会儿。",
+        "recognized_text": "那么紧张先到这里来测一下身高吧然后喝下这瓶药水休息一会儿",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1172.ogg",
+        "matched_line": "好了，该回去了，还有很多人需要我们的帮助呢。",
+        "recognized_text": "好了该回去了还有很多人需要我们的帮助呢",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1674.ogg",
+        "matched_line": "这棵樱花树生病了，为了治好它，我需要舰长你的帮助。",
+        "recognized_text": "这棵樱花树生病了为了治好他我需要见着你的帮助",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3198.ogg",
+        "matched_line": "（松了口气）听说这座神社的御守和求签都十分灵验，",
+        "recognized_text": "听说这座神社的御守和求签都十分灵验让我来为现场求一支签吧",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5718.ogg",
+        "matched_line": "实在不好意思，我也是前不久才知道白色情人节的事。",
+        "recognized_text": "实在不好意思我也是前不久才知道情人节的事",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1136.ogg",
+        "matched_line": "这次制作药水花费了更多时间，而且...无法保证药物效果。",
+        "recognized_text": "这次制作药水花费了更多时间而且无法保证药物效果见长不如算了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1023.ogg",
+        "matched_line": "舰长，我还是不懂你在说什么。",
+        "recognized_text": "进展我还是不懂你在说什么",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3204.ogg",
+        "matched_line": "看来今年会是舰长平安顺遂、大吉大利的一年。",
+        "recognized_text": "看来今年会是现场平安顺遂大吉大利的一年",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2099.ogg",
+        "matched_line": "但你也感觉到了吧，她应该已经恢复记忆了。",
+        "recognized_text": "但你也感觉到了吧他应该已经恢复记忆了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1075.ogg",
+        "matched_line": "好像成功了。",
+        "recognized_text": "好像成功了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1076.ogg",
+        "matched_line": "是，刚才有一位蒙面的小姐向我订购了隐形药水，我正在研究药水的配方。",
+        "recognized_text": "刚才有一位蒙面的小姐向我订购的隐形药水或正在研究药水的配方",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1177.ogg",
+        "matched_line": "这段时间我真的很高兴，很久没有这么自由地生活过了。",
+        "recognized_text": "这段时间我真的很高兴很久没有这么自由的生活过了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1133.ogg",
+        "matched_line": "那就好，舰长注意不要太劳累了。",
+        "recognized_text": "那就好现场注意不要太劳累了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1035.ogg",
+        "matched_line": "世界上是没有恋爱药水的，抱歉，我无法调制出来。",
+        "recognized_text": "世界上是没有药水的抱歉我无法调制出来",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_909.ogg",
+        "matched_line": "光凭魔法怎么能让人不药而愈呢？除非那人没有得病。",
+        "recognized_text": "公平魔法怎么能让人不一而语呢除非那人没有得病",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1337.ogg",
+        "matched_line": "我不能收这么贵重的礼物，请不要为难我。",
+        "recognized_text": "我不能收这么贵重的礼物请不要为难我",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5596.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5719.ogg",
+        "matched_line": "如果舰长能喜欢就好了。",
+        "recognized_text": "如果进展能喜欢就好了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5716.ogg",
+        "matched_line": "这种点心也能用樱花花瓣作为材料，样子和口感都会变得更好。",
+        "recognized_text": "这种点心也能用樱花花瓣作为材料样子和口感都会变得更好",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1673.ogg",
+        "matched_line": "请进入这棵樱花树的梦境之中，帮我找到它的病因吧。",
+        "recognized_text": "请清楚这棵樱花树的梦境之中帮我找到他的病因",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5123.ogg",
+        "matched_line": "所以我们想把厨房打扫一下，让大家能在干净整洁的厨房里准备年夜饭。",
+        "recognized_text": "这几天大家都很忙在厨房里尝试各种菜谱堆积了不少碗筷所以我们想把厨房打扫一下让大家能在干净整洁的厨房里准备年夜饭",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1131.ogg",
+        "matched_line": "舰长现在感觉如何？",
+        "recognized_text": "镇长现在感觉如何",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5721.ogg",
+        "matched_line": "听说根据西方的某种习俗，今天是向信赖的人献上点心表达感谢的日子。",
+        "recognized_text": "听说根据西方的某种习俗今天是向信赖的人向上点心表达感谢的日子",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2086.ogg",
+        "matched_line": "但她继续装作失忆，可能也有她自己的原因吧。",
+        "recognized_text": "让她继续装作失忆可能也有她自己的原因吧",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10436.ogg",
+        "matched_line": "这是最后一个石像了。",
+        "recognized_text": "这里是最后一块石碑了",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_917.ogg",
+        "matched_line": "这位小姐闯进诊所，和我争执该如何治病。",
+        "recognized_text": "这位小姐闯进诊所和我争执该如何治病",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1350.ogg",
+        "matched_line": "舰长，我没有收下的理由。",
+        "recognized_text": "我没有收下的理由",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4912.ogg",
+        "matched_line": "馅料可以选用蔬菜、肉、蛋、鱼等各种熟食，也可以根据自己的喜好来选择。",
+        "recognized_text": "吃饭啦用米饭加入米醋拌匀加入馅料后捏紧包上海苔就能使用馅料可以选用蔬菜肉蛋鱼等各种熟食也可以根据自己的喜好来选择",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1079.ogg",
+        "matched_line": "舰长放心，那位小姐并不是坏人。",
+        "recognized_text": "现场放心那位小姐并不是坏人",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5012.ogg",
+        "matched_line": "我想应该是卡莲的新菜做好了。",
+        "recognized_text": "我想应该是他的新菜做好了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3112.ogg",
+        "matched_line": "完成了。",
+        "recognized_text": "完成",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4900.ogg",
+        "matched_line": "不知不觉就…舰长讨厌这样的吗？",
+        "recognized_text": "不知不觉就经常讨厌这样的吗",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3199.ogg",
+        "matched_line": "咦？舰长，你的脸色看起来有些不妙？",
+        "recognized_text": "现场你的脸色看起来有些不妙",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1073.ogg",
+        "matched_line": "那麻烦舰长帮忙试用一下了。",
+        "recognized_text": "那麻烦检查帮忙试用一下",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1063.ogg",
+        "matched_line": "为了保证测量的精准性，舰长请不要乱动。",
+        "recognized_text": "为了保证测量的精准性现场请不要乱动",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3197.ogg",
+        "matched_line": "每一次樱花盛开聚散都是无法重复的机缘。",
+        "recognized_text": "樱花树我想到素颜气垫每一次樱花盛开聚散都是无法重复的资源",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5723.ogg",
+        "matched_line": "今后还要一起战斗很久。请多指教，舰长。",
+        "recognized_text": "今后还要一起战斗很久请多指教县长",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1056.ogg",
+        "matched_line": "前两天有个特别想长高的白发小女孩来向我订购成长药水，刚好制作完成了，",
+        "recognized_text": "前两天有个特别想长高的白发小女孩儿来向我订购成长药水刚好制作完成了麻烦现场测试一下效果吧",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1181.ogg",
+        "matched_line": "那舰长想先去哪里？",
+        "recognized_text": "那见长想先去哪里",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1182.ogg",
+        "matched_line": "舰长以后还会帮我试药吗？",
+        "recognized_text": "进场以后还会帮我试药吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1077.ogg",
+        "matched_line": "舰长请看一眼镜子。",
+        "recognized_text": "现场请看一眼镜子",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1129.ogg",
+        "matched_line": "舰长你到底怎么了？",
+        "recognized_text": "现场你到底怎么了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1052.ogg",
+        "matched_line": "舰长说的也有道理，那看来这次的药水制作失败了。",
+        "recognized_text": "现场说的也有道理那看来这次的药水制作失败了该去准备下一次制作的材料",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1080.ogg",
+        "matched_line": "制作的时候，如果心中充满爱与希望，就算遇到困难，也能很快找到解决方法。",
+        "recognized_text": "制作的时候如果心中充满爱与希望就算遇到困难也能很快找到解决方法这是那位蒙面的小姐告诉我的",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1126.ogg",
+        "matched_line": "看来舰长太聪明，已经看到了这个世界的本质。那就不得不使用这个方法了。",
+        "recognized_text": "看来现场太聪明已经看到了这个世界的本质那就不得不使用这个方法了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4913.ogg",
+        "matched_line": "稍微有点，安心了。",
+        "recognized_text": "稍微有点点儿心了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4902.ogg",
+        "matched_line": "一点粗茶淡饭，不成敬意。",
+        "recognized_text": "一点粗茶淡饭不成敬意",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_144.ogg",
+        "matched_line": "舰长你到底怎么了？",
+        "recognized_text": "恐龙cc你到底怎么了",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9113.ogg",
+        "matched_line": "谢谢你的好意。",
+        "recognized_text": "谢谢你的好意我会小心的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1341.ogg",
+        "matched_line": "舰长！快来帮帮我，这位蒙面的小姐一直想把这些钱塞给我，我真的不能接受啊",
+        "recognized_text": "现场快来帮帮我这位蒙面的小姐一直想把这些钱发给我我真的不能接受啊",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1078.ogg",
+        "matched_line": "既然同样是为了正义和希望，那我当然要帮她这个忙。",
+        "recognized_text": "既然同样是为了正义和希望但我当然要帮她这个忙",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5717.ogg",
+        "matched_line": "是吗？那我就放心了。",
+        "recognized_text": "是吗那我就放心了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1461.ogg",
+        "matched_line": "在下也略懂一些剑术，很荣幸能有机会和你切磋一二。",
+        "recognized_text": "浮华小姐听说你是因为武术高手在下也略懂一些技术很荣幸能有机会和你切磋一下",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5729.ogg",
+        "matched_line": "这是极东习俗里的小点心，配着茶一起吃味道会更好。",
+        "recognized_text": "这是激动习俗里的小点心配着茶一起吃味道会更好",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1028.ogg",
+        "matched_line": "最近接到了很多开发新药水的订单，但是我不能确定调配出的药水效果。",
+        "recognized_text": "最近接到了很多开发新药水的订单但是我不能确定调配出的药水效果所以我想请现场帮忙测试一下新药水",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1347.ogg",
+        "matched_line": "舰长不是说不能私吞吗？",
+        "recognized_text": "现场不是说不能私吞吗",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_920.ogg",
+        "matched_line": "魔法是不可能治愈人类的。",
+        "recognized_text": "魔法师不可能治愈人类的",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1021.ogg",
+        "matched_line": "对不起舰长，我不明白“欧气”是什么意思。",
+        "recognized_text": "对不起我不明白ot是什么意思",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1059.ogg",
+        "matched_line": "时间差不多了，舰长请来这边再测量一次身高。",
+        "recognized_text": "时间差不多了县长请来这边再测量一次身高",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1173.ogg",
+        "matched_line": "我曾经因为心魔，失去了一切——我的家乡，我的家人，我所有的回忆。",
+        "recognized_text": "我曾经因为心魔失去了一切我的家乡或者家人和所有的回忆",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6303.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1054.ogg",
+        "matched_line": "…嗯，看来药水的效果还可以。",
+        "recognized_text": "看来药水的效果还可以",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2081.ogg",
+        "matched_line": "乖，吃完药就不会头痛了，这是让TeRiRi马上能恢复成魔法少女的魔法特效药！",
+        "recognized_text": "吃药就不会头痛了就是让蔡丽丽马上能恢复成魔法少女的魔法特效",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1170.ogg",
+        "matched_line": "看到舰长这么高兴，我也很开心。",
+        "recognized_text": "看到现场这么高兴我也很开心",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1462.ogg",
+        "matched_line": "符华小姐武艺卓绝，在下甘拜下风。",
+        "recognized_text": "富华小姐五一卓绝在下甘拜下风",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2094.ogg",
+        "matched_line": "所以装成魔法少女也是她释放压力的一种方式。",
+        "recognized_text": "所以装成魔法少女也是他释放压力的一种方式",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1071.ogg",
+        "matched_line": "这些对外表产生影响的药水，3天就会失效，舰长不必担心。",
+        "recognized_text": "这些对外表产生影响的药水三天就会失效现场不必担心",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8927.ogg",
+        "matched_line": "你总算醒过来了。",
+        "recognized_text": "妻子你醒过来了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4762.ogg",
+        "matched_line": "谢谢舰长的邀请，有时间我一定会去的。 对了，我刚做了些饭团，想麻烦舰长帮我带给学园的大家…",
+        "recognized_text": "谢谢店长的邀请有时间我一定会去的对了我刚做了些饭团想麻烦现场帮我带给学员的大家",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1025.ogg",
+        "matched_line": "请放心，这些药水都是按照严格标准进行配制的。",
+        "recognized_text": "请放心这些药水都是按照严格标准进行配置的",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1675.ogg",
+        "matched_line": "拜托你了。",
+        "recognized_text": "拜托你了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4795.ogg",
+        "matched_line": "人好多…不过，很热闹。",
+        "recognized_text": "有好多不过很热闹",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1061.ogg",
+        "matched_line": "是的，和我头上一样的狐耳。",
+        "recognized_text": "是的和我头上一样的活儿",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1348.ogg",
+        "matched_line": "谢谢你的好意。",
+        "recognized_text": "谢谢你的好意",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5122.ogg",
+        "matched_line": "谢谢。请帮我把这些搬到洗碗池那边吧，卡莲在洗。",
+        "recognized_text": "谢谢请帮我把这些搬到洗碗池那边吧可怜再洗",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1470.ogg",
+        "matched_line": "舰长生病了吗，需要我为你诊断一下吗？",
+        "recognized_text": "现场生病了吗需要我为你诊断一下吗",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1168.ogg",
+        "matched_line": "谢谢舰长，你果然是个好人，认识你我很高兴。",
+        "recognized_text": "谢谢县长你果然是个好人认识你我很高兴",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1060.ogg",
+        "matched_line": "舰长有哪里感觉不舒服吗？",
+        "recognized_text": "进场有哪里感觉不舒服吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2100.ogg",
+        "matched_line": "外伤基本已经痊愈了，而舰长之前说的关于她失忆的事情...",
+        "recognized_text": "卫生基本已经痊愈了而进场之前说的关于她失忆的事情",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1165.ogg",
+        "matched_line": "舰长不要难过，你当然也是很重要的人之一。",
+        "recognized_text": "现场不要难过你当然也是很重要的人之一我已经和萌萌的小姐约好了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4904.ogg",
+        "matched_line": "对了舰长，要吃饭团吗？作为谢礼可能不太够……",
+        "recognized_text": "去了现场要吃饭团吗作为县里可能不太够",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5117.ogg",
+        "matched_line": "舰长…真是个温柔的人。",
+        "recognized_text": "现场真是个温柔的人",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1066.ogg",
+        "matched_line": "那我先离开了，舰长请自便。",
+        "recognized_text": "那我先离开了见长请自便",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1074.ogg",
+        "matched_line": "舰长想要做什么？",
+        "recognized_text": "现场想要做什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1137.ogg",
+        "matched_line": "姑且把药水制作出来了，还不知道效果怎么样。",
+        "recognized_text": "姑且把钥匙制作出来了还不知道效果怎么样",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1469.ogg",
+        "matched_line": "…这个时代的科技真是神奇，这样投入硬币就可以了吗？",
+        "recognized_text": "这个时代的科技真是神奇这样投入硬币就可以了吗",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4761.ogg",
+        "matched_line": "我曾听人说过入乡随俗这个道理。 看着街上人来人往，所有人都沉浸在过年的氛围中，让我也不由得想要加入他们了。",
+        "recognized_text": "我曾听人说过这相随素这个道理看着街上人来人往所有人都沉浸在过年的氛围中让我也不由的想加入他们了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5731.ogg",
+        "matched_line": "准备的有点仓促，可能会有做得不够好的地方，希望舰长能谅解。",
+        "recognized_text": "准备的有点仓促可能会有做的不够好的地方希望家长能谅解",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1349.ogg",
+        "matched_line": "虽然诊所的患者不多，但这些特制药水的销量还是很高的，所以经营并不困难。",
+        "recognized_text": "虽然诊所的患者不多但这些特质药水的销量还是很高的所以经营并不困难",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1072.ogg",
+        "matched_line": "不过这次制作的药剂很成功，我要赶紧去联系那位蒙面的小姐了。",
+        "recognized_text": "不过这次制作的药剂很成功我要赶紧去联系那位蒙面的小姐了",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_844.ogg",
+        "matched_line": "唔…还是没反应啊。",
+        "recognized_text": "还是没反应啊",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2444.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_209.ogg",
+        "matched_line": "他醒了。",
+        "recognized_text": "他已经醒了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3393.ogg",
+        "matched_line": "继续前进吧。",
+        "recognized_text": "我们继续前进吧",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1335.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_997.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_307.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个通讯是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4362.ogg",
+        "matched_line": "这个是…",
+        "recognized_text": "这个",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_993.ogg",
+        "matched_line": "舰长早上好。",
+        "recognized_text": "早上好",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_996.ogg",
+        "matched_line": "舰长早上好。",
+        "recognized_text": "早上好",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3443.ogg",
+        "matched_line": "那不是我…",
+        "recognized_text": "却不是我",
+        "match_score": 67
+    }
+]

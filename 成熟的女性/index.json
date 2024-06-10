@@ -1,0 +1,158 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3111.ogg",
+        "matched_line": "唉。",
+        "recognized_text": "唉",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1895.ogg",
+        "matched_line": "但是，“希望”没那么简单，我不会给予所有人，也给不起。我只能给你们一点微小的火苗，怎么让它燃烧是你的事。",
+        "recognized_text": "希望没那么简单我不会给所有人也给不起我只能给你们一点微小的火苗怎么让它燃烧是你的事",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1891.ogg",
+        "matched_line": "我还是让你安静一会儿吧，这确实很难接受…晚上我会再来。",
+        "recognized_text": "我还是安静一会儿吧这确实很难接受晚上我会再来",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_243.ogg",
+        "matched_line": "唉。",
+        "recognized_text": "唉",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1909.ogg",
+        "matched_line": "接下来我告诉你的，都是坏消息，坏到你不敢相信，坏到你觉得这怕不是在做梦吧……但它们都是真的，这也不是梦。",
+        "recognized_text": "接下来我告诉你的都是坏消息快到你不敢相信快到你觉得这怕不是在做梦吧但它们都是真的这也不是吗",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1901.ogg",
+        "matched_line": "如果你听懂了，今天晚上告诉我。我会让你知道真相，与之相对的是，你今后余生都要背负它的重量。",
+        "recognized_text": "如果你听懂了今天晚上告诉我我会让你知道真相徐之相对的是今后的人生都要背负它的重量",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1898.ogg",
+        "matched_line": "沧海市已经没了，这次的灾害几乎毁掉了整座城。我们救出了少量幸存者比如你，都在这里。",
+        "recognized_text": "沧海是已经没了就会毁掉了整座城我们就出来少量幸存者比如你都在这里",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1908.ogg",
+        "matched_line": "……我也曾经有过这样的对话，小姑娘，我也曾经有过这样的选择。",
+        "recognized_text": "我也曾经有过这样的对话姑娘我也曾经有过这样的选择",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1904.ogg",
+        "matched_line": "所以——想清楚，好吗？",
+        "recognized_text": "所以想清楚好吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1906.ogg",
+        "matched_line": "不过…你应该想想怎样对自己来说最轻松，最有利。未来还很长，小姑娘，别让自己天天做噩梦。",
+        "recognized_text": "不过应该想想怎样对自己来说最轻松最有利未来还很长小姑娘天天做噩梦",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1899.ogg",
+        "matched_line": "这会是一场很长的战役……不过，这和你们关系不大了。",
+        "recognized_text": "这会是一场很长的战役不过只和你们关系不大了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1887.ogg",
+        "matched_line": "跟我来吧，有个地方是给你的。",
+        "recognized_text": "跟我来吧这个地方是给你的",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1893.ogg",
+        "matched_line": "要是没有希望，他们甚至不知道该怎么活下去，要不要活下去。",
+        "recognized_text": "教室没有希望他们甚至不知道该怎么活下去要不要活下去",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1897.ogg",
+        "matched_line": "唉…你会有一辈子时间思考这个问题，别急。",
+        "recognized_text": "唉你会有一辈子时间思考这个问题",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1874.ogg",
+        "matched_line": "准备好了就告诉我。",
+        "recognized_text": "准备好了就告诉我",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1910.ogg",
+        "matched_line": "很抱歉，东亚一带几乎都遭受了灾害的影响。你说的那里也…无人生还。",
+        "recognized_text": "很抱歉东亚一带几乎都遭受了灾害的影响你说的那里无人生还",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1889.ogg",
+        "matched_line": "是我救了你，所以你是我的责任。我得确定你的心智还正常，能够接受现实，才能送你出去。",
+        "recognized_text": "是我救了你所以你是我的责任我得确定你的心智还正常能够接受现实才能送你出去",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1907.ogg",
+        "matched_line": "意外、天灾、陨石…怎么想都可以。我知道这骗不了你，那天你什么都看见了。",
+        "recognized_text": "意外图片怎么想都可以不知道这骗不了你那天你什么都看见了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1878.ogg",
+        "matched_line": "……我和很多人进行过这种对话，他们总是想问我要一个“希望”。我理解，他们之前的生命被粗暴地抹掉了，",
+        "recognized_text": "很多人进行过这种对话他们总是想问我要一个希望我理解他们之前的生命被粗暴的抹掉了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1902.ogg",
+        "matched_line": "你还惦记着学校？忘了吧，往后余生里，最好离沧海市远远的，彻底把它遗忘。",
+        "recognized_text": "你还惦记着学校困了吧皇后一生里最好的沧海是远远的彻底把他遗忘",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1890.ogg",
+        "matched_line": "相信我，人生里总有意想不到的变故突如其来，你别无他法。只有遗忘是最好的良药…你是哪里人？",
+        "recognized_text": "相信我人生里最意想不到的变故突如其来你别无他法只有遗忘是最好的良药你是哪里人",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1892.ogg",
+        "matched_line": "但也不是哪儿都能去，这次的灾害范围非常大，而且直到现在，我们也没有彻底解决。",
+        "recognized_text": "但也不是哪儿都能去这次灾害范围非常大而且知道现在我们也没有彻底解决",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1879.ogg",
+        "matched_line": "你看上去有很多话想说，待会儿我给你时间。不过，你要先做好准备，我可没时间浪费在听人哭哭啼啼上，知道吗？",
+        "recognized_text": "你看上去有很多话想说待会儿我给你时间不过要先做好准备我可没时间浪费在听人哭哭啼啼上知道吗",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1872.ogg",
+        "matched_line": "首先，你们会被送去澳洲，在那儿你可以申请自己想去的地方，旅费不用担心，我们承担。",
+        "recognized_text": "首先你们会被送去澳洲在那儿你可以申请自己想去的地方旅费不用担心我们承担",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1875.ogg",
+        "matched_line": "客气什么。你没事吧？",
+        "recognized_text": "客气什么你没事吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1881.ogg",
+        "matched_line": "什么外面？…喔，沧海市？你已经不在沧海市了，这儿是我们的基地。放心，这很安全。",
+        "recognized_text": "什么外面沧海已经不在上海市了这是我们的基地放心这很安全",
+        "match_score": 79
+    }
+]

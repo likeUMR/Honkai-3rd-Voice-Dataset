@@ -1,0 +1,2660 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3811.ogg",
+        "matched_line": "每个女武神在战斗中都面临着这样的风险。我们利用崩坏能获得强大的战斗力……",
+        "recognized_text": "每个女武神在战斗中东面临着这样的风险我们利用崩坏能获得强大的战斗力",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3722.ogg",
+        "matched_line": "小孩子就不应该有那么多烦恼，快给我老实交代！",
+        "recognized_text": "小孩子就不应该有那么多烦恼快给我老实交代",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1562.ogg",
+        "matched_line": "今天自由训练，大家三人一组，组好队就开始热身吧。考试在即，都当心点，别受伤了。",
+        "recognized_text": "今天自由训练大家三人一组组好队就开始热身吧当心点别受伤了",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1593.ogg",
+        "matched_line": "我们应该没有交过手才对，但你却对我的每个动作都了如指掌。",
+        "recognized_text": "我们应该没有交过手才对但你却对我的每一个动作都了如指掌",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1553.ogg",
+        "matched_line": "这里是圣芙蕾雅学园一年级C班，周三上午第二节，无量塔姬子的英语课。",
+        "recognized_text": "这里是圣芙蕾雅学院一年级c1本周三上午第二节无量塔机子的英语课",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3718.ogg",
+        "matched_line": "不过我遇到了一个人。她对我说，想做的事情，什么时候做都不晚，重要的是开始去做。",
+        "recognized_text": "不过一个人他对我说想做的事情什么时候做都不晚重要的是开始去做",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1544.ogg",
+        "matched_line": "万一在考场上睡着了，考官可不会像我这么好心地把你叫醒哦。",
+        "recognized_text": "万一在考场上睡着了考官可不会像我这么好心把你叫醒了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1355.ogg",
+        "matched_line": "只是这身年轻时的衣服有些太紧了。",
+        "recognized_text": "只是这些年轻时的衣服有些太紧了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3733.ogg",
+        "matched_line": "噗，这是什么笨蛋父亲……",
+        "recognized_text": "吃什么笨蛋父亲",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1540.ogg",
+        "matched_line": "布洛妮娅，没想到你这样的好学生也会在课堂上睡着。",
+        "recognized_text": "没想到你这样的好学生也会在课堂上睡着",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3797.ogg",
+        "matched_line": "你们必须毫不犹豫，结束她的生命！",
+        "recognized_text": "你们必须毫不犹豫结束他的生命",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1599.ogg",
+        "matched_line": "那我也没有理由拒绝了。",
+        "recognized_text": "那我也没有理由拒绝了",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3805.ogg",
+        "matched_line": "除了戒备眼前的敌人，你们还要时刻留意同伴的状况。",
+        "recognized_text": "除了戒备眼前的敌人你们还要时刻留意同伴的状况",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2106.ogg",
+        "matched_line": "可可利亚，你真坏，还故意要考验她。",
+        "recognized_text": "克利亚你真坏还故意要考验他",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1270.ogg",
+        "matched_line": "啊，天气真热，好想喝上一杯。",
+        "recognized_text": "哦天气真热好想喝上一杯",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1617.ogg",
+        "matched_line": "好了，我们去边上休息会儿吧。你们想喝什么，我请客。",
+        "recognized_text": "好了我们去边上休息会儿吧你们想喝什么我请客",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3802.ogg",
+        "matched_line": "好了，做好降落的准备。任务就要开始了。",
+        "recognized_text": "好了做好降落的准备任务要开始了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3806.ogg",
+        "matched_line": "如果有一天，你们的战友因为崩坏能失控……",
+        "recognized_text": "如果有一天你们的战友因为崩坏能失控",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1601.ogg",
+        "matched_line": "放轻松，把这里当成自己的家就可以了，我们都是你的家人。",
+        "recognized_text": "放轻松把这里当成自己的家就可以了我们都是你的家人",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1915.ogg",
+        "matched_line": "怎么回事，仓库里只有一个小孩子？可是，银狐藏匿物资的地点应该就是这里。",
+        "recognized_text": "怎么回事仓库里只有一个小孩子可是银狐常用物资的地点应该就在这里",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1697.ogg",
+        "matched_line": "是关于之前总部下达的那个任务，内容挺简单的，适合给学生们练练手。不过，我们得快点动身。",
+        "recognized_text": "是关于之前总部下达的那个任务内容挺简单的适合给学生们练练手不过我们得快点动身",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1845.ogg",
+        "matched_line": "银狐……是逆熵的成员吗？",
+        "recognized_text": "银狐是逆商的成员吗",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3742.ogg",
+        "matched_line": "最不济嘛，也可以在毕业以后去我父亲的研究所，和他一起研究崩坏能应用相关的课题。",
+        "recognized_text": "对不起嘛谁可以在毕业以后去我父亲的研究所和他一起研究崩坏能应用相关的课题",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1710.ogg",
+        "matched_line": "唉，恐怕难找……最近任务很多，大部分老师和高年级学生都不在校。",
+        "recognized_text": "恐怕难找最近任务很多大部分老师和高年级学生都不在校",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3723.ogg",
+        "matched_line": "她在一次行动中牺牲了。队伍解散后，我想起她的话，就申请到这里来了。",
+        "recognized_text": "他在一次行动中牺牲了对不起三号会想起他的话就申请到这里来了",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3681.ogg",
+        "matched_line": "呵。首先，你应该叫我姬子老师！",
+        "recognized_text": "首先你应该叫我妻子老师",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3749.ogg",
+        "matched_line": "呵呵，为了进一步证明对笨蛋琪亚娜的疼爱，不如给你来一场单人训练吧！",
+        "recognized_text": "为了进一步证明对笨蛋平安大的疼爱不如给你来一场单人训练吧",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3748.ogg",
+        "matched_line": "说不定，命运让他们离开，是想让我们去珍惜身边的人吧？",
+        "recognized_text": "说不定并让他们离开是想让我们去珍惜身边的人吧",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1172.ogg",
+        "matched_line": "好、好的。",
+        "recognized_text": "的好好的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2187.ogg",
+        "matched_line": "怎么突然说这种话，我都有点不好意思了。",
+        "recognized_text": "怎么突然说这种话我都有点不好意思了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1963.ogg",
+        "matched_line": "发生了意料之外的情况。我们是不是应该先和总部取得联络？",
+        "recognized_text": "八一之外的情况我们是不是应该先和总部取得联络",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3685.ogg",
+        "matched_line": "从今天开始，你们要在圣芙蕾雅学园接受女武神训练与考试——",
+        "recognized_text": "从今天开始你们要在圣芙蕾雅学园接受女武神训练与考试",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3679.ogg",
+        "matched_line": "现在，先报上你们的名字。",
+        "recognized_text": "现在先报上你们的名字",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3738.ogg",
+        "matched_line": "我父亲死了……被崩坏能侵蚀，成了失去理智的怪物，即使对自己女儿的哭泣声也不会有任何反应了。",
+        "recognized_text": "因为生活并不是可以随我们心意吐血的剧本我父亲死了被崩坏能侵蚀丞失去理智的怪物其实对自己女儿的哭泣声也不会有任何反应了",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3429.ogg",
+        "matched_line": "放轻松，把这里当成自己的家就可以了，我们都是你的家人。",
+        "recognized_text": "放轻松把这里当成自己的家就可以了我们都是你的家人",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1268.ogg",
+        "matched_line": "听说这次比赛早就内定好了。符华，我们俩还在这儿受罪真的有意义吗？",
+        "recognized_text": "听说这次比赛早就内定好了复华我们俩还在这受罪真的有意义吗",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3268.ogg",
+        "matched_line": "可以去了解一下哟。",
+        "recognized_text": "去了解一下",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3673.ogg",
+        "matched_line": "虽然是学园长亲自安排你们入学，但可别指望在我会手下留情，明白吗？",
+        "recognized_text": "虽然是学院长亲自安排你们入学但可别指望我会手下留情明白吗",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1554.ogg",
+        "matched_line": "好了，今天的课就到此结束。",
+        "recognized_text": "好了今天的课就到此结束",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1596.ogg",
+        "matched_line": "不用勉强自己。圣芙蕾雅学园和其他地方不一样，在这里没有人会强迫你做什么的。",
+        "recognized_text": "不用勉强自己圣弗雷亚学员和其他地方不一样在这里没有人会强迫你做什么的",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1556.ogg",
+        "matched_line": "我知道期末考试临近，大家都很努力，但也要多注意休息。",
+        "recognized_text": "我知道期末考试临近大家都很努力但也要多注意休息",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3736.ogg",
+        "matched_line": "原来是父亲节快到了，没想到笨蛋也有伤感的时候。",
+        "recognized_text": "原来是父亲节快到了没想到笨蛋也有伤感的时候",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1603.ogg",
+        "matched_line": "就喝一点点，不会醉的。",
+        "recognized_text": "就喝一点点不会醉的",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1563.ogg",
+        "matched_line": "我来当你们两个的对手。",
+        "recognized_text": "我来当你们两个的对手",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1791.ogg",
+        "matched_line": "…这个声音是？",
+        "recognized_text": "这个声音",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1611.ogg",
+        "matched_line": "马上就下课了，不差这几分钟嘛。",
+        "recognized_text": "马上就下课了不差这几分钟吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1729.ogg",
+        "matched_line": "不过，我看这儿倒是有一个合适的人选。",
+        "recognized_text": "不过我看这儿倒是有个合适的人选",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3731.ogg",
+        "matched_line": "比如说，姬子老师就很疼爱你啊！",
+        "recognized_text": "比如说妻子老师就很疼爱你啊",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1359.ogg",
+        "matched_line": "呼，真是好险。说到年龄问题的时候，我差点以为我们俩会被揭穿。",
+        "recognized_text": "真是好险说到年龄问题的时候我差点以为我们俩会被揭穿",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3734.ogg",
+        "matched_line": "哎？你的表情明明不是这么说的。",
+        "recognized_text": "你的表情明明不是这么说的",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1356.ogg",
+        "matched_line": "哼，你口中的阿姨马上就会让你明白，威胁大人可是一件很危险的事情哦。",
+        "recognized_text": "你口中的阿姨马上就会让你明白威胁大人可是一件很危险的事情",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1360.ogg",
+        "matched_line": "我还是乖乖回学校教书吧。符华，我们走……",
+        "recognized_text": "我还是乖乖回学校教书吧复华我们走",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3807.ogg",
+        "matched_line": "我不会让这种事情发生的。",
+        "recognized_text": "我不会让这种事情发生的",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3709.ogg",
+        "matched_line": "记住了吗，这是我教给你的第一课。",
+        "recognized_text": "记住了吗这是我交给你的第一课",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3667.ogg",
+        "matched_line": "第二，我把你和芽衣从长空市的废墟救出来的时候，你还躺在担架上呢？这就是你所说的“身经百战”？",
+        "recognized_text": "第二我把你和牙医从长空室的废墟里救出来的时候你还躺在担架上吧这就是你所说的身经百战",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3794.ogg",
+        "matched_line": "想要保护失控女武神的性命，只会造成更多的牺牲。如果你不明白这一点，我是不会让你踏上战场的。",
+        "recognized_text": "想要保护失控女武神的姓名只会造成更多的牺牲如果你不明白这一点我是不会让你踏上战场的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1362.ogg",
+        "matched_line": "……这、这就是演艺界新生代偶像的力量吗？",
+        "recognized_text": "那就是演艺界新生代偶像的力量吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4765.ogg",
+        "matched_line": "她对你做了什么？",
+        "recognized_text": "做了什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1352.ogg",
+        "matched_line": "哪来的小屁孩？",
+        "recognized_text": "哪儿来的小屁孩儿",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1722.ogg",
+        "matched_line": "而且她似乎也跃跃欲试，对吧，布洛妮娅？",
+        "recognized_text": "而且他似乎也跃跃欲试对吧",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1730.ogg",
+        "matched_line": "4个，包括你之前招募的那个。",
+        "recognized_text": "四个包括你之前招募的那个",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1615.ogg",
+        "matched_line": "了不起的战斗才能，我很期待你的表现。",
+        "recognized_text": "了不起的战斗才能我很期待你的表现",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1564.ogg",
+        "matched_line": "接下来是上午的实战训练，同学们到中庭集合。",
+        "recognized_text": "接下来是上午的实战训练同学们到中心集合",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1967.ogg",
+        "matched_line": "敌人的数量太多了，我们带着一个昏迷的人，肯定会被追上的。",
+        "recognized_text": "因数量太多了我们带着一个昏迷的人肯定会被追上的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3793.ogg",
+        "matched_line": "我不会让这种事情发生的。",
+        "recognized_text": "我不会让这种事情发生了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2183.ogg",
+        "matched_line": "总而言之，今晚回去好好庆祝一下吧！",
+        "recognized_text": "总而言之今晚回去好好庆祝一下吧",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3721.ogg",
+        "matched_line": "有时候我会想，我成为女武神，是为了不让更多的女儿失去自己的父亲。",
+        "recognized_text": "有时候我会想或成为女武神是为了不让更多的女儿失去自己的父亲但现在我做的事情似乎会让更多的父亲失去女儿",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1846.ogg",
+        "matched_line": "逆熵，我记得那是一个由叛逃的天命成员建立的反天命组织。",
+        "recognized_text": "或记得那是一个由叛逃的天命成员建立的反天命组织",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3808.ogg",
+        "matched_line": "作为你们的教官和队长，我会尽我所能保护你们每一个人，不让你们陷入危险。",
+        "recognized_text": "作为你们的教官和队长我会尽我所能保护你们每一个人不让你们陷入危险",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3720.ogg",
+        "matched_line": "要我说，你可比我幸福多了。毕竟你的父亲很早就让你明白了生活的真面目。",
+        "recognized_text": "听我说你可比我幸福多了毕竟你的父亲很早就让你明白了生活的真面目而我直到十九岁的时候还天真地相信自己的未来是玫瑰色的",
+        "match_score": 66
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2185.ogg",
+        "matched_line": "哈哈，你就别谦虚了。",
+        "recognized_text": "你就别谦虚了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3740.ogg",
+        "matched_line": "呵，往哪儿跑！",
+        "recognized_text": "往哪儿跑",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3669.ogg",
+        "matched_line": "哦？那你可得感谢自己有个好爸爸，他把女儿保护的很好。",
+        "recognized_text": "那你可得感谢自己有个好爸爸她把女儿保护的很好",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3800.ogg",
+        "matched_line": "这是我的原则。",
+        "recognized_text": "这是我的原则",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3796.ogg",
+        "matched_line": "只要你们还在以女武神的身份战斗一天，就要有所觉悟，准备好面对这个最坏的结局。",
+        "recognized_text": "只要你们还在引女武神的身份战斗一天就要有所觉悟准备好面对这个最坏的结局",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3813.ogg",
+        "matched_line": "就算是我，你也绝对不可以犹豫。",
+        "recognized_text": "就算是我你也绝对不可以犹豫",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3882.ogg",
+        "matched_line": "那是…",
+        "recognized_text": "那个是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3799.ogg",
+        "matched_line": "第一次执行实战任务前，我要再次提醒你们……",
+        "recognized_text": "第一次执行实战任务前会再次提醒你们",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1690.ogg",
+        "matched_line": "可可利亚，你在忙吗？",
+        "recognized_text": "可可利亚你在忙吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3668.ogg",
+        "matched_line": "战斗天才？那么，就让我这个普通人来领教下你这个天才的厉害吧？",
+        "recognized_text": "战斗天才那么就让我这个普通人领教下你这个天才的厉害吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1552.ogg",
+        "matched_line": "……布洛妮娅？……你别放心上啦，下次注意就行。",
+        "recognized_text": "你别放心上了下次注意就行",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3683.ogg",
+        "matched_line": "自我介绍一下吧，我是无量塔姬子。今天开始，我来担任你们的教官。",
+        "recognized_text": "自我介绍一下吧或是无量塔机子今天开始我来担任你们的教官",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1550.ogg",
+        "matched_line": "让我也加入吧。",
+        "recognized_text": "让我也加入吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_245.ogg",
+        "matched_line": "她对你做了什么？",
+        "recognized_text": "十三了她究竟对你们做了什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1946.ogg",
+        "matched_line": "你做得已经够多了，接下来就交给我们吧。",
+        "recognized_text": "你做的已经够多了接下来就交给我们吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1614.ogg",
+        "matched_line": "是太累了吗，刚才上课的时候你也睡着了。",
+        "recognized_text": "是太累了吗刚才上课的时候你也睡着了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3812.ogg",
+        "matched_line": "因为她们不仅是为你们提供支援的战友，也有不幸成为怪物的可能。",
+        "recognized_text": "因为他们不仅是为你们提供资源的占有也有不幸成为怪物的可能",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3728.ogg",
+        "matched_line": "不过，琪亚娜，你的爸爸还是给你留下了一些珍贵的东西。",
+        "recognized_text": "不过天呐你的爸爸还是给你留下了一些珍贵的东西",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3801.ogg",
+        "matched_line": "但也随时可能遭到反噬，丧失理智，成为想要破坏一切的怪物。",
+        "recognized_text": "但随时可能遭到反噬丧失理智成为想要破坏一切的怪物",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3732.ogg",
+        "matched_line": "为了寻找答案，我抛下一切，加入了天命的女武神部队。以我当时的年龄来说，成为女武神有些太晚了。",
+        "recognized_text": "为了寻找答案我抛下一切加入了天命的女武神部队比我当时的年龄来说成为女武神有些太晚了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1612.ogg",
+        "matched_line": "呼——精彩的战斗，你们两个做得不错。",
+        "recognized_text": "精彩的战斗你们两个做的不错",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3724.ogg",
+        "matched_line": "于是我就加入了她的部队。那个人总是在战斗以后絮絮叨叨地跟我说一些关于未来的打算。",
+        "recognized_text": "其实我就加入了他的部队那个人总是在战斗以后絮絮叨叨的跟我说一些关于未来的打算他说他想在退役之后当一个园艺老师教孩子们这些花草",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3725.ogg",
+        "matched_line": "那些本来可以有一份普通工作，可以恋爱、甚至结婚的女孩，却成了女武神。她们为此放弃了很多，不仅仅是自己的生命。",
+        "recognized_text": "那些本来可以有一份普通工作恋爱甚至结婚的女孩却成了女武神他们为此放弃了很多不仅仅是自己的生命",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3747.ogg",
+        "matched_line": "我想成为极限冒险家，想从事海洋生物摄影，想满世界的找好男人约会……呵呵。",
+        "recognized_text": "那时候的我相信自己的人生是条四通八达有着无限可能的路我想成为极限冒险家想从事海洋生物摄影想满世界的找好男人约会",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_790.ogg",
+        "matched_line": "那么请白发小姐自我介绍，简述事况。",
+        "recognized_text": "那么请白发小姐自我介绍简述实况",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4099.ogg",
+        "matched_line": "成功了！",
+        "recognized_text": "成功",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2817.ogg",
+        "matched_line": "呵，难不成还能是你考上了第一名？",
+        "recognized_text": "难不成还能是你考上了第一名",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2240.ogg",
+        "matched_line": "很好。不过结合前几起事件的案发时间，调查还得从夜间着手。",
+        "recognized_text": "很好不过结合前期起事件案发时间调查还得从夜间着手",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4499.ogg",
+        "matched_line": "…好了，该出去透透气了。",
+        "recognized_text": "好啦该出去透透气了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4031.ogg",
+        "matched_line": "我很欣赏你的幽默，特斯拉博士。",
+        "recognized_text": "我很欣赏你的幽默特斯拉博士",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3928.ogg",
+        "matched_line": "呃…总之我先帮你松绑吧。",
+        "recognized_text": "嗯嗯总之我先帮你松绑吧",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2406.ogg",
+        "matched_line": "什么…为什么你会找到这里？！",
+        "recognized_text": "什么为什么你会找到这里",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2262.ogg",
+        "matched_line": "在审讯室里都能睡得这么安稳，我还真是被小瞧了。",
+        "recognized_text": "在审讯室里都能睡得这么安稳我还真是被小瞧了",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4216.ogg",
+        "matched_line": "我想…现在是它派上用场的时候了。",
+        "recognized_text": "我想现在是派上用场的时候了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_793.ogg",
+        "matched_line": "我们来研究一下这个保险箱吧。",
+        "recognized_text": "我们来研究一下这个保险箱吧",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3920.ogg",
+        "matched_line": "真是个阴森的地方…令人不快。",
+        "recognized_text": "真是阴森的地方心生不快",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1684.ogg",
+        "matched_line": "果然，安静地晒着太阳，才是最舒服的。",
+        "recognized_text": "果然安静的晒着太阳才是最舒服的",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2970.ogg",
+        "matched_line": "虽然报告把原因归结为引擎崩坏能的影响，但我总觉得有些不对劲。",
+        "recognized_text": "虽然报告把原因归结为引擎崩坏能的影响但我总觉得有些不对劲",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2487.ogg",
+        "matched_line": "大叔有什么不好，不要小看大叔，认真的大叔可是非——常厉害的。",
+        "recognized_text": "大叔有什么不好不要小看大叔认真的大叔可是非常厉害的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2259.ogg",
+        "matched_line": "沧海市连续吸血事件的嫌疑犯先生，事到如今你还在说什么梦话？",
+        "recognized_text": "沧海是连续吸血袭击事件的嫌疑犯先生事到如今你还在说什么梦话",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_888.ogg",
+        "matched_line": "现在对嫌疑犯符华进行逮捕！",
+        "recognized_text": "现在都嫌疑犯浮华进行逮捕",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_866.ogg",
+        "matched_line": "符华，毁坏公共财产罪，逮捕！",
+        "recognized_text": "浮华毁坏公共财产罪逮捕",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2160.ogg",
+        "matched_line": "装扮？十、十九岁…应该还可以被称作少女吧。",
+        "recognized_text": "装备十十九岁应该还可以被称作少女吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4501.ogg",
+        "matched_line": "但我还挺喜欢这个地方的。",
+        "recognized_text": "但我还挺喜欢这个地方的",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2293.ogg",
+        "matched_line": "啊啊…不过我听到了点有意思的情报。",
+        "recognized_text": "嗯不过我听到了点有意思的情报",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2443.ogg",
+        "matched_line": "玩笑啦玩笑，我去右边看看，左边的调查就交给你了。",
+        "recognized_text": "玩笑的玩笑我去右边看看左边的调查就交给你了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_907.ogg",
+        "matched_line": "争论不是一时半会能解决的事情。",
+        "recognized_text": "争论不是一时半会儿能解决的事情",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4047.ogg",
+        "matched_line": "…看样子欢迎我们的家伙来了。",
+        "recognized_text": "看样子欢迎我们的家伙来了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2165.ogg",
+        "matched_line": "鉴于案件的猎奇性，你这种行迹可疑的生面孔自然是优先关照对象。",
+        "recognized_text": "幸运案件的猎奇性你这种行迹可疑的生面孔自然是优先关照对象",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4415.ogg",
+        "matched_line": "等你好久了，混蛋律者！",
+        "recognized_text": "等你好久了混蛋",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2148.ogg",
+        "matched_line": "你的小腿外侧有被火药灼伤过的痕迹。",
+        "recognized_text": "你的小腿外侧就被火药灼伤过的痕迹",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2494.ogg",
+        "matched_line": "十五岁的时候，我考进了加州理工。",
+        "recognized_text": "十五岁的时候我考进了加州理工",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2297.ogg",
+        "matched_line": "据说最近的深夜里，频繁有人在这片区域目击到独自徘徊的“白色幽灵”。",
+        "recognized_text": "据说最近的深夜里平凡有人在这片区域目击到独自徘徊的白色幽灵",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4184.ogg",
+        "matched_line": "成功了！",
+        "recognized_text": "成功",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2500.ogg",
+        "matched_line": "…就像那个人一样。",
+        "recognized_text": "就像那个人一样",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6995.ogg",
+        "matched_line": "成功了！",
+        "recognized_text": "成功",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4953.ogg",
+        "matched_line": "怎么了，我可是煮的很用心的，注入了满满的爱情哦。",
+        "recognized_text": "怎么啦我煮的可是很用心的注入了满满的爱情",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_778.ogg",
+        "matched_line": "舰长，你怎么看？",
+        "recognized_text": "县长你怎么看",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5162.ogg",
+        "matched_line": "舰长，请选出你心中的冠军队！",
+        "recognized_text": "见长啊请选出你心中的冠军队",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2268.ogg",
+        "matched_line": "这种临近街区的小巷对袭击者来说是最理想的作案场所，接下来才是正式工作。",
+        "recognized_text": "你在说些什么这种邻近街区的小巷对袭击者来说是最理想的作案场所接下来才是正式工作",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2159.ogg",
+        "matched_line": "姬子？你怎么知道我的名字？",
+        "recognized_text": "妻子你怎么知道我的名字",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2164.ogg",
+        "matched_line": "喂，那边那个，你鬼鬼祟祟地在干什么呢。",
+        "recognized_text": "那边那个你鬼鬼祟祟的在干什么呢",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_763.ogg",
+        "matched_line": "我还想问你怎么又惹麻烦了。",
+        "recognized_text": "我还想问你怎么又惹麻烦了",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3924.ogg",
+        "matched_line": "…这就是我知道的全部了。",
+        "recognized_text": "这就是我知道的全部了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4096.ogg",
+        "matched_line": "继续往下看吧。",
+        "recognized_text": "继续往下看吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2155.ogg",
+        "matched_line": "现在是2006年，你为什么问这个问题？",
+        "recognized_text": "现在是2006年你为什么问这个问题",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3993.ogg",
+        "matched_line": "也许答案，就在那里。",
+        "recognized_text": "也许答案就在那里",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5642.ogg",
+        "matched_line": "你今天收到了多少块巧克力，我可是了如指掌。",
+        "recognized_text": "你今天收到了多少块巧克力我可是了如指掌",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_796.ogg",
+        "matched_line": "直接破坏箱体就可以了。",
+        "recognized_text": "直接破坏箱体就可以了",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3986.ogg",
+        "matched_line": "符华说过，那座实验室里有能“拯救大家”的东西。",
+        "recognized_text": "复华说过那个实验室里有能拯救大家的东西",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2825.ogg",
+        "matched_line": "虽然明天是休息日，但为了后天的考试，还是希望大家能回去好好复习。",
+        "recognized_text": "就说不准了明天是休息日后天考试而是大家回去好好复习",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10360.ogg",
+        "matched_line": "那是…",
+        "recognized_text": "那次是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_768.ogg",
+        "matched_line": "舰长，主观判断会影响判案立场。",
+        "recognized_text": "县长主观判断会影响判断立场",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4841.ogg",
+        "matched_line": "听起来还挺像模像样的嘛，没想到德丽莎居然真的会做菜。",
+        "recognized_text": "听起来还挺像模像样的没想到德莉莎居然真的会做菜",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4944.ogg",
+        "matched_line": "没错，对新手要宽容。",
+        "recognized_text": "没错对新手要宽容",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_773.ogg",
+        "matched_line": "巡逻。自我介绍一下，沧海市义警，无量塔姬子。",
+        "recognized_text": "巡逻自我介绍一下沧海是一景无量塔姬子",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_757.ogg",
+        "matched_line": "不要妨碍警察执行公务，琪亚娜。",
+        "recognized_text": "不要妨碍警察执行公务的",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2264.ogg",
+        "matched_line": "好男人是不会找这种借口的哦，休伯利安的舰长大人？",
+        "recognized_text": "好男人是不会找这种借口的休伯利安的舰长大人",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2503.ogg",
+        "matched_line": "哈…连这种不会聊天的地方也跟那个人一样。",
+        "recognized_text": "连这种不会聊天的地方也跟那个人一样",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_982.ogg",
+        "matched_line": "舰长的话才没有可信度，也许舰长已经是逆熵的人了呢？",
+        "recognized_text": "县长的话才没有可信度也许见长已经是逆生的人了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2263.ogg",
+        "matched_line": "长~官~大~人？我记得约定的见面时间是12点整，那么请问现在是几时几分呢？",
+        "recognized_text": "长官的人我记得约定的见面时间是十二点整那么请问现在是几十几分呢",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2496.ogg",
+        "matched_line": "如果你在期待着什么的话，还是先请我去更高级的地方喝几杯再说吧~",
+        "recognized_text": "如果你在期待着什么的话还是先请我去更高级的地方喝几杯再说吧",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5659.ogg",
+        "matched_line": "当然咯，不是亲手做的不就没意义了吗？",
+        "recognized_text": "当然了不是亲手做的不就没意义了吗",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4949.ogg",
+        "matched_line": "没必要说到那种程度吧！虽然是事实确实没错啦……",
+        "recognized_text": "没必要说到那种程度吧虽然是事实没错",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3866.ogg",
+        "matched_line": "…呵，礼物吗？还真是谢谢了。",
+        "recognized_text": "礼物嘛还真是谢谢了",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4946.ogg",
+        "matched_line": "是指那个酱的做法吗？唔…我看看…猪肉剁碎炒香，加芽菜、料酒、高汤、花椒粉、胡椒粉、甜面酱一起翻炒。",
+        "recognized_text": "是指那个酱的做法吗嗯嗯我看看猪肉剁碎炒香加芽菜料酒高汤花椒粉胡椒粉甜面酱一起翻炒",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_794.ogg",
+        "matched_line": "请问这是你的箱子吗？",
+        "recognized_text": "请问这是你的箱子吗",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3936.ogg",
+        "matched_line": "她对你做了什么？",
+        "recognized_text": "他对你做了什么",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_797.ogg",
+        "matched_line": "这个型号的保险箱在被破坏的那一刻，会向外喷射强效麻醉气体。",
+        "recognized_text": "这个型号的保险箱在被破坏的那一刻会向外喷射强效麻醉气体",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2450.ogg",
+        "matched_line": "这种临近街区的小巷对袭击者来说是最理想的作案场所，接下来才是正式工作。",
+        "recognized_text": "你在说些什么这种邻近街区的小巷对袭击者来说是最理想的作案场所接下来才是正式工作",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4027.ogg",
+        "matched_line": "我们来对地方了，这座实验室里果然藏着什么。",
+        "recognized_text": "我们来对地方了制作实验室里果然藏着什么",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2550.ogg",
+        "matched_line": "…我会联系你的。",
+        "recognized_text": "我会联系你的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2468.ogg",
+        "matched_line": "…再给我一点时间。",
+        "recognized_text": "再给我一点时间",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1449.ogg",
+        "matched_line": "可是为什么，为什么会变成这样呢！",
+        "recognized_text": "可是为什么为什么会变成这样呢",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2449.ogg",
+        "matched_line": "嗯？理解得这么快…难不成是惯犯？",
+        "recognized_text": "理解的这么快难不成是惯犯",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3957.ogg",
+        "matched_line": "看来这架电梯无法启动。",
+        "recognized_text": "看来这家电梯无法启动",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2446.ogg",
+        "matched_line": "怎么了，突然脸色这么差？",
+        "recognized_text": "怎么啦突然脸色这么差",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3184.ogg",
+        "matched_line": "这个胸针送给你，别在工作服的领带上。",
+        "recognized_text": "这个胸针送给你别在工作服的领带上县长上剑桥打扮的微风险",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_772.ogg",
+        "matched_line": "学园长每到假期都会失踪，只能由我来了。",
+        "recognized_text": "学员张伟到假期都会失踪只能由我来了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1441.ogg",
+        "matched_line": "这十年来，我通关了各大恋爱游戏，每个选项我都能精准把握。",
+        "recognized_text": "这十年来或通关的各大恋爱游戏每个选项我都能精准把握",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2591.ogg",
+        "matched_line": "长~官~大~人？我记得约定的见面时间是12点整，那么请问现在是几时几分呢？",
+        "recognized_text": "长官的人我记得约定的见面时间是十二点整那么请问现在是几十几分呢",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_761.ogg",
+        "matched_line": "舰长还是太天真了，这可是条大鱼，逆熵的爱因斯坦博士。间谍罪，逮捕！",
+        "recognized_text": "见证还是太天真了这可是条大鱼你伤的爱因斯坦博士间谍罪逮捕",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4433.ogg",
+        "matched_line": "人类人类的喊，你不嫌麻烦吗？",
+        "recognized_text": "人类人类的汗你不嫌麻烦吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2254.ogg",
+        "matched_line": "…起来了。",
+        "recognized_text": "起来了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3886.ogg",
+        "matched_line": "咦，门是开着的？什么时候打开的…",
+        "recognized_text": "没事开着的什么时候打开的",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4003.ogg",
+        "matched_line": "不如继续前进吧，我们也只有这条路可走了。",
+        "recognized_text": "不如继续前进吧我也只有这条路可走了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_882.ogg",
+        "matched_line": "怎么，又有宠物失踪了？",
+        "recognized_text": "怎么会有宠物失踪了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4220.ogg",
+        "matched_line": "…你能做出来吗，弑神之枪…",
+        "recognized_text": "你能做出来吗弑神之枪",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3867.ogg",
+        "matched_line": "对了，我被抓住了。然后呢…",
+        "recognized_text": "我被抓住了然后呢",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3981.ogg",
+        "matched_line": "…只是受了点小伤…",
+        "recognized_text": "只是受了点小伤",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2596.ogg",
+        "matched_line": "这种临近街区的小巷对袭击者来说是最理想的作案场所，接下来才是正式工作。",
+        "recognized_text": "你在说些什么这种邻近街区的小巷对袭击者来说是最理想的作案场所接下来才是正式工作",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5651.ogg",
+        "matched_line": "…没、没什么大不了的啦。",
+        "recognized_text": "没什么大不了的",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2153.ogg",
+        "matched_line": "她们的后颈处无一例外有两个像是犬齿刺破的小小咬痕。",
+        "recognized_text": "他们的后颈处无一例外有两个像是犬齿刺破的小小咬痕",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2251.ogg",
+        "matched_line": "今晚12点，吼姆快乐餐厅门口，不要迟到~",
+        "recognized_text": "今晚十二点红五快乐餐厅门口不要迟到",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2488.ogg",
+        "matched_line": "…倒也不是那么难以启齿的话题啦。",
+        "recognized_text": "倒也不是那么难以启齿的话题了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1022.ogg",
+        "matched_line": "舰长，你也来买药吗？",
+        "recognized_text": "县长你也来买药吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4498.ogg",
+        "matched_line": "真想…再喝一杯啊。",
+        "recognized_text": "真想再喝一杯啊",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2292.ogg",
+        "matched_line": "但越是稀奇古怪的东西通常包含的隐秘成分就越少，我的华生老兄。",
+        "recognized_text": "但愿是稀奇古怪的东西通常包含的隐秘成分就越少我的华生老兄",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2325.ogg",
+        "matched_line": "哼，姑且放过你。“白色幽灵”的传闻我也得继续追查下去。",
+        "recognized_text": "哼哼姑且放过你白色幽灵的传闻我也得继续追查下去",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4399.ogg",
+        "matched_line": "冷静点！告诉我还要多久就行了！",
+        "recognized_text": "冷静点告诉我还有多久就行了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2484.ogg",
+        "matched_line": "哈哈，没想到吧。毕竟我看上去并不是那种很会念书的类型。",
+        "recognized_text": "没想到吧毕竟我看上去并不是那种很会念书的类型",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1001.ogg",
+        "matched_line": "舰长，间谍罪，逮捕！",
+        "recognized_text": "县长间谍罪逮捕",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4744.ogg",
+        "matched_line": "喂你们在做什么呢！ 舰长快放下布洛妮娅，太危险了！",
+        "recognized_text": "你们在做什么呢见长快放下不知道你啊太危险了",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2498.ogg",
+        "matched_line": "…很快就会结束了。",
+        "recognized_text": "很快就会结束了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4437.ogg",
+        "matched_line": "——是无量塔姬子！！",
+        "recognized_text": "是无量塔姬子",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_766.ogg",
+        "matched_line": "看来这份食物确实有毒…",
+        "recognized_text": "看来这份食物确实有毒",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4812.ogg",
+        "matched_line": "这下人都到齐了。",
+        "recognized_text": "这下人都到齐了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_885.ogg",
+        "matched_line": "听起来似乎有点意思。",
+        "recognized_text": "听起来似乎有点意思",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3913.ogg",
+        "matched_line": "那应该就是符华说的哨塔。",
+        "recognized_text": "那应该就是俗话说的哨塔",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4855.ogg",
+        "matched_line": "当然是要喝啦~我做菜完全不行，难得的休息日不如来痛痛快快喝一杯~",
+        "recognized_text": "当然是要喝做菜完全不行难得的休息日不如痛痛快快喝一杯",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1454.ogg",
+        "matched_line": "哎，我还是回去值班吧。",
+        "recognized_text": "我还是回去值班吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3179.ogg",
+        "matched_line": "嘻嘻，《小王子》。舰长怎么这么熟练，对多少女孩子说过这句话了？",
+        "recognized_text": "小王子现场怎么这么熟练对多少女孩子说过这句话了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5652.ogg",
+        "matched_line": "不用这么惊讶吧？其他女武神不是也给你了吗？",
+        "recognized_text": "不用这么惊讶吧其他女武神不是也给你了吗",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2836.ogg",
+        "matched_line": "没错，是崩坏兽和死士。但崩坏灾难不止这些表现形式…",
+        "recognized_text": "没错是崩坏兽和死士但崩坏灾难不止这些表现形式",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2961.ogg",
+        "matched_line": "喂，懒散这个词是专门发明出来形容你的吧？",
+        "recognized_text": "闪闪这个词是专门发明出来形容你的吧",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3983.ogg",
+        "matched_line": "你的脸色可真难看。",
+        "recognized_text": "你的脸色可真难看",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4131.ogg",
+        "matched_line": "但他现在应该找到解决办法了吧？",
+        "recognized_text": "但他现在应该找到解决办法了吧",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2493.ogg",
+        "matched_line": "喂，等一切结束以后，和我一起回大学，继续教我学习好不好？",
+        "recognized_text": "对一切结束以后和我一起回大学继续教我学习好不好",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4061.ogg",
+        "matched_line": "正好…我也去边上休息一下。",
+        "recognized_text": "正好我去边上休息一下",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_805.ogg",
+        "matched_line": "解决群众的困惑，这是我义不容辞的责任。",
+        "recognized_text": "一码归一码从群众中来到群众中去解决群众的困惑这是我义不容辞的责任",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2492.ogg",
+        "matched_line": "我的父亲，以前是天命的科学家。",
+        "recognized_text": "我的父亲以前是天命的科学家",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_770.ogg",
+        "matched_line": "等等，有报警通讯切入…",
+        "recognized_text": "等等就报警通讯切入",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4287.ogg",
+        "matched_line": "这就是你要我找的东西吗…符华！",
+        "recognized_text": "这就是你让我找的东西吗",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2965.ogg",
+        "matched_line": "（鼓掌）我没看错吧？琪亚娜居然跑来训练？看起来这个世界真的要完蛋了。",
+        "recognized_text": "我没看错吧亲爱的居然跑来训练唉看起来这个世界真的要完蛋了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2455.ogg",
+        "matched_line": "难不成是在害怕独自走夜路？",
+        "recognized_text": "难不成是在害怕独自走夜路",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2826.ogg",
+        "matched_line": "唉，一想到你要成为女武神对抗崩坏，我就替这个世界感到难过。",
+        "recognized_text": "唉一想到要成为女武神对抗崩坏我就替这个世界感到难过",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2811.ogg",
+        "matched_line": "有这样优秀的班长来给你补课，你有什么不满吗？",
+        "recognized_text": "就这样优秀的班长来帮你补课你有什么不满吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1232.ogg",
+        "matched_line": "别结巴了，跟我走一趟吧，破坏公物可是要关半个月禁闭的。",
+        "recognized_text": "别结巴了跟我走一趟吧破坏公物可是要关半个月禁闭的或者你单独去我的房间里会",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_774.ogg",
+        "matched_line": "舰长，这可不是小孩子的游戏。",
+        "recognized_text": "县长这可不是小孩子的游戏",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3178.ogg",
+        "matched_line": "姐姐我啊，今天想穿的年轻一点，和舰长在这里跳支舞。",
+        "recognized_text": "姐姐我啊今天想穿的年轻一点和见长啊在这里跳支舞",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2336.ogg",
+        "matched_line": "不过，如果你有什么隐瞒的话…你懂我的意思吧？",
+        "recognized_text": "不过如果你有什么隐瞒的话你懂我的意思吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4237.ogg",
+        "matched_line": "下面…就是符华说的最下层吗…",
+        "recognized_text": "下面就是浮华说的最下层",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_792.ogg",
+        "matched_line": "呵，有点意思。我们快点出发吧。",
+        "recognized_text": "有点儿意思我们快点出发吧",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_879.ogg",
+        "matched_line": "证据确凿…",
+        "recognized_text": "证据确凿",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9170.ogg",
+        "matched_line": "好、好的。",
+        "recognized_text": "好好的",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5646.ogg",
+        "matched_line": "但偶尔做些少女心的事，感觉还不坏。",
+        "recognized_text": "偶偶尔这些少女心的事感觉还不坏",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2604.ogg",
+        "matched_line": "诶，为什么你会认识…",
+        "recognized_text": "为什么你会认识",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4745.ogg",
+        "matched_line": "这是丽塔泡的红茶啦。",
+        "recognized_text": "这是绿藤泡的红茶",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_908.ogg",
+        "matched_line": "有些难办。",
+        "recognized_text": "有些难办",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2499.ogg",
+        "matched_line": "为了当上这个半吊子的女武神，放弃了加州理工的学业。",
+        "recognized_text": "为了当上这个半吊子的女武神放弃了加州理工的学业",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_762.ogg",
+        "matched_line": "案发地点在“商业街”？我马上过来。",
+        "recognized_text": "案发地点在商业街我马上过来",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_902.ogg",
+        "matched_line": "现在无法干净利落地解决……双方都没有达到可以被“逮捕”的标准。",
+        "recognized_text": "现在无法干净利落的解决双方都没有达到可以被逮捕的标准",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2256.ogg",
+        "matched_line": "嘛，确实，普通民众也不可能知道秘密开发中的战舰的名字。",
+        "recognized_text": "嗯确实普通民众也不可能知道秘密开发中的战舰的名字",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3988.ogg",
+        "matched_line": "（符华，我要逮住你，把一切都问清楚…）",
+        "recognized_text": "我要逮住你把一切都问清楚",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2495.ogg",
+        "matched_line": "没有哦，唯独酒量我是不会输给任何人的~",
+        "recognized_text": "没有唯独酒量我是不会输给任何人的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4069.ogg",
+        "matched_line": "…这地方看起来不大，藏的东西还真多。",
+        "recognized_text": "这地方看起来不大藏的东西还真多",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2440.ogg",
+        "matched_line": "嘛，这也是没有办法的事，就特别陪你一次好了…不过，仅~限~今~晚~",
+        "recognized_text": "这也是没有办法的事就特别陪你一次好了不过仅限今晚",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5654.ogg",
+        "matched_line": "不过，看起来舰长也不是没有时间，那要不要再陪我去喝一杯呢？",
+        "recognized_text": "不过看来店长也不是没有时间要不要再陪我去喝一杯呢",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6707.ogg",
+        "matched_line": "吃一口就知道了。",
+        "recognized_text": "就知道了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2441.ogg",
+        "matched_line": "好男人是不会找这种借口的哦，休伯利安的舰长大人？",
+        "recognized_text": "好男人是不会找这种借口的休伯利安的舰长大人",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3935.ogg",
+        "matched_line": "冷静一下！我这就把布拿下来！",
+        "recognized_text": "冷静一下我这就把布拿下来",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2464.ogg",
+        "matched_line": "…说得也对。机会难得，不如你请我去喝一杯？",
+        "recognized_text": "嗯说的也对机会难得不如你请我去喝一杯",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4384.ogg",
+        "matched_line": "这里，就交给我！",
+        "recognized_text": "这里就交给我",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1024.ogg",
+        "matched_line": "舰长不知道吗？这家诊所的药水都是特制的，能满足你的各种愿望。",
+        "recognized_text": "县长不知道吗这家诊所的药水都是特制的能满足你的各种愿望",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4308.ogg",
+        "matched_line": "别说这种话了。",
+        "recognized_text": "别说这种话了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2396.ogg",
+        "matched_line": "…我们必须给她最后一击了，卡莲大人。",
+        "recognized_text": "我们必须给他最后一期了卡琳大人",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1440.ogg",
+        "matched_line": "明明是我先开始的...",
+        "recognized_text": "明明是我先开始的",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2467.ogg",
+        "matched_line": "…我会联系你的。",
+        "recognized_text": "我会联系你的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2485.ogg",
+        "matched_line": "甚至接受了这种以损耗寿命为代价的实验。",
+        "recognized_text": "甚至接受了这种易损耗寿命为代价的实验",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3877.ogg",
+        "matched_line": "那么，你来找我这个俘虏做什么呢？",
+        "recognized_text": "那么你来找我这个俘虏做什么呢",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2546.ogg",
+        "matched_line": "等一切结束以后，结束以后…",
+        "recognized_text": "等一切结束以后结束以后",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1212.ogg",
+        "matched_line": "这可由不得你。",
+        "recognized_text": "这可由不得你",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2161.ogg",
+        "matched_line": "你这个可疑人物，一定和这次的连环袭击事件有关。",
+        "recognized_text": "还有什么话等到了支部的监狱里再说吧你这个可疑人物一定和这次的连环袭击事件有关",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2824.ogg",
+        "matched_line": "算了，答出一个问题我就放过你。",
+        "recognized_text": "算了打出一个问题我就放过你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4434.ogg",
+        "matched_line": "你…流血了…原来神也会受伤吗？",
+        "recognized_text": "你流血了原来神也会受伤吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2974.ogg",
+        "matched_line": "好了，别说这些扫兴的话了。",
+        "recognized_text": "好了别说这些扫兴的话了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2502.ogg",
+        "matched_line": "喂，舰~长~大~人~，等一切结束以后，陪我去海边喝酒好不好？",
+        "recognized_text": "问竞争的人等一切结束以后陪我去海边喝酒好不好",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_789.ogg",
+        "matched_line": "那就快跟上。",
+        "recognized_text": "那就快跟上",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_915.ogg",
+        "matched_line": "听起来不是很难处理的样子，我们出发吧。",
+        "recognized_text": "听起来不是很难处理的样子我们出发吧",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4942.ogg",
+        "matched_line": "成功了！舰长，有没有被我高超的厨艺俘获呢？",
+        "recognized_text": "成功了见长啊有没有被我高超的厨艺俘获",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4496.ogg",
+        "matched_line": "虽然都是些长不大的家伙。",
+        "recognized_text": "虽然都是些长不大的家伙",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2438.ogg",
+        "matched_line": "没想到你也有可爱的一面呢，休伯利安的舰长大人？",
+        "recognized_text": "没想到你也有可爱的一面呢休伯利安的舰长大人",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1031.ogg",
+        "matched_line": "不是说什么药水都有吗？",
+        "recognized_text": "不是说什么药水都有吗",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1442.ogg",
+        "matched_line": "我们的对决终于要迎来结局了吗。",
+        "recognized_text": "我们的对决终于要迎来结局了吗",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2594.ogg",
+        "matched_line": "玩笑啦玩笑，我去右边看看，左边的调查就交给你了。",
+        "recognized_text": "玩笑的玩笑我去右边看看左边的调查就交给你了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2151.ogg",
+        "matched_line": "…你手指上的茧的位置是惯用枪械的证据。",
+        "recognized_text": "你手指上的茧的位置是惯用枪械的证据",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2157.ogg",
+        "matched_line": "不过，竟然知道我的名字…你果然很可疑，跟我回支部接受调查吧。",
+        "recognized_text": "不过竟然知道我的名字可以跟支部接受调查吧",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2605.ogg",
+        "matched_line": "诶，啊…好吧，我们晚点再聊。",
+        "recognized_text": "哦好吧我们晚点再聊",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3912.ogg",
+        "matched_line": "沿着它过去就能到实验室，她是这么说的。",
+        "recognized_text": "现在他过去就能到实验室他是这么说的",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2163.ogg",
+        "matched_line": "你还参加过某种军事训练？",
+        "recognized_text": "你还参加过某种军事训练",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3181.ogg",
+        "matched_line": "没想到，平时懒懒散散的舰长也能准时赴约。",
+        "recognized_text": "没想到平时懒懒散散的店长能准时赴约",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4798.ogg",
+        "matched_line": "完了，居然跟德丽莎一组，这下没戏了……",
+        "recognized_text": "还了居然跟德丽莎一组最小没戏了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1616.ogg",
+        "matched_line": "果然，安静地晒着太阳，才是最舒服的。",
+        "recognized_text": "果然安静的晒着太阳才是最舒服的",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3871.ogg",
+        "matched_line": "…可恶，身体好重…我这是睡了多久…",
+        "recognized_text": "可我身体好重我这是睡了多久",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3982.ogg",
+        "matched_line": "那一定是某种能够对抗律者的手段。",
+        "recognized_text": "那一定是某种能够对抗律者的手段",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3914.ogg",
+        "matched_line": "…符华，你给我等着。",
+        "recognized_text": "你给我等着",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5137.ogg",
+        "matched_line": "哎呀哎呀，到头来白忙一场啊。我还想着拿奖品换酒喝呢……",
+        "recognized_text": "哎呀到头来白忙一场我还想着拿奖品换酒喝呢",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5098.ogg",
+        "matched_line": "成功了！",
+        "recognized_text": "那你成功了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4347.ogg",
+        "matched_line": "…大家，等我。",
+        "recognized_text": "大家等我",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2971.ogg",
+        "matched_line": "…算了，拿这种问题认真问你，我还真是白痴。",
+        "recognized_text": "算了拿这种问题认真问你我还真是白痴",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_880.ogg",
+        "matched_line": "这台游戏机，再也无法开机了。",
+        "recognized_text": "这台游戏机再也无法开机了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2547.ogg",
+        "matched_line": "你这个人真的是…明明不想再把你卷进来的…",
+        "recognized_text": "你这个人真的是明明不想再把你卷进来的",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3865.ogg",
+        "matched_line": "…德丽莎她们怎么样了…我得赶快出去…",
+        "recognized_text": "你说他们怎么样了我得赶快出去",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4028.ogg",
+        "matched_line": "准备好，要闯进去了！",
+        "recognized_text": "准备好就冲进去了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2249.ogg",
+        "matched_line": "我已经上报去确认你的身份了，不过在结果下来之前…",
+        "recognized_text": "我已经上报去确认你的身份了不过在结果下来之前",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2606.ogg",
+        "matched_line": "抱歉，路上遇到了一个…老朋友，所以耽搁了。",
+        "recognized_text": "抱歉路上遇到了一个老朋友所以耽搁了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5658.ogg",
+        "matched_line": "你还真是有人气呢。",
+        "recognized_text": "哼你还真有人气",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_812.ogg",
+        "matched_line": "还有不知道藏在哪里的电子密钥。",
+        "recognized_text": "还有哦不知道藏在哪里的电子密钥",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_905.ogg",
+        "matched_line": "治病的小实验。我身边的舰长，他似乎有点头疼的症状。",
+        "recognized_text": "治病的小实验我身边的店长他似乎有点头疼的症状",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5653.ogg",
+        "matched_line": "舰长，终于找到你了。你看上去很忙的样子。",
+        "recognized_text": "记着啊终于找到你了你看上去很忙的样子",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4673.ogg",
+        "matched_line": "刚刚好像听到有跳闸的声音，我摸黑过去看看。",
+        "recognized_text": "刚刚好像听到有跳闸的声音我摸黑过去看看",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2298.ogg",
+        "matched_line": "抱歉，路上遇到了一个…老朋友，所以耽搁了。",
+        "recognized_text": "抱歉路上遇到了一个老朋友所以耽搁了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_987.ogg",
+        "matched_line": "为了防止舰长你逃走，我会把我们紧紧地铐在一起的~",
+        "recognized_text": "为了防止见着你逃走我会把我们紧紧的靠在一起的",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4663.ogg",
+        "matched_line": "是是是，靠谱的美少女居然直到前天还相信圣诞老人是存在的。",
+        "recognized_text": "是是是靠谱的美少女居然知道前天还相信圣诞老人是存在的",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2156.ogg",
+        "matched_line": "最近在沧海市发生了多起夜路袭击事件，我需要你配合做一些调查。",
+        "recognized_text": "最近在苍海市发生了多起耶鲁袭击事件我需要你配合做一些调查",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2158.ogg",
+        "matched_line": "你竟然冒充它的舰长，为了蒙混过关都开始口不择言了。",
+        "recognized_text": "休伯利安我记得这是刚投入建造的浮空战舰你竟然冒充他的舰长为了蒙混过关都开始口不择言了",
+        "match_score": 66
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2154.ogg",
+        "matched_line": "受害者全员都是身材高挑的年轻女性，遇袭后至今昏迷不醒，",
+        "recognized_text": "受害者全员都是身材高挑的年轻女性据悉后至今昏迷不醒全身上下没有明显外伤只是",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_865.ogg",
+        "matched_line": "舰长，我们先试着修复这台游戏机吧。",
+        "recognized_text": "县长我们先试着修复这台游戏机吧",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2486.ogg",
+        "matched_line": "等一切结束以后，结束以后…",
+        "recognized_text": "等一切结束以后结束以后",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2149.ogg",
+        "matched_line": "我是沧海市的义警。",
+        "recognized_text": "我是沧海市的一",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4948.ogg",
+        "matched_line": "啊，我不会和面也不会擀面，就用了泡面。",
+        "recognized_text": "哦我不会和面也不会擀面就有了泡面",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2816.ogg",
+        "matched_line": "我找来了全班成绩最好的符华同学，帮你进行补习。",
+        "recognized_text": "我找来了全班成绩最好的浮华同学帮你补习",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2812.ogg",
+        "matched_line": "而符华同学，身为学生却能成为A级女武神，简直是你们这帮小鬼的榜样了。",
+        "recognized_text": "而复华同学身为学生却能成为a级女武神简直是你们这帮小鬼的榜样了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2821.ogg",
+        "matched_line": "崩坏是伴随文明而生的周期性灾难，通过各种形式给人类带来毁灭。",
+        "recognized_text": "基础练习第二页第五题作为人类最大的敌人崩坏是伴随文明而生的周期性灾难通过各种形式给人类带来毁灭",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2829.ogg",
+        "matched_line": "混蛋…我看你一定想体会一下被我打到崩坏的感觉了。",
+        "recognized_text": "混蛋我看你一定是想体会一下被我打到崩坏的感觉了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4059.ogg",
+        "matched_line": "符华，这里就是你说的地方吗？",
+        "recognized_text": "说话这里就是你说的地方吗",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4843.ogg",
+        "matched_line": "真的做出来了？而且居然看上去还不错？！",
+        "recognized_text": "真的做出来了而且居然看上去还不错",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3229.ogg",
+        "matched_line": "冷静点！告诉我还要多久就行了！",
+        "recognized_text": "冷静点告诉我还有多久就行了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_875.ogg",
+        "matched_line": "符华，是你亲手毁坏了这台游戏机。你忘了对它做过什么吗？",
+        "recognized_text": "复华是你亲手毁坏了这台游戏机你忘了对她做过什么吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2439.ogg",
+        "matched_line": "长~官~大~人？我记得约定的见面时间是12点整，那么请问现在是几时几分呢？",
+        "recognized_text": "长官的人我记得约定的见面时间是十二点整那么请问现在是几十几分呢",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_876.ogg",
+        "matched_line": "不过仅凭这点线索是不够的。",
+        "recognized_text": "不过仅凭这一点线索是不够的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4750.ogg",
+        "matched_line": "老师的话你也不听了吗？如果摔下来，伤了你，伤了舰长都不好。 布洛妮娅听话，快下来。",
+        "recognized_text": "老师的话你也不听了吗如果摔下来伤了你伤了店长都不好不然你也听话快下来",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_892.ogg",
+        "matched_line": "魔法少女TeRiRi，毁坏他人财物、扰乱公共秩序，逮捕！",
+        "recognized_text": "魔法少女莉莉毁坏他人财务扰乱公共秩序逮捕",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4851.ogg",
+        "matched_line": "哎呀，反正我去了也只会帮倒忙。怎么样舰长，要不要一起喝一杯？",
+        "recognized_text": "哎呀反正我去了也只会帮倒忙怎么样见长啊要不要一起喝一杯",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2504.ogg",
+        "matched_line": "…这么体贴我也不会有什么福利给你的哦~",
+        "recognized_text": "这么体贴我也不会有什么福利给你的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2959.ogg",
+        "matched_line": "啧，连琪亚娜也变得这么用功了。让我忍不住也想热身了！",
+        "recognized_text": "连体的也变得这么用功上我忍不住也想热身了",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2830.ogg",
+        "matched_line": "干脆就让这家伙先来测试一下学园里新安装的训练装置吧。",
+        "recognized_text": "干脆就让这家伙现在测试一下学员里新安装的训练装置吧据说这次考试会用到就不少机关陷阱",
+        "match_score": 66
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4235.ogg",
+        "matched_line": "活得好好的呢…",
+        "recognized_text": "活的好好的呢",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3971.ogg",
+        "matched_line": "我们也没有别的办法了。",
+        "recognized_text": "我也没有别的办法了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3185.ogg",
+        "matched_line": "谢谢你，舰长。谢谢你陪我们走过的两年，给了我们那么多快乐的回忆。",
+        "recognized_text": "谢谢你见长谢谢你陪我们走过的两年给了我们那么多快乐的回忆",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4381.ogg",
+        "matched_line": "快回到休伯利安上去吧！",
+        "recognized_text": "快回到修玻璃安上去吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3996.ogg",
+        "matched_line": "我不认为天命会毫无准备地唤醒律者，他们一定考虑过计划失败的对策。",
+        "recognized_text": "我不认为天命会毫无准备的话行旅者他们一定考虑过计划失败的对策",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2328.ogg",
+        "matched_line": "…这么积极，难不成昨晚有什么发现？",
+        "recognized_text": "这么积极难不成昨晚有什么发现",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_887.ogg",
+        "matched_line": "唔，也不是没有这种可能。毕竟，我们人类还无法完全理解崩坏的神秘。",
+        "recognized_text": "也不是没有这种可能毕竟我们人类还无法完全理解崩坏的神秘",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2832.ogg",
+        "matched_line": "请说出至少一种崩坏灾难的表现形式？快回答！",
+        "recognized_text": "请说出至少一种崩坏灾难的表现形式快回答",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2247.ogg",
+        "matched_line": "还是说你打算先去禁闭室里蒸两天充满热情与汗臭味的桑拿？",
+        "recognized_text": "还是说你打算先去禁闭室里这两天充满热情与汗臭味的桑拿",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4854.ogg",
+        "matched_line": "舰长？你躲在桌子后面做什么？",
+        "recognized_text": "见长啊你躲在桌子后面做什么",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1443.ogg",
+        "matched_line": "舰长，我正在和符华进行赌上女性荣誉的对决。请不要打扰我们。",
+        "recognized_text": "县长我正在和胡华进行堵上女性荣誉的对决请不要打扰我们",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2833.ogg",
+        "matched_line": "…唉，你的脑袋瓜肯定是崩坏的一种表现形式。",
+        "recognized_text": "你的脑袋瓜肯定也是崩坏的一种表现形式",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2823.ogg",
+        "matched_line": "往哪儿跑？符华，这个家伙交给你了，不要对她客气。",
+        "recognized_text": "往哪儿跑浮华这个家伙交给你了不要对他客气",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4439.ogg",
+        "matched_line": "我这个人…就是有些难缠。",
+        "recognized_text": "我这个人就是有些难缠",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_807.ogg",
+        "matched_line": "反应速度太慢了，舰长。",
+        "recognized_text": "反应速度太慢了简直",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2975.ogg",
+        "matched_line": "嗯？琪亚娜的动作居然快到产生幻影？",
+        "recognized_text": "他的动作居然快到产生了幻影",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4748.ogg",
+        "matched_line": "舰长也来了啊，要不要喝一杯？",
+        "recognized_text": "建成也来了要不要喝一杯",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2265.ogg",
+        "matched_line": "玩笑啦玩笑，我去右边看看，左边的调查就交给你了。",
+        "recognized_text": "玩笑的玩笑我去右边看看左边的调查就交给你了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_910.ogg",
+        "matched_line": "舰长你听过“师出有名”这个词吗？强行逮捕，会让天命的公信力下降。",
+        "recognized_text": "见着你听过师出有名这个词吗强行逮捕会让天命的公信力下降",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2827.ogg",
+        "matched_line": "居然答对了，虽然这题简单到不行。",
+        "recognized_text": "居然答对了虽然这题简单到不行",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8945.ogg",
+        "matched_line": "你的脸色可真难看。",
+        "recognized_text": "怎么啦你的脸色很难看",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2553.ogg",
+        "matched_line": "再见了…我的长官大人。",
+        "recognized_text": "再见了我的长官大人",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1439.ogg",
+        "matched_line": "…怎么回事？我的雷电牙二，为什么，为什么最后拒绝了我？",
+        "recognized_text": "怎么回事获得雷电芽儿为什么为什么最后拒绝了我",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2501.ogg",
+        "matched_line": "喂喂，窥探别人的过去可不是什么好兴趣。",
+        "recognized_text": "问问窥探别人的过去可不是什么好兴趣",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2810.ogg",
+        "matched_line": "咳，那个，我可是很忙的。",
+        "recognized_text": "那个我可是很忙的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1437.ogg",
+        "matched_line": "在过去的十年里，我完美通关了市面上所有的恋爱模拟游戏。",
+        "recognized_text": "复华选择我作为你的对手是你最大的失误在过去的十年里我完美通关了市面上所有的恋爱模拟游戏",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3186.ogg",
+        "matched_line": "像个傻瓜。",
+        "recognized_text": "像个傻瓜",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2162.ogg",
+        "matched_line": "你…竟然知道“天命”的存在！你果然很危险，必须逮捕你。",
+        "recognized_text": "全知道天命的存在你果然很危险必须带着你",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2242.ogg",
+        "matched_line": "那我是不是应该叫你一声“长~官~大~人~”？",
+        "recognized_text": "那我是不是应该叫你一声长官大人",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1226.ogg",
+        "matched_line": "对了，大门的修理费就从你工资里扣了。你这个月的工资肯定是不够的。",
+        "recognized_text": "对了大门的修理费就从你工资里扣了你这个月的工资肯定是不够的",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4760.ogg",
+        "matched_line": "这样太危险了，而且舰长可是我们的客人，怎么能让人家这么辛苦。",
+        "recognized_text": "这样太危险了而且店长可是我们的客人怎么能让人家这么辛苦",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_754.ogg",
+        "matched_line": "谢谢舰长的好意，不过…",
+        "recognized_text": "谢谢店长的好意不过",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1020.ogg",
+        "matched_line": "护士小姐，真是抱歉。这是我们的舰长，说话有些没头没脑，你别跟他一般见识",
+        "recognized_text": "护士小姐真是抱歉这是我们的店长说话有些没头没脑你别跟他一般见识",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4497.ogg",
+        "matched_line": "这次…真的闹大了啊。",
+        "recognized_text": "这次真的闹大了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3124.ogg",
+        "matched_line": "别吹牛了，赶快回去休息吧。",
+        "recognized_text": "别吹牛了赶快回去休息吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1227.ogg",
+        "matched_line": "舰长，你在这里做什么！",
+        "recognized_text": "见长啊你在这里做什么",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2814.ogg",
+        "matched_line": "你以为这是家政服务吗，还要微笑？赶快上课吧。",
+        "recognized_text": "你以为这是家政服务吗还有微笑赶快上课吧",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2552.ogg",
+        "matched_line": "…很快就会结束了。",
+        "recognized_text": "很快就会结束了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4288.ogg",
+        "matched_line": "…这里，就是尽头了。",
+        "recognized_text": "这里就是尽头了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4071.ogg",
+        "matched_line": "…发呆？",
+        "recognized_text": "发呆",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2150.ogg",
+        "matched_line": "嗯，我觉得她的主张没有错。",
+        "recognized_text": "我觉得他的主张没有错",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1027.ogg",
+        "matched_line": "八重樱，我的药水呢？",
+        "recognized_text": "八重樱我的药水了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_764.ogg",
+        "matched_line": "吃一口就知道了。",
+        "recognized_text": "吃一口就知道了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5655.ogg",
+        "matched_line": "今晚，还很漫长哦~",
+        "recognized_text": "今晚还很漫长",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4302.ogg",
+        "matched_line": "选择，我早就做好了。",
+        "recognized_text": "选择我早就做好了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5135.ogg",
+        "matched_line": "没想到德丽莎居然做菜做得那么好，真是令人惊讶。",
+        "recognized_text": "没想到德莉莎居然做菜做的那么好真是令人惊讶",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4782.ogg",
+        "matched_line": "等一下德丽莎，你之前可没说那是挪用学园预算买的！",
+        "recognized_text": "等一下这丽莎你之前可没说那是挪用学院预算买的",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1026.ogg",
+        "matched_line": "我的身体可是很健康的，舰长要来检查一下吗？",
+        "recognized_text": "我的身体可是很健康的见着要来检查一下吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_898.ogg",
+        "matched_line": "Teriri与八重樱没有达成共识的话，不如我们做个小实验。",
+        "recognized_text": "凯里八重樱没有达成共识的话不如我们做个小实验",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5648.ogg",
+        "matched_line": "不过，我的巧克力可不一样。",
+        "recognized_text": "不过我的巧克力可不一样",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4941.ogg",
+        "matched_line": "……但是因为菜单上写的这个太麻烦了，我是在超市买的袋装的担担面酱。",
+        "recognized_text": "但是因为菜单上写的这个太麻烦了我是在超市买的袋装的担担面酱",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_808.ogg",
+        "matched_line": "怪盗卡莲，盗窃未遂，逮捕！",
+        "recognized_text": "怪盗卡莲盗窃未遂逮捕",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_868.ogg",
+        "matched_line": "世界之大，无奇不有。",
+        "recognized_text": "世界之大无奇不有",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2818.ogg",
+        "matched_line": "琪亚娜，有个好消息要告诉你。",
+        "recognized_text": "家呢有个好消息要告诉你",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_788.ogg",
+        "matched_line": "客观来说，只看外表我无法判断。",
+        "recognized_text": "客观来说只看外表我无法判断",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4813.ogg",
+        "matched_line": "得了吧，我又不是第一天认识你了，上次那个烤到碳化的馅饼还是我帮你扔出去的。",
+        "recognized_text": "得了吧我又不是第一天认识你上次那个烤到碳化的馅饼还是我帮你扔出去的",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4500.ogg",
+        "matched_line": "往后，还有很长的路要走吧？",
+        "recognized_text": "往后还有很长的路要走吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3863.ogg",
+        "matched_line": "我不需要知道这个。告诉我，德丽莎她们在哪里！",
+        "recognized_text": "我不需要知道这个告诉我德丽莎她们在哪里",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2489.ogg",
+        "matched_line": "不要沉默啊！你倒是说点什么给我否定掉啊喂！",
+        "recognized_text": "不要沉默你倒是说点什么给否定掉",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2497.ogg",
+        "matched_line": "在他的影响下，我也一直把成为物理学家当作自己的目标。",
+        "recognized_text": "在他的影响下我也一直把成为物理学家当做自己的目标",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_782.ogg",
+        "matched_line": "舰长跟在我后面鬼鬼祟祟的做什么？",
+        "recognized_text": "县长跟在我后面鬼鬼祟祟的做什么",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4947.ogg",
+        "matched_line": "对我为舰长特制的爱心午餐用这种形容词，舰长是不是太不解风情了？这可是正宗的担担面…应该吧。",
+        "recognized_text": "对我为店长特制的爱心午餐用这种形容词见长是不是太不解风情了这可是正宗的担担面嗯应该吧",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3180.ogg",
+        "matched_line": "啧，真是不凑巧。要记得，你欠我一支舞。",
+        "recognized_text": "真是不凑巧要记得你欠我一支舞",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5650.ogg",
+        "matched_line": "舰长，情人节快乐。",
+        "recognized_text": "见长啊情人节快乐",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3879.ogg",
+        "matched_line": "…没时间管这些了！",
+        "recognized_text": "没时间管这些",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5644.ogg",
+        "matched_line": "呵，虽说只是小姑娘之间流行的东西。",
+        "recognized_text": "虽说只是小姑娘之间流行的东西",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2592.ogg",
+        "matched_line": "好男人是不会找这种借口的哦，休伯利安的舰长大人？",
+        "recognized_text": "好男人是不会找这种借口的休伯利安的舰长大人",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_71.ogg",
+        "matched_line": "但我还挺喜欢这个地方的。",
+        "recognized_text": "我还挺喜欢你这个主意的",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2966.ogg",
+        "matched_line": "上次执行任务的时候，你们到底接触了什么东西，会让她变成那个样子？",
+        "recognized_text": "上次执行任务的时候你们到底接触了什么东西会让他变成那个样子",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2257.ogg",
+        "matched_line": "来协助我的调查吧，华生。",
+        "recognized_text": "来协助我的调查吧华生",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4945.ogg",
+        "matched_line": "这担担面就是我无量塔姬子挽回名誉的一战。舰长，来验收一下战果吧？",
+        "recognized_text": "这担担面就是我无量塔姬子挽回明日的一战见长啊在验收一下战果吧",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2462.ogg",
+        "matched_line": "…不用在意，只是一个老朋友。",
+        "recognized_text": "不用在意只是一个老朋友",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4256.ogg",
+        "matched_line": "这里…就是最下层…",
+        "recognized_text": "这里就是最下层",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1219.ogg",
+        "matched_line": "这么大的一声爆炸，我还以为是逆熵的小老鼠跑进来了，没想到是舰长。",
+        "recognized_text": "这么大的一声爆炸我还以为是你生的小老鼠跑进来了没想到是店长",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3919.ogg",
+        "matched_line": "赫尔海姆…虽然有所耳闻，但我从来没有来过这里。",
+        "recognized_text": "赫尔海姆有所耳闻但我从来没有来过这里",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4057.ogg",
+        "matched_line": "呵呵，终于出现了…",
+        "recognized_text": "终于出现了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5647.ogg",
+        "matched_line": "来，给你这个。",
+        "recognized_text": "给你这个",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2469.ogg",
+        "matched_line": "当然，不过是被咬了一下而已。",
+        "recognized_text": "当然不过是被咬了一下而已",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4046.ogg",
+        "matched_line": "这…与其说是实验室，更像是工厂吧！",
+        "recognized_text": "与其说是实验室更工厂吧",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_34.ogg",
+        "matched_line": "符华，你那边情况怎么样？",
+        "recognized_text": "你那边情况怎么样",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3923.ogg",
+        "matched_line": "…这个声音是？",
+        "recognized_text": "这个声音",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_901.ogg",
+        "matched_line": "请用人类的语言回答我，德丽莎学园长。",
+        "recognized_text": "用人类的语言回答我葛丽莎学园长",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_894.ogg",
+        "matched_line": "复杂？",
+        "recognized_text": "复杂",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_872.ogg",
+        "matched_line": "这可不是你反省的地方，跟我走一趟吧。",
+        "recognized_text": "这可不是你反省的地方跟我走一趟吧",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2480.ogg",
+        "matched_line": "喂，等一切结束以后，介绍个好人给我好不好？",
+        "recognized_text": "等一切结束以后介绍个好人给我好不好",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_756.ogg",
+        "matched_line": "为了提升天命对外的形象，奥托主教下令各支部都要派人执行辖区义警任务。",
+        "recognized_text": "为了提升天命对外的形象奥托主教下令各支部都要派人执行辖区义井任务",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4045.ogg",
+        "matched_line": "把它们收拾干净再好好调查这里吧！",
+        "recognized_text": "把它们收拾干净再好好调查这里吧",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2267.ogg",
+        "matched_line": "嗯？理解得这么快…难不成是惯犯？",
+        "recognized_text": "理解的这么快难不成是惯犯",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2595.ogg",
+        "matched_line": "嗯？理解得这么快…难不成是惯犯？",
+        "recognized_text": "理解的这么快难不成是惯犯",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4749.ogg",
+        "matched_line": "既然你们来帮忙了，那就抓紧时间布置吧。",
+        "recognized_text": "既然你们来帮忙了那就抓紧时间布置吧",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4850.ogg",
+        "matched_line": "这真的是你做的？你知道做法？",
+        "recognized_text": "这真的是你做的你知道做法",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4430.ogg",
+        "matched_line": "我可是有名字的…给我好好记住了，你将要面对的…",
+        "recognized_text": "我可是有名字的比我好好记住了你将要面对的",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_984.ogg",
+        "matched_line": "舰长心动了吗？",
+        "recognized_text": "县长心动了吗",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3864.ogg",
+        "matched_line": "…你的样子，还真是变了不少…",
+        "recognized_text": "你的样子还真是变了不少",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3119.ogg",
+        "matched_line": "不对劲，系统报错的同时，程序就应该强行中止了。",
+        "recognized_text": "不对劲系统报错的同时程序就应该强行终止了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2491.ogg",
+        "matched_line": "在加州理工，我遇到了一个除我父亲之外对我影响最深的人。",
+        "recognized_text": "在加州理工遇到了一个除父亲之外对我影响最深的人",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4842.ogg",
+        "matched_line": "喔，好香的味道，是速食杯面吗？",
+        "recognized_text": "好香的味道是速食杯面吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4809.ogg",
+        "matched_line": "公平起见，组队会用抽签来决定。",
+        "recognized_text": "公平起见组队会用抽签来决定",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4429.ogg",
+        "matched_line": "那还真是抱歉了…",
+        "recognized_text": "那还真是抱歉了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_904.ogg",
+        "matched_line": "可能肚子还有点疼。",
+        "recognized_text": "可能肚子还有点疼",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4845.ogg",
+        "matched_line": "虽然还是不太敢相信，不过这个宫保鸡丁还真好吃！没想到德丽莎还藏了这么一手。",
+        "recognized_text": "虽然还是不太敢相信不过这个宫保鸡丁真好吃没想到德莉莎还藏了这么一手",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_814.ogg",
+        "matched_line": "据我研究，这应该是采用了最新保密科技的保险箱。",
+        "recognized_text": "据我研究这应该是采用了最新保密科技的保险箱它需要主人的指纹和虹膜认证",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4943.ogg",
+        "matched_line": "舰长，来看看这个。",
+        "recognized_text": "见长啊来看看这个",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2968.ogg",
+        "matched_line": "真，真啰嗦…对了，布洛妮娅的身体没什么大碍吧？",
+        "recognized_text": "罗嗦对了你的身体没什么大碍吧",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3116.ogg",
+        "matched_line": "但现在程序的同步率却处在120%的状态下，也就是说——",
+        "recognized_text": "但现在程序的同步率却处在120%的状态下就是说",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_803.ogg",
+        "matched_line": "无量塔姬子，沧海市义警。报案人自我介绍，简述事况。",
+        "recognized_text": "无量塔机子沧海是一景人自我介绍简述实况",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_895.ogg",
+        "matched_line": "说重点。",
+        "recognized_text": "说重点",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4939.ogg",
+        "matched_line": "出锅前加辣椒油、酱油、醋、味精、芝麻酱、花生碎调味，浇在煮好的面上即可。",
+        "recognized_text": "出锅前加辣椒油酱油醋味精芝麻酱花生碎调味浇在煮好的面上即可",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2482.ogg",
+        "matched_line": "你跟那个人很像。明明没有力量，却可以为了别人勉强自己挑战做不到的事情。",
+        "recognized_text": "你跟那个人很像明明没有力量却可以为了别人勉强自己去挑战做不到的事情",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_881.ogg",
+        "matched_line": "“案发地点”在…",
+        "recognized_text": "案发地点",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9674.ogg",
+        "matched_line": "你到底想说什么？",
+        "recognized_text": "你到底想说什么",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_806.ogg",
+        "matched_line": "群众迷路、宠物失踪，还是钱包掉了？",
+        "recognized_text": "群众迷路宠物失踪还是钱包掉了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1523.ogg",
+        "matched_line": "为什么会这么想呢？",
+        "recognized_text": "他为什么会来这呢",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_280.ogg",
+        "matched_line": "你到底想说什么？",
+        "recognized_text": "你到底想说什么",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2872.ogg",
+        "matched_line": "我不会让这种事情发生的。",
+        "recognized_text": "我不会让这种事发生的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1863.ogg",
+        "matched_line": "她在。",
+        "recognized_text": "她在哭",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3395.ogg",
+        "matched_line": "…这个声音是？",
+        "recognized_text": "这个声音是",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_434.ogg",
+        "matched_line": "你自己看！",
+        "recognized_text": "你自己的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1040.ogg",
+        "matched_line": "那是…",
+        "recognized_text": "那是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_192.ogg",
+        "matched_line": "她人呢？",
+        "recognized_text": "人呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1658.ogg",
+        "matched_line": "那是…",
+        "recognized_text": "那是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_345.ogg",
+        "matched_line": "…起来了。",
+        "recognized_text": "起来了么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2690.ogg",
+        "matched_line": "她对你做了什么？",
+        "recognized_text": "你做了什么",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2047.ogg",
+        "matched_line": "好久不见呢~",
+        "recognized_text": "好久不见了",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2685.ogg",
+        "matched_line": "她对你做了什么？",
+        "recognized_text": "你做了什么",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4402.ogg",
+        "matched_line": "不吃。",
+        "recognized_text": "不吃",
+        "match_score": 80
+    }
+]

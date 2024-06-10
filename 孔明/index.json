@@ -1,0 +1,236 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_2716.ogg",
+        "matched_line": "我相信。",
+        "recognized_text": "相信",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5405.ogg",
+        "matched_line": "我明白！",
+        "recognized_text": "我明白",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3039.ogg",
+        "matched_line": "不要。",
+        "recognized_text": "不要",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1952.ogg",
+        "matched_line": "不要。",
+        "recognized_text": "先不要",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3693.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2215.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6831.ogg",
+        "matched_line": "不要。",
+        "recognized_text": "不要",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4870.ogg",
+        "matched_line": "好了。",
+        "recognized_text": "就好了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2224.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8003.ogg",
+        "matched_line": "好了。",
+        "recognized_text": "好了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9751.ogg",
+        "matched_line": "但，这却不是刺客先生你的责任。",
+        "recognized_text": "这不是你的责任",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6370.ogg",
+        "matched_line": "真的么……",
+        "recognized_text": "真的么",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4584.ogg",
+        "matched_line": "这样就可以了。",
+        "recognized_text": "这样的就可以了什么",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4367.ogg",
+        "matched_line": "哼，这可是你自己说的。",
+        "recognized_text": "这是你自己说的",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2266.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6401.ogg",
+        "matched_line": "真的么……",
+        "recognized_text": "真的什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_377.ogg",
+        "matched_line": "我明白！",
+        "recognized_text": "我明白",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2739.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2444.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_250.ogg",
+        "matched_line": "我明白！",
+        "recognized_text": "我明白",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1401.ogg",
+        "matched_line": "我明白！",
+        "recognized_text": "我明白",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_505.ogg",
+        "matched_line": "我明白！",
+        "recognized_text": "我明白",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_486.ogg",
+        "matched_line": "我明白！",
+        "recognized_text": "我明白",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_953.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3417.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2106.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2124.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2256.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_951.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_789.ogg",
+        "matched_line": "等等，你要去哪？",
+        "recognized_text": "等等你要",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_778.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_784.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3127.ogg",
+        "matched_line": "好了。",
+        "recognized_text": "好了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2791.ogg",
+        "matched_line": "好了。",
+        "recognized_text": "好了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1651.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_620.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2148.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1770.ogg",
+        "matched_line": "谢谢。",
+        "recognized_text": "谢谢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1531.ogg",
+        "matched_line": "我明白！",
+        "recognized_text": "我才明白",
+        "match_score": 75
+    }
+]

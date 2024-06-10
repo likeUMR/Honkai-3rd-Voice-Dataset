@@ -1,0 +1,80 @@
+[
+    {
+        "audio_file": "AUDIO_3_5_3_6_1198.ogg",
+        "matched_line": "求求你，把哥哥也一起带上吧！",
+        "recognized_text": "嗯嗯嗯求求你我哥哥有一起带上吧",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_108.ogg",
+        "matched_line": "没人能看清她究竟是怎么出现的，又是什么时候离开的……应该只是谣传吧。",
+        "recognized_text": "没人能看清他究竟是怎么出现的又是什么时候离开的应该只是谣传吧",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_71.ogg",
+        "matched_line": "欢迎来到工业区，丽塔小姐。我是神城医药派驻在神州分部的顾问希奥拉。",
+        "recognized_text": "欢迎来到工业区丽塔小姐我是神盛医药派在神州分部的顾问需要拉你也可以直接叫我的外号不一样",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_827.ogg",
+        "matched_line": "是工业区的行政大楼。",
+        "recognized_text": "是工业区的行政大楼",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_102.ogg",
+        "matched_line": "人就是这样……遇难的时候比起靠自己，更喜欢幻想有英雄来拯救。",
+        "recognized_text": "人就是这样遇到困难的时候彼此靠自己更喜欢幻想有英雄来拯救",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_811.ogg",
+        "matched_line": "没问题，跟我来。",
+        "recognized_text": "没问题跟我来",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_109.ogg",
+        "matched_line": "说到守护…最近听说有个神秘的独行侠出现在崩坏兽灾害的现场，还救下了不少人。该不会是你们天命的人吧？",
+        "recognized_text": "说到守护最近听说有个神秘的独行侠出现在崩坏兽灾害的现场还救下了不少人该不会是你们签订的人吧",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_98.ogg",
+        "matched_line": "……我明白了，我会给你想要的资料。",
+        "recognized_text": "我明白了我会给你想要的资料",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_104.ogg",
+        "matched_line": "毕竟这座城市已经越来越危险了。丽塔小姐，请务必注意安全。",
+        "recognized_text": "毕竟这座城市已经越来越危险了丽塔小姐请务必注意安全",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_57.ogg",
+        "matched_line": "这一次，由我来迎接并陪同您视察。",
+        "recognized_text": "这次由我来迎接并陪同您视察",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_786.ogg",
+        "matched_line": "呵，老板的一些个人爱好罢了。",
+        "recognized_text": "老板的一些个人爱好罢了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_67.ogg",
+        "matched_line": "欢迎来到工业区，丽塔小姐。我是神城医药派驻在神州分部的顾问希奥拉。",
+        "recognized_text": "欢迎来到工业区丽塔小姐我是神盛医药派出在神州分部的顾问需要拉",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_99.ogg",
+        "matched_line": "要我泄露医疗记录？这……",
+        "recognized_text": "要我泄露医疗记录",
+        "match_score": 80
+    }
+]

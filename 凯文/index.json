@@ -1,0 +1,1334 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4856.ogg",
+        "matched_line": "这，就是崩坏……！",
+        "recognized_text": "这就是崩坏",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5044.ogg",
+        "matched_line": "你的意志并非伪装。身为律者，你确实在为人类而战。",
+        "recognized_text": "你的意志并非伪装绿茶你确实在为人类而战",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5090.ogg",
+        "matched_line": "——你们，对崩坏一无所知。",
+        "recognized_text": "你们对崩坏一无所知",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5040.ogg",
+        "matched_line": "它们如同梦幻泡影，日复一日地浮现在我眼前，又化作虚无。",
+        "recognized_text": "他们如同梦幻泡影日复一日的浮现在我眼前化作虚无",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4686.ogg",
+        "matched_line": "我们已经不能再承受一次那样的损失了。",
+        "recognized_text": "我们已经不能再承受一次那样的事了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4861.ogg",
+        "matched_line": "在我们不知道的时候，基地里的军人擅自处决了她，却因此唤醒了律者。",
+        "recognized_text": "在我们不知道的时候集体里的军人擅自处决了他却因此唤醒了绿茶",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4701.ogg",
+        "matched_line": "樱，逐火之蛾需要你，我们需要你。",
+        "recognized_text": "着火这个需要你我们需要你",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4895.ogg",
+        "matched_line": "第12律者的能力，是在死亡瞬间释放出大量通过空气传播的侵蚀性病毒。",
+        "recognized_text": "第十二律者能力是在死亡瞬间释放出大量通过空气传播的轻质性病毒",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5046.ogg",
+        "matched_line": "我们又见面了，理之律者，以及……他的继承者。",
+        "recognized_text": "我们又见面了李智旅程以及他的继承者",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4960.ogg",
+        "matched_line": "我会尽力。",
+        "recognized_text": "我会尽力",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5100.ogg",
+        "matched_line": "我将统率，并带领人类，完成“先驱者”真正的使命。",
+        "recognized_text": "我就统率并带领人类完成先驱者真正的使命",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5053.ogg",
+        "matched_line": "我在这片海洋中沉睡了1500年。",
+        "recognized_text": "活在这片海洋中沉睡了1500年",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4885.ogg",
+        "matched_line": "你疯了吗，她已经不是铃了！",
+        "recognized_text": "你疯了吧他已经不是零了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5097.ogg",
+        "matched_line": "我对你们表示敬意。在这个世代，依然有一群坚定理想，为人类而战的英雄。",
+        "recognized_text": "我对你们表示敬意在这个时代依然有一群坚定理想为人类而战的英雄",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3036.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈哈哈哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5041.ogg",
+        "matched_line": "这1500年里，崩坏不断肆虐，而我却只能沉陷在往昔的回忆中，无能为力。",
+        "recognized_text": "这1500年里崩坏不断肆虐而我却只能呈现在往昔的回忆中无能为力",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5098.ogg",
+        "matched_line": "让我们，在现实再会吧。",
+        "recognized_text": "让我们在现实再会吧",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4693.ogg",
+        "matched_line": "但第11律者的能力超出了所有人的想象，没人能想到灾难会以那种形式降临。",
+        "recognized_text": "但第十一律者的能力超出了所有人的想象没人能想到真的会那种形式降临",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5037.ogg",
+        "matched_line": "那是我的记忆，是我未能完成的约定。",
+        "recognized_text": "那是我的记忆是否会能完成的约定",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5093.ogg",
+        "matched_line": "无论是你，还是那两个女孩，你们都还有潜能。",
+        "recognized_text": "无论是你还是那两个女孩儿你们都还有钱呢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4989.ogg",
+        "matched_line": "她说，在最后时刻，律者的活动出现了原因不明的紊乱。",
+        "recognized_text": "他说在最后时刻率的活动出现原因不明的紊乱",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5088.ogg",
+        "matched_line": "但凭那具残破的身体，你又能做什么呢？",
+        "recognized_text": "但凭那去残破的身体你又能做什么呢",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5055.ogg",
+        "matched_line": "对抗崩坏是我们共同的使命，我无意与你为敌。",
+        "recognized_text": "对抗崩坏是我们共同的使命无意与你为敌",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4865.ogg",
+        "matched_line": "就算阻止了那些军人，也早晚会有其他人，其他事，成为压垮她的最后一根稻草。",
+        "recognized_text": "就算阻止了那些精神早晚会有其他人其他事成为压垮他的最后一根稻草",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4988.ogg",
+        "matched_line": "你到最后也没有后悔过，这就足够了。",
+        "recognized_text": "你到最后也没有后悔过就足够了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4694.ogg",
+        "matched_line": "铃的情况是很特殊，但她必须受到监管。请你相信梅博士会做出明智的判断。",
+        "recognized_text": "零的情况是很特殊但她必须受到监管请相信梅博士会做出明智的判断",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5039.ogg",
+        "matched_line": "无论你们是否接受，我，都将履行自己本应完成的职责！",
+        "recognized_text": "无论你们是否接受履行自己本应完成的职责",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4684.ogg",
+        "matched_line": "我不会伤害你，但也绝不会让你通过这里。",
+        "recognized_text": "我不会伤害你但也绝不会让你通过这里",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4676.ogg",
+        "matched_line": "我也很清楚，所以我才要阻止你。樱，在事情变得无法挽回前收手吧。",
+        "recognized_text": "我也很清楚所以我才要阻止你在事情变得无法挽回前收手吧",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4964.ogg",
+        "matched_line": "她没有错过那个机会。",
+        "recognized_text": "他没有错过你个机会",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5094.ogg",
+        "matched_line": "为了保护那个女孩，用理之律者的能力重构了自己的肉身吗？你的力量也成长了。",
+        "recognized_text": "为了保护那个女孩儿就里之律者的能力重构了自己的肉身吗你的力量也成长了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4967.ogg",
+        "matched_line": "我有些事……要处理。",
+        "recognized_text": "我有些事要处理",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4870.ogg",
+        "matched_line": "你快带着樱去安全的地方！律者的攻击还没有结束——",
+        "recognized_text": "你快点去安全的地方绿茶的攻击还没有结束",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3510.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈——",
+        "recognized_text": "呵呵哈哈哈哈哈哈哈哈哈",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5087.ogg",
+        "matched_line": "世界蛇需要你们这样的人。",
+        "recognized_text": "世界上需要你们这样的人",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5092.ogg",
+        "matched_line": "只是，你们还是太过天真，天真到会被理想害死。",
+        "recognized_text": "只是你们还是太过天真天真到会被理想害死",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4975.ogg",
+        "matched_line": "抱歉，梅，能给我一点时间吗。",
+        "recognized_text": "抱歉没能给我一点时间吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4702.ogg",
+        "matched_line": "铃的体内检测到了特殊的崩坏能反应，毫无疑问，她就是第12律者。",
+        "recognized_text": "人的体内检测到了特殊的崩坏能反应毫无疑问他就是第十二旅程",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4891.ogg",
+        "matched_line": "别开玩笑了！铃已经死了！",
+        "recognized_text": "别开玩笑了已经死了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4678.ogg",
+        "matched_line": "你的行为，已经等同于背叛人类。",
+        "recognized_text": "你的行为已经等同于背叛人类",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4879.ogg",
+        "matched_line": "当铃被选中成为律者的时候，她的结局就已经注定。",
+        "recognized_text": "当你被选中球率调的时候他的结局就已经注定",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4949.ogg",
+        "matched_line": "……不，没有那个必要了。",
+        "recognized_text": "没有那个必要了",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5052.ogg",
+        "matched_line": "但现在，蛇归来的时刻到了。",
+        "recognized_text": "现在蛇归来的时刻到了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5051.ogg",
+        "matched_line": "所以我帮助了那个女孩，希望她能把你带到我的面前。",
+        "recognized_text": "所以我帮助了那个女孩儿希望他能把你带到我的面前",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5099.ogg",
+        "matched_line": "你不用现在就回答。总有一天，你会明白的。",
+        "recognized_text": "你不用现在就回答总有一天你会明白的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5045.ogg",
+        "matched_line": "你能阻止我吗？",
+        "recognized_text": "你能阻止我吗",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5038.ogg",
+        "matched_line": "与同伴的回忆，被托付的意志，向所有人期许的未来。",
+        "recognized_text": "与同伴的回忆被托付的意思想所有人期许的未来",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3880.ogg",
+        "matched_line": "从现在开始，和我一起战斗吧！",
+        "recognized_text": "和我一起战斗吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5060.ogg",
+        "matched_line": "我本以为你是崩坏的使徒，但在那座迷宫中，我看到了你的过去。",
+        "recognized_text": "我本以为你是崩坏的图大姐你说谜公主我看到了你的过去",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5057.ogg",
+        "matched_line": "仿佛在一遍又一遍地提醒着我，人类曾一度被崩坏灭绝的事实。",
+        "recognized_text": "仿佛在一遍又一遍的提醒着我人类曾一度被崩坏灭绝的事实",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4699.ogg",
+        "matched_line": "樱，我明白你的心情。",
+        "recognized_text": "我明白你的心情",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2001.ogg",
+        "matched_line": "我知道。",
+        "recognized_text": "我知道了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4196.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈哈哈",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3695.ogg",
+        "matched_line": "时间到了。",
+        "recognized_text": "没时间了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1.ogg",
+        "matched_line": "从现在开始，和我一起战斗吧！",
+        "recognized_text": "从现在开始和我一起战斗吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_910.ogg",
+        "matched_line": "根据梅的测算，距离“祂”的降临，只剩下最后一小时了。",
+        "recognized_text": "根据每个厕所距离他的降临只剩下最后1小时了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_907.ogg",
+        "matched_line": "华，要开始准备了。",
+        "recognized_text": "要开始准备了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_908.ogg",
+        "matched_line": "……因为地球孕育了我们，因为星星依然在我们头顶闪着光。",
+        "recognized_text": "因为地球孕育了我们因为星星依然在我们头顶闪着光",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_897.ogg",
+        "matched_line": "承诺。如果我们中有人能活着走出这个战场，就必须承担起更多的责任。",
+        "recognized_text": "承诺如果我们中有人能活着走出这个战场就必须承担起更多的责任",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_4.ogg",
+        "matched_line": "老朋友，我们又见面了。",
+        "recognized_text": "老朋友我们又见面了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_903.ogg",
+        "matched_line": "我们中活下来的人必须呵护这些种子，避免它重蹈覆辙，直到新的文明建成。",
+        "recognized_text": "我们中活下来的人必须呵护这些种子避免她重蹈覆辙知道新的文明建设",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_898.ogg",
+        "matched_line": "梅所准备的那些方案，“圣痕计划”、“火种计划”、“方舟计划”……",
+        "recognized_text": "每所准备的那些方案圣痕计划火种计划方舟计划",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_909.ogg",
+        "matched_line": "为了抵达那一天，人类将会牺牲很多。",
+        "recognized_text": "为了抵达那一天人类将会牺牲很多",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_6.ogg",
+        "matched_line": "开始行动吧。",
+        "recognized_text": "开始行动吧",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_894.ogg",
+        "matched_line": "但即便如此，它仍然是有温度的……",
+        "recognized_text": "但即便如此它仍然是有温度的",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_902.ogg",
+        "matched_line": "尽管不是所有人都赞同这些方案。但这些努力，会为人类复兴埋下种子。",
+        "recognized_text": "尽管不是所有人都赞同这些方案但这些努力会不会人类复兴埋下种子",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_892.ogg",
+        "matched_line": "每一次抬头，我都会为宇宙的黑暗和冰冷感到颤栗。",
+        "recognized_text": "每一次抬头我都会为宇宙的黑暗和冰冷赶到占领",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_5.ogg",
+        "matched_line": "计划筹备的如何了？",
+        "recognized_text": "计划筹备的如何了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_899.ogg",
+        "matched_line": "对可以托付性命的人，不需要道歉。",
+        "recognized_text": "最可以托付性命的事不需要道歉",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_911.ogg",
+        "matched_line": "如果你还有一丝怀疑，就回头看看身后的地球。",
+        "recognized_text": "如果你还有一丝怀疑就回头看看生活的地球",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_895.ogg",
+        "matched_line": "华，我相信永久终结崩坏的希望就在其中。",
+        "recognized_text": "我相信永久终结崩坏的希望会在其",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_893.ogg",
+        "matched_line": "……但人类永远不会失去希望。",
+        "recognized_text": "但人类永远不会失去希望",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2708.ogg",
+        "matched_line": "那是第三次崩坏的发生地。",
+        "recognized_text": "那是第三次崩坏的发生地",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2016.ogg",
+        "matched_line": "你想要抵达虚数之树。",
+        "recognized_text": "你想要抵达叙述之术",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3309.ogg",
+        "matched_line": "雷电芽衣，欢迎加入世界蛇。",
+        "recognized_text": "雷电芽衣欢迎加入世界社",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3321.ogg",
+        "matched_line": "把你想说的话都告诉她吧，但不要浪费太多时间。",
+        "recognized_text": "把你想说的话都告诉他吧但不要浪费太多时间",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_459.ogg",
+        "matched_line": "羽渡尘…你知道，它干扰不了我的感官。",
+        "recognized_text": "与杜甫你知道他干扰不了我的感官",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2897.ogg",
+        "matched_line": "而当圣痕计划完成的那一刻，你和她，就能回归“人类”。",
+        "recognized_text": "儿童圣痕计划完成的那一刻你和他就能回过神嘞",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3042.ogg",
+        "matched_line": "可能……对这片星空来讲，我们……还有我们所在乎的一切，都毫无意义吧。",
+        "recognized_text": "可能对这片星空来讲我们还有我们所在乎的一切都毫无意义",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3335.ogg",
+        "matched_line": "空之律者的力量变弱了。这样，你也就有了更多时间。",
+        "recognized_text": "空之律者的力量变弱了这样你也就有了更多事情",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_116.ogg",
+        "matched_line": "她的事我自有安排。",
+        "recognized_text": "他的事我自有安排",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3073.ogg",
+        "matched_line": "嗯，希望我们的愿望都能实现。",
+        "recognized_text": "希望我们的愿望都能实现",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2885.ogg",
+        "matched_line": "她必会再次使用空之律者的力量，一次又一次，为了身边的人，为了这个世界。",
+        "recognized_text": "他必定会再次使用空之律者的力量一次又一次我身边的事为了这个世界",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3035.ogg",
+        "matched_line": "我只想过好眼前的日子，珍惜每一个朋友，享受每一个“现在”。过得开心，活得自在。",
+        "recognized_text": "我只想过好眼前的日子珍惜每一个朋友享受每一个现在过得开心自在",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_504.ogg",
+        "matched_line": "等一切结束后，我会将你唤醒。在这之前，安心沉睡吧。",
+        "recognized_text": "等一切结束后我会叫你欢喜在这之前爱情沉睡吧",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3070.ogg",
+        "matched_line": "过去我和别的女孩子约会，说到星空，接下来会聊的都是星座，血型之类的话题。",
+        "recognized_text": "过去我和别的女孩子约会说到星空接下来会聊的都是星座血型之类的话题",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2894.ogg",
+        "matched_line": "当第三次崩坏残留的能量被那道门吸收，你将再度觉醒，从琪亚娜手中夺走雷之律者的权能。",
+        "recognized_text": "当第三次崩坏残留的能量贝利倒霉吸收你将再度崛起从济阳那手中夺走了一只绿者的权能",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2015.ogg",
+        "matched_line": "你知道那样做的后果。",
+        "recognized_text": "你知道那样做的后果",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3020.ogg",
+        "matched_line": "现在你又像是个哲学家了。",
+        "recognized_text": "现在你又像是个哲学家了",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2031.ogg",
+        "matched_line": "你的要求是什么？",
+        "recognized_text": "你的要求是什么",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2900.ogg",
+        "matched_line": "你可以选择与世界蛇同行，消灭崩坏，捕获律者，封印她们的权能……让空之律者再也无法增长她的力量。",
+        "recognized_text": "你可以选择与世界的同行消灭崩坏捕获率封印他们的潜能让空之律者再也无法增长它的力量",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_508.ogg",
+        "matched_line": "我们，本可以共同见证人类战胜崩坏的那一天。",
+        "recognized_text": "我们本可以共同建设人类战胜崩坏的那一天",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2883.ogg",
+        "matched_line": "那个叫做琪亚娜的女孩已经危在旦夕，核心的侵蚀超出了她所能承受的极限。",
+        "recognized_text": "那个就是安娜的女孩儿已经危在旦夕的历史超出了他所能承受的极限",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2902.ogg",
+        "matched_line": "这一次，你救得了琪亚娜，可下一次，她依旧会涉身险境。",
+        "recognized_text": "你就得聊天的可下一次她依旧会涉身险境",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3314.ogg",
+        "matched_line": "你不用再为长空市担心，灾难已经结束。她代替你，守护了这座城市。",
+        "recognized_text": "你不用再为长空时代起灾难已经结束它代替你守护了这座城市",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3072.ogg",
+        "matched_line": "就像你说的，宇宙很大，地球太小。",
+        "recognized_text": "就像你说的宇宙很大地球太小",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_106.ogg",
+        "matched_line": "出发吧，我们还有很多事情要做。",
+        "recognized_text": "出发吧我们还有很多事情要做",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_506.ogg",
+        "matched_line": "你已经付出了太多，你需要休息。",
+        "recognized_text": "你已经付出了太多你需要休息",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3310.ogg",
+        "matched_line": "你想关闭虚数奇点，却遭到了虚数造物的袭击，摔落了下来。",
+        "recognized_text": "你想关闭叙述起点却遭到了叙述的袭击摔落了下来",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2886.ogg",
+        "matched_line": "很好。",
+        "recognized_text": "很好",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2878.ogg",
+        "matched_line": "你不用担心，那种事不会发生。",
+        "recognized_text": "你不用担心那种事不会发生",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2023.ogg",
+        "matched_line": "我不需要你的承诺。服从或毁灭，你只有这两个选择。",
+        "recognized_text": "我不需要你的承诺服从或毁灭你只有这两个选择",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2685.ogg",
+        "matched_line": "你决定就好。",
+        "recognized_text": "你决定就好",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2868.ogg",
+        "matched_line": "凯文·卡斯兰娜，世界蛇的领袖。",
+        "recognized_text": "凯文卡斯兰娜世界蛇的领袖",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2012.ogg",
+        "matched_line": "你想要什么？",
+        "recognized_text": "你想要什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3056.ogg",
+        "matched_line": "啊，我记得！那图里什么也没有，找了半天，才看到一个小小的蓝点。",
+        "recognized_text": "雾气了那个土地什么也没有找了半天才看到一个小小的蓝点",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3337.ogg",
+        "matched_line": "感谢雷电芽衣吧，是她救了你。",
+        "recognized_text": "感谢雷电芽衣吧是他救了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3011.ogg",
+        "matched_line": "我会好好向你学习，努力去思考这个问题的答案的。",
+        "recognized_text": "我会好好向你学习努力去思考这个问题的答案",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2880.ogg",
+        "matched_line": "——她的理想能拯救世界，却救不了她自己。",
+        "recognized_text": "他的理想能拯救世界却救不了他自己",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2893.ogg",
+        "matched_line": "但若要真正挽救她的生命，你只有一条路可走。",
+        "recognized_text": "但是要真正挽救他的生命你只有一条路可走",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2908.ogg",
+        "matched_line": "你可以选择，成为“蛇”的一员。",
+        "recognized_text": "你可以选择成为蛇的一员",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2904.ogg",
+        "matched_line": "只要崩坏存在，只要律者诞生，她就一定会挺身而出，不断把自己推向死亡边缘——",
+        "recognized_text": "只要崩溃存在只要律者诞生他就一定会挺身而出不断把自己推向死亡边缘",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2892.ogg",
+        "matched_line": "你是被选中的律者，你的身体里永远留下了与虚数之树相通的门。",
+        "recognized_text": "你是被选中的绿茶你的身体里永远留下了与虚数之处相通的门",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3045.ogg",
+        "matched_line": "不想考虑。世界那么大，总有欢迎我的地方，总有等着我去做的事。",
+        "recognized_text": "不想考虑世界那么大总有怀疑我的地方左右等着我去做的事",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3028.ogg",
+        "matched_line": "没有，完全没有。",
+        "recognized_text": "没有完全没有",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3021.ogg",
+        "matched_line": "我毕竟还是个高中生啊！活得天真一些，快乐一些，才像是我。",
+        "recognized_text": "我毕竟还是个高中生啊活的天真一些快乐一些才像是我",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_622.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈哈哈哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_428.ogg",
+        "matched_line": "空之律者呢？",
+        "recognized_text": "空之律者",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2874.ogg",
+        "matched_line": "新的律者核心会在你体内凝结，而征服宝石则会瓦解消失。减少一颗核心，她的症状也就得以缓解。",
+        "recognized_text": "新的律者核心会在你体内引起而征服宝石这会瓦解消失减少一颗核心他的症状也就得以缓解",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2905.ogg",
+        "matched_line": "想让她活下去，就必须立刻将多余的核心从她体内分离。方法只有一个。",
+        "recognized_text": "想让她活下去就必须立刻将多馀的核心从他体内分离方法只有一个",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2864.ogg",
+        "matched_line": "门已被开启。不久之后，虚数之树将在这座城市显现。",
+        "recognized_text": "已被开启不久之后需术之术将在这座城市显现",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2870.ogg",
+        "matched_line": "但你有另一个选择。",
+        "recognized_text": "你有另一个选择",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3316.ogg",
+        "matched_line": "看来，你还有一些事要解决。",
+        "recognized_text": "看来你还有些事要解决",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2029.ogg",
+        "matched_line": "我来这里只为一个目的——我要你协助圣痕计划。",
+        "recognized_text": "我来这里只有一个母亲我要你协助审核计划",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2018.ogg",
+        "matched_line": "提出要求，就要支付代价。你要用什么来换取它？",
+        "recognized_text": "提出要求叫支付代价你要用什么来换取的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3032.ogg",
+        "matched_line": "啊，对了！不如这个夏天，我和你一起去穆大陆吧——",
+        "recognized_text": "哦对了不如这个夏天我和你一起去慕大陆吧",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3330.ogg",
+        "matched_line": "虽然我接住了你，但你的伤势依然很严重。",
+        "recognized_text": "虽然我接住了你但你的伤势依然很严重",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3063.ogg",
+        "matched_line": "……我是说，你很独特，与众不同。",
+        "recognized_text": "我是说你很独特与众不同",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_723.ogg",
+        "matched_line": "找到了。",
+        "recognized_text": "找到了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3029.ogg",
+        "matched_line": "真是个沉重的结论。",
+        "recognized_text": "真是个沉重的结论",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3074.ogg",
+        "matched_line": "加油，我相信总有一天，你会将自己今天说过的话通通实现。",
+        "recognized_text": "加油我相信总有一天你回想自己今天说过的话通通实现",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3060.ogg",
+        "matched_line": "我没有你那么崇高的理想。改变世界什么的，对我太遥远了。",
+        "recognized_text": "我没有你那么崇高的理想改变世界什么的对我太遥远了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2888.ogg",
+        "matched_line": "……他们走了，一个都没有回来。",
+        "recognized_text": "他们走了一个都没有回来",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3024.ogg",
+        "matched_line": "请继续说吧。刚才的话题挺有意思，我还想听。",
+        "recognized_text": "继续说吧刚才的话题挺有意思啊我还想听",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2896.ogg",
+        "matched_line": "直到，献出自己的生命。",
+        "recognized_text": "知道献出自己的生命",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3305.ogg",
+        "matched_line": "看来，你已经做出了选择。",
+        "recognized_text": "看来你已经做出了选择",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2339.ogg",
+        "matched_line": "我知道。",
+        "recognized_text": "我知道了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_512.ogg",
+        "matched_line": "华…你最后的一招确实很强，但已经没有足够的力量支持。",
+        "recognized_text": "你最后一招确实很强但已经没有足够的力量支持",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_439.ogg",
+        "matched_line": "你想去哪里？",
+        "recognized_text": "你想去哪里",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_424.ogg",
+        "matched_line": "牵制住幽兰黛尔。空之律者我来解决。",
+        "recognized_text": "牵制住幽兰戴尔空之律者我来解决",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2876.ogg",
+        "matched_line": "沉睡的崩坏能会从地脉中释出，吸收它们，你就能重新成为雷之律者，为她争取更多的时间。",
+        "recognized_text": "纯粹的崩坏能会从地脉中射出吸收他们你就能重新成为了一只绿者为他争取更多的时间",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2903.ogg",
+        "matched_line": "你真正应该关心的，是成为律者之后的事。",
+        "recognized_text": "你真正应该关心的是成为律者之后的事",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3030.ogg",
+        "matched_line": "我也不知道，不如说，我也想知道。",
+        "recognized_text": "我也不知道不如说我也想知道",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3320.ogg",
+        "matched_line": "之后的事，让她亲自和你解释吧。",
+        "recognized_text": "之后的事让他亲自和你解释吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2895.ogg",
+        "matched_line": "只有离开琪亚娜身边，你才能真正保护她远离危险。",
+        "recognized_text": "只有离开体验的身边你才能真正保护她远离危险",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1852.ogg",
+        "matched_line": "找到了。",
+        "recognized_text": "找到了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2875.ogg",
+        "matched_line": "时间到了。",
+        "recognized_text": "时间到了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3048.ogg",
+        "matched_line": "你终于笑了！你笑起来的样子很好看。",
+        "recognized_text": "你终于笑了你笑起来的样子很好看",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3049.ogg",
+        "matched_line": "可如果只是一味看向前方，我就会错过站在身边的人。",
+        "recognized_text": "可如果只是一位看向前方我就会错过站在身边的人",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2909.ogg",
+        "matched_line": "我不需要说服你，因为你比我更清楚……",
+        "recognized_text": "我不需要说服你因为你比我更清楚",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3052.ogg",
+        "matched_line": "……每一颗星星，都是敌人？",
+        "recognized_text": "每一颗星星都是敌人",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2867.ogg",
+        "matched_line": "我见过无数与她一样的人。",
+        "recognized_text": "国庆过无数与他一样的",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3023.ogg",
+        "matched_line": "没有没有，我只是感觉很新奇。",
+        "recognized_text": "呵呵没有没有我只是感觉很惊奇",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_425.ogg",
+        "matched_line": "找到了。",
+        "recognized_text": "找到了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_510.ogg",
+        "matched_line": "也罢，那就先从她开始——",
+        "recognized_text": "贴吧那就先从她开始",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2899.ogg",
+        "matched_line": "是否要相信我，相信世界蛇，我会给你时间作出决定。",
+        "recognized_text": "是否要相信我相信世界蛇我会给你时间作出决定",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2898.ogg",
+        "matched_line": "雷电芽衣，琪亚娜的命运把握在你的手中。",
+        "recognized_text": "雷电芽衣提到的命运把握在你的手中",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3061.ogg",
+        "matched_line": "……你问我有没有价值，我也答不上来。",
+        "recognized_text": "你问我有没有价值我也答不上来",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2871.ogg",
+        "matched_line": "很快，律者就会接踵而至。人类与崩坏的战争将进入下一个阶段。",
+        "recognized_text": "很快律者就会接踵而至人类与崩坏的战争将进入下一个阶段",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3068.ogg",
+        "matched_line": "因为你说的这些东西，我估计只能听懂一半，可能还不到一半。",
+        "recognized_text": "因为你说的这些东西我估计只能听懂一半可能还不到一半",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3108.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈哈哈哈哈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3034.ogg",
+        "matched_line": "你认真说这些事的样子，真的太吸引我了。所以……我想继续听下去。",
+        "recognized_text": "你认真说这些事的样子真的太吸引我了所以我想继续听下去",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2882.ogg",
+        "matched_line": "你无法阻止她，否则，你根本不会来到这里。",
+        "recognized_text": "你无法阻止否则你根本不会来到这里",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2877.ogg",
+        "matched_line": "我向你承诺，世界蛇能拯救那个女孩。",
+        "recognized_text": "我向你承诺世界蛇能拯救那个女孩",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3039.ogg",
+        "matched_line": "我还是第一次见到会从星空谈到宇宙和人类的女生，不愧是你。",
+        "recognized_text": "我还是第一次见到会从新空谈到宇宙和人类的女生不愧是你",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_511.ogg",
+        "matched_line": "往后的事情你不用再管，我会完成我们的使命。",
+        "recognized_text": "往后的事情你不用再管我会完成我们的使命",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2887.ogg",
+        "matched_line": "雷电芽衣，你有想要挽救的人，但天命和逆熵，都无法实现你的愿望。",
+        "recognized_text": "雷电芽衣我想要挽救的人但天命和逆熵都无法实现你的愿望",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2861.ogg",
+        "matched_line": "即使面对死亡和恐惧，他们依然会坚定地去做自己认为正确的事，去走自己相信的路。",
+        "recognized_text": "即使面对死亡和恐惧他们依然会坚定地去做自己认为正确的事去走自己相信的路",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1614.ogg",
+        "matched_line": "在这次崩坏中，诞生了两个律者。它们最终合二为一。",
+        "recognized_text": "这就是崩坏中诞生了两个绿茶他们最终合二为一",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1611.ogg",
+        "matched_line": "这是你自己得出的答案。",
+        "recognized_text": "这是你自己得出的答案",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1610.ogg",
+        "matched_line": "一个律者吞噬了另一个律者的核心，成长为更强大的个体。",
+        "recognized_text": "一个律者吞噬了另一个绿色的核心成长为更强大的个体",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1617.ogg",
+        "matched_line": "你会成功的。",
+        "recognized_text": "你会成功的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_5.ogg",
+        "matched_line": "开始行动吧。",
+        "recognized_text": "开始行动吧",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_614.ogg",
+        "matched_line": "她成为律者了，华，你心里清楚。我别无选择。",
+        "recognized_text": "成为律者了心里清楚我别无选择",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1210.ogg",
+        "matched_line": "我不是为了拯救世界，守护和平才加入逐火之蛾的。我一直都那么自私，可是…一路上，我走过来了，我就这样走过来了。",
+        "recognized_text": "我不是为了拯救世界守护和平才加入出火之蛾的我一直都那么自私可是一路上我走过来了我就这样走过来了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1219.ogg",
+        "matched_line": "但其实人人都知道…早在很久以前就知道了：所有胜利都是为失败披上的伪饰，好让我们看上去没那么悲惨。",
+        "recognized_text": "其实人人都知道早在很久以前就知道了所有胜利都是失败被上的故事好像我们看上去没那么悲惨",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1207.ogg",
+        "matched_line": "多亏了你，若不是你当机立断，阻断了病毒对人类的侵蚀，这座基地恐怕已经没有活人了。",
+        "recognized_text": "都亏了若不是你当机立断阻断了病毒对人类的情绪个基点恐怕已经没有活人了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2763.ogg",
+        "matched_line": "……你可以问问我给你的羽毛，她会告诉你的。",
+        "recognized_text": "你可以问问我给你的羽毛他会告诉你的",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2770.ogg",
+        "matched_line": "你要加入世界蛇吗？",
+        "recognized_text": "你要加入世界蛇吗",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2006.ogg",
+        "matched_line": "再见就是万年以后了，华。",
+        "recognized_text": "再见就是万年以后了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1226.ogg",
+        "matched_line": "人类一定会胜利的。",
+        "recognized_text": "是一定会胜利的",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_635.ogg",
+        "matched_line": "第十一律者才刚刚死去，第十二名律者就已诞生。她现在虽然在我们的控制之中，但谁也不知道明天又会发生怎样的变故。",
+        "recognized_text": "第十一律者才刚刚死去第十二名旅者休息带上他现在虽然在我们的控制之中但谁也不知道明天又会发生怎样的变故",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2758.ogg",
+        "matched_line": "那也好，我这儿有几个人也不怎么想见你。",
+        "recognized_text": "那也好我这有几个人也不怎么相信",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1236.ogg",
+        "matched_line": "…要听实话吗？",
+        "recognized_text": "要听实话吗",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1227.ogg",
+        "matched_line": "……我没有放弃，华，我们不会放弃。",
+        "recognized_text": "我没有放弃我们不会放弃",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1237.ogg",
+        "matched_line": "……我本以为自己是个无药可救的大烂人。",
+        "recognized_text": "我本以为自己是个无药可救的大乱",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1206.ogg",
+        "matched_line": "…可是我有…",
+        "recognized_text": "可是我有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_625.ogg",
+        "matched_line": "我们融合战士注定要一直战斗下去。失败是我们不能承受的结果，只能胜利，必须胜利。",
+        "recognized_text": "我们融合战士注定有一只战斗下去失败是我们不能承受的结果只能胜利必须胜利",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_634.ogg",
+        "matched_line": "这是无可奈何的。律者诞生的间隔越来越短，我们的兵员已经严重不足。",
+        "recognized_text": "这是无可奈何的对着单身的间隔越来越短我们的兵源已经严重不足",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2725.ogg",
+        "matched_line": "……华从来不会叫我“朋友”。",
+        "recognized_text": "华从来不会叫我朋友",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1223.ogg",
+        "matched_line": "人类总是惨胜，付出巨大的代价，获得微弱的胜利。而崩坏的攻势只会越来越强，一次比一次可怕。我们坚持到了第十二次……",
+        "recognized_text": "人类总是彩色付出巨大的代价获得微弱的胜利二崩坏的公司只会越来越强一次比一次可怕我们坚持到了第十二次",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2759.ogg",
+        "matched_line": "我把它还给你，华。",
+        "recognized_text": "我把它还给你",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1233.ogg",
+        "matched_line": "嘿，但这是一个，我们绝对不能当作真理接受的事实……",
+        "recognized_text": "但这是一个我们绝对不能当做真理接受的事实",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_615.ogg",
+        "matched_line": "华，我希望你理解我们，真正地理解我们。全人类的命运都系在你我肩头……",
+        "recognized_text": "我希望你理解我们真正的理解我们群里的命运都系在你我肩头",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1201.ogg",
+        "matched_line": "总是这样，不是吗？你也并没有很吃惊。",
+        "recognized_text": "总是这样啊不是吗你也并没有很致敬",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1200.ogg",
+        "matched_line": "坏消息我还没说：三大都市全灭。病毒控制了防卫系统，向地球的有人区发射了所有核弹。",
+        "recognized_text": "坏消息我还没说三大都市全面病毒控制了防卫系统向地球的有人去发射了所有核弹",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1205.ogg",
+        "matched_line": "我看见基地里的人都像失了魂一样，就知道是你。",
+        "recognized_text": "我看见基地里的人都想吃了回忆啊就知道是你",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1230.ogg",
+        "matched_line": "基地内的伤亡大约一百，那些离律者很近的人变成了死士。病毒的速度太快了，我们没来得及阻止。",
+        "recognized_text": "气体内的伤亡大约一百那些利率就很近的人变成了此事并购的速度太快了过来没来得及阻止",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_617.ogg",
+        "matched_line": "人类的文明如今奄奄一息，全世界仅剩三座都市还能维持正常的运作。而崩坏的攻势越来越猛烈。",
+        "recognized_text": "深邃的文明如今奄奄一息全世界仅剩三座都市还能维持正常的运作而崩坏的公式越来越猛烈",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2713.ogg",
+        "matched_line": "你和华的感觉不一样。",
+        "recognized_text": "你和华的感觉不一样",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1315.ogg",
+        "matched_line": "找到了。",
+        "recognized_text": "到了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1224.ogg",
+        "matched_line": "第十二律者已经被封印了。",
+        "recognized_text": "十二旅程已经被封了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2194.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈哈",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2790.ogg",
+        "matched_line": "你还想打？",
+        "recognized_text": "你还想他",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_238.ogg",
+        "matched_line": "找到了。",
+        "recognized_text": "找到了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2710.ogg",
+        "matched_line": "朋友还是敌人，选吧。",
+        "recognized_text": "朋友还是敌人选吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2745.ogg",
+        "matched_line": "我知道。",
+        "recognized_text": "我知道",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3824.ogg",
+        "matched_line": "找到了。",
+        "recognized_text": "找到了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_631.ogg",
+        "matched_line": "出于战略考虑，我们会被拆散调去不同城市。融合战士部队要解散了。",
+        "recognized_text": "出于战略考虑我们会被拆散要去不同城市综合测试部队要解散了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2287.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈哈",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_618.ogg",
+        "matched_line": "我会留在中央。",
+        "recognized_text": "我会留在中央",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1228.ogg",
+        "matched_line": "这次的律者能力像是某种病毒，它不仅可以骇入电脑，甚至还能侵蚀人类。崩坏呵…它总是超乎我们的想象。",
+        "recognized_text": "这次的律者能力像是某种病毒它不仅可以骇入电脑设置显得轻视人类不坏啊她总是超乎我们的想象",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_637.ogg",
+        "matched_line": "对十一律者的战斗里，你表现得很好。",
+        "recognized_text": "十一律者的战斗力你表现得很好",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_638.ogg",
+        "matched_line": "梅打算把你调去极东，你知道吗？",
+        "recognized_text": "没打算把你调去激动你知道吗",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1208.ogg",
+        "matched_line": "人类已经输了，华。",
+        "recognized_text": "人类已经输了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1203.ogg",
+        "matched_line": "我没有放弃…因为我从没坚持过。我啊…才不在乎。崩坏是什么？人类会怎样？我一点都不在乎。",
+        "recognized_text": "我没有放弃欺负我从未坚持过不在乎更坏是什么人类会怎样一点儿都不在乎",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_633.ogg",
+        "matched_line": "你还在耿耿于怀。",
+        "recognized_text": "你还在耿耿于怀",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_630.ogg",
+        "matched_line": "我要去找樱，得走这条路……再见。",
+        "recognized_text": "我要去找得走这条路再见",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_612.ogg",
+        "matched_line": "华，我这么做并不是为了她。我请求你的理解，因为你是我的战友，我们应该具有共同的意志。",
+        "recognized_text": "我这么做并不是为了他我请求你的理解因为你是我的战友我们应该具有共同的意思",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_613.ogg",
+        "matched_line": "这是博士的决定。华，希望你理解。",
+        "recognized_text": "确实博士的决定希望你理解",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2718.ogg",
+        "matched_line": "她很有用——我说的并非战斗层面上。",
+        "recognized_text": "它很有用我说的并非战斗层面上",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1221.ogg",
+        "matched_line": "我不能向任何人承认…我不能向她承认，尤其不能。",
+        "recognized_text": "我不能向任何人承认我不能向他承认游戏不能",
+        "match_score": 79
+    }
+]

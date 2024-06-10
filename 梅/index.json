@@ -1,0 +1,182 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4871.ogg",
+        "matched_line": "第12律者……是一种拥有自我意识的究极病毒……",
+        "recognized_text": "第十二例者是一种拥有自我意识的休息病毒",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4968.ogg",
+        "matched_line": "律者中了陷阱，被隔离程序困在了主控系统中。我会想办法把她转移到黑匣子里。",
+        "recognized_text": "这就是陷阱被隔离程序抗战的主控系统中我会想办法把它转移到黑匣子",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4851.ogg",
+        "matched_line": "出事了，律者还没有被消灭。",
+        "recognized_text": "出事了最近还没有被消灭",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4893.ogg",
+        "matched_line": "辛苦了，其他楼层的死士也已全部消灭。",
+        "recognized_text": "辛苦了其他楼层了此事已全部消灭",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4892.ogg",
+        "matched_line": "还不能断定危机已经解除。继续观察，支援会马上赶到。",
+        "recognized_text": "还不能断定危机已经解除继续观察志愿会马上赶到",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4889.ogg",
+        "matched_line": "基地内的系统受到了病毒攻击，防御程序被彻底攻陷了。",
+        "recognized_text": "七天内的系统受到了病毒攻击防御程序被彻底攻陷了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4697.ogg",
+        "matched_line": "凯文，你在哪里，我需要你立即出击。",
+        "recognized_text": "凯文你在哪里我需要你力气出去",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4877.ogg",
+        "matched_line": "所有的设备和机器人都落入了对方的控制，它现在在进一步夺取核弹发射井的控制权。",
+        "recognized_text": "所有设备和机器人都露出的对方的方式他现在在建议中夺取核弹发射井的控制权",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3031.ogg",
+        "matched_line": "但尽管如此，我、你、还有这世上的每一个人，还是在“有意义”地活着。",
+        "recognized_text": "尽管如此你还有这世上的每一个人还是在有意义的活着",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3054.ogg",
+        "matched_line": "凯文同学，你对未来有什么打算吗？",
+        "recognized_text": "凯文同学你对未来有什么打算吗",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3040.ogg",
+        "matched_line": "不过，祝你能实现自己的愿望。",
+        "recognized_text": "不过祝你能实现自己的愿望",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3022.ogg",
+        "matched_line": "在宇宙本质的问题上，科学和哲学原本就有相通之处。",
+        "recognized_text": "在宇宙本质的问题上科学和哲学原本就有相通之处",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3017.ogg",
+        "matched_line": "我打算和他们交流、探讨我的想法。",
+        "recognized_text": "我打算和他们交流探讨我的想法",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3055.ogg",
+        "matched_line": "我很好奇一件事。",
+        "recognized_text": "我很好奇一件事",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3050.ogg",
+        "matched_line": "或许听起来有些自傲，但我想结识那些能改变世界的人，我想成为他们中的一员。",
+        "recognized_text": "或许听起来有些字啊但我想结识那些能改变世界的人我想成为他们中的一员",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3019.ogg",
+        "matched_line": "人类数千年的历史，数十亿的生命，数不胜数的知识、文化，从宇宙的尺度来看都不值一提。",
+        "recognized_text": "人类数千年的历史数十亿的生命文化宇宙的尺度来看都不值一提",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3026.ogg",
+        "matched_line": "你完全不像是会对这个话题感兴趣的人，但我说的话，你却一直听到现在。",
+        "recognized_text": "你完全不像是会对这个话题感兴趣的人让我说的话你却一直听到现在",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3016.ogg",
+        "matched_line": "只是因为这种理由？",
+        "recognized_text": "只是因为这种理由",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3018.ogg",
+        "matched_line": "我时常会思考，对于如此广阔的宇宙，“一个人”究竟能有多少意义？",
+        "recognized_text": "我时常会思考对于如此广阔的宇宙一个人究竟能有多少意义",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3066.ogg",
+        "matched_line": "你一点都不考虑以后的事？",
+        "recognized_text": "你一点都不考虑以后的事",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3013.ogg",
+        "matched_line": "你真的觉得这场对话有价值吗？希望你能诚实地告诉我。",
+        "recognized_text": "你真的觉得这场对话有价值吗希望你能诚实的告诉我",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3033.ogg",
+        "matched_line": "……真是个轻浮的人。",
+        "recognized_text": "真是个轻浮的人",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3014.ogg",
+        "matched_line": "今年夏天，我要去穆大陆参加一场学术研讨会，会有许多著名的物理教授和学者到场。",
+        "recognized_text": "今年夏天我要去慕大陆参加一场学术研讨会许多著名的物理教授和学者到场",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3057.ogg",
+        "matched_line": "人类原本没有意义，可“我们”赋予了我们意义。",
+        "recognized_text": "人类原本没有意义可我们赋予了我们意义",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3051.ogg",
+        "matched_line": "我想看看，自己能在这片星空下前行多远。",
+        "recognized_text": "我想看看自己能在这片星空下前行多远",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3059.ogg",
+        "matched_line": "那是地球。我们诞生长大的这颗星球，存在了46亿年的这颗星球，在宏大的宇宙中，也不过只是一个渺小的光点。",
+        "recognized_text": "那是地球我们诞生长大的这个星球存在了46亿年的这个星球在宏大的宇宙中不过只是一个渺小的光点",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3069.ogg",
+        "matched_line": "我已经说完了，你还没回答我的问题。",
+        "recognized_text": "我已经说完了你还没回答我的问题",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3036.ogg",
+        "matched_line": "物理课本上，有一张空间探测器从64亿公里外拍下的地球照片。",
+        "recognized_text": "物理课本上有一种空间探测器从64亿公里外拍摄的地球照片",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3071.ogg",
+        "matched_line": "我们活着，我们存在，做出人生的每一次选择，把握当下的每一个瞬间。",
+        "recognized_text": "活着我们存在处处人生的每一次选择把握当下的每一个瞬间",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3058.ogg",
+        "matched_line": "确实如此。",
+        "recognized_text": "确实如此",
+        "match_score": 89
+    }
+]

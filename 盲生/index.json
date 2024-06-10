@@ -1,0 +1,56 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3746.ogg",
+        "matched_line": "有什么事吗？",
+        "recognized_text": "有什么心事吗漂亮",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4502.ogg",
+        "matched_line": "好吧。",
+        "recognized_text": "好吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3717.ogg",
+        "matched_line": "有什么事吗？",
+        "recognized_text": "有什么心事吗漂亮",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7403.ogg",
+        "matched_line": "好吧。",
+        "recognized_text": "好吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5797.ogg",
+        "matched_line": "有什么事吗？",
+        "recognized_text": "没有什么事",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4208.ogg",
+        "matched_line": "好吧。",
+        "recognized_text": "好吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3196.ogg",
+        "matched_line": "有什么事吗？",
+        "recognized_text": "有什么事感动",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1857.ogg",
+        "matched_line": "有什么事吗？",
+        "recognized_text": "有什么事吗",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_621.ogg",
+        "matched_line": "好吧。",
+        "recognized_text": "好吧",
+        "match_score": 80
+    }
+]

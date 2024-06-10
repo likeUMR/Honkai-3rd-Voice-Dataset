@@ -1,0 +1,20 @@
+[
+    {
+        "audio_file": "AUDIO_3_8_4_0_878.ogg",
+        "matched_line": "是你的朋友？",
+        "recognized_text": "你的朋友",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_218.ogg",
+        "matched_line": "是你的朋友？",
+        "recognized_text": "的朋友",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_236.ogg",
+        "matched_line": "是你的朋友？",
+        "recognized_text": "是他的朋友",
+        "match_score": 73
+    }
+]

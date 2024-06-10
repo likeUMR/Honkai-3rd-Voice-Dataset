@@ -1,0 +1,56 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7962.ogg",
+        "matched_line": "那就走吧。",
+        "recognized_text": "那就睡吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1658.ogg",
+        "matched_line": "回收失败了。",
+        "recognized_text": "失败了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1696.ogg",
+        "matched_line": "回收失败了。",
+        "recognized_text": "失败了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7273.ogg",
+        "matched_line": "你这家伙…",
+        "recognized_text": "难道说你这家伙",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_710.ogg",
+        "matched_line": "你这家伙…",
+        "recognized_text": "这家伙",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_679.ogg",
+        "matched_line": "那就来吧。",
+        "recognized_text": "那就来吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1976.ogg",
+        "matched_line": "随你怎么想。",
+        "recognized_text": "你怎么想",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1753.ogg",
+        "matched_line": "谢我什么？",
+        "recognized_text": "我什么",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2698.ogg",
+        "matched_line": "你这家伙…",
+        "recognized_text": "这家伙",
+        "match_score": 75
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "audio_file": "AUDIO_4_1_4_2_1361.ogg",
+        "matched_line": "很遗憾…她不在幸存者名单中，我们还会继续搜索，但是希望十分渺茫。",
+        "recognized_text": "很遗憾他不在幸存者名单中我们还会继续搜索但是希望十分渺茫",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1345.ogg",
+        "matched_line": "如果幸运的话，你还有两年时间。",
+        "recognized_text": "如果幸运的话你还有两年时间",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1363.ogg",
+        "matched_line": "陈天武，你的检查结果出来了……",
+        "recognized_text": "天天五你的检查结果出来了",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1357.ogg",
+        "matched_line": "陈天武先生…您还有什么想问的么？",
+        "recognized_text": "天天无先生你还有什么想问的吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1360.ogg",
+        "matched_line": "很抱歉，由于长时间暴露在崩坏环境中，你的身体已经严重感染。",
+        "recognized_text": "很抱歉由于长时间暴露在崩坏环境中你的身体已经严重感染",
+        "match_score": 95
+    }
+]

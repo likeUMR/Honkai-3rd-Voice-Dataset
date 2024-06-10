@@ -1,0 +1,20 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_9.ogg",
+        "matched_line": "‘自我’还没诞生，因为你还不知道自己是谁。快去回忆吧，少了任何一个，你都不成其为你了。",
+        "recognized_text": "是我还没诞生因为你还不知道自己是谁快回去吧少了任何一个你都不相信你了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_37.ogg",
+        "matched_line": "喔，别来这一套！今时不同往日喽，你的大脑一点都没受损伤。",
+        "recognized_text": "别来这一套其实不同往日了你的大脑一点都没损伤",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_59.ogg",
+        "matched_line": "赶紧翻翻记忆库，弄清楚你是谁，咱们还有很多事要干呢。",
+        "recognized_text": "赶紧放飞机库说你是谁咱们还有很多事要干呢",
+        "match_score": 70
+    }
+]

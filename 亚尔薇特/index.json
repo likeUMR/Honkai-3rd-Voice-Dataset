@@ -1,0 +1,626 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_1953.ogg",
+        "matched_line": "你的意思是？",
+        "recognized_text": "你的意思是",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7489.ogg",
+        "matched_line": "朋友？",
+        "recognized_text": "小朋友",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10493.ogg",
+        "matched_line": "你的意思是？",
+        "recognized_text": "加纳你的意思是",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3772.ogg",
+        "matched_line": "朋友？",
+        "recognized_text": "朋友",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_323.ogg",
+        "matched_line": "请随时保持联络，丽塔小姐。我会好好扮演一个可靠的工具人，为你提供支援的。",
+        "recognized_text": "随时保持联络a大小姐我会好好扮演一个可靠的工具人为你提供支援的",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_247.ogg",
+        "matched_line": "我…我我绝对不会看走眼的！虽然很多朋友都说我冒失，但是这件事上，我绝对不会弄错的！",
+        "recognized_text": "我觉得不会看走眼的虽然很多朋友都说我貌似但是这件事上我绝对不会弄错的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1238.ogg",
+        "matched_line": "万一……我是说万一副队长被发现了，记得激活影铁猎犬的自动模式，它会在关键时刻掩护你逃跑的。",
+        "recognized_text": "关心五十万一副队长被发现了记得激活隐铁链选择自动模式他会在关键时刻掩护你逃跑的",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_497.ogg",
+        "matched_line": "拜托！……你一定要帮她……",
+        "recognized_text": "拜托你一定要帮他",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_56.ogg",
+        "matched_line": "副队长，神城医药的接待人请求通讯。",
+        "recognized_text": "副队长陈诚一样的接待人请求通讯",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_661.ogg",
+        "matched_line": "你的意思是？",
+        "recognized_text": "你的意思是",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1143.ogg",
+        "matched_line": "挫败……他们的计划？",
+        "recognized_text": "挫败他们的计划",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_134.ogg",
+        "matched_line": "哎嘿嘿，谢谢副队长的夸奖。在第三分队里，我可是有靠谱的“工具人”的美称呢！",
+        "recognized_text": "谢谢队长的夸奖在第三分队联我可是有靠谱的工具人的美称呢",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_147.ogg",
+        "matched_line": "因为您更多时候都是单枪匹马秘密行动。好多人可都期待着能和您一起出任务呢！",
+        "recognized_text": "因为你更多的时候都是单枪匹马秘密行动好多人都期待着能和你一起出任务",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1152.ogg",
+        "matched_line": "丽塔小姐之前的行动已经失利了，在失去力量的状态下仍然要单人执行任务……这根本已经不是冒险了吧！",
+        "recognized_text": "小学之前的行动已经顺利了在失去力量的状态下仍然要担任执行任务这根本已经不是冒险了吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_205.ogg",
+        "matched_line": "这些死士……变得更狂暴了！",
+        "recognized_text": "这些私事变得更狂暴了",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_129.ogg",
+        "matched_line": "没有医疗记录，也没有购物记录，就连城市监控系统也无法拍到她。这个家伙难道会隐身吗！",
+        "recognized_text": "没有医疗记录也没有购物记录精灵城市监控系统业务无法拍照这个家伙难道会隐身",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1150.ogg",
+        "matched_line": "虽、虽然作为下属不该随意评论……",
+        "recognized_text": "虽然作为下属不该随意评论",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_174.ogg",
+        "matched_line": "两个月间，一共有三十五起记录在案的灾害发生，集中在天穹市的周边，也因此导致这座城市进入戒严……",
+        "recognized_text": "两个月间一共有35起接受这样的灾害发生其中在天桥式的周边因此导致这座城市进入沁",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_148.ogg",
+        "matched_line": "队伍里都说，能和副队长并肩战斗的机会可不多……",
+        "recognized_text": "都说那个副队长并肩战斗的机会可不多",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_138.ogg",
+        "matched_line": "没有了。比对K-423的特征搜寻了医疗记录，一无所获。也就是说，她没有在医院之类的地方出现过。",
+        "recognized_text": "没有这里开始二三的特征搜寻了医疗记录一无所获也就是说他没有在医院之类的地方出现过",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_146.ogg",
+        "matched_line": "丽塔…唔…小姐！哎，不行不行，总感觉这么亲昵的话，后脑勺会承受幽兰黛尔队长大人灼热的目光了！",
+        "recognized_text": "小姐不行不行总感觉这么亲密的话后脑勺会承受幽然戴尔队长灼热的目光了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_130.ogg",
+        "matched_line": "副队长，我已经将神城医药提交的资料全部筛选完毕了。",
+        "recognized_text": "副队长我已经京城医药提交的资料全部申请完毕了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_182.ogg",
+        "matched_line": "只要盯紧灾害现场，就有机会逮到K-423。真不愧是副队长！",
+        "recognized_text": "只要听请在现场就有机会改掉k23真不愧是副队长",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_127.ogg",
+        "matched_line": "在两个月前的一条记录里，位于南部城区的某座立交桥上出现过大量崩坏兽。",
+        "recognized_text": "两个月前一条记录里位于南部城区的某座立交桥上出现过大量崩坏兽",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_256.ogg",
+        "matched_line": "唔……丽塔小姐，有件事我必须提醒你。",
+        "recognized_text": "蜜桃小姐有件事我必须提醒你",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1142.ogg",
+        "matched_line": "请务必小心。您现在的状态充其量也只比普通人强上一点。",
+        "recognized_text": "兄弟小心你现在的状态充其量也只比普通人强上一点",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_261.ogg",
+        "matched_line": "但是其中填装的注射液被替换了。确切的说是改造……",
+        "recognized_text": "但是其中中学的注射液被替换了确切的说是改造",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_329.ogg",
+        "matched_line": "免费、免费、免费……真是财力雄厚的慈善家。",
+        "recognized_text": "免费免费免费知识财力雄厚的慈善家",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_495.ogg",
+        "matched_line": "身体……一下子失去了力气……",
+        "recognized_text": "身体一下子失去了力气",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_343.ogg",
+        "matched_line": "神城医药想要分析并盗用我们的药物配方？",
+        "recognized_text": "神盛医药想要分析并盗用我的药物配方",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_254.ogg",
+        "matched_line": "在今天的行动中，我在那些死士的身上看到了发光的纹路。",
+        "recognized_text": "今天的行动中我在那些辐射的身上看到了发光的纹路",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_246.ogg",
+        "matched_line": "丽塔小姐，我检查了注射器的序号，这的确是天命提供给神城医药的疫苗中的一支。",
+        "recognized_text": "非常小姐我检查了注射器的区号这的确是拼命提供给丞丞一样的疫苗中的一支",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_360.ogg",
+        "matched_line": "哎？如果这底下真的藏着什么可怕的秘密，那你岂不是现在处在危险中？",
+        "recognized_text": "如果这底下真的藏着什么可怕的秘密那你岂不是现在处在危险中",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_249.ogg",
+        "matched_line": "现在回想起来，那些闪着光的印记……毫无疑问应该是圣痕！",
+        "recognized_text": "现在回想起来那些闪着光的印记毫无疑问应该是任何",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_144.ogg",
+        "matched_line": "可是这么细小的情报，全都散布在网络的各个角落里，想要把它们打捞起来，我们可是得花上几个月的时间。",
+        "recognized_text": "可是这么细小的情况全都愤怒在网络的各个角落里想要把他们打捞起来我们可是得花上几个月的时间",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_500.ogg",
+        "matched_line": "卑鄙的家伙……他们用了某种催泪瓦斯……",
+        "recognized_text": "卑鄙的家伙他们用了某种灿烂哇",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_248.ogg",
+        "matched_line": "以天命提供的疫苗配方为基底，被改良成了某种可以显著提升人体崩坏能抗性的活化剂。",
+        "recognized_text": "一天天提供的疫苗配方为基底被改良成了某种可以显著提升人体崩坏能抗性的活化剂可是从药效上看它对身体并没有危害",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_383.ogg",
+        "matched_line": "丽塔小姐……你没事吧？我检测到你的心跳频率和血压都在升高。",
+        "recognized_text": "大小姐你们睡吧我检测到你的心跳频率和血压都在升高",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_184.ogg",
+        "matched_line": "所以，我们现在要做的，就是耐心等待下一场灾害的发生？",
+        "recognized_text": "所以我们现在要做的就是耐心等待下一场灾害的发生",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_332.ogg",
+        "matched_line": "从第二次崩坏降临开始，这家企业就提出了要对全球被崩坏侵害的城市进行道义援助。",
+        "recognized_text": "从第二次动态降临开始这家企业就提出了对全球被崩坏侵害的城市进行都已援助到第三次崩坏之后他们开始加大对启动和神舟的资源",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1157.ogg",
+        "matched_line": "我……我好感动！我没有考虑这么多，请原谅我副队长！",
+        "recognized_text": "我没有考虑这么多请原谅我副队长",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_330.ogg",
+        "matched_line": "这座工业区也就是从那个时候开始建造的。",
+        "recognized_text": "汽车工业区也就是从那个时候开始建造的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_251.ogg",
+        "matched_line": "哎？丽塔小姐，是要进入神城医药工业区吗？这可是违反条例的行动。",
+        "recognized_text": "樱桃小姐设计入神盛医药工业区吗是不是违反条例的行动",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_359.ogg",
+        "matched_line": "丽塔小姐，要不要先暂时撤退出来，我们仔细计划一下再行动？",
+        "recognized_text": "非常小姐要不要现在是撤退出来我们仔细计划一下再行动",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_66.ogg",
+        "matched_line": "她为什么要这么做？",
+        "recognized_text": "她为什么要这么做",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1419.ogg",
+        "matched_line": "总部发来的简讯中标明了律者的特征。",
+        "recognized_text": "总部发来的简讯中兵明日抵的特征",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1423.ogg",
+        "matched_line": "各位，紧急通报！5分钟前，珊瑚岛中心产生了一次能级恐怖的崩坏能爆发！",
+        "recognized_text": "紧急通报五分钟前生活的中心产生了一次能奇恐怖的崩坏能爆发",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_555.ogg",
+        "matched_line": "这是安娜小姐任务记录中的幸存者信息。",
+        "recognized_text": "珊娜小姐生活记录中的幸福者信息",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_76.ogg",
+        "matched_line": "另外，主教大人下令……世界蛇也会作为盟友参加本次作战。",
+        "recognized_text": "另外主角他下令世界也会作为朋友参加本次作战",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_98.ogg",
+        "matched_line": "原来如此……这样就不算抗命了！副队长真是聪明！",
+        "recognized_text": "原来如此这样就不算聪明了副队长真是聪明",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_325.ogg",
+        "matched_line": "根据调查，这位名叫安娜的女武神正是这次崩坏中诞生的律者。",
+        "recognized_text": "根据调查著名安纳的女武神正是这次崩溃中诞生的日子",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1429.ogg",
+        "matched_line": "目前，珊瑚岛的情况已经通过外部通讯传回给了总部。",
+        "recognized_text": "目前受不了的情况已经通过外部通讯传回给了总部",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_80.ogg",
+        "matched_line": "它位于东南亚与大洋洲的交界处，是太平洋地区重要的经济和贸易中心。",
+        "recognized_text": "它位于东南亚与大洋洲的交界处是太平洋地区重要的经济和贸易中心",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1415.ogg",
+        "matched_line": "更糟糕的是，爆发中诞生了一只巨大的怪物！",
+        "recognized_text": "更糟糕的是爆发中诞生一只巨大的怪物",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_553.ogg",
+        "matched_line": "啊……这当然是工具人的自觉啦！我早担心会有这种情况，所以把相关资料都拷贝到本地啦！",
+        "recognized_text": "这当然是工具人的自觉我担心会有这种情况所以把相关资料都拷贝到本地了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_568.ogg",
+        "matched_line": "从最后的通讯记录来看，世界蛇与律者的战斗已经开始。",
+        "recognized_text": "从最后的通讯记录来看世界首与烈酒的战斗已经开始",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_301.ogg",
+        "matched_line": "世界蛇的诸位，我是不灭之刃小队所属女武神亚尔薇特。",
+        "recognized_text": "世界蛇的诸位我是攻灭之刃小队所属女武神第二维特",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1403.ogg",
+        "matched_line": "我们从爆发点中心位置检测到异常的重力波动！这股重力波动也在进一步扩张！",
+        "recognized_text": "爆发点中心位置检测到异常的重力波动屁股重力剥掉也在进一步扩张",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_82.ogg",
+        "matched_line": "不灭之刃将在抵达后作为攻坚力量突入珊瑚岛内部，为其他人开辟道路。",
+        "recognized_text": "之间青春抵达后作为攻坚力量突入向辅导内部为其他人开辟道路",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_811.ogg",
+        "matched_line": "副队长！刚才的寒流冲击波来自珊瑚岛中心区域，爆发的瞬时崩坏能十分惊人！",
+        "recognized_text": "复仇者刚才还冲击波来自征服岛中心区域爆发的瞬时崩坏能十分惊人",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1418.ogg",
+        "matched_line": "由珊瑚岛突发的重力波异常反应分析，新生律者的能力与前文明的第九律者基本吻合。",
+        "recognized_text": "求生活的突发的重力做异常反应分析吸收律者的能力使钱为民的第九任者基本吻合",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1319.ogg",
+        "matched_line": "你的意思是？",
+        "recognized_text": "的意思",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_100.ogg",
+        "matched_line": "报告队长！珊瑚岛的崩坏能还在不断攀升！",
+        "recognized_text": "生活的崩坏能还在不断攀升",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1317.ogg",
+        "matched_line": "你的意思是？",
+        "recognized_text": "的意思",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_310.ogg",
+        "matched_line": "另外，在律者诞生的现场发现了大量含有高浓度崩坏能的冰冻区域。",
+        "recognized_text": "另外胜利者诞生的现场发现了大量含有高浓度崩坏能的冰冻区域",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_564.ogg",
+        "matched_line": "这个……如副队长所说，受飓风的影响，目前通讯都中断了。",
+        "recognized_text": "这个副队长所说数据封闭影响目前通讯都中断了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1433.ogg",
+        "matched_line": "可是……这太危险了！",
+        "recognized_text": "可是这太危险了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_77.ogg",
+        "matched_line": "目前距离崩坏爆发已经过去30分钟，珊瑚岛的崩坏已全面蔓延，情况不容乐观。",
+        "recognized_text": "目前群里动态爆发已经过去三十分钟珊瑚岛的崩坏已全面蔓延情况不容乐观",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1065.ogg",
+        "matched_line": "你的意思是？",
+        "recognized_text": "你的意思是",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_822.ogg",
+        "matched_line": "奇怪……明明崩坏兽已经消灭了，可附近的崩坏能还在上升。",
+        "recognized_text": "奇怪明明崩坏兽已经消灭了附近的崩坏能还在收拾",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_278.ogg",
+        "matched_line": "诶？……这么做真的好吗，女武神的资料可是机密啊。",
+        "recognized_text": "是不是说真的好吗女武神的资料可是机密呀",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_806.ogg",
+        "matched_line": "副队长，我们现在怎么办……要去支援队长么？",
+        "recognized_text": "复仇者我们现在怎么办就去支援队长吗",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_312.ogg",
+        "matched_line": "这么说，各位已经与律者接触过了？",
+        "recognized_text": "这么说诸位侵略者接触过了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_97.ogg",
+        "matched_line": "诶……可是队长，主教大人让我们不要插手律者的事。擅自行动…会受到处分的吧？",
+        "recognized_text": "可是队长我们不用插手记者的事擅自行动会受到处分的吧",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_304.ogg",
+        "matched_line": "虽然能力尚未明晰，但暂定第五律者的代号为“冰之律者”。",
+        "recognized_text": "虽然能力为明星但暂定第五律者的代号为兵之利者",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_575.ogg",
+        "matched_line": "而且，刚才我在调查安娜小姐的档案时，发现了一些奇怪的事。",
+        "recognized_text": "而且刚才我在调查那小姐的档案时发现了一些奇怪的事",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_323.ogg",
+        "matched_line": "安娜在杀死其他女武神后选择了离开，我们猜测那时，她应该还保有些许人类的意识。",
+        "recognized_text": "在杀死其他女武神后选择了离开我们猜测那时他应该还保有些许人类的意识",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_81.ogg",
+        "matched_line": "更糟糕的是，就在刚才，驻守珊瑚岛的女武神部队“雪莲”小队也失去了联络。",
+        "recognized_text": "糟糕的事就在刚才助手上辅导的女武神部队雪莲小队也失去了联络",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1420.ogg",
+        "matched_line": "在这期间，主教希望我们暂时撤退，与主力部队汇合，避免不必要的伤亡。",
+        "recognized_text": "在这段期间主角希望我们暂时撤退与主力部队会合避免不必要的伤亡",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1435.ogg",
+        "matched_line": "没错……如今珊瑚岛崩坏已提升至最高等级崩坏事件，总部将最大限度调集战力增援。",
+        "recognized_text": "没错如今生活的崩坏已提升至最高等级崩坏事件总部将最大限度调及战略增援",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1428.ogg",
+        "matched_line": "从爆发点产生的异常重力波，已经波及三分之一的城区！",
+        "recognized_text": "从发电产生的异常重力波已经不及三分之一的程序",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_327.ogg",
+        "matched_line": "她在崩坏爆发后不幸成为律者。从通讯记录来看，她极力抵抗过崩坏的侵蚀，可最终还是失败了……",
+        "recognized_text": "他崩溃爆发后不行成为律者从通讯记录来看她极力地通过崩坏的侵蚀最终还是失败了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1425.ogg",
+        "matched_line": "而且…在对该生物的调查扫描中…得到了一个难以置信的数据……",
+        "recognized_text": "而且这在干什么的调查扫描中得到了一个难以置信的数据",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_73.ogg",
+        "matched_line": "现在先遣女武神部队已封锁该区域，并建立前线阵地。",
+        "recognized_text": "现在申请女武神部队已封锁该区域并建立前线阵地",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1401.ogg",
+        "matched_line": "现在…珊瑚岛内的崩坏能正在急剧攀升！这是之前从来没有过的反应！",
+        "recognized_text": "现在社会上面的梦幻呢正在急剧攀升这是之前从来没有过的反应",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_74.ogg",
+        "matched_line": "天命只需执行常规的崩坏应对作战，如果发现律者，全权交由世界蛇处理。",
+        "recognized_text": "生命之需执行常规的方法应对作战如果发现率者全权交由世界折处理",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_574.ogg",
+        "matched_line": "那个……队长，不等通讯恢复吗？还是和总部汇报一下比较好吧？",
+        "recognized_text": "那个队长不能出去恢复吗还是很总部汇报一下比较好吧",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_571.ogg",
+        "matched_line": "这个名为陈天武的男性于两年前亚洲的一场崩坏中被安娜小姐所救。",
+        "recognized_text": "这个名为陈天武的男性这两年前亚洲的一场帮派中被安娜小姐所救",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_75.ogg",
+        "matched_line": "这次崩坏的发生地，珊瑚岛，是一座拥有180万常住人口的人造岛屿都市。",
+        "recognized_text": "支持动画的发声地珊瑚岛是一座拥有180万常住人口的人造岛屿都市",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1399.ogg",
+        "matched_line": "这一系列的异变中，出现了新的律者反应！",
+        "recognized_text": "这一系列的一边出现了新的旅程反映",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_554.ogg",
+        "matched_line": "但……他们内部似乎出现了矛盾，名为夜枭的干部背叛了世界蛇。",
+        "recognized_text": "他们内部似乎出现的矛盾免费夜宵的干部被判世界蛇",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_313.ogg",
+        "matched_line": "好的！祝各位作战顺利！",
+        "recognized_text": "好的祝各位作战胜利",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_79.ogg",
+        "matched_line": "各位，距离抵达目标地点还有5分钟，以下是本次作战的内容。",
+        "recognized_text": "抵达目标地点还有五分钟以下是本次作战的内容",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_103.ogg",
+        "matched_line": "就在刚才！在市区内检测到了律者的反应！我这就把坐标发给你们！",
+        "recognized_text": "就在刚才在市区内检测到了六角的反应我这就把坐标发给你们",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_318.ogg",
+        "matched_line": "了解，我会把这些情况汇报给队长，感谢各位的协助。",
+        "recognized_text": "了解我会把这些情况汇报给队长感谢各位的协助",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_302.ogg",
+        "matched_line": "我们也感到很惊讶……但事实就是如此。",
+        "recognized_text": "我也感到很惊讶但是事实就是如此",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_809.ogg",
+        "matched_line": "现在整个珊瑚岛都被冻住了！这一定是律者的力量！队长…她不会有事吧？",
+        "recognized_text": "现在整个生活都被冻住了这一定是绿者的力量队长她不会有事吧",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1432.ogg",
+        "matched_line": "其中一个与冰之律者的律者核心波长吻合，而另一个却是从未检测到的律者反应！",
+        "recognized_text": "其中一个与冰之律者的律者核心波长吻合而另一个确实从未检测到国的旅者反映",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1134.ogg",
+        "matched_line": "你的意思是？",
+        "recognized_text": "我的意思是",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_311.ogg",
+        "matched_line": "好的！资料正在传输……",
+        "recognized_text": "好的资料正在传输",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_561.ogg",
+        "matched_line": "而他现在的身份……正是我刚才说的世界蛇干部夜枭。",
+        "recognized_text": "而她现在的身份就是我刚才所说的世界上干部夜宵",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_324.ogg",
+        "matched_line": "奉队长之命向各位传达天命的调查情报。",
+        "recognized_text": "队长致命相似为传达天命的调查情况",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1421.ogg",
+        "matched_line": "但是……副队长已经身负重伤，如果您也……",
+        "recognized_text": "但是副队长已经身负重伤说过年",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_233.ogg",
+        "matched_line": "朋友？",
+        "recognized_text": "朋友",
+        "match_score": 80
+    }
+]

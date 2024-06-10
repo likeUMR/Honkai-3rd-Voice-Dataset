@@ -1,0 +1,56 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4154.ogg",
+        "matched_line": "可以说，逐火之蛾恰恰是这次危机中损失最惨重的一方。",
+        "recognized_text": "可以说逐火之蛾恰恰是这次危机中损失最惨重的一方",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4153.ogg",
+        "matched_line": "我们失去了太多融合战士，现存人员已经无法维持部队的编制。",
+        "recognized_text": "我们失去了太多种和战士现场人员已经无法维持部队的编制",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4136.ogg",
+        "matched_line": "希望让融合战士和普通人共处，不会引起不必要的麻烦。",
+        "recognized_text": "希望上如何钻石和普通人共处不会引起不必要的麻烦",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4143.ogg",
+        "matched_line": "万幸的是，虽然有一些反对的声音，但大部分人还是接受了这项提案。",
+        "recognized_text": "关心的事虽然有一些反对的声音但大部分人还是接触了这项提案",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4145.ogg",
+        "matched_line": "……真是讽刺，威胁人类存亡的外敌就在眼前，人类最大的抗崩坏组织却还要处理内部矛盾。",
+        "recognized_text": "真是讽刺啊威胁人类存亡的外地就在眼前人类最大的抗崩坏组织却还要处理内部矛盾",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4151.ogg",
+        "matched_line": "出于战略考虑，他们会暂时被分派到各个武装小队中，直到新生战力补上现在的空缺。",
+        "recognized_text": "出于战略考虑他们会暂时被分派到各个武装小队中知道新生战力补上现在的空缺",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4137.ogg",
+        "matched_line": "相信新生的融合战士部队，能再次成为逐火之蛾的中坚力量。",
+        "recognized_text": "相信新生的如何暂时不对能再次成为逐火之蛾的中坚力量",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4140.ogg",
+        "matched_line": "第11律者造成的灾害远比我们预想的更严重。",
+        "recognized_text": "第十一律者造成的灾害璇比我们预想的更严重",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4152.ogg",
+        "matched_line": "新人们也在迅速成长，很快就能成为战力。",
+        "recognized_text": "新人们也在迅速成长很快就能成为战力",
+        "match_score": 94
+    }
+]

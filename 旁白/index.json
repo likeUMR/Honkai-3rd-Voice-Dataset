@@ -1,0 +1,728 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3626.ogg",
+        "matched_line": "但她明白，这么做只是徒劳，没有人能逃避自己的过去。",
+        "recognized_text": "看看明白政策是徒劳没有事逃避自己的过去",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3708.ogg",
+        "matched_line": "这是属于“普通人”的强大。是经过一千次、一万次挥剑训练后所锻炼出来的……“平平无奇”的强大。",
+        "recognized_text": "这是属于普通人的强大是经过一千次一万次会见训练后所锻炼出来的平平无奇的强大",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3705.ogg",
+        "matched_line": "毫无悬念，在这个“普通人”面前，少女输了。",
+        "recognized_text": "毫无悬念在这个普通人面前",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3633.ogg",
+        "matched_line": "这些相遇让她体会到了家的温暖，产生了想要留下的念头。",
+        "recognized_text": "这些相遇让她体会到了家的温暖产生了想要留下的念头",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3484.ogg",
+        "matched_line": "“我不是应该已经被崩坏兽的长矛刺穿了吗？”——少女的心中一片混沌。",
+        "recognized_text": "我不是应该已经被崩坏兽的长矛刺穿了吗少女的心中一片混沌",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3707.ogg",
+        "matched_line": "没有任何花哨的动作，没有浪费一丝力气，巨剑简单地挥舞、劈砍，准确地判断出她的每一个立足点，毫不留情地追击。",
+        "recognized_text": "没有任何花哨的动作没有浪费一丝力气七千简单的恢复皮卡准确的判断出她的美一个立足点毫不留情的追击",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3485.ogg",
+        "matched_line": "少女曾经听别人说过，在濒死时，过去经历的一切会像走马灯一样在眼前飞逝。",
+        "recognized_text": "上一曾经听别人说过在平时过去经历的一切互相走马灯一样在眼前飞逝",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4054.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3638.ogg",
+        "matched_line": "像是过去许多个日日夜夜里，自己和她们一起逛过的街道。",
+        "recognized_text": "像过去许多个日日夜夜里自己和他们一起逛过的街道",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3787.ogg",
+        "matched_line": "她从教官睡着的脸上，看见了那个十九岁时，仍然相信未来是玫瑰色的女孩。",
+        "recognized_text": "她从教快睡着的脸上看见了那个十九岁时仍然相信未来是玫瑰色的女孩",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3642.ogg",
+        "matched_line": "不管少女往哪里逃，不管她如何挣扎，最终脚下的路还是通向同一个终点……",
+        "recognized_text": "不管少女往哪里逃不管她如何挣扎最终脚下的路还是通向同一个终点",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3634.ogg",
+        "matched_line": "她意识到自己不能在这里停留。她必须躲开人群……",
+        "recognized_text": "他意识到自己不能在这里停留它必须躲开人群",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3632.ogg",
+        "matched_line": "十二岁那年，“她”第一次醒来，造成了巨大的破坏……",
+        "recognized_text": "十二岁那年第一次醒来造成了巨大的破坏",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3629.ogg",
+        "matched_line": "从那时起，少女就一直在逃跑，一直假装“她”不存在。",
+        "recognized_text": "从那时起上映就一直在逃跑一直假装它不存在",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4351.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你呢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3635.ogg",
+        "matched_line": "少女漫无目的地走着，想寻找一个能躲开一切的地方。",
+        "recognized_text": "上一目的的走着想寻找一个能躲开一切的地方",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3480.ogg",
+        "matched_line": "——是因为犯下太多的罪，需要活下去接受命运的惩罚。",
+        "recognized_text": "是因为犯下太多的罪写下去接受你的惩罚",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3639.ogg",
+        "matched_line": "然而这只是个天真的念头。",
+        "recognized_text": "然而这只是个天真的念头",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3630.ogg",
+        "matched_line": "因为，少女很清楚自己的身体里潜藏着什么。",
+        "recognized_text": "因为上衣很清楚自己的身体里潜藏着什么",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4538.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3641.ogg",
+        "matched_line": "对符华的愤怒，只不过是在宣泄长久以来她对命运的无力感。",
+        "recognized_text": "对浮华的愤怒只不过是在宣泄长久以来他对命运的无力感",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3785.ogg",
+        "matched_line": "说是课后训练，但教官在那一天实在喝了太多，连剑都提不起来。",
+        "recognized_text": "说是课后训练但小棺材那一天实在喝的太多天天都提不起来",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3459.ogg",
+        "matched_line": "跑，只能逃跑。",
+        "recognized_text": "只能逃跑",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3478.ogg",
+        "matched_line": "她无从得知。",
+        "recognized_text": "无从得知",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3636.ogg",
+        "matched_line": "那些在出生前就已经发生的事，决定了我们最终会成为怎样的人，做怎样的事。",
+        "recognized_text": "你现在出生前就已经发生的事决定了我们最终会成为怎样的人做怎样的事",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3482.ogg",
+        "matched_line": "——或者，是心底还存着最后一丝幻想，希望这一切只是个噩梦，在课堂的钟声敲响后，一切都会恢复原状？",
+        "recognized_text": "火车心底还存着最后一次幻想希望这一切只是个噩梦在课堂的钟声敲响都会恢复运转",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3479.ogg",
+        "matched_line": "“……为什么我还活着？”",
+        "recognized_text": "为什么我还活着",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3710.ogg",
+        "matched_line": "等反应过来时，大剑已经架在了少女的脖子上。",
+        "recognized_text": "反应过来时大倩已经下载了少女的脖子上",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3483.ogg",
+        "matched_line": "应该像那些除了逃跑、哭喊之外什么都做不了的受害者一样，眼睁睁地看着崩坏兽从天而降，被刺穿、被践踏、被屠杀……",
+        "recognized_text": "应该像那些除了逃跑哭喊之外什么做不了的受害者一样形成的看着崩坏兽从天而降四川图片",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1726.ogg",
+        "matched_line": "有吗？",
+        "recognized_text": "有事吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3242.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你这个呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2339.ogg",
+        "matched_line": "我已经……决定了。",
+        "recognized_text": "我已经决定了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4120.ogg",
+        "matched_line": "没什么了。",
+        "recognized_text": "什么卡了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3845.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "你呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3622.ogg",
+        "matched_line": "而这，就是所谓的命运。",
+        "recognized_text": "这就是所谓的命运",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3619.ogg",
+        "matched_line": "最终，脚步违抗了身体的命令，像飞蛾追逐火光一样不停向前走着。",
+        "recognized_text": "尊重小铺违抗身体的命令小飞和追逐火光一样不停地向前走着",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3621.ogg",
+        "matched_line": "不知不觉，眼前闪起霓虹灯细碎的光芒，嘈杂的人声和食物的香气搅乱了她的思绪。",
+        "recognized_text": "不知不觉今天升旗霓虹灯细碎的光芒嘈杂的人声和食物的香气搅乱了他的思绪",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3637.ogg",
+        "matched_line": "少女像受惊的小动物一样颤抖起来。",
+        "recognized_text": "上一下受惊的小动物一样颤抖起来",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3706.ogg",
+        "matched_line": "女教官低下头，直视着少女的双眼——",
+        "recognized_text": "你交换低下头直视着少女的双眼",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3625.ogg",
+        "matched_line": "可是这个温暖的夜市，是多么似曾相识。",
+        "recognized_text": "可是这个温暖的意思是多么似曾相识",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3624.ogg",
+        "matched_line": "少女不敢在任何一个地方呆上太久，也不敢和任何人靠的太近。少女害怕一切会重演。",
+        "recognized_text": "少女不敢在任何地方带上太久不敢和任何人靠的太近少女害怕一切会重演",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3786.ogg",
+        "matched_line": "最后少女费尽了力气，把这个死沉死沉的家伙扛到了卧室里。",
+        "recognized_text": "少女费劲了力气把这个死沉死沉的家伙扛到了卧室里",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6810.ogg",
+        "matched_line": "摸摸",
+        "recognized_text": "摸摸屁股",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4684.ogg",
+        "matched_line": "我听见了。",
+        "recognized_text": "听见了吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2190.ogg",
+        "matched_line": "门打开了。",
+        "recognized_text": "倒地打门打开了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9906.ogg",
+        "matched_line": "拟态·天火圣裁。",
+        "recognized_text": "天火圣裁",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8935.ogg",
+        "matched_line": "我回来了。",
+        "recognized_text": "我怎么又回来了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4076.ogg",
+        "matched_line": "有吗？",
+        "recognized_text": "有吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7587.ogg",
+        "matched_line": "有吗？",
+        "recognized_text": "有事吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8664.ogg",
+        "matched_line": "有吗？",
+        "recognized_text": "有吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9650.ogg",
+        "matched_line": "过去看看吧。",
+        "recognized_text": "所以过去看看吧",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2675.ogg",
+        "matched_line": "够了。",
+        "recognized_text": "够了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4349.ogg",
+        "matched_line": "我回来了。",
+        "recognized_text": "我回来了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3301.ogg",
+        "matched_line": "现在？",
+        "recognized_text": "现在归",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4008.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "你呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7017.ogg",
+        "matched_line": "德丽莎",
+        "recognized_text": "丽莎",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6513.ogg",
+        "matched_line": "哒哒哒哒——",
+        "recognized_text": "哒哒哒哒开心",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3753.ogg",
+        "matched_line": "——这个男人，彻底地疯了。",
+        "recognized_text": "疯了这个男人彻底的疯了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10104.ogg",
+        "matched_line": "啦啦啦啦啦",
+        "recognized_text": "啦啦啦啦啦啦啦啦",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6625.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "你呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4678.ogg",
+        "matched_line": "无法拒绝。",
+        "recognized_text": "无法拒绝了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7566.ogg",
+        "matched_line": "第三律者……",
+        "recognized_text": "第三者",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3732.ogg",
+        "matched_line": "——不，从一开始，他就是一个彻头彻尾的疯子。",
+        "recognized_text": "从一开始他就是一个彻头彻尾的疯子",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6545.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_58.ogg",
+        "matched_line": "目标即将抵达——神州，天穹市。",
+        "recognized_text": "目标即将抵达神州天穹",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2698.ogg",
+        "matched_line": "“天地间，只有一树一海，于是它们开始了永无止境的竞争。”",
+        "recognized_text": "天地间只有一树一于是他们开始了永无止境的竞争",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3279.ogg",
+        "matched_line": "踏出这一步，就再也无法回头。",
+        "recognized_text": "踏出这一步就再也无法回头",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3280.ogg",
+        "matched_line": "你会永远离开她。",
+        "recognized_text": "你会永远离开他",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2410.ogg",
+        "matched_line": "我回来了。",
+        "recognized_text": "回来了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2706.ogg",
+        "matched_line": "“有一棵巨大的树，它的树尖目不能视，它的枝叶遮蔽天空。”",
+        "recognized_text": "有一棵巨大的树他的手机木不能使它的枝叶遮蔽天空",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3273.ogg",
+        "matched_line": "你不再害怕了吗？",
+        "recognized_text": "你不在害怕了吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2700.ogg",
+        "matched_line": "“想象一下！虚数才是人类的起点，是文明的起始。”",
+        "recognized_text": "想象一下徐庶才是人类的起点是文明的骑士",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3274.ogg",
+        "matched_line": "你变了许多啊。",
+        "recognized_text": "你变了许多呀",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2704.ogg",
+        "matched_line": "“就在这漫无尽期的过程中，在某个微不足道的角落里，在某株焕发新生的叶芽间——”",
+        "recognized_text": "就在这漫无尽期的过程中在某个微不足道的角落里再母猪焕发新生的叶芽间",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3038.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你呢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3282.ogg",
+        "matched_line": "你会告别现在的一切，告别同伴，告别家人。",
+        "recognized_text": "你会告别现在的一切告别同伴告别家人",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3427.ogg",
+        "matched_line": "危险。",
+        "recognized_text": "危险",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2711.ogg",
+        "matched_line": "“现在，让我们想象一棵树，虚数之树”。",
+        "recognized_text": "现在让我们想象一棵树迅速之首",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3286.ogg",
+        "matched_line": "你再也不能回到她的身边，看着她的笑容，抓住她的手。",
+        "recognized_text": "你再也不能回到他的身边看着她的笑容抓住她的手",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3533.ogg",
+        "matched_line": "够了。",
+        "recognized_text": "够了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3271.ogg",
+        "matched_line": "去成为，真正的雷之律者吧！",
+        "recognized_text": "成为真正的雷之力吧",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2968.ogg",
+        "matched_line": "提示",
+        "recognized_text": "提示",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2695.ogg",
+        "matched_line": "“在树下，是一片广袤的海，它的深度无法探测，它的边界不可触及。”",
+        "recognized_text": "在树下是一片广袤的海它的深度无法探测它的编辑不可触及",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3281.ogg",
+        "matched_line": "你会承受质疑和非议，在孤独的道路上越走越远。",
+        "recognized_text": "你会承受质疑和非议在孤独的道路上越走越远",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3278.ogg",
+        "matched_line": "这是你第一次，主动来到我的面前。",
+        "recognized_text": "这是你第一次主动来到我的面前",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2707.ogg",
+        "matched_line": "“然而世界的发展需要约束。在与量子之海的竞争中，枝叶生长的方向不断遭到一种机制的筛选与纠正。”",
+        "recognized_text": "然而世界的发展需要约束在于量子之海的竞争者职业生长的方向不断遭到一种机智的筛选与求证",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2691.ogg",
+        "matched_line": "“一种自然形成的机制，一种源于虚数的机制，一种哺育、滋养的机制，一种洗礼、淘汰的机制。”",
+        "recognized_text": "那种自然形成的机制一种源于虚数的机制一种哺育滋养的机制一种洗礼淘汰的机制",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_43.ogg",
+        "matched_line": "休息",
+        "recognized_text": "休息",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2117.ogg",
+        "matched_line": "我回来了。",
+        "recognized_text": "我回来了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2689.ogg",
+        "matched_line": "“名为人类的文明，诞生了。”",
+        "recognized_text": "因为人类的文明但是生了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3284.ogg",
+        "matched_line": "爱哭鬼，好久不见。",
+        "recognized_text": "爱哭鬼好久不见",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_799.ogg",
+        "matched_line": "过去看看吧。",
+        "recognized_text": "过去看看吧",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2693.ogg",
+        "matched_line": "“每一株枝干，都是一种文明存在的形式。每一片花叶，都是它们在时间维度中留下的现在与曾经。”",
+        "recognized_text": "每一株枝干都是一种文明存在的形式每一片花叶都是她们在时间维度中留下的现在与曾经",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2647.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2713.ogg",
+        "matched_line": "“没错，没错，人类永远也无法逃离崩坏。”",
+        "recognized_text": "没错没意思人类永远也无法逃离崩溃",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2712.ogg",
+        "matched_line": "“人类只能前进，因为虚数之树必须生长。若非如此，我们终会像那些失败的世界一样凋零，成为量子之海中的另一个泡影。”",
+        "recognized_text": "人类只能前进因为迅速之术必须生产若非如此我们终会像那些失败的世界一样衰败凋零成为量子之海中的另一个人",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_448.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "你呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2699.ogg",
+        "matched_line": "“而我所追寻的答案，必然存在于那虚数之树中——”",
+        "recognized_text": "而我所追寻的答案必然存在于那须述职述中",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2703.ogg",
+        "matched_line": "“若想获得永久的宁静，人类就必须回归文明的起点，回归于虚数。”",
+        "recognized_text": "录像获得永久的宁静人类就必须回归文明的起点回归于学术",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3272.ogg",
+        "matched_line": "用你的双手将我埋葬，把我的愤怒，我的悲鸣，我的消逝，化作你孤独前行的力量。",
+        "recognized_text": "用你的双手叫我埋把我的愤怒或者悲鸣我的消息化作孤独学习了力量",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3276.ogg",
+        "matched_line": "继续向前，你会落入更深的地狱。",
+        "recognized_text": "继续向前你会更深的地狱",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2694.ogg",
+        "matched_line": "“树在海的浸润下度过恒河沙的岁月，分叉出阿僧祇的枝干，结下了那由他的花叶。”",
+        "recognized_text": "蔬菜海的浸润下渡过恒河沙的水分叉出阿森奇的直感接下了那由他的花园",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3285.ogg",
+        "matched_line": "你……真的要这么做吗？",
+        "recognized_text": "真的要这么做吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3277.ogg",
+        "matched_line": "去向整个世界，宣告雷电女王的归来……",
+        "recognized_text": "气象整个世界宣告雷电女王的归来",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2697.ogg",
+        "matched_line": "“时间在虚数之树的树干上流动，像树冠一样，分叉出无限的世界。”",
+        "recognized_text": "时间在叙述之树的树干上流动像束光一样分叉出无限的世界",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3517.ogg",
+        "matched_line": "现在？",
+        "recognized_text": "现在的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_834.ogg",
+        "matched_line": "为什么会出现在这里呢。",
+        "recognized_text": "为什么为什么会出现在这里",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_638.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1527.ogg",
+        "matched_line": "那你呢？",
+        "recognized_text": "那你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1539.ogg",
+        "matched_line": "现在？",
+        "recognized_text": "就现在",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1480.ogg",
+        "matched_line": "你……真的要这么做吗？",
+        "recognized_text": "你确定要这么做吗",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1179.ogg",
+        "matched_line": "够了。",
+        "recognized_text": "够了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1304.ogg",
+        "matched_line": "一段时间之后",
+        "recognized_text": "过一段时间",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1964.ogg",
+        "matched_line": "是的，队长。",
+        "recognized_text": "是的队长",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2219.ogg",
+        "matched_line": "啦啦啦啦啦",
+        "recognized_text": "啦啦啦啦啦",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3916.ogg",
+        "matched_line": "各单位注意！我是胡狼，入侵者在B2层7号通道附近！机甲三团立刻迎击，格杀勿论，重复一遍，格杀勿论！",
+        "recognized_text": "各单位注意我是胡狼入侵者在b2层七号通道附近机甲三团立刻迎击格杀勿论重复一遍格杀勿论",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2742.ogg",
+        "matched_line": "火。",
+        "recognized_text": "火",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3074.ogg",
+        "matched_line": "声音。",
+        "recognized_text": "小声音",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4470.ogg",
+        "matched_line": "我还能怎么做？",
+        "recognized_text": "还怎么做",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4529.ogg",
+        "matched_line": "想不明白。",
+        "recognized_text": "不明白",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_54.ogg",
+        "matched_line": "啦啦啦啦啦",
+        "recognized_text": "啦啦啦啦",
+        "match_score": 89
+    }
+]

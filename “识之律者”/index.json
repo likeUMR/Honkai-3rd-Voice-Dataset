@@ -1,0 +1,116 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_4410.ogg",
+        "matched_line": "当然，就算再怎么骗自己……当使出全部力量的时候……不，其实更早以前……",
+        "recognized_text": "当然青山菜怎么骗自己当时出全部力量的时候其实更早以前",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4419.ogg",
+        "matched_line": "没门！",
+        "recognized_text": "没门儿",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4425.ogg",
+        "matched_line": "你还想让我帮你？哈哈哈哈哈，你傻了吧！？我才不会帮你！去死吧！共享一具身体？想想就觉得恶心！",
+        "recognized_text": "你还想让我帮你哈哈哈哈哈哈哈哈哈哈你傻了吧我才不会帮你共享一下身体想想就觉得恶心",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4414.ogg",
+        "matched_line": "就因为我是律者，所以注定要失败吗？",
+        "recognized_text": "因为我是律师所以注定要失败吗",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4396.ogg",
+        "matched_line": "关你什么事？我想去哪就去哪，谁也管不着。嘿，我可是“意识的律者”！你还是祈祷别再遇到我吧。",
+        "recognized_text": "关你什么事啊我想去哪儿就去哪儿谁也管不着我可是认识的旅者你还是祈祷别再遇到我吧",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4398.ogg",
+        "matched_line": "…这不是为了你，老古董。想做什么就做吧，我已经和你没有关系了，再见！",
+        "recognized_text": "不是为了你之老古董想做什么就做吧我已经和你没有关系了再见",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4403.ogg",
+        "matched_line": "…这世界真没什么公平，对不对？",
+        "recognized_text": "这世界真没什么公平对不",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4401.ogg",
+        "matched_line": "真奇怪。",
+        "recognized_text": "真奇怪",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4420.ogg",
+        "matched_line": "我只是不承认……嘿嘿，我可是掌控意识的律者啊，我想否定什么，不是轻而易举吗？",
+        "recognized_text": "我只是不承认我可是掌控意识的旅者我想否定什么不是轻而易举吗",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4418.ogg",
+        "matched_line": "你赢了，我输了——你才是符华，我什么都不是。再见！……不，永远不见！我要离开了，你们再也别想——也不可能阻止我了！",
+        "recognized_text": "你赢了我输了你才是不还我什么都不是再见永远不见我要离开了你们再也别想也不可能总是我",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4405.ogg",
+        "matched_line": "我会尽力抵抗，就算输了——起码我知道有人能够战胜我。",
+        "recognized_text": "我会尽力抵抗就算输了起码我知道有人能够战胜我",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4423.ogg",
+        "matched_line": "不论速度还是力量，不论精神还是毅力…我应该都远远超过你们。",
+        "recognized_text": "无论速度还是力量不论精神还是毅力我应该都远远超过你们",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4406.ogg",
+        "matched_line": "你知道崩坏意识还在注视我们吧？凭你现在的状态，就算掌握了身体，你能抵抗崩坏的侵蚀吗？你能承受律者的权能吗？",
+        "recognized_text": "你知道崩坏意识还在住宿我们吧凭你现在的状态硝酸掌握了身体你能抵抗崩坏的侵蚀吗你能承受绿洲的全能吗",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4409.ogg",
+        "matched_line": "…你知道你的精神已经残破不堪了吧？要是我死去，你也会死。",
+        "recognized_text": "你知道你的精神已经残破不堪了吧要是我死去你也会死",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4399.ogg",
+        "matched_line": "我应该早就知道了吧。",
+        "recognized_text": "我应该早就知道了吧",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2560.ogg",
+        "matched_line": "别了。",
+        "recognized_text": "别多了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4400.ogg",
+        "matched_line": "结果到最后，我一直想成为的却并不是我，一直想消灭的竟是我自己。我嘲笑所有人，哈哈，结果最好笑的就是我。",
+        "recognized_text": "结果的最好我一直想成为的却并不是我一直想消灭的其实我自己我嘲笑所有人结果最好笑的就是我",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4408.ogg",
+        "matched_line": "轻而易举……",
+        "recognized_text": "轻而易举",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4404.ogg",
+        "matched_line": "我为什么会输呢？",
+        "recognized_text": "我为什么会说呢",
+        "match_score": 80
+    }
+]

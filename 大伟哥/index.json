@@ -1,0 +1,38 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_1259.ogg",
+        "matched_line": "当然啦，为了公正起见，作为出品方，本人将不会干涉评选。",
+        "recognized_text": "当然啦为了公正起见作为出品方本人将不会干涉评选",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1258.ogg",
+        "matched_line": "感谢两位有钱爸爸的鼎力支持！你们爱怎么选就怎么选吧~",
+        "recognized_text": "感谢两位有钱爸爸的鼎力支持你们爱怎么选就怎么选吧",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1257.ogg",
+        "matched_line": "天命财团的会长奥托·阿波卡利斯！和逆熵娱乐的CEO瓦尔特·杨！",
+        "recognized_text": "天命财团的会长奥托阿波卡利斯和李少娱乐的CEO瓦尔特杨",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1265.ogg",
+        "matched_line": "欢迎来到大型科幻动作悬疑偶像剧《崩坏3》的女主角选拔赛事现场。",
+        "recognized_text": "欢迎来到大型科幻动作悬疑偶像剧崩坏三的女主角选拔赛事现场",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1255.ogg",
+        "matched_line": "本次活动的评审事宜就全权交给我们的赞助方——",
+        "recognized_text": "本次活动的评审事宜就全权交给我们的赞助方",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1253.ogg",
+        "matched_line": "感谢各位参赛选手踊跃参与。我们会通过台词念白、感情戏、动作戏试演等环节，充分考量各位是否适合担当主要角色。",
+        "recognized_text": "感谢各位参赛选手踊跃参与我们会通过台词念白感情戏动作戏实验等环节充分考量各位是否适合担当主要角色",
+        "match_score": 91
+    }
+]

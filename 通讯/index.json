@@ -1,0 +1,74 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5524.ogg",
+        "matched_line": "能量被注入了「海渊之眼」的空间裂隙中。所有读数正常。博士，请求提升能量注入的功率。",
+        "recognized_text": "能量备注了海运之间的空间练习中所有读书正常不是请求提升能量注入的功率",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5291.ogg",
+        "matched_line": "学园长，岗哨人员传来了目视报告。有身份不明的机械化部队正在靠近我们，试图登陆休伯利安号的甲板！",
+        "recognized_text": "悬赏榜上人员从来没出报告有身份不明的机械化部队正在靠近我们试图登录休伯利安号的甲板",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_4.ogg",
+        "matched_line": "神之键启动，进入第一阶段。能量输出稳定，已确认量子层浸润。",
+        "recognized_text": "神之键启动进入第一阶段输出稳定确认量子曾庆",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_26.ogg",
+        "matched_line": "“量子之影”已经全数消灭。",
+        "recognized_text": "这样子已经全数消灭",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_23.ogg",
+        "matched_line": "已接到总部指示，实验正式结束。幽兰黛尔大人，请返回基地吧。",
+        "recognized_text": "你接到总部指示实验正式结束就来带大人请返回基地吧",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_9.ogg",
+        "matched_line": "神之键充能达到运行阈值，空间定位现已突破量子层，实验进入第二阶段，开始坐标观测。",
+        "recognized_text": "神智渐成能达到运行一值空间定位现已突破量子曾实验进入第二阶段开始做标观测",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2.ogg",
+        "matched_line": "各单位就绪，第二神之键第42次启动实验将在5分钟后开始。",
+        "recognized_text": "各单位就绪第二支箭第42次启动实验将在五分钟后开始",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_14.ogg",
+        "matched_line": "观测结果已计算完毕，观测到节点总数一亿八千六百九十四万，距离目标节点偏差值：54",
+        "recognized_text": "观测结果与计算完毕观测到几点总数一亿八千六百九十四万距离目标节点偏差值54",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_10.ogg",
+        "matched_line": "幽兰黛尔大人，实验即将进入下一阶段，请您等待指示。",
+        "recognized_text": "就来带大爷实验即将进入下一阶段请您等待指示",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_15.ogg",
+        "matched_line": "3，2，1。隧道已完全闭合，实验结束。",
+        "recognized_text": "327隧道已完全闭合实验结束",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1.ogg",
+        "matched_line": "观测到“量子之影”入侵，幽兰黛尔大人，之后的事情就拜托了。",
+        "recognized_text": "观测到量子入侵兰大元之后的事情就拜托了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_365.ogg",
+        "matched_line": "幽兰黛尔大人！基地遭到了袭击！是世界蛇的机甲部队！",
+        "recognized_text": "出来大大战基地遭到袭击是世界上的机甲部队",
+        "match_score": 67
+    }
+]

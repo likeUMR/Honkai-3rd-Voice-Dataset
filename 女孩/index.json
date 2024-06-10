@@ -1,0 +1,122 @@
+[
+    {
+        "audio_file": "AUDIO_3_5_3_6_901.ogg",
+        "matched_line": "我会的。",
+        "recognized_text": "会的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_377.ogg",
+        "matched_line": "我会的。",
+        "recognized_text": "我会的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1959.ogg",
+        "matched_line": "我会的。",
+        "recognized_text": "我会去的",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3138.ogg",
+        "matched_line": "不…但你长得很像…那雕像……",
+        "recognized_text": "带你长得很像那雕像",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_379.ogg",
+        "matched_line": "来得及。",
+        "recognized_text": "来得及",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2774.ogg",
+        "matched_line": "我会的。",
+        "recognized_text": "我会的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2275.ogg",
+        "matched_line": "（我要一个人…去陌生的城市了…）",
+        "recognized_text": "一个人去陌生的城市",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3126.ogg",
+        "matched_line": "你是仙人吗？",
+        "recognized_text": "你是新人吗",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2122.ogg",
+        "matched_line": "没关系，就叫这个吧。",
+        "recognized_text": "没关系就叫这个吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3073.ogg",
+        "matched_line": "你是来……救我们的吗？",
+        "recognized_text": "你是说我们的吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3068.ogg",
+        "matched_line": "人们突然发疯了……就在刚刚，大家突然变成了白色，好多好多……到处乱砍……",
+        "recognized_text": "人们突然发疯了就在刚刚大家突然变成了白色好多好多到处乱砍",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_375.ogg",
+        "matched_line": "（我要一个人…去陌生的城市了…）",
+        "recognized_text": "我要一个人去陌生的城市了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2099.ogg",
+        "matched_line": "所以我既非岸，亦非水。算不上岸边人，也不算水中人——哪里都不挨靠。",
+        "recognized_text": "所以我既非二一分率算不算岸边人也不算水中人哪里都不爱",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_363.ogg",
+        "matched_line": "带了，行李都寄走了。",
+        "recognized_text": "行李都寄走了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2080.ogg",
+        "matched_line": "名字是我父亲取的，我已弃了。",
+        "recognized_text": "名字是我父亲取的微信",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_338.ogg",
+        "matched_line": "啊？…我，我不知道这事。",
+        "recognized_text": "我不知道这事儿",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4045.ogg",
+        "matched_line": "来得及。",
+        "recognized_text": "希望来得及",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1186.ogg",
+        "matched_line": "来得及。",
+        "recognized_text": "还来得及",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2095.ogg",
+        "matched_line": "弑母之仇不可遗落！苏湄感念真人之恩，却绝不能认真人为家长！真人要赶我走便罢，若要留，苏湄为奴作仆，报答真人恩情！",
+        "recognized_text": "圣母之称不可一摞书没感觉真人之拒绝不能认真人为家长人人要赶我走吧若要流苏没为奴做仆报答这恩情",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_346.ogg",
+        "matched_line": "我，我觉得没关系啦…",
+        "recognized_text": "我我觉得没关系啦",
+        "match_score": 89
+    }
+]

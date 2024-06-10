@@ -1,0 +1,500 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4130.ogg",
+        "matched_line": "我们得在这里等一会儿。",
+        "recognized_text": "我们在这里等一会儿",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4953.ogg",
+        "matched_line": "我守住了……身为姐姐的骄傲……",
+        "recognized_text": "我守住了社会姐姐的骄傲",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4764.ogg",
+        "matched_line": "每个人都有想要守护的东西，这和强弱无关。",
+        "recognized_text": "每个人都有想守护的东西这和强弱无关",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4115.ogg",
+        "matched_line": "啊……对不起，我只是有些吃惊。",
+        "recognized_text": "对不起我只是有些吃惊",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3993.ogg",
+        "matched_line": "拜托了，我必须要找到她。",
+        "recognized_text": "拜托了我必须要找到他",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4075.ogg",
+        "matched_line": "看来没有人发现我们，赶紧上楼吧。",
+        "recognized_text": "看来没有人发现我们赶紧上楼吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4208.ogg",
+        "matched_line": "樱花是铃最喜欢的东西。我想，你也一定会喜欢的。",
+        "recognized_text": "樱花是你最喜欢的东西我想你一定会喜欢的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4209.ogg",
+        "matched_line": "所以，我们一起离开这里，好吗？",
+        "recognized_text": "所以我们一起离开这里好吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4758.ogg",
+        "matched_line": "但现在已经没事了，我们安全了。",
+        "recognized_text": "但现在已经没事了我们去了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4852.ogg",
+        "matched_line": "正因为很危险，我才要去。你不会阻止我的，对吧？",
+        "recognized_text": "因为很危险我才要去你不会阻止我的对吧",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4092.ogg",
+        "matched_line": "档案室就在这一层。你先待在这儿，不要走动。",
+        "recognized_text": "但是就在这一层你呆在这不要走动",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4771.ogg",
+        "matched_line": "你体内的圣痕出现了一些异常，可能和刚才的骚动有关。",
+        "recognized_text": "你体内的圣痕出现了一些异常可能和刚才的骚动有关",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4191.ogg",
+        "matched_line": "她本来应该被关在你那个房间，可我到的时候，却看到里面只有你一个人。",
+        "recognized_text": "看来应该被关在你那个房间可我到的时候却看到里面只有你一个人",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4679.ogg",
+        "matched_line": "我不在乎自己怎么样，但现在铃落入他们手中，我绝不会坐视不管。",
+        "recognized_text": "我不在乎自己怎么样但现在领露出他们手中我绝不会做事不管",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4196.ogg",
+        "matched_line": "所以，我不会伤害你，更不会捉你回去。",
+        "recognized_text": "所以我不会伤害你更不会让你回去",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4096.ogg",
+        "matched_line": "……通往档案室的路有守卫守着，看来这次绕不过去了。",
+        "recognized_text": "通往当时的路由守卫守着看来这次绕不过去了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4127.ogg",
+        "matched_line": "系统正在排查各区域人员流动的记录，这要花上一点时间。",
+        "recognized_text": "系统正在排查各区人员流动的纪录叫花上一点时间",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4961.ogg",
+        "matched_line": "希儿……带她回我们的故乡吧……",
+        "recognized_text": "带她回我们的故乡呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4680.ogg",
+        "matched_line": "但你应该一次也没亲眼见过，我真正的能力吧？",
+        "recognized_text": "但应该一次也没见过我真正的能力吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4956.ogg",
+        "matched_line": "你会发现……你的世界……依然还有希望……",
+        "recognized_text": "你会发现你的世界依然还有希望",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4690.ogg",
+        "matched_line": "背叛人类？",
+        "recognized_text": "背叛人类",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4829.ogg",
+        "matched_line": "如果我能再快一点……",
+        "recognized_text": "如果我能再快一点",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4003.ogg",
+        "matched_line": "我叫樱，你叫什么名字？能想起来吗？",
+        "recognized_text": "我家音你叫什么名字能想起来吗",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4743.ogg",
+        "matched_line": "这些死士，都是基地里的人！究竟发生了什么？",
+        "recognized_text": "嘻嘻是不是基地里的人究竟发生了什么",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4020.ogg",
+        "matched_line": "这里的人都对你做了什么，他们究竟抓了多少无辜的孩子？",
+        "recognized_text": "这里的人都对你做了什么他们究竟装了多少无辜的孩子",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4692.ogg",
+        "matched_line": "让开，凯文。我很清楚自己在做什么。",
+        "recognized_text": "凯文我很清楚自己在做什么",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4193.ogg",
+        "matched_line": "结果出来了。看来铃被转移到了地下33层，我们也该动身了。",
+        "recognized_text": "结果出来了看来被转移到了地下33层后面该动身了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4097.ogg",
+        "matched_line": "她不肯开口。梅博士让我来档案室查一下，她是从哪层楼逃出来的。",
+        "recognized_text": "她不肯开口梅博士让我来当然是查一下他是从哪层楼逃出来的",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4675.ogg",
+        "matched_line": "凯文，你知道那些人一直以来，都在用什么样的眼光看着我们。",
+        "recognized_text": "看过你知道那些人一直以来都在用什么样的眼光看着我们",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4009.ogg",
+        "matched_line": "对不起，希儿，刚才是我不好。",
+        "recognized_text": "对不起刚才是我不好",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4757.ogg",
+        "matched_line": "即使再弱的人，也可以想方设法保护自己重要的宝物。",
+        "recognized_text": "其实参数的人也可以想方设法保护自己重要的宝物",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4057.ogg",
+        "matched_line": "再等一会儿，现在还不能出去。",
+        "recognized_text": "再等一会儿现在还不能出去",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4189.ogg",
+        "matched_line": "对了，还有樱花。你见过樱花吗？",
+        "recognized_text": "对了还有樱花你见过樱花吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4186.ogg",
+        "matched_line": "不，她不会这样想的。你绝对不会成为她的麻烦。",
+        "recognized_text": "他不会这样想的你绝对不会成为他的麻烦",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4695.ogg",
+        "matched_line": "有崩坏能反应又能说明什么？你我体内都有崩坏兽的因子，可我们却是守护人类的融合战士。",
+        "recognized_text": "就崩溃能反应又能说明什么你我体内都有崩坏兽的因子可我们确实守护人类的融合战士",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4754.ogg",
+        "matched_line": "姐姐和妹妹，不都是这样的吗？",
+        "recognized_text": "姐姐和妹妹不都是这样的吗",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4002.ogg",
+        "matched_line": "你没有见过她？怎么会，她应该也被关在这里。",
+        "recognized_text": "你没有见过他怎么会他应该也被关在这里",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4200.ogg",
+        "matched_line": "她是我的妹妹，我唯一的家人。",
+        "recognized_text": "她是我的妹妹我唯一的家人",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4061.ogg",
+        "matched_line": "……它们开始移动了，我们快走。",
+        "recognized_text": "刚开始移动了我们快走",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4180.ogg",
+        "matched_line": "在这个到处都是灾难的世界，很难看到那样令人感到温暖的景色。",
+        "recognized_text": "在这个到处都是灾难的世界很难看到那样令人感到温暖的景色",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4249.ogg",
+        "matched_line": "糟了，麻烦的人出现了。",
+        "recognized_text": "麻烦的人出现了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4093.ogg",
+        "matched_line": "只能强行突破了。希儿，躲到我身后。",
+        "recognized_text": "只能强行突破了躲到我身后",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4212.ogg",
+        "matched_line": "外面很危险。等出去了，你先和我们回家。安顿下来后，我们就一起去找你的姐姐。",
+        "recognized_text": "外面很危险等出去了你先和我们回家安顿下来后我们就一起去找那个姐姐",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4689.ogg",
+        "matched_line": "我不怀疑梅博士的为人，但我无法信任逐火之蛾。",
+        "recognized_text": "我不怀疑梅西的位置但我无法信任出火车",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3122.ogg",
+        "matched_line": "她现在在哪里？",
+        "recognized_text": "现在哪里",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4859.ogg",
+        "matched_line": "铃现在一定很寂寞，她一直是个怕寂寞的孩子。",
+        "recognized_text": "你现在一定很寂寞他一直是个怕寂寞的孩子",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4773.ogg",
+        "matched_line": "希儿，不要为拥有力量而自责。总有一天，它会成为你的一部分。",
+        "recognized_text": "不要拥有力量而自责总有一天他会成为你的一部分",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4800.ogg",
+        "matched_line": "（可恶，再快一点……！）",
+        "recognized_text": "可恶再快一点",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4815.ogg",
+        "matched_line": "希儿，保护好自己，我去找铃！",
+        "recognized_text": "保护好自己我去找你",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4095.ogg",
+        "matched_line": "唉，还是不行吗。",
+        "recognized_text": "还是不行吗",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4004.ogg",
+        "matched_line": "你再想想，最近有没有什么人来过这儿，或者被带出去过。",
+        "recognized_text": "你在想想最近有没有什么人来过这儿或者被带出去过",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4838.ogg",
+        "matched_line": "如果……",
+        "recognized_text": "如果",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4204.ogg",
+        "matched_line": "你是在担心吗？别害怕，我确实曾是逐火之蛾的一员，但现在他们是我的敌人。",
+        "recognized_text": "你是在担心吗别害怕我确实曾是属火车的一员但现在他是我的敌人",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4957.ogg",
+        "matched_line": "你会发现……这个世界依旧美好……",
+        "recognized_text": "你会发现这个世界依旧美好",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4179.ogg",
+        "matched_line": "说起来，之前一直忙着赶路，还没有问过你的事。",
+        "recognized_text": "说起来之前一直忙着赶路还没有问过你的事",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4677.ogg",
+        "matched_line": "铃什么症状都没有，她能控制那种力量，她不会伤害别人。",
+        "recognized_text": "林什么症状都没有他能控制那种力量它不会伤害别人",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4018.ogg",
+        "matched_line": "还能说话吗？",
+        "recognized_text": "还能说话吗",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4210.ogg",
+        "matched_line": "希儿，我会带你离开这里。",
+        "recognized_text": "我会带你离开这里",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3390.ogg",
+        "matched_line": "如果……",
+        "recognized_text": "如果",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4969.ogg",
+        "matched_line": "当你和她……一起站在樱花树下的时候……",
+        "recognized_text": "当你和他一起站在樱花树下的时候",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4761.ogg",
+        "matched_line": "“无论如何都不想失去”，“不惜一切也要保护”，希儿也产生过这样的想法吧？",
+        "recognized_text": "无论如何都不想失去不惜一切也要保护宵夜产生过这样的想法吧",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4809.ogg",
+        "matched_line": "等我把她带回来，我们就离开这里！",
+        "recognized_text": "等我把他带回来我们这离开这里",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4094.ogg",
+        "matched_line": "我们抓到了一个逃跑的实验体。",
+        "recognized_text": "我们抓到一个逃跑的实验体",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4810.ogg",
+        "matched_line": "铃！我来救你了！",
+        "recognized_text": "我来救你了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3995.ogg",
+        "matched_line": "别害怕，我没有怪你。你……",
+        "recognized_text": "别害怕我没有怪你",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4881.ogg",
+        "matched_line": "祝愿你……能够和你的姐姐重逢……",
+        "recognized_text": "祝愿你能够和你的姐姐重逢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4681.ogg",
+        "matched_line": "铃是无辜的！她什么也没有做，你们不能随意认定她是危害，更不能囚禁她！",
+        "recognized_text": "零是无顾的他什么也没有做你们不能随意认定他是危害更不能囚禁他",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4756.ogg",
+        "matched_line": "那一刻，你就是世界上最强的人。",
+        "recognized_text": "那一刻你就是世界上最强的人",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4116.ogg",
+        "matched_line": "别担心，你拥有很棒的力量。你没有做错什么，也不应该被关在这里。",
+        "recognized_text": "别担心你拥有很棒的力量你没有做错什么也不应该被关在这里",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4691.ogg",
+        "matched_line": "凯文，虽然我们并肩作战了那么久……",
+        "recognized_text": "看完虽然我们并肩作战了那么久",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4021.ogg",
+        "matched_line": "我不会伤害你，但想问你一件事。照片里的这个女孩，你见过吗？",
+        "recognized_text": "我不会伤害你照片里的这个女孩儿你见过吗",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4982.ogg",
+        "matched_line": "我答应过她，要带她去樱花盛开的广场……",
+        "recognized_text": "我答应过的要带她去樱花盛开的广场",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4858.ogg",
+        "matched_line": "我要去找她。",
+        "recognized_text": "我要去找他",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4203.ogg",
+        "matched_line": "逐火之蛾囚禁了太多你和铃这样无辜的孩子，你们本该是自由的。",
+        "recognized_text": "祝贺之后囚禁了太多你和林倩无辜的孩子你们本该是自由的",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4190.ogg",
+        "matched_line": "她的名字叫铃，和你一样被关在这座基地里。",
+        "recognized_text": "他的名字叫林和你一样被关在这个基地里",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4010.ogg",
+        "matched_line": "和我一起走吧，我会带你离开这里。",
+        "recognized_text": "后一起走吧我会带你离开这里",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4685.ogg",
+        "matched_line": "你们……你们不能夺走她的人生。",
+        "recognized_text": "你们你们不能夺走她的人生",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4183.ogg",
+        "matched_line": "就当是加深一下对彼此的了解吧。刚才在禁闭室里，你昏倒的时候一直念叨着一个名字。",
+        "recognized_text": "就当是加深一下对彼此的了解吧刚才在禁闭室里你昏倒的时候一直念叨着一个名字",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4977.ogg",
+        "matched_line": "但你……还有想要保护的人……",
+        "recognized_text": "但你还有想要保护的人",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4178.ogg",
+        "matched_line": "她现在在哪里？",
+        "recognized_text": "他现在在哪里",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4177.ogg",
+        "matched_line": "在我们家附近有座广场，里面长着几棵樱花树。到了春天，它们会一起盛开，整个广场上都是飞舞的花瓣。",
+        "recognized_text": "在我们家附近有个广场里面长着几棵樱花树到了春天他们会一起盛开整个广场上都是飞舞的花瓣",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3712.ogg",
+        "matched_line": "还能说话吗？",
+        "recognized_text": "还能说话",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10201.ogg",
+        "matched_line": "居然这么快就…",
+        "recognized_text": "居然这么快就抓到啦",
+        "match_score": 75
+    }
+]

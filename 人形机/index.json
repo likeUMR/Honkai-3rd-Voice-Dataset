@@ -1,0 +1,212 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7670.ogg",
+        "matched_line": "我被切开脑袋，去除了那些坏了的部分，塞进去一些新奇的东西。",
+        "recognized_text": "我被切开脑袋去除了那些坏了的部分塞进去一些新奇的东西",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7666.ogg",
+        "matched_line": "为了活下去，他们让我选。要么死，要么接受实验。",
+        "recognized_text": "为了活下去他们让我选要么死要么接受实验",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7507.ogg",
+        "matched_line": "就算主人死了，这座城市仍然是世界上最安全的地方。",
+        "recognized_text": "就算主人死了这座城市仍然是世界上最安全的地方",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7655.ogg",
+        "matched_line": "绑架犯。",
+        "recognized_text": "绑架",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7500.ogg",
+        "matched_line": "没有主人的命令，工具哪儿都不会去。",
+        "recognized_text": "哎哟主人的命令工具哪都不会去",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7512.ogg",
+        "matched_line": "如果你真的那么需要我，那就……试着从这堆机甲里保护我吧。",
+        "recognized_text": "如果你真的那么需要我而且世界从此对机甲里保护的",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7492.ogg",
+        "matched_line": "你没法伤害一件工具，工具是不会感到疼痛的。",
+        "recognized_text": "你没法伤害已经工具工具是不会感到疼痛的",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7484.ogg",
+        "matched_line": "互联网里流动着数不清的数据，每一条情报，每一段人类留下的记录…",
+        "recognized_text": "互联网里游动着数不清的数据每一条情报每一段人类留下的记录",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7671.ogg",
+        "matched_line": "但是没有主人的权限，我无法输出任何情报。真抱歉。",
+        "recognized_text": "但是没有主人的权限我无法说出任何情况真抱歉",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7641.ogg",
+        "matched_line": "过分？不，是主人救了我，救了我们。",
+        "recognized_text": "过分是主人救了我救了我们",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7654.ogg",
+        "matched_line": "不用感到抱歉。因为我确实是一台机器。",
+        "recognized_text": "不用感到抱歉我确实是一台机器",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7515.ogg",
+        "matched_line": "就像人类的所作所为一样毫无意义，最终都会被崩坏抹去。",
+        "recognized_text": "就像人类的所作所为一样毫无意义最终都会被崩坏抹去",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7504.ogg",
+        "matched_line": "它们来了……应我的召唤，来了。",
+        "recognized_text": "他们来了听我的召唤来了",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7482.ogg",
+        "matched_line": "崩坏什么时候会结束？我也曾问过自己这个问题。",
+        "recognized_text": "梦幻什么时候会结束我也曾问过自己这个问题",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4548.ogg",
+        "matched_line": "我说过了，问问题要付费。（掏出POS机）现金还是刷卡？电子货币结账会比较方便。别瞪我，主人的要求。",
+        "recognized_text": "我说过了问问题要付费现金还是刷卡电子货币结账会比较方便别逗我主人的要求",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7664.ogg",
+        "matched_line": "她们称呼你为学园长。你是老师吗？",
+        "recognized_text": "他们称呼你为学长你是老师吗",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7675.ogg",
+        "matched_line": "就算用膝盖思考，都知道该选哪边吧？",
+        "recognized_text": "就算用膝盖思考都知道该选哪边吧",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7496.ogg",
+        "matched_line": "…都像潮汐一样冲刷过我的大脑。",
+        "recognized_text": "就像潮汐一样冲刷过我的大脑",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7669.ogg",
+        "matched_line": "生活本身就是一场交易嘛。",
+        "recognized_text": "生活本身就是一场交易吗",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7646.ogg",
+        "matched_line": "…在身体里装着监控崩坏能浓度的机器，完全天然的人反而很稀奇。",
+        "recognized_text": "星期里装着监控崩溃能浓度的机器完全亲人的人反而很稀奇",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7644.ogg",
+        "matched_line": "机器只要有型号和编码就行了，没有起名的必要。你就叫我人形机好了。",
+        "recognized_text": "机器只要有型号和编码就行了没有起名的必要你就叫我人生气好了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7661.ogg",
+        "matched_line": "机器没必要拥有名字。",
+        "recognized_text": "机器没必要拥有名字",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4546.ogg",
+        "matched_line": "保护？你们刚刚拆光了所有保护我的机甲……嗯，我现在确实需要保护了。",
+        "recognized_text": "保护你们刚刚拆光了所有保护我的机甲我现在确实需要保护了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7505.ogg",
+        "matched_line": "你可能无法理解……但我是真的不能离开天穹市。",
+        "recognized_text": "你可能无法理解但我是真的不能离开全球",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7510.ogg",
+        "matched_line": "看不见的未来，是没有价值的。",
+        "recognized_text": "看不见的未来是没有价值的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7665.ogg",
+        "matched_line": "那就放我走。",
+        "recognized_text": "那就放我走",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7639.ogg",
+        "matched_line": "机器……",
+        "recognized_text": "机器",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7673.ogg",
+        "matched_line": "既然活下来了，作为回报，我开始接入互联网，为主人筛选情报。",
+        "recognized_text": "活下来了作为回报我开始进入互联网为主人筛选情报",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7645.ogg",
+        "matched_line": "我也被侵蚀了，头很痛，很痛。",
+        "recognized_text": "我也被气死了头很痛很痛",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7643.ogg",
+        "matched_line": "我也想。",
+        "recognized_text": "我也想",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4551.ogg",
+        "matched_line": "我没时间回答小孩子的问题。让你家大人来提问。付费标准按惯例来。",
+        "recognized_text": "我没时间回答小孩子的问题让你家大人来提问付费标准按惯例来",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7676.ogg",
+        "matched_line": "照片上的那个女孩，是你的学生？她走丢了吗？",
+        "recognized_text": "照片上的那个女孩是你的学生他走丢了吗",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7647.ogg",
+        "matched_line": "在这座城市里，每个人都会做手术…",
+        "recognized_text": "在这座城市里每个人都会做手术",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7486.ogg",
+        "matched_line": "我听到你们的对话了。对不起，学园长，我是不会跟你们走的。",
+        "recognized_text": "我听到你的对话了对不起学长我是不会跟你们走的",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7638.ogg",
+        "matched_line": "然后，头脑突然好轻，好快。",
+        "recognized_text": "然后头脑突然好听好快",
+        "match_score": 78
+    }
+]

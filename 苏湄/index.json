@@ -1,0 +1,44 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_1579.ogg",
+        "matched_line": "你们想要逆天改命，我们也一样。",
+        "recognized_text": "你们想要逆天改命我们也一样",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1782.ogg",
+        "matched_line": "走上这座山，在故事的终点……你会找到你想要的，她在那里等着你。",
+        "recognized_text": "走上厕所身在故事的终点你会找到你想要的她在那里等着你",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1578.ogg",
+        "matched_line": "请赐教。",
+        "recognized_text": "请赐教",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1787.ogg",
+        "matched_line": "虽然绕了很远的路，但一切终究没有白费。",
+        "recognized_text": "虽然绕了很远的路但一切终究没有白费",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1543.ogg",
+        "matched_line": "时候不早了，师父，先回观中去吧。",
+        "recognized_text": "时候不早了师傅先回去吧",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1542.ogg",
+        "matched_line": "自您离山后，她每日都来山下守候。对吗？",
+        "recognized_text": "这里离身后他每日都来山下守候对吗",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1785.ogg",
+        "matched_line": "现在，师父也有关心和在乎的人了……",
+        "recognized_text": "现在师傅也有关心和在乎的人了",
+        "match_score": 84
+    }
+]

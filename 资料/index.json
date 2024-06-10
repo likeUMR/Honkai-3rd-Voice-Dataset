@@ -1,0 +1,56 @@
+[
+    {
+        "audio_file": "AUDIO_3_5_3_6_401.ogg",
+        "matched_line": "「现在，我们已经知道如何通过人工干预的方式，激活并重组人类基因中潜藏的圣痕片段，使其完整表达。」",
+        "recognized_text": "现在我们已经知道了如何通过人工干预的方式激活并重组人类基因中潜藏的圣痕片段是新完整表达",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_394.ogg",
+        "matched_line": "「 圣痕，人类血脉中最宝贵的遗产。」",
+        "recognized_text": "圣痕人类血脉中最宝贵的遗产",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_391.ogg",
+        "matched_line": "「携带圣痕的人类具有更强的崩坏能抗性和操控力，进而展现出种种不可思议的力量。」",
+        "recognized_text": "携带圣痕的人类具有更强的崩坏能抗性和仓库里竟然展现出种种不可思议的力量",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_399.ogg",
+        "matched_line": "「这一过程异常艰难。无法承受的人将会死去，甚至成为行尸走肉。」",
+        "recognized_text": "这一过程异常艰难无法承受的人将会死去甚至成为行尸走兽",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_400.ogg",
+        "matched_line": "「天命组织曾以人工手段仿制圣痕，并且通过后天植入的方式使用。但该技术充满缺陷和危险，只是拙劣的模仿。」",
+        "recognized_text": "拼命主持可以人工手段防治圣痕并且通过后天植入的方式使用该技术充满缺陷和危险实施租赁的模仿",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_395.ogg",
+        "matched_line": "「目前的激活的进度仍然缓慢，与预期的数量相差甚远。我们计划在一座人口稠密的城市中进行实验……」",
+        "recognized_text": "目前的激活进度仍然缓慢比预期的数量相差甚远我们计划在一座人口稠密的城市中进行实验",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_389.ogg",
+        "matched_line": "「圣痕并非自然进化的产物，而是前文明生物技术的奇迹。其原理和运作方式，至今仍有许多未解之谜。」",
+        "recognized_text": "圣痕并非自燃情况的而是全文明生物技术的奇迹其原理和运作方式至今仍有许多未解之谜",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_392.ogg",
+        "matched_line": "「但活下来的人，将会拥有在崩坏中生存下去的力量。」",
+        "recognized_text": "活下来的人将会拥有才崩溃中生存下去的力量",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_396.ogg",
+        "matched_line": "「因此，尽管每个现代人体内都携带着圣痕基因，能天然表达圣痕的人却屈指可数。」",
+        "recognized_text": "尽管每个现代人体内都携带着圣痕其表达是很人却屈指可数",
+        "match_score": 72
+    }
+]

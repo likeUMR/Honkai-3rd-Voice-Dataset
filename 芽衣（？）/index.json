@@ -1,0 +1,20 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_569.ogg",
+        "matched_line": "既然如此，就让我来吧！",
+        "recognized_text": "哼哼既然如此就让我来吧",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2992.ogg",
+        "matched_line": "如果没有我，上次任务里的那只崩坏兽恐怕早就把你吞了吧？",
+        "recognized_text": "没有啊上次任务里的那个崩坏兽恐怕早就把你吞了吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2995.ogg",
+        "matched_line": "你的每一步都是靠着别人保护才能活下来，还不如布洛妮娅那个小丫头。",
+        "recognized_text": "不是靠着别人保护才能活下来不如那个小丫头",
+        "match_score": 73
+    }
+]

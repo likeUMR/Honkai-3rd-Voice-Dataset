@@ -1,0 +1,32 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4768.ogg",
+        "matched_line": "没事，你没事就好。",
+        "recognized_text": "没事啦你没事就好",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_662.ogg",
+        "matched_line": "对了。",
+        "recognized_text": "哦对了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4740.ogg",
+        "matched_line": "对了。",
+        "recognized_text": "哦对了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_765.ogg",
+        "matched_line": "对了。",
+        "recognized_text": "哦对了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_882.ogg",
+        "matched_line": "对了。",
+        "recognized_text": "哦对了",
+        "match_score": 67
+    }
+]

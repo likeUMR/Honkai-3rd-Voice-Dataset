@@ -1,0 +1,716 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4874.ogg",
+        "matched_line": "还活着吗？",
+        "recognized_text": "还活着吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4251.ogg",
+        "matched_line": "还活着吗？",
+        "recognized_text": "你还活着吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9938.ogg",
+        "matched_line": "还活着吗？",
+        "recognized_text": "七个非还活着吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8942.ogg",
+        "matched_line": "还活着吗？",
+        "recognized_text": "号列车还活着吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3146.ogg",
+        "matched_line": "到底发生了什么事情？",
+        "recognized_text": "到底发生了什么事",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_35.ogg",
+        "matched_line": "现在要优先处理的，是来自天命的干扰。他们已经派人来到神州，不要让他们妨碍我们要做的事情。",
+        "recognized_text": "优先处理的是来自天命的干扰他们已经派人来到神州不要妨碍",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1200.ogg",
+        "matched_line": "而说到底个人的痛苦也好、失败也罢……不过只是数十亿分之一微不足道的尘埃。",
+        "recognized_text": "而说到底个人的痛苦也好失败也罢不过只是数十亿分之一微不足道的尘埃",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_290.ogg",
+        "matched_line": "天命虽然拥有着强大的力量，但一直以来他们都在愚弄人类，谋求私利。让人们误以为依靠他们的保护，世界就很安全。",
+        "recognized_text": "天命虽然拥有着强大的力量但一直以来他们都在愚弄人类谋求私利让人们误以为依靠他们的保护世界就很安全",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1042.ogg",
+        "matched_line": "进展怎么样了？神城医药的秘密已经曝光，留给实验的时间不多了。",
+        "recognized_text": "进展怎么样了深成医药的秘密已经曝光留给实验的时间不多了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1321.ogg",
+        "matched_line": "我不想和一个实验品讨论专业领域的问题，这很可笑。",
+        "recognized_text": "我不想和一个实验品讨论专业领域的问题很可笑",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1049.ogg",
+        "matched_line": "更重要的是，尊主的目光时刻注视着这里。他希望在这里能看到人类的未来。我们俩谁都没有退路。",
+        "recognized_text": "更重要的是尊重的目光时刻注视着这里希望在这里看到人类的未来我们俩都没有退缩",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1199.ogg",
+        "matched_line": "启动“开关”吧。两个小时后，天穹市的人们将迎来新生。",
+        "recognized_text": "启动开关吧两个小时后天穹式的人呗将迎来新生",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1299.ogg",
+        "matched_line": "……这些印记可真美。这也让我对尊主许诺的未来有了更大的信心。",
+        "recognized_text": "这星期可真美这让我对存储许诺的未来有了更大的信心",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1296.ogg",
+        "matched_line": "你的问题太多了。跳过其他的测试，直接开始解剖吧……",
+        "recognized_text": "的问题太多了跳过其他的测试直接开始解剖",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1116.ogg",
+        "matched_line": "现在杀了她就是暴殄天物！一个律者，一个活生生的律者……",
+        "recognized_text": "现在杀了他就是暴殄天物一个绿球一个活生生的日程",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1054.ogg",
+        "matched_line": "渡鸦，为了圣痕计划，组织已经准备了许多年。",
+        "recognized_text": "对呀为了圣痕计划组织已经准备了许多年",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_572.ogg",
+        "matched_line": "这种骗小孩的把戏，该不会能骗到你吧？",
+        "recognized_text": "这种骗小孩的把戏不会能骗到你吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1204.ogg",
+        "matched_line": "不管它给你带来了多大的痛苦，你都必须拥抱它，看清它，寻找打败它的机会。如果做不到这些，那你所受的苦难只是浪费。",
+        "recognized_text": "不管它给你带来了多大的痛苦你必须拥抱的看清的寻找打败他的机会如果做不到这些那你所受的苦难确实浪费",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_284.ogg",
+        "matched_line": "好想近距离观察一番啊……可以的话，留个活口给我研究。",
+        "recognized_text": "好想进距离观察一番了可以的话留个活口给我研究",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_576.ogg",
+        "matched_line": "还活着吗？",
+        "recognized_text": "还活着吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_285.ogg",
+        "matched_line": "因为只有在那样的世界里，你和你想要保护的人才会得到一席之地。",
+        "recognized_text": "因为只有在那样的世界里你和你想要保护的人才会得到一席之地",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1314.ogg",
+        "matched_line": "怎么改良疫苗，要用多少当量的崩坏能去洗礼这座城市，才能让人体内的圣痕被彻底激活……",
+        "recognized_text": "什么改良疫苗有多少当量的崩坏能去洗礼这座城市才能让人体内的圣痕被彻底激活",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1304.ogg",
+        "matched_line": "你这只幸运的蝼蚁，得到了神一般力量，就自以为可以对世界上的一切指手画脚了……",
+        "recognized_text": "你这只幸运的一得到了神一般的力量就自以为可以对世界上的一切指手画脚了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1316.ogg",
+        "matched_line": "你很在意人数吗？我本来以为对空之律者来说，死亡人数和晚餐后桌上的面包屑一样毫无意义。",
+        "recognized_text": "你很在意人数吗我本来以为对控制力者来说死亡人数和晚餐后桌上的面包屑一样毫无意义",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1039.ogg",
+        "matched_line": "一座巨大的人口稠密的城市，在灾害下进入戒严状态，无法及时疏散人群。没有比现在更理想的实验条件了，以后也不会再有。",
+        "recognized_text": "一次巨大的人口稠密的城市在海峡进入戒严状态无法及时疏散人群没有比现在更理想的实验条件了以后也不会再有了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1311.ogg",
+        "matched_line": "你会见识到……",
+        "recognized_text": "你会见识的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1040.ogg",
+        "matched_line": "拖住她。",
+        "recognized_text": "拖住",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1048.ogg",
+        "matched_line": "我查阅过一个小时前的现场记录，那个女孩并没有展现出记载中律者级别的破坏力。",
+        "recognized_text": "我查阅过一个小时前的现场记录那个女孩儿并没有展现出记载中略者级别的破坏力",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_296.ogg",
+        "matched_line": "不要对没有价值的事物滥施同情，你的同情心应该给予人类本身。",
+        "recognized_text": "不要对没有价值的事物认识同情你的同情心应该给予人类本身",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_567.ogg",
+        "matched_line": "结果如何？",
+        "recognized_text": "结果如何",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1302.ogg",
+        "matched_line": "很好，空之律者。刚才的那一次测试你只昏厥了三分之一秒。",
+        "recognized_text": "很好控制率智刚才的那一次测试一只混去了三分之一秒",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_283.ogg",
+        "matched_line": "如今时代不同了，尊主已经归来。他会将天命对世界的钳制一扫而空。我们要做的，就是让世界在尊主的引领下蜕变新生。",
+        "recognized_text": "如今时代不同了群主已经归来他会叫甜蜜对世界的潜质一扫而空我们要做的就是让世界在尊重的引领下蜕变新生",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1306.ogg",
+        "matched_line": "下一个项目，律者核心与生理组织的连接反应。",
+        "recognized_text": "这一个项目律者核心与生理组织的连接反应",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1058.ogg",
+        "matched_line": "拖住她。",
+        "recognized_text": "拖住",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1183.ogg",
+        "matched_line": "……你不会明白对我们这些研究者而言，这样的机会代表着什么。",
+        "recognized_text": "你不会明白对我们这些研究者而言这样的机会代表着什么",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_573.ogg",
+        "matched_line": "你明白失败的后果吧？",
+        "recognized_text": "你明白失败的后果吧",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1303.ogg",
+        "matched_line": "注入崩坏能溶液后，圣痕开始发光。",
+        "recognized_text": "注入崩坏能容易圣痕开始发光",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1318.ogg",
+        "matched_line": "还能开口说话吗？",
+        "recognized_text": "还能开口说话吗",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1203.ogg",
+        "matched_line": "只有一种痛苦需要医治，那就是全人类共同的命运——崩坏所带来的痛苦。",
+        "recognized_text": "只有一种痛苦需要医治那就是全人类共同的命运崩坏所带来的痛苦",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_291.ogg",
+        "matched_line": "天命女武神挣扎惨叫的声音，承受痛苦的能力和普通人会有什么不同呢？",
+        "recognized_text": "天命女武神挣扎惨叫的声音承受痛苦的能力和普通人会有什么不同的",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_38.ogg",
+        "matched_line": "……确实麻烦。但没时间担心她了。尊主已经从量子之海中归来，下令开始行动。",
+        "recognized_text": "确实麻烦但没时间担心他了真主已经从量子之海中归来下令开始行动",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1202.ogg",
+        "matched_line": "所以，让我们做好各自份内的事情吧。",
+        "recognized_text": "所以让我们做好各自分内的事情吧",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1174.ogg",
+        "matched_line": "怎么样，你应该恢复的差不多了吧？",
+        "recognized_text": "怎么样啊你应该恢复的差不多了吧",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1326.ogg",
+        "matched_line": "有了答案我一定会告诉你。只要那时候你还能听得见我的声音……",
+        "recognized_text": "丢了答案我一定会告诉你只要那时候你还能听得见我的声音",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1182.ogg",
+        "matched_line": "这也证明了我的结论，就算崩坏赋予了律者毁灭性的力量，他们也不过是血肉之躯而已。",
+        "recognized_text": "这也证明了我的结论就算崩坏赋予的律者毁灭性的力量他们也不过是血肉之躯而已",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1113.ogg",
+        "matched_line": "我简直迫不及待想要把她拆开看看了！",
+        "recognized_text": "我简直迫不及待想把它拆开看看了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_39.ogg",
+        "matched_line": "很好。如果到了双方非要动手不可的地步，别忘记用上我为天命精心准备的那份礼物。我相信他们一定会很惊喜的。",
+        "recognized_text": "如果双方非要动手不可的地步别忘记用上我为你精心准备的那份礼物我相信他们一定会很惊喜的",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1124.ogg",
+        "matched_line": "呵呵，和我预料的一样。只要方法正确，律者并非不可挑战的怪物。",
+        "recognized_text": "和我预料的一样只要方法正确虑者并非不可挑战的怪物",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1197.ogg",
+        "matched_line": "我当然很清楚。从组织成立以来，我们还从来没有得到过律者的研究样本，还是活着的律者。",
+        "recognized_text": "我当然很清楚从组织成立以来我们从来没有得到过绿色的研究样本还是活着的日子对他进行研究会让我们对崩坏本质的理解有飞跃式的提升",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1312.ogg",
+        "matched_line": "这是足以改变人类命运的精妙知识！我不允许你用这么轻蔑的比喻来讨论这个严肃的话题！",
+        "recognized_text": "这是足以改变人类命运的精妙知识我不允许你用这么轻蔑的比喻来讨论这个严肃的话题",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_384.ogg",
+        "matched_line": "这…",
+        "recognized_text": "这",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1052.ogg",
+        "matched_line": "也许她觉醒不久，还没法完全驾驭自己的力量。你对她的恐惧只是童年经历的烙印而已。",
+        "recognized_text": "也许他觉得醒不久还无法完全驾驭自己的力量你对它的恐惧却是童年经历的烙印而已",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1191.ogg",
+        "matched_line": "如果不能理解你的敌人，你就永远不可能战胜它。",
+        "recognized_text": "如果不能理解你的敌人你就永远不可能战胜",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1313.ogg",
+        "matched_line": "……你的细胞组织的崩坏能抗性太惊人了。",
+        "recognized_text": "你细胞组织的崩坏能抗性太惊人了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_293.ogg",
+        "matched_line": "只要天命还在，人类就会像羊圈中软弱的羔羊，只懂得寻求庇护。",
+        "recognized_text": "只要天命孩子人类就会像羊圈中软弱的羔羊懂得寻求庇护",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1038.ogg",
+        "matched_line": "奥托？众所周知，奥托是个躲在女武神背后的懦夫。",
+        "recognized_text": "奥图众所周知奥拓是个躲在女武神背后的懦夫",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_570.ogg",
+        "matched_line": "从现在开始起的10个小时，赶在天命军队把你撕成碎片之前，你还有机会挽回一切。",
+        "recognized_text": "从现在开始起的十个小时赶在天命军队把你撕成碎片之前你还有机会挽回一切",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_297.ogg",
+        "matched_line": "放心吧，任务结束之后，你会拥有全新的身份，就此远走高飞。天命不会找到你了。",
+        "recognized_text": "放心吧任务结束之后你会拥有全新的身份就此远走高飞天命不会找到你的",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1057.ogg",
+        "matched_line": "根据之前我获得的线报，新生的空之律者在天命总部失去控制，大肆破坏，但仅仅数小时后就被迅速击败了。",
+        "recognized_text": "根据之前我获得的线报控制者在天命总部失去控制大肆破坏但仅仅数小时后就被迅速击败了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_287.ogg",
+        "matched_line": "动手时记得用上我为你准备的那份礼物。我很期待它的效果……",
+        "recognized_text": "动手时记得用上我为你准备的那份礼物我很期待它的效果",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_298.ogg",
+        "matched_line": "真是令人失望啊……不过你本来不就打算干掉她们吗？",
+        "recognized_text": "真是令人失望不过你本来不就打算干掉它们吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1310.ogg",
+        "matched_line": "其中的秘密，只有像我这样的天才才可以理解。",
+        "recognized_text": "这其中的秘密只有像我这样的天才才可以理解",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1044.ogg",
+        "matched_line": "你与其相信他能解决问题，还不如告诉我奥托发明了一件不得了的装甲，找了个快退役的女武神穿上，一击收拾了空之律者。",
+        "recognized_text": "英语与其相信他能解决问题还不如告诉我奥托发明了一件不得了的装甲找了个快退役的女武神穿上以及收拾了控制律者",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1297.ogg",
+        "matched_line": "你的身体，简直是个奇迹。呵，好像我怎么折腾它都能恢复原样……",
+        "recognized_text": "你的身体简直是个奇迹好像我怎么折腾他都能恢复原样",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1051.ogg",
+        "matched_line": "由此可见，新生律者的力量也并不像你想的那样高不可攀。",
+        "recognized_text": "由此可见心生律者的力量并不像你想的那样高不可攀",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1196.ogg",
+        "matched_line": "有没有为自己感到一丝骄傲？你击败了空之律者，证明世界蛇的意志是无法阻挡的。",
+        "recognized_text": "有没有为自己感到一丝骄傲击败了控制律者证明世界蛇的意志是无法阻挡的",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_507.ogg",
+        "matched_line": "尊主，您终于有回应了，刚刚发生了什么？",
+        "recognized_text": "您终于有回应了刚刚发生了什么",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_117.ogg",
+        "matched_line": "可惜天穹市的圣痕计划功亏一篑，珍贵的律者样本也丢了，真让人提不起劲。",
+        "recognized_text": "可惜天穹式的圣痕计划功亏一篑珍贵的绿色样本也丢了真让人提不起劲",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_509.ogg",
+        "matched_line": "空之律者使用能力逃走了，位置还不能确认。幽兰黛尔也正在向您的方向赶来。",
+        "recognized_text": "控制力者使用能力逃走了位置还不能确认幽兰戴尔也正在向您的方向赶来",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_118.ogg",
+        "matched_line": "那座无人都市是第二神之键的实验场。",
+        "recognized_text": "那种无人都市是第二神之剑的实验场",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_113.ogg",
+        "matched_line": "幽兰黛尔，你终于现身了。",
+        "recognized_text": "幽兰戴尔你终于现身了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_112.ogg",
+        "matched_line": "另外还有一事。15分36秒前，在与不稳定的EOS号引擎接触后，琪亚娜·卡斯兰娜第一次以自己的意志展现出了空之律者的姿态。",
+        "recognized_text": "另外还有一事15分36秒前在于不稳定的ml4号引擎接触后安娜卡斯兰娜第一次以自己的意志展现出了空之律者的姿态",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_115.ogg",
+        "matched_line": "灰蛇的地下黑市和神城医药都已经清理干净，渡鸦也安全撤离了。",
+        "recognized_text": "灰色的地下黑市和成成一样都已经清理干净都安全撤离了",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_107.ogg",
+        "matched_line": "关于这个地点，在过去两年里，那里曾出现过十几次异常的崩坏能增幅，而我们恰巧很熟悉这个反应。",
+        "recognized_text": "关于这个地点在过去两年里那里曾出现过十几次异常的崩坏能增幅而我们恰恰很熟悉这个反应",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_111.ogg",
+        "matched_line": "不过，出了这么大的事，你果然不会坐视不管……",
+        "recognized_text": "不过这么大的事如果不会做事不管",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_110.ogg",
+        "matched_line": "尊主，幽兰黛尔带走了空之律者。",
+        "recognized_text": "尊主幽兰黛尔带走了空之律者",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_426.ogg",
+        "matched_line": "尊主，先头部队已经攻入基地内部，开始与幽兰黛尔交战。",
+        "recognized_text": "先头部队已经攻入基地内部开始与幽兰戴尔交战",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_114.ogg",
+        "matched_line": "我们追踪到她的目的地是北非，一处被崩坏摧毁的死城。",
+        "recognized_text": "我们追踪的他的目的地是北非一处被崩坏摧毁的四成",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_109.ogg",
+        "matched_line": "尽管崩坏能指数与西琳还有很大距离，但可以认为她的“羽化”已经开始。",
+        "recognized_text": "尽管崩坏能指数与西林还有很大距离但可以认为他的雨化已经开始",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_105.ogg",
+        "matched_line": "是否要将她纳入——",
+        "recognized_text": "是否要将它纳入",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_427.ogg",
+        "matched_line": "目前还没发现，正在进一步搜索。",
+        "recognized_text": "目前还没发现正在进一步搜索",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_36.ogg",
+        "matched_line": "根据对虚数奇点的观测，下一场大型崩坏马上就会到来。它会为世界蛇带来实现目标的基石，由崩坏所孕育的最强生物——",
+        "recognized_text": "根据对虚数起点的关系一场大型马上就会到来他会为世界蛇带来实现目标的基石有崩坏所孕育的最强生物",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_23.ogg",
+        "matched_line": "你体内的崩坏能已经趋于稳定。和我想的一样，你能掌控那个力量。",
+        "recognized_text": "你体内的崩坏能已经趋于稳定和我想的一样你能掌控那个力量",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_32.ogg",
+        "matched_line": "但可惜，它是如此珍贵。以世界蛇搜集到的材料，现阶段也只能制造出八枚。这八枚黄泉之杖，必须谨慎使用。",
+        "recognized_text": "但可惜它是如此珍贵与世界蛇搜集到的材料现阶段也只能制造出八这帮没黄泉之杖必须谨慎使用",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_28.ogg",
+        "matched_line": "如今尊主有要事在身，无法亲临指挥。",
+        "recognized_text": "如今尊处有要事在身无法亲临指挥",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_27.ogg",
+        "matched_line": "我给你们准备了一份小礼物……",
+        "recognized_text": "我给你们准备了一份小礼物",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_33.ogg",
+        "matched_line": "别那么冷淡。如今我们是同伴，要好好相处才是。",
+        "recognized_text": "别那么冷淡如今我们是同伴要好好相处才是",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_22.ogg",
+        "matched_line": "呵呵呵……我很想，再多了解你一些……",
+        "recognized_text": "我很想再多了解你一些",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_35.ogg",
+        "matched_line": "它是前文明留下的伟大遗产，是天命也无法复现的科学奇迹，你根本无法想象它的价值。",
+        "recognized_text": "他是前文明留下的伟大遗产是天命也无法复现的科学奇迹你根本无法想象它的价值",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_37.ogg",
+        "matched_line": "没错，雷电芽衣，和你一样的“律者”。",
+        "recognized_text": "没错雷电芽衣和你一样的绿着",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_18.ogg",
+        "matched_line": "这是我们展现忠诚的机会，成为尊主坚实的后盾，确保圣痕计划的实行。",
+        "recognized_text": "这是我们展现忠诚的机会成为尊筑坚实的后盾确保圣痕计划的实行",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_3.ogg",
+        "matched_line": "呵呵，你会知道的。",
+        "recognized_text": "呵呵你会知道的",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_12.ogg",
+        "matched_line": "干涉仪？别用那么廉价的名字称呼它。",
+        "recognized_text": "干涉仪别用那么廉价的名字称呼他",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_15.ogg",
+        "matched_line": "雷电芽衣，是时候为世界蛇贡献你的力量了。",
+        "recognized_text": "雷电牙医是时候为世界蛇贡献你的力量了",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_34.ogg",
+        "matched_line": "简而言之，圣痕计划中重要的一环需要获得所有的律者。",
+        "recognized_text": "简而言之圣痕计划中重要的一环便是获得所有的旅者",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_4.ogg",
+        "matched_line": "说实话，我很想现在就让你亲身体会一下它的力量。",
+        "recognized_text": "说实话我很想现在就让你亲身体会一下它的力量",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_26.ogg",
+        "matched_line": "不，死去的律者毫无意义，世界蛇需要的是“停滞”的律者。",
+        "recognized_text": "死去的绿者毫无意义需要的是停止的",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_13.ogg",
+        "matched_line": "……真是无趣。",
+        "recognized_text": "真是无趣",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2692.ogg",
+        "matched_line": "现在我来陪你玩玩。",
+        "recognized_text": "现在我来陪你玩儿玩儿",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2651.ogg",
+        "matched_line": "（这样的话，就更不能让尊主知道了……）",
+        "recognized_text": "这样的话就更不能让尊主知道了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2652.ogg",
+        "matched_line": "（死亡编织者——该你们出场了。）",
+        "recognized_text": "死亡编织者该你们出场了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2638.ogg",
+        "matched_line": "你以为这就到头了吗！",
+        "recognized_text": "你以为这就到头了吗",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2610.ogg",
+        "matched_line": "入侵者抵达5号与7号通道交界口。一团四团，包围她！把她赶到螺旋区！",
+        "recognized_text": "入侵者抵达五号与七号通道交界口集团四团包围一趟把他赶到螺旋区",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2612.ogg",
+        "matched_line": "怕了吗？怕了就投降吧，饶你全尸！",
+        "recognized_text": "好了吗怕了就投降吧饶你全尸",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2624.ogg",
+        "matched_line": "微波炉用过没？嗯？吃过烧鸡没有？",
+        "recognized_text": "微波炉用过没吃过烧鸡没有啊",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2623.ogg",
+        "matched_line": "……你也就能得意这几分钟了。",
+        "recognized_text": "也就能得意这几分钟了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2653.ogg",
+        "matched_line": "这什么破坏力……是人吗？",
+        "recognized_text": "这什么破坏力是什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2654.ogg",
+        "matched_line": "该不会……真是那个华……尊主的……",
+        "recognized_text": "不会真是那个尊主的",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2591.ogg",
+        "matched_line": "通知全体作战单位一级战情准备！由我亲自指挥，我要宰了她！",
+        "recognized_text": "控制全体作战单位一直战前准备由我亲自指挥我要宰了他",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2628.ogg",
+        "matched_line": "会飞了不起啊？在我的电磁烤箱里，看你能插翅飞哪儿去！",
+        "recognized_text": "会飞了不起啊在我的电磁烤箱里看你能插翅飞哪儿去",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2594.ogg",
+        "matched_line": "又是奥托在捣鬼……说好的达成同盟呢？这个混账背后捅刀子上瘾了吧！给我接天命总部！快！",
+        "recognized_text": "就是奥拓在搞鬼说好的达成同盟了这个混账背后捅刀的上瘾了吧天命总部",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2588.ogg",
+        "matched_line": "巡逻机器人都被这家伙干掉了……喂，放大，让我看看。",
+        "recognized_text": "巡逻机器人都被这家伙干掉了放大我看看",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2589.ogg",
+        "matched_line": "不对，她不是死了吗？这个又是从哪蹦出来的？",
+        "recognized_text": "她不是死了吗这个又是从哪儿蹦出来的",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2691.ogg",
+        "matched_line": "你说活物不是你的对手，我就让他们先死一会儿呗。",
+        "recognized_text": "你是活物不是你的对手我就让他们先死一会儿呗",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2637.ogg",
+        "matched_line": "这回看你怎么办！",
+        "recognized_text": "这回看你怎么办",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2639.ogg",
+        "matched_line": "错了，赶尽杀绝才是我的性格！",
+        "recognized_text": "错了赶尽杀绝才是我的性格",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2677.ogg",
+        "matched_line": "让你见识下科技造就的生物兵器！",
+        "recognized_text": "让你见识下科技造就的生物兵器",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2608.ogg",
+        "matched_line": "这基地里的一切动静都逃不过我胡狼的耳朵，懂么？敢挑衅世界蛇，你死定了！",
+        "recognized_text": "这基地里的一切动静都逃不过我湖南的耳朵懂吗敢挑衅世界蛇你死定了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2676.ogg",
+        "matched_line": "我不知道你有什么目的，但世界蛇可不是好惹的。",
+        "recognized_text": "我不知道你有什么目的的世界蛇可不是好惹的",
+        "match_score": 90
+    }
+]

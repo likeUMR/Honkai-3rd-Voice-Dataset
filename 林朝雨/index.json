@@ -1,0 +1,632 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8814.ogg",
+        "matched_line": "你们回来了。",
+        "recognized_text": "你们回来了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2133.ogg",
+        "matched_line": "你们回来了。",
+        "recognized_text": "江南你回来了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2750.ogg",
+        "matched_line": "你们回来了。",
+        "recognized_text": "你回来了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_944.ogg",
+        "matched_line": "可惜，二徒苏湄出现了。她总是这样，总在准确的时候，做出恰到好处的举动…她来了，七徒的话也只能梗在喉中。",
+        "recognized_text": "可惜二屠苏没出现了他总是这样在准确的时候做出恰到好处的举动他来了清楚的话也只能等在欧洲",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_930.ogg",
+        "matched_line": "朋友自己尚且不愿意告诉你的事，又何必要从外人那里知道呢。",
+        "recognized_text": "朋友自己尚且不愿意告诉你的事又何必要从外人那里知道呢",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_305.ogg",
+        "matched_line": "……原来如此。没曾想赤鸢师父还有这样的经历。",
+        "recognized_text": "原来如此没曾想吃的师傅还有这样的经历",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1664.ogg",
+        "matched_line": "她只是入门早了些，也还是个孩子呀。",
+        "recognized_text": "它只是入门早了些也还是个孩子呀",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_939.ogg",
+        "matched_line": "……不过，一句话的时间对赤鸢来说，就够了。",
+        "recognized_text": "扑克一句话的时间对屈原来说就够了",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_702.ogg",
+        "matched_line": "我时常感到疑惑：赤鸢师父究竟经历了什么，才会立下这样的戒律？",
+        "recognized_text": "我时常感到疑惑诗人师傅究竟经历了什么才会立下这样的结论",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_942.ogg",
+        "matched_line": "你会否认为这是一个温情的故事？呵呵，不是这样的……",
+        "recognized_text": "你会否认为这是一个温情的故事不是这样的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_933.ogg",
+        "matched_line": "除了最小的徒弟以外，其余六个孩子的父母都曾走火入魔，变为妖物。",
+        "recognized_text": "除了最小的徒弟以外76个孩子的父母都曾走火入魔并为一户",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1636.ogg",
+        "matched_line": "对不起，师父，耽搁得久了。",
+        "recognized_text": "对不起师傅耽搁的久了",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_941.ogg",
+        "matched_line": "秦素衣与师父同行上山，一路上，她想把接下来将发生的事告诉师父…她差点就说出了口。",
+        "recognized_text": "71与师父同行上山一路上他想把接下来将发生的事告诉师傅她差点就说出了口",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_595.ogg",
+        "matched_line": "你们回来了。",
+        "recognized_text": "你们回来了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1669.ogg",
+        "matched_line": "对不住，师父。只有这艘渔船愿意出海……委屈您在这里对付一晚了。",
+        "recognized_text": "对不住师傅只有这艘渔船愿意出海委屈您在这里对付一晚了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1634.ogg",
+        "matched_line": "师父，可以放过四妹吗？",
+        "recognized_text": "师傅可以放过四妹吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_416.ogg",
+        "matched_line": "怎么…得到帮助是这么奇怪的事么？",
+        "recognized_text": "怎么得到帮助是这么奇怪的事吗",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_943.ogg",
+        "matched_line": "最后出手的是五徒，也只能是她；五徒是七人中最强，也是唯一领悟到剑神的徒弟。那一剑分寸妙绝，直中眉心。",
+        "recognized_text": "最后出手的十五图也只能是他恶徒是七人中最强也是唯一领悟到建设的土地内件分寸妙觉直中眉心",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_301.ogg",
+        "matched_line": "你真正需要的，是“剑心”。",
+        "recognized_text": "你真正需要的是信心",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_404.ogg",
+        "matched_line": "你们想要的答案就在其中，这是不会错的。",
+        "recognized_text": "你们想要的答案就在其中这是不会错的",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_699.ogg",
+        "matched_line": "在神州，它被称为“真气”、“妖气”。太虚剑派只有一条门规铁律，那就是“入魔必诛”。",
+        "recognized_text": "在神州他被称为争气一太虚剑派只有一条门规铁律那就是肉末必诛",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1783.ogg",
+        "matched_line": "你们回来了。",
+        "recognized_text": "你们来了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_231.ogg",
+        "matched_line": "此地真气盈溢，常有妖兽作祟，仙人因而在此设下结界，防止外人误入。",
+        "recognized_text": "自己争气一常有一兽作祟仙人婴儿在此设下结界防止外人勿入",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_694.ogg",
+        "matched_line": "看来……我永远也不会知道了。",
+        "recognized_text": "看来我永远也不会知道了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_307.ogg",
+        "matched_line": "或者太虚派的太虚真诀，但这也只能堪堪提升你的实战水平而已，不是你要寻求的治本之法。",
+        "recognized_text": "或者太虚派的他学生学安置也只能看看提升你的实战水平而已不是要寻求的治本之法",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_405.ogg",
+        "matched_line": "如何？有找到你们想要的吗？",
+        "recognized_text": "如何找到你们想要的吗",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1296.ogg",
+        "matched_line": "……没事，只是胡言乱语而已。",
+        "recognized_text": "没事只是胡言乱语而已",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_997.ogg",
+        "matched_line": "还有……这个给你。",
+        "recognized_text": "还有这个给你",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_898.ogg",
+        "matched_line": "它会锤炼你的身体，磨炼你的心志，悄悄将你改变塑形。最后，你的躯壳会成为真气的“道”，意识则变为思维的“湖”。",
+        "recognized_text": "它会锤炼你的身体磨练你的心智求求求你改变塑形最后你的躯壳会成为生气的道历史则变为思维的活",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1295.ogg",
+        "matched_line": "知人易，知己反而最难……",
+        "recognized_text": "知人知己反而最难",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_293.ogg",
+        "matched_line": "我可以教你，但恐怕达不到你的目的。赤鸢师父应该跟你说过，太虚剑气共有五蕴：心、形、意、魂、神。",
+        "recognized_text": "我可以教你恐怕达不到你的目的权师傅应该跟你说过太虚电器共有五斤新兴一",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_306.ogg",
+        "matched_line": "学过。但我们都起过誓……我们绝不会将剑心留给后人。",
+        "recognized_text": "学过但我们都挤过去我们决不会将进行留给后人",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_417.ogg",
+        "matched_line": "唔，也不必沮丧。",
+        "recognized_text": "也不必沮丧",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_598.ogg",
+        "matched_line": "不，别在意。",
+        "recognized_text": "别在意",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_931.ogg",
+        "matched_line": "仙人不老不死，不管受到怎样的伤势都会迅速复原。唯一弱点在头部，但失去先机的徒弟，想要刺伤赤鸢已是极难。",
+        "recognized_text": "仙人不老不死不管受到怎样的伤事都会迅速复原弱点在头部但失去先机的徒弟自是愿意",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_408.ogg",
+        "matched_line": "那么就别把它当作帮助罢…这只是我作为太虚一脉的职责。",
+        "recognized_text": "那么就别把它当作帮助吧这只是我作为太虚卖的职责",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_292.ogg",
+        "matched_line": "而且，你……居然是律者。",
+        "recognized_text": "而且你居然是内",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1657.ogg",
+        "matched_line": "师父，南海那里出了什么事？",
+        "recognized_text": "师傅南海那里出了什么事",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_903.ogg",
+        "matched_line": "过去也曾发生过类似的事：凡人被心印吸引，投身其间，流连忘返，最后连自己也忘却了，竟以为自己就是仙人。",
+        "recognized_text": "过去也曾发生过类似的事烦人背心吸吸投身期间流连忘返最后连自己忘却了以为自己就是新人",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_409.ogg",
+        "matched_line": "这座山历经多次变故，有些心印的咒力已褪，有些更已残缺不全。你可自行解读。",
+        "recognized_text": "这座山历经多次变故有些新的助力退有些跟你残缺不全你可自己解读",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1665.ogg",
+        "matched_line": "彦卿还小，素衣的病也没好透，加上四妹她……",
+        "recognized_text": "心情还好初一的病也没好透加上四妹她",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_701.ogg",
+        "matched_line": "她是什么样子？她在神州么？穿着什么衣服？",
+        "recognized_text": "他是什么样子他的神经吧穿着什么衣服",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_954.ogg",
+        "matched_line": "因果循环？报应轮回？故事里的人哪里知道寓意为何。可是……",
+        "recognized_text": "辛苦循环报应轮回故事里的人哪里知道以为和科学",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_294.ogg",
+        "matched_line": "对不住，我不能违背血誓。",
+        "recognized_text": "对不住我不能为背斜",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2088.ogg",
+        "matched_line": "我已经给那孩子安顿好啦。她倒是倔强得很，我拿糖果贿赂她，才让她乖乖地睡下。",
+        "recognized_text": "我已经给你还囤好了她都是倔强的很我拿糖果贿赂他才让他乖乖地睡下",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1298.ogg",
+        "matched_line": "你曾说自己是精卫的朋友，那时我半信半疑，如今确凿无疑：你一定在她心中有着重要的位置。",
+        "recognized_text": "亦曾说自己是吃冰的朋友那时我半信半疑如今确凿无疑你一定在他心中有着重要的位置",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_690.ogg",
+        "matched_line": "很久以前……",
+        "recognized_text": "很久以前",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_398.ogg",
+        "matched_line": "仙人久居太虚山，这山上留下的心印何止千百。",
+        "recognized_text": "新人久居泰山这身上留下的心意何止千百",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_596.ogg",
+        "matched_line": "太虚山屹立数千年，许多人在此来来去去，未见羽毛对他们露出本相。",
+        "recognized_text": "泰山屹立数千年许多人在此来来去去会见羽毛对他们露出本相",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2109.ogg",
+        "matched_line": "那孩子学的速度好快呢。这才三个月，剑心隐约已有止水境界了。",
+        "recognized_text": "那孩子学的速度好快呢才三个月隐约也有水境界了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_957.ogg",
+        "matched_line": "不过…呵呵，愚蠢的大徒弟却没有动手，她呀，就这么错失了先发制人的机会，也只换来了一句话的时间。",
+        "recognized_text": "愚蠢的大徒弟却没有动手他呀就这么错失了先发制人的机会截至换来了一句话的时间",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_953.ogg",
+        "matched_line": "不重要了……这只是个故事。",
+        "recognized_text": "不重要了却只是个故事",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1638.ogg",
+        "matched_line": "师父的朋友是葬在哪里？我去把供品摆好。",
+        "recognized_text": "师傅的朋友是藏在哪里过去把红品牌",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_298.ogg",
+        "matched_line": "你们能够走进它的“心境”吗？",
+        "recognized_text": "你们能够走进她的心境吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_950.ogg",
+        "matched_line": "休息吧，你也累了。",
+        "recognized_text": "休息吧你也累了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_402.ogg",
+        "matched_line": "你刚刚见到的，就是“唯一真仙”赤鸢，是她留下的“心印”。",
+        "recognized_text": "你刚刚见到的就是唯一真心去约是她留下的心意",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_949.ogg",
+        "matched_line": "一瞬间，赤鸢短暂失去了再生的能力；也就在同一刹，六把剑击中她的身体。",
+        "recognized_text": "一瞬间去年短暂失去了再生的能力依旧在同一场六把剑击中他的身体",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_297.ogg",
+        "matched_line": "适才一见到你俩，我就注意到了……你手里藏着一片“羽毛”，它是你们的吗？",
+        "recognized_text": "是他一见到你俩我就注意到了你手里藏着一片羽毛他是你们的吗",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2108.ogg",
+        "matched_line": "哈哈，想想我那时候花了快两年，好笨喔……",
+        "recognized_text": "想想我那时候花了快两年好笨啊",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_403.ogg",
+        "matched_line": "分割出的这部分，即是你们刚才所看到的“心印”。",
+        "recognized_text": "分割出的这部分其实你们刚才所看到的",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1670.ogg",
+        "matched_line": "她们大多不是什么坏人…也不是自己想要入魔的…为什么上天要对她们那么残忍呢？",
+        "recognized_text": "他们大多不是什么坏人也不是自己想入魔的为什么上天要对他们那么残忍呢",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_907.ogg",
+        "matched_line": "剑心诀的神妙之处在于：除了赤鸢师父以外，没有人知道它的意义。它只是一段奇诡古怪的口诀，什么也不教授。",
+        "recognized_text": "建新觉得神妙之处在于出去媳妇以外没有人知道它的意义它只是一段奇诡古怪的口诀什么也不叫瘦",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1633.ogg",
+        "matched_line": "因为您愿意先带我回古冢祭拜父母。",
+        "recognized_text": "因为您愿意带我回国祭拜父母",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2102.ogg",
+        "matched_line": "真人以后打算收养她吗？",
+        "recognized_text": "真人以后打算收养它吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_893.ogg",
+        "matched_line": "剑心…对大多数武林中人来说，它指的是习武之人的心境；然而只有少数太虚门人才知道，真正的剑心乃是“剑心诀”。",
+        "recognized_text": "信心最大多是武林中人来说它指的是习武之人的心情然而只有小说太虚伪人才知道真正的信心那是建新",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_995.ogg",
+        "matched_line": "不必客气了，去做要做的事吧。",
+        "recognized_text": "客气了去做要做的事吧",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1662.ogg",
+        "matched_line": "我…是该去的。到了南海，我想去祭拜父母。",
+        "recognized_text": "我是该去的了南海我想去祭拜父母",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_946.ogg",
+        "matched_line": "后来，这七个弟子联起手来，将赤鸢杀死了。",
+        "recognized_text": "后来十七个弟子连起手来僵尸杀死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_937.ogg",
+        "matched_line": "我倒是可以告诉你一个故事。",
+        "recognized_text": "我倒是可以告诉你一个故事",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_899.ogg",
+        "matched_line": "出现“忘我”的情况，说明你累了。歇息吧，余下的事情明日再办也可。",
+        "recognized_text": "首先问我的情况说明你累了歇歇吧一下的事情明日再办也可",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_696.ogg",
+        "matched_line": "是那…“崩坏”吗？",
+        "recognized_text": "是那崩坏吗",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_600.ogg",
+        "matched_line": "是被什么所感应吗？",
+        "recognized_text": "是被什么所感应吗",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_422.ogg",
+        "matched_line": "赤鸢师父长生不老，因此记忆就如泛滥的海水一般，侵蚀着名为意识的大陆。",
+        "recognized_text": "使用师傅长生不老因此记忆就是泛滥的海水一般证明为意识的大陆",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1643.ogg",
+        "matched_line": "…她们都走火入魔了，不是吗？死已是最好的结局……",
+        "recognized_text": "他们都走火入魔了不是吗其实最好的结局",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_999.ogg",
+        "matched_line": "在你们休息的时候，我寻来的。",
+        "recognized_text": "在你们休息的时候不醒来的",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_936.ogg",
+        "matched_line": "…赤鸢师父的事迹，在哪里听都差不多。你和她既然是朋友，不如听她本人和你说吧。",
+        "recognized_text": "世勋师傅的事迹在哪里都差不多你和他是朋友不如听他本人和你说吧",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_697.ogg",
+        "matched_line": "……简简单单的四个字，可背后，谁知有多少血泪。",
+        "recognized_text": "简简单单的四个字可美好谁有多少血",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_300.ogg",
+        "matched_line": "她教你剑神，是因为你的体质恰好完美符合剑神的条件；剑意与剑魂对目前的你并无用处。我可以教你剑形……",
+        "recognized_text": "他教你健身是因为你的体质恰好完美符合现实的条件歉意与剑魂对目前的你并不用处我可以教你进行",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2081.ogg",
+        "matched_line": "真人，不能总是叫她那孩子，给她取个名吧。",
+        "recognized_text": "竟然不能总是叫他内孩子给它取个名字吧",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1648.ogg",
+        "matched_line": "南海这一趟路途遥远。我们离开太久，不知师妹们…",
+        "recognized_text": "男孩子一趟路途遥远我们离开太久不知师妹们",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_692.ogg",
+        "matched_line": "一个词而已，有甚么大惊小怪？",
+        "recognized_text": "一个词而已有什么大惊小怪",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_945.ogg",
+        "matched_line": "五百年前，赤鸢收了七个徒弟。",
+        "recognized_text": "五百年前是收了七个徒弟",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_932.ogg",
+        "matched_line": "天下无敌的真仙赤鸢，就这样死了。",
+        "recognized_text": "天下无敌的陈先志曰就这样死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_905.ogg",
+        "matched_line": "然而，只要在心中默念，即使丝毫不明其意，剑心诀就已生效了。",
+        "recognized_text": "然而只要在心中默念其实丝毫不明其意进行曲就生效了",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_401.ogg",
+        "matched_line": "我就在此歇息，若有被封印的羽毛，可带来找我。我来帮你破除。",
+        "recognized_text": "就在此歇息这有被封印的羽毛可带来找我回来帮你破处",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1659.ogg",
+        "matched_line": "…给阿湄买的特产。还有，这是给您的。",
+        "recognized_text": "还没买的特产还有这是给您的",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_897.ogg",
+        "matched_line": "意志不坚、对自身不满、心存幻想之人，往往容易被幻境所惑。",
+        "recognized_text": "意志不坚对自身不满心存幻想之人管我容易被环境所获",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1632.ogg",
+        "matched_line": "四妹…婉如她什么也没有做错啊。如果她变成了妖魔…我……我们……",
+        "recognized_text": "姊妹宛如她什么也没有做错如果他变成了妖魔我后面",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_956.ogg",
+        "matched_line": "嗯，赤鸢仙人不老不死。二十年后，她重新复活，一一找到了徒弟们……这才是结局，我还没有说。",
+        "recognized_text": "吃人仙人不老不死二十年后他重新复活被找到的徒弟们这才是结局我还没有说",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1671.ogg",
+        "matched_line": "…走火入魔的人，真的就没有救了么？",
+        "recognized_text": "走火入魔的人真的就没有救了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2110.ogg",
+        "matched_line": "这……小苏…阿湄……你应该拜会真人，从今以后，她就是你的家长了。",
+        "recognized_text": "小说阿梅你应该不会真人从今以后他就是你的家长了",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1299.ogg",
+        "matched_line": "不过短短两日而已，在你面前显身的心印，怕是超过五百年来的总数。",
+        "recognized_text": "不过短短两日而已在你面前写生的心意怕是超过五百年来的总数",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1647.ogg",
+        "matched_line": "…我还记得这座镇子。很多年前，您领我回太虚山的时候，我们在这里住过。",
+        "recognized_text": "我还记得这做卷子很多年前零零我回西山的时候我们在这里住过",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_299.ogg",
+        "matched_line": "这片羽毛……保存得还很完整。赤鸢师父在上面下了咒力，非得运用剑心才可破除。",
+        "recognized_text": "这片羽毛保存的还很完整师傅在上面下了咒力非得运用剑心才可破除",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_894.ogg",
+        "matched_line": "怪了，你不像是这样的人啊。看来赤鸢师父，确是一句剑心诀也没有教你……",
+        "recognized_text": "快乐你不像是这样的人啊看来云师傅确实一句进新群也没有教你",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_302.ogg",
+        "matched_line": "……如果是你们的话，或许有。",
+        "recognized_text": "如果是你们的话或许有",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_700.ogg",
+        "matched_line": "你们看见了什么？",
+        "recognized_text": "你们看见了什么",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_418.ogg",
+        "matched_line": "为了抑制记忆的增长，维护意识的清明，仙人不得不将记忆予以筛选……",
+        "recognized_text": "会一直记忆的增长维护意识的清明仙人不得不将记忆予以筛选",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_601.ogg",
+        "matched_line": "而你们一到来……它们就纷纷显现了。",
+        "recognized_text": "而你们一道来他们就纷纷下线了",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1580.ogg",
+        "matched_line": "你们回来了。",
+        "recognized_text": "你们来了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2111.ogg",
+        "matched_line": "这孩子还小吧……",
+        "recognized_text": "这孩子还小吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_240.ogg",
+        "matched_line": "……二位又为什么来此呢？",
+        "recognized_text": "二位又为什么来此呢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_948.ogg",
+        "matched_line": "不知为何，赤鸢选择将这六个一手造就，与她有血海深仇的孤儿收为弟子，教授武功。",
+        "recognized_text": "不知为何点选择将这六个一手造就与他有血海深仇的孤儿收为弟子销售武功",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_691.ogg",
+        "matched_line": "抱歉，为这无聊的感慨耽误你们许久。",
+        "recognized_text": "抱歉位置无聊的感慨耽误你们学习",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_906.ogg",
+        "matched_line": "它是一段口诀，共计四百六十二音，没有文字记载。",
+        "recognized_text": "它是一段口诀共计462斤没有文字记载",
+        "match_score": 68
+    }
+]

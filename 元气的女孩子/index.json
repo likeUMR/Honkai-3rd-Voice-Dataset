@@ -1,0 +1,410 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8789.ogg",
+        "matched_line": "哈哈哈～",
+        "recognized_text": "哈哈哈好吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3456.ogg",
+        "matched_line": "哈哈哈～",
+        "recognized_text": "哈哈哈",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_516.ogg",
+        "matched_line": "哈哈哈～",
+        "recognized_text": "哈哈哈",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1340.ogg",
+        "matched_line": "哈哈哈～",
+        "recognized_text": "哈哈哈",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1124.ogg",
+        "matched_line": "哈哈哈～",
+        "recognized_text": "哈哈哈",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1805.ogg",
+        "matched_line": "那回学校的车票你请，晚饭我来。",
+        "recognized_text": "回学校的车票没钱晚上我来",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2187.ogg",
+        "matched_line": "再学学萨克斯风，弹弹钢琴，跳跳芭蕾什么的。",
+        "recognized_text": "在学校撒疯弹弹钢琴跳跳芭蕾什么的",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1823.ogg",
+        "matched_line": "一会儿去吃什么？面条？西餐？我请你～",
+        "recognized_text": "一会去吃什么面条西餐我请你",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2167.ogg",
+        "matched_line": "要放假了。",
+        "recognized_text": "放假了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2199.ogg",
+        "matched_line": "我总觉得你好像没有什么梦想。",
+        "recognized_text": "我总觉得你好像没有什么梦想",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1810.ogg",
+        "matched_line": "嘿，游戏就是让人开心的嘛。",
+        "recognized_text": "游戏就是让人开心的",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1064.ogg",
+        "matched_line": "等等，你有点面熟啊…",
+        "recognized_text": "有点面熟啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2184.ogg",
+        "matched_line": "哎，要是我爸妈同意，我可以去你家玩吗？",
+        "recognized_text": "要是我爸妈同意我可以去你家玩吗",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1046.ogg",
+        "matched_line": "唉，要不是你突然出现，我就惨了！",
+        "recognized_text": "要不是你突然出现我就惨了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1827.ogg",
+        "matched_line": "跟我说实话，你练的功夫里有没有枪斗术！",
+        "recognized_text": "跟我说实话练练的功夫里又没有抢到书",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2203.ogg",
+        "matched_line": "挺想去的，我还没去过呢。",
+        "recognized_text": "你想去的我还没去过呢",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2182.ogg",
+        "matched_line": "你要回家吗？",
+        "recognized_text": "你要回家吗",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1048.ogg",
+        "matched_line": "对了，还没问你叫什么名字呢。",
+        "recognized_text": "还没问你叫什么名字呢",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1833.ogg",
+        "matched_line": "…我真是服了。",
+        "recognized_text": "我真是服了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1127.ogg",
+        "matched_line": "华，你怎么还穿制服…我给你挑了那么多衣服呢？",
+        "recognized_text": "你怎么还穿制服我给你挑了那么多衣服呢",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2191.ogg",
+        "matched_line": "你家武馆还开吗？能教我功夫吗？",
+        "recognized_text": "你下午还开吗能教我功夫吗",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1816.ogg",
+        "matched_line": "那真是可惜了，你是打游戏的天才啊！1536分？你知道第二名跟你的差距有多大吗？",
+        "recognized_text": "那真是可惜了你是打游戏的天才啊1536分你知道第二名跟你的差距有多大吗",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2178.ogg",
+        "matched_line": "沧海市里全是我的回忆，满大街都是鱼钩，等着钓我——是不是很形象？回忆太多啦，多到快要溢出了。",
+        "recognized_text": "沧海市里全是我的回忆满大街都是鱼钩等着我是不是很形象回忆太多了多到快要溢出了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1116.ogg",
+        "matched_line": "没有没有，我是在给你出点子啊。难得回家一趟，平平淡淡的多无聊啊。",
+        "recognized_text": "没有没有我是在给你出点子难得回家一趟平平淡淡的多无聊啊",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2181.ogg",
+        "matched_line": "“华，走这条路吧！”……你就照做。",
+        "recognized_text": "走这条路吧你就照做",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1811.ogg",
+        "matched_line": "要不要去试试跳舞机？",
+        "recognized_text": "要不要去试试跳舞机",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2196.ogg",
+        "matched_line": "感觉。感觉你就会做这样的事，很奇怪。",
+        "recognized_text": "感觉感觉你就会做这样的事很奇怪",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2208.ogg",
+        "matched_line": "我在这里待得太久了，都麻木了。你懂这种感觉吧？这座城里满满全是回忆，哪儿都是。",
+        "recognized_text": "我在这里呆的太久了都麻木了你懂这种感觉吧这座城里满满全是回忆哪儿都是",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1122.ogg",
+        "matched_line": "不要把自己的优秀归功于别人！太吃亏了！",
+        "recognized_text": "我要把自己的优秀归功于别人太吃亏了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1830.ogg",
+        "matched_line": "我一直跟她夸你来着：你女儿的命可都是她救的……",
+        "recognized_text": "一直跟她夸你来着女儿的命都是他救的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1052.ogg",
+        "matched_line": "哎，你倒是说句话呀……",
+        "recognized_text": "你倒是说句话呀",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1129.ogg",
+        "matched_line": "当然，和别人穿得一样多没个性！",
+        "recognized_text": "和别人穿的一样多没个性",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1817.ogg",
+        "matched_line": "嘿嘿，我有没有跟你说过我是军人家属？",
+        "recognized_text": "我有没有跟你说过我是军人家属",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1054.ogg",
+        "matched_line": "知道啦…不好意思啊，害你跟我一起遭殃——咦？你这衣服，你不是我们学校的吗？",
+        "recognized_text": "知道了不好意思啊喊你跟我一起遭殃嗯嗯你这衣服你不是我们学校的吗",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2206.ogg",
+        "matched_line": "我啊，将来是肯定不会留在沧海市的。",
+        "recognized_text": "我啊将来是肯定不会留在沧海似的",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2168.ogg",
+        "matched_line": "华，你有什么梦想吗？",
+        "recognized_text": "你有什么梦想吗",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1049.ogg",
+        "matched_line": "那下子跳了大概有这～么高吧！好帅啊，我都看呆了！",
+        "recognized_text": "类下载跳楼大概有这么高吧好帅啊我都看呆了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1819.ogg",
+        "matched_line": "我爸妈不住这儿啊。没有人等你回来的地方不是家，只能叫房子。",
+        "recognized_text": "我爸妈不住这儿啊没有人等你回来的地方不是家只能叫房子",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1128.ogg",
+        "matched_line": "哈哈，你爸是练武的哎，能吓到他？",
+        "recognized_text": "你爸是练舞的能吓到他",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1060.ogg",
+        "matched_line": "我跑不动啦！",
+        "recognized_text": "我跑不动了",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2183.ogg",
+        "matched_line": "我一直以为你以后会接管武馆。",
+        "recognized_text": "一直以为你以后会接管不管",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1063.ogg",
+        "matched_line": "你好厉害啊，刚刚那是传说中的功夫吗？",
+        "recognized_text": "你好厉害啊刚刚那是传说中的功夫吗",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1050.ogg",
+        "matched_line": "那是什么东西啊，吓死了，还真的有丧尸啊？我以为是段子呢。",
+        "recognized_text": "那是什么东西啊吓死了还真的有丧尸啊我以为是段子呢",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1799.ogg",
+        "matched_line": "哈哈哈哈哈哈，开玩笑的，我就说你是我的朋友嘛，最好的朋友。",
+        "recognized_text": "嘿嘿嘿嘿嘿开玩笑的我就说你是我的朋友吗最好的朋友",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2195.ogg",
+        "matched_line": "你看！所以我才觉得你会接你爸的班——你就像是那种别人说什么就做什么的人，有人对你说：",
+        "recognized_text": "你看所以我才觉得你会接你爸的你就像是那种别人说什么就做什么的人有人对你说",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1115.ogg",
+        "matched_line": "华，要对自己有信心啊。",
+        "recognized_text": "要对自己有信心啊",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1118.ogg",
+        "matched_line": "快走吧走吧，你还得去机场呢。",
+        "recognized_text": "快走吧走吧你还得去机场呢",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2202.ogg",
+        "matched_line": "我走过一座桥，就想起以前和谁来过这桥；我路过那家商店，就记得在里面买过什么东西。",
+        "recognized_text": "我走过一座桥就想起以前和谁来过这桥咕噜姑奶家商店就记得在里面买过什么东西",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2177.ogg",
+        "matched_line": "哎呦，别被我绕进去了。梦想这玩意也不是必需品嘛，又不值钱。",
+        "recognized_text": "哎哟别被我绕进去了梦想这玩意儿也不是必需品嘛又不值钱",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1802.ogg",
+        "matched_line": "…那你是没见过我妈，没事，等她俩回国我带你去认识一下。",
+        "recognized_text": "那你是没见过我吗没事等他俩回国我带你去认识一下",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2192.ogg",
+        "matched_line": "总之，我肯定要离开沧海市，至于要干什么我还没想好。最好能像我爸妈那样去各个国家转悠。",
+        "recognized_text": "总之我肯定要离开沧海市至于要干什么我还没想好最好能像我爸妈那样各个国家转悠",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1798.ogg",
+        "matched_line": "你那些动作是怎么做出来的…",
+        "recognized_text": "你那些动作是怎么做出来的",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2169.ogg",
+        "matched_line": "有的人觉得好吧，我反正不喜欢。",
+        "recognized_text": "有的人觉得好吧反正不喜欢",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1818.ogg",
+        "matched_line": "…你真的是第一次玩吗？",
+        "recognized_text": "你真的是第一次玩吗",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1130.ogg",
+        "matched_line": "不行，不行，太土了！",
+        "recognized_text": "俺不行不行太土了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1832.ogg",
+        "matched_line": "再这么下去，这家游戏机厅应该倒贴钱请你来玩。",
+        "recognized_text": "再这么下去这家游戏机厅应该倒贴钱请你来玩儿",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1829.ogg",
+        "matched_line": "我跟你说，你见到她肯定吓一大跳。",
+        "recognized_text": "我跟你说你见到她肯定一大跳",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1800.ogg",
+        "matched_line": "玩不玩赛车？这个你总不能用功夫解决了吧？",
+        "recognized_text": "赛车这个你总不能用功夫解决了吧",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1117.ogg",
+        "matched_line": "大家和你做朋友是因为喜欢你，怎么会是因为我呢。",
+        "recognized_text": "大家和你做朋友是因为喜欢你怎么会是因为我呢",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1808.ogg",
+        "matched_line": "哈！你居然说我成熟！下次我带你见见我妈，你当着她面说一遍。",
+        "recognized_text": "你居然说我成熟下次我带你见见我妈你当着他面说一遍",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1051.ogg",
+        "matched_line": "谢谢你救了我…",
+        "recognized_text": "谢谢你救了我",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1053.ogg",
+        "matched_line": "那一起走哇～我也要回去，这儿太吓人了。",
+        "recognized_text": "安妮一起走啊我要回去太吓人了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1804.ogg",
+        "matched_line": "哎呦，别害羞。走吧，吃饭去！",
+        "recognized_text": "哎哟别害羞走吧吃饭去",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1121.ogg",
+        "matched_line": "这就对了嘛，你穿这个回去，家里的人肯定认不出你了。哈哈，真有意思。",
+        "recognized_text": "这就对了嘛你穿这个回去家里的人肯定认不出你了真有意思",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2204.ogg",
+        "matched_line": "但那条路可是你的人生哎。",
+        "recognized_text": "那条路可是你的人生",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1112.ogg",
+        "matched_line": "你是个好女孩，就算没有我，早晚大家也会认识到的。",
+        "recognized_text": "你是个好女孩儿就算没有我早晚大家也会认识到的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2190.ogg",
+        "matched_line": "有就好好利用！没有嘛……早晚会有的。咱们还年轻呐。",
+        "recognized_text": "有就好好利用没有嘛早晚会有的咱们还年轻呢",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1062.ogg",
+        "matched_line": "喔，那好像不认识，我是5班的。不过没关系，现在我们就认识啦！",
+        "recognized_text": "哦那好像不认识我是五班的不过没关系现在我们就认识了",
+        "match_score": 80
+    }
+]

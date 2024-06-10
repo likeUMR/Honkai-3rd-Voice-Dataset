@@ -1,0 +1,26 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2999.ogg",
+        "matched_line": "因为你和你的芽衣都是需要看守的囚犯啊！",
+        "recognized_text": "因为你和你的牙齿都是需要看守的囚犯啊",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3003.ogg",
+        "matched_line": "我在这儿，有什么好奇怪的吗？你们俩可都是我要重点监视的对象哦~",
+        "recognized_text": "有什么好奇怪的吗你们俩可都是我要重点监视的对象呢",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3001.ogg",
+        "matched_line": "你是个问题儿童，而芽衣体内潜藏的第三律者，是个不折不扣的定时炸弹。",
+        "recognized_text": "问题儿童一起的潜藏的第三者是个不折不扣的定时炸弹",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3007.ogg",
+        "matched_line": "可怜的小笨蛋，你还不明白吗？为什么我要把你们俩接收进学园？",
+        "recognized_text": "可怜的小笨蛋你还不明白吗为什么我要把你们俩家收进学员",
+        "match_score": 87
+    }
+]

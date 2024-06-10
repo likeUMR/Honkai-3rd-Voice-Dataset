@@ -1,0 +1,32 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4149.ogg",
+        "matched_line": "嗯，我会努力的！",
+        "recognized_text": "会努力的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_740.ogg",
+        "matched_line": "没有啊。",
+        "recognized_text": "没有很多啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3230.ogg",
+        "matched_line": "什么嘛。",
+        "recognized_text": "什么干嘛",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_72.ogg",
+        "matched_line": "唔哦哦哦！",
+        "recognized_text": "哦哦哦",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_43.ogg",
+        "matched_line": "这里不是说话的地方，跟我来。",
+        "recognized_text": "好了老朋友这里不是说话的地方",
+        "match_score": 64
+    }
+]

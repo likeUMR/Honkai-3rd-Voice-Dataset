@@ -1,0 +1,254 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_2906.ogg",
+        "matched_line": "祝你好运。",
+        "recognized_text": "祝你好运不如你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4154.ogg",
+        "matched_line": "它就是我一直以来所寻找的，完成圣血的“最后一步”。",
+        "recognized_text": "他就是我一直以来所寻找的完成剩下的最后一部",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4127.ogg",
+        "matched_line": "已经是第十四年了。明明只差最后一步，圣血却迟迟没有进展。",
+        "recognized_text": "已经是第十四年了明只差最后一步圣邪却迟迟没有进展",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4122.ogg",
+        "matched_line": "…激活三块宝石的实验都在稳步进行中，很快就能进入测试阶段。",
+        "recognized_text": "去佛山会保持的实验都在稳步进行中很快就能进入测试阶段",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4152.ogg",
+        "matched_line": "年龄均为18岁，身高，体重及各项生命参数均符合人类标准区间。",
+        "recognized_text": "年龄均为十八岁身高体重及各项生命参数均符合人类标准取钱",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4159.ogg",
+        "matched_line": "为了确认猜想，还需要设置更多实验。",
+        "recognized_text": "为了确认才行还需要设置更多实验",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5573.ogg",
+        "matched_line": "返航坐标抵达，是否开启时空锚点？",
+        "recognized_text": "返航坐标题答案是否开启时空宝典",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4151.ogg",
+        "matched_line": "实验结果：",
+        "recognized_text": "实验结果",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4193.ogg",
+        "matched_line": "呵…弑神之枪也被我握在了手中。",
+        "recognized_text": "弑神之枪也被我握在手中",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1463.ogg",
+        "matched_line": "回合结束。",
+        "recognized_text": "回合结束",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4146.ogg",
+        "matched_line": "在圣血样本中混入HSN-b46血清后，溶液呈现出了鲜艳的红色。",
+        "recognized_text": "与测试得出的比例在圣携样本中混入hhhnb46前后溶液呈现出了鲜艳的红色",
+        "match_score": 66
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4155.ogg",
+        "matched_line": "他的初衷是想治疗那些女武神，但我一眼，就发现了这种血清的真正价值——",
+        "recognized_text": "他的初衷是想治疗那些永生但我一眼就发现了这种血清的真正价值",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4186.ogg",
+        "matched_line": "终于完成了…这就是人类的弑神之枪。",
+        "recognized_text": "终于完成了这就是人类的弑神之枪",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_157.ogg",
+        "matched_line": "还有什么事吗？",
+        "recognized_text": "牙医同学还有什么事吗",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4190.ogg",
+        "matched_line": "同时，它体内的崩坏能开始脱离主体的控制。",
+        "recognized_text": "同时他体内的崩坏能开始脱离主题的空气",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4150.ogg",
+        "matched_line": "实验记录，第一次实验。",
+        "recognized_text": "实验记录第一次实验",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7088.ogg",
+        "matched_line": "祝你好运。",
+        "recognized_text": "祝你好运老朋友",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4188.ogg",
+        "matched_line": "一切都已准备就绪。",
+        "recognized_text": "一切都已准备就绪",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4125.ogg",
+        "matched_line": "是我变得心急了吗…五百年都已经等过来了。",
+        "recognized_text": "说我的心情了吗五百年都已经等过来了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4093.ogg",
+        "matched_line": "是我变得心急了吗…五百年都已经等过来了。",
+        "recognized_text": "说我的心情了吗五百年都已经等过来了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1500.ogg",
+        "matched_line": "请问卡莲最喜欢的人是谁？",
+        "recognized_text": "请问卡莲最喜欢的人是谁",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4162.ogg",
+        "matched_line": "死士开始出现痛苦和暴走的症状，并有少数个体失去了意识。",
+        "recognized_text": "但最有趣的还是第三组开始出现痛苦和暴躁的症状比如少数个体失去了意识",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1499.ogg",
+        "matched_line": "请问《卡莲幻想》中卡莲的武器名是什么？",
+        "recognized_text": "请问卡莲幻想中卡莲的武器名是什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4156.ogg",
+        "matched_line": "可惜…博士已经不在人世了。不然我真想邀请他和我一同举杯庆祝。",
+        "recognized_text": "可惜不是已经不再认识了不然我真想邀请他和我一同去背清楚",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4153.ogg",
+        "matched_line": "他所设计的HSN-b46血清，竟然能让生物体内的崩坏能失活，并随着体循环散发。",
+        "recognized_text": "他所设计的一切封闭四六学期竟然能让生物体内的崩坏能失火并随着体循环算法",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4101.ogg",
+        "matched_line": "塞西莉亚的血液，无疑达到了极高的完成度。",
+        "recognized_text": "三岁的血液五一达到极高的完成度",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3702.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈哈哈哈哈哈——",
+        "recognized_text": "呵呵呵呵呵呵呵呵呵哈哈哈哈哈哈哈哈哈哈哈",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4095.ogg",
+        "matched_line": "但“律者杀手”已在第二次崩坏中充分证明了自己的价值。",
+        "recognized_text": "虽然发生了一些意外律者杀手在第二次崩坏中充分证明了自己的价值",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1514.ogg",
+        "matched_line": "叮咚！符华选手加一分。",
+        "recognized_text": "丁东华选手加一分",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4160.ogg",
+        "matched_line": "玛基博士，他真是个天才！",
+        "recognized_text": "垃圾博士他真是个天才",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4161.ogg",
+        "matched_line": "而女武神，却失去了她们通过改造获得的崩坏能控制力。",
+        "recognized_text": "2015神却失去了他们通过改造获得的崩坏能控制力",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4147.ogg",
+        "matched_line": "在注射完成后，普通人类均没有表现出任何反应。",
+        "recognized_text": "在注射完成后普通人类车没有表现出任何反应",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4185.ogg",
+        "matched_line": "在注入了圣血和血清的混合液后，帝王级崩坏兽开始以肉眼可见的速度衰弱。",
+        "recognized_text": "在出入了生气和血清混合也好帝王级崩坏兽开始以肉眼可见的速度衰弱",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4157.ogg",
+        "matched_line": "三组受测对象依次为普通人类女性，C级女武神和受感染的女性死士。",
+        "recognized_text": "分组受测对象依次为普通人类女性c级女武神和受感染的女性私事",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3109.ogg",
+        "matched_line": "读取率98.6%。",
+        "recognized_text": "98.6%",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4189.ogg",
+        "matched_line": "——那么接下来，就是等待收获之时了。",
+        "recognized_text": "那接下来就是等待收货就是了",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4100.ogg",
+        "matched_line": "已经是第十四年了。明明只差最后一步，圣血却迟迟没有进展。",
+        "recognized_text": "已经是第十四年了明只差最后一步圣邪却迟迟没有进展",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4158.ogg",
+        "matched_line": "——在那些失去意识的个体中，重新检测到了微弱的脑电波。",
+        "recognized_text": "在你失去意识的可提出重新检测到了尾数的脑电波",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4130.ogg",
+        "matched_line": "如果不能完成圣血，那整个计划都得推迟。",
+        "recognized_text": "如果不能完成先那整个计划都得推迟",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1331.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈哈哈哈哈哈哈哈长的帅不幸福感谢你哦",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_66.ogg",
+        "matched_line": "自动航行功能终止。Eos号启动着陆程序。",
+        "recognized_text": "自动航行功能中止启动着陆程序",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4447.ogg",
+        "matched_line": "哈哈哈哈哈哈哈哈哈哈哈哈哈——",
+        "recognized_text": "哈哈哈哈哈哈哈哈哈哈哈哈",
+        "match_score": 89
+    }
+]

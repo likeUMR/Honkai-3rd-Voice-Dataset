@@ -1,0 +1,38 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4955.ogg",
+        "matched_line": "这样就好。",
+        "recognized_text": "这样就好",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9012.ogg",
+        "matched_line": "这样就好。",
+        "recognized_text": "这样的就好了",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1786.ogg",
+        "matched_line": "这样就好。",
+        "recognized_text": "这样就好",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1577.ogg",
+        "matched_line": "如果可能的话，我们也不希望有此一战……",
+        "recognized_text": "如果可能的话我们也不希望由此一战",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1576.ogg",
+        "matched_line": "对不住，必须在这里拦住你们不可。",
+        "recognized_text": "对不住必须在这里拦住你们不可",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1667.ogg",
+        "matched_line": "这样就好。",
+        "recognized_text": "这样就好",
+        "match_score": 89
+    }
+]

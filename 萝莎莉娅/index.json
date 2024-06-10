@@ -1,0 +1,956 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_871.ogg",
+        "matched_line": "对不起，我们真的不是故意的！我们不知道妈妈今天会来这里…",
+        "recognized_text": "对不起啊我们真的不是故意的我们不知道妈妈今天回来这里",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1303.ogg",
+        "matched_line": "这个人是来干嘛的？来参加田径比赛的么？走错场子了？",
+        "recognized_text": "这个是干嘛的来参加田径比赛的吗走错场子了",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_872.ogg",
+        "matched_line": "别以为我不敢打你哦。",
+        "recognized_text": "别以为我不敢打你啊",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_663.ogg",
+        "matched_line": "说出来你可能会吓到，你不在的这段时间里，我和莉莉娅可是做了相当不得了的事。",
+        "recognized_text": "说出来你可能会吓到你不在的这段时间里我和丽丽可是做了相当不得了的事",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1296.ogg",
+        "matched_line": "可恶，不愧是有钱人家的大小姐。这金十字架是用来炫富的吗？",
+        "recognized_text": "不愧是有钱人家的大小姐这些十字架是用来炫富的吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1419.ogg",
+        "matched_line": "在我很小的时候，我就失去了父母！",
+        "recognized_text": "在我很小的时候我就失去了父母",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_203.ogg",
+        "matched_line": "之前一直联系不上你们，没想到在这儿遇上了！",
+        "recognized_text": "之前一直联系不上你们没想到在这里上",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5298.ogg",
+        "matched_line": "说起这个，我和莉莉娅以后要跟着德丽莎混啦！",
+        "recognized_text": "说起这个我很厉害啊以后要跟着德丽莎分了",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_882.ogg",
+        "matched_line": "我们…差点就再也见不到布洛妮娅了。",
+        "recognized_text": "我们差点就再见不到不鸟了",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_263.ogg",
+        "matched_line": "敌人越来越多，为了保护宝石，妈妈只好把它藏在这里。",
+        "recognized_text": "敌人越来越多为了保护宝石妈妈只好把它藏在这里",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_780.ogg",
+        "matched_line": "只是，你难得回来一次，我想让她们也看看你…",
+        "recognized_text": "只是你难得回来一次我想让他们也看看你",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_864.ogg",
+        "matched_line": "我和莉莉娅都知道，妈妈做的那些实验给布洛妮娅带来了很多痛苦。",
+        "recognized_text": "我和力量都知道妈妈做的那些实验给你带来了很多痛苦",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1435.ogg",
+        "matched_line": "布洛妮娅，琪亚娜就交给你了！你们一定要幸福啊！",
+        "recognized_text": "波尼亚天呐就交给你了你们一定要幸福",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_849.ogg",
+        "matched_line": "如果我们再帮妈妈一把，说不定孤儿院的孩子们都能得救，莉莉娅的病也能治好。",
+        "recognized_text": "如果我们再帮妈妈一把说不定过来的孩子们都能特效一样的病你能治好",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4598.ogg",
+        "matched_line": "如果莉莉娅不在的话，我……会很寂寞的！",
+        "recognized_text": "如果你俩不在的话我会很寂寞的",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1439.ogg",
+        "matched_line": "哪有！不这样的话，角色性格的层次感怎么能表现出来。",
+        "recognized_text": "哪有我这样的话角色性格的层次感怎么能表现出来",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5323.ogg",
+        "matched_line": "未来要靠我们努力，对吧？",
+        "recognized_text": "未来要看我们努力对吧",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_862.ogg",
+        "matched_line": "后悔是改变不了什么的，我也明白这个道理。",
+        "recognized_text": "后悔是改变不了什么的我也明白这个道理",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_819.ogg",
+        "matched_line": "天命追着我们，我们一直在逃，都没能好好为她们找个睡觉的地方…",
+        "recognized_text": "全民追着我们我们一直在逃都没能好好为他们找个睡觉的地方",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_855.ogg",
+        "matched_line": "然后…我们遇到了好多崩坏兽。",
+        "recognized_text": "然后我们遇到了好多崩坏兽",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_715.ogg",
+        "matched_line": "很久很久以前，在冰天雪地的西伯利亚，鲍利孤儿院里迎来了一位新的伙伴——",
+        "recognized_text": "很久很久以前在冰天雪地的西伯利亚玻璃孤儿院迎来了一位新的伙伴",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_865.ogg",
+        "matched_line": "妈妈，就不用再做那些布洛妮娅不喜欢的实验了。",
+        "recognized_text": "妈妈就不用再做那些你不喜欢的实验了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4338.ogg",
+        "matched_line": "妈妈！你没事吧？！我们这就来救你！",
+        "recognized_text": "妈妈你没事吧我们这就来救你",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_767.ogg",
+        "matched_line": "没想到世界上还有这么漂亮的地方，就像是…真的天堂。",
+        "recognized_text": "没想到世界上还有这么漂亮的地方就像是真的天堂",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4630.ogg",
+        "matched_line": "我早就知道你会偷袭了……！",
+        "recognized_text": "我早就知道你会偷袭了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4615.ogg",
+        "matched_line": "（机会只有一次，想到这点，尾巴就忍不住发抖……）",
+        "recognized_text": "机会就一次尾巴就忍不住发抖",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5336.ogg",
+        "matched_line": "虽然我们本来是想拒绝的，但休伯利安的点心……实在是太好吃了……！",
+        "recognized_text": "虽然我们本来是想拒绝的在修玻璃的点心实在是太好吃了",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1262.ogg",
+        "matched_line": "别害怕，论可爱没人能比的过我们。取胜是理所应当的！",
+        "recognized_text": "别害怕论可爱没人能比得过我们取胜是理所应当的",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_173.ogg",
+        "matched_line": "啊？你太狡猾了！",
+        "recognized_text": "啊你太狡猾了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_851.ogg",
+        "matched_line": "是妈妈救了我们，妈妈找了一个神奇的医生把我们治好了。",
+        "recognized_text": "是妈妈叫了我们妈妈找了一个神奇的医生帮我们治好了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1425.ogg",
+        "matched_line": "我已经烧掉了生物芯片，再也不会接受别人的控制了！",
+        "recognized_text": "我已经烧掉了生物芯片再也不会接受别人的控制了",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_730.ogg",
+        "matched_line": "已经好久…没有这么开心过了…",
+        "recognized_text": "已经好久没有这么开心过了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_866.ogg",
+        "matched_line": "但现在，妈妈需要有人陪伴在她身边。所以我和莉莉娅留了下来。",
+        "recognized_text": "那现在妈妈需要有人陪伴在他身边所以我和莉莉流了下来",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1354.ogg",
+        "matched_line": "你们是主动退出比赛，还是让我把这段录音公之于众，直接结束你们两位过气阿姨的演艺生涯呢？",
+        "recognized_text": "你们是主动退出比赛呢还是让我把这段录音公之于众这些结束你们两位国旗阿姨的演艺生涯呢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1477.ogg",
+        "matched_line": "我赢了？",
+        "recognized_text": "我赢了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4394.ogg",
+        "matched_line": "这家伙偷袭了妈妈，还把妈妈打成重伤……",
+        "recognized_text": "小伙偷了妈妈还把妈妈打成重伤",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1288.ogg",
+        "matched_line": "这个坏家伙！竟然也偷偷瞒着妈妈跑出来参赛！",
+        "recognized_text": "这个坏家伙居然偷偷瞒着妈妈跑出来猜猜",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4611.ogg",
+        "matched_line": "（德丽莎正在战斗……老实说，我还是不确定能不能做到。）",
+        "recognized_text": "陈丽莎正在战斗老师说我还是不确定能不能做",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5318.ogg",
+        "matched_line": "不过今天还是先好好玩吧，明天再开始努力！",
+        "recognized_text": "不过今天还是先好好玩吧明天再开始努力",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_727.ogg",
+        "matched_line": "是我们输了。作为败者的惩罚，我们只好按照约定给布洛妮娅表演剧幕《伏特加不会流泪》。",
+        "recognized_text": "是我们输了作为败者的惩罚我们只有按照约定给你表演剧目伏特加不会流泪",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_852.ogg",
+        "matched_line": "我想妈妈一定是非常后悔吧。毕竟…她很重视你们。",
+        "recognized_text": "我想妈妈一定是非常后悔吧毕竟他很重视你们",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1272.ogg",
+        "matched_line": "诶，莉莉娅，这里不是选拔女主角的吗？为什么会有个男孩子来参加比赛？",
+        "recognized_text": "这里不是选拔女的出去的吗为什么会有男孩子来参加比赛",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_431.ogg",
+        "matched_line": "这、这是…苦瓜的味道！讨厌！",
+        "recognized_text": "这是苦瓜的味道讨厌",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_648.ogg",
+        "matched_line": "嗯…该玩点什么好呢，捉迷藏怎么样？今天有三个人了。",
+        "recognized_text": "看完点什么好呢捉迷藏怎么样今天有三个人了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5311.ogg",
+        "matched_line": "那家伙不在，说实话还挺寂寞的。",
+        "recognized_text": "那家伙不在说实话还挺寂寞的",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1427.ogg",
+        "matched_line": "“叛变的女三号回忆起女二号的温柔，毅然烧掉了大脑的芯片。”这都是什么东西啊？",
+        "recognized_text": "判定的女三号回去女儿好的温柔依然烧掉了大脑的芯片什么东西啊",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_766.ogg",
+        "matched_line": "我们被天命追了四个月，一路东躲西藏，所到之处都是废墟、荒野、被遗弃的城市。",
+        "recognized_text": "我们的签名去了四个月一路东躲西藏所到之处都是废墟荒野被遗弃的城市",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1428.ogg",
+        "matched_line": "是琪亚娜，让我再一次体会到了温暖。",
+        "recognized_text": "让我再一次体会到了温暖",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1460.ogg",
+        "matched_line": "“……她的老师杀出一条血路，用爱打醒了她？”",
+        "recognized_text": "他的老师杀出一条血路因为爱打醒了他",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1245.ogg",
+        "matched_line": "听到我们的梦想后，妈妈特别激动。",
+        "recognized_text": "听到我们这种小号妈妈特别激动",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_857.ogg",
+        "matched_line": "我们受了很重的伤，我到现在都忘不了妈妈在海滩上找到我们时的表情。",
+        "recognized_text": "我们受了很重的伤我到现在都忘不了妈妈在海滩上找到我们时的表情",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_200.ogg",
+        "matched_line": "是啊！哪里都没有变！",
+        "recognized_text": "是啊哪里都没有变",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1431.ogg",
+        "matched_line": "这次抽到的剧本是……第四章结局《深情的对峙》？",
+        "recognized_text": "这次抽到的剧本是第四章结局深情的对视",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1449.ogg",
+        "matched_line": "虽然对不起莉莉娅，但我离女主角的宝座只有一步之遥了。",
+        "recognized_text": "虽然对不起厉害但我霖女主角的宝座只只有一步之遥了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_704.ogg",
+        "matched_line": "有个地方，我们想带你去看看。",
+        "recognized_text": "有个地方我们想带你去看看",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4254.ogg",
+        "matched_line": "一起上吧，莉莉娅！妈妈和德丽莎，就由我们来保护！",
+        "recognized_text": "一起上班历厉害妈妈和罗丽莎就由我们来保护",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_653.ogg",
+        "matched_line": "——我们已经进入西伯利亚演艺圈，成为了大名鼎鼎的童星组合「伏特加女孩」！",
+        "recognized_text": "我们已经进入西伯利亚演艺圈成为了大名鼎鼎的童星组合伏特加女孩",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_873.ogg",
+        "matched_line": "明天回收渴望宝石的时候，我和莉莉娅也会来帮你们的。",
+        "recognized_text": "明天回去渴望宝石的时候我和李亮也会来帮你们的",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4620.ogg",
+        "matched_line": "（果然莉莉娅不在身边的话，还是会有一点点紧张。）",
+        "recognized_text": "忽然一定要不在身边的话还是会有一点点紧张",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4260.ogg",
+        "matched_line": "你们说的对，不能让妈妈担心，我们也要战斗。",
+        "recognized_text": "你们说的对不能让妈妈担心我没有战斗",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1299.ogg",
+        "matched_line": "这自信的表情，这完美的人设……这完全就是女主角了吧？不行，不能放弃！加油，萝莎莉娅！",
+        "recognized_text": "自信的表情出完美的人设完全就是女主角了吧不能放弃加油利害",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5400.ogg",
+        "matched_line": "我是萝莎莉娅·阿琳，双胞胎中的姐姐，现在作为独当一面的战士跟着妈妈一起行动。",
+        "recognized_text": "我是说咱俩俩连接吧双胞胎中的姐姐现在作为独当一面的战士跟着妈妈一起行动",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_183.ogg",
+        "matched_line": "这样就是第20只，是我赢了！",
+        "recognized_text": "这样就是第二十只是我赢啦",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4387.ogg",
+        "matched_line": "谁，谁跟你这么恶心的家伙是同类！搭讪也找个好点的理由吧！",
+        "recognized_text": "谁跟你这么恶心的家伙是同类大婶也找个好点的理由吧",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4346.ogg",
+        "matched_line": "啊，这家伙也是双胞胎吗？",
+        "recognized_text": "这家伙也是双胞胎吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4266.ogg",
+        "matched_line": "她，她想做什么！大洞关上了，她要是回不来了怎么办！",
+        "recognized_text": "他想做什么大东关上了他要是回不来了怎么办",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_805.ogg",
+        "matched_line": "…大崩坏把世界搞得一团乱，带走了许多孩子。",
+        "recognized_text": "大崩坏把世界搞得一团乱带走了许多孩子",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1291.ogg",
+        "matched_line": "不过，她那样的三无属性，怎么可能选上女主角嘛。",
+        "recognized_text": "不过她俩的三无属性怎么可能缺少女主角呢",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1248.ogg",
+        "matched_line": "她竟然还担心我们的安全，派了那么多机甲来护送我们……",
+        "recognized_text": "花钱还担心我们的安全拍那么多记下来护送我们",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1459.ogg",
+        "matched_line": "（这时候我该说什么？）",
+        "recognized_text": "这时候我该说什么",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_422.ogg",
+        "matched_line": "我们家现在有这么大一个海底花园，和在孤儿院时完全不一样！",
+        "recognized_text": "我们家现在有这么大的海底花园和他过面食完全不一样",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_656.ogg",
+        "matched_line": "——每年都有数不尽的演出！",
+        "recognized_text": "每年都有数不尽的演出",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1396.ogg",
+        "matched_line": "莉莉娅才是笨蛋！一直偷懒的莉莉娅，最适合演躺在地上不动的角色啦！",
+        "recognized_text": "你才是笨蛋一直偷懒的力量啊最适合演唱的地上不动的角色了",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_435.ogg",
+        "matched_line": "诶~德丽莎看起来小小的，意外地很能干嘛。",
+        "recognized_text": "德丽莎看起来小小的意外的很能干嘛",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1465.ogg",
+        "matched_line": "（萝莎莉娅，快想想，对于一个不听话的坏学生，老师会做些什么？）",
+        "recognized_text": "我想对于一个不听话的坏学生老师会做些什么",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1445.ogg",
+        "matched_line": "确定无疑，我、我应该就是女主角了……吧！",
+        "recognized_text": "确定无疑我应该就是女主角了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_205.ogg",
+        "matched_line": "它是妈妈送给我和莉莉娅的礼物，如果布洛妮娅也想要的话得去找妈妈才行。",
+        "recognized_text": "它是妈妈送给我和力量的礼物如果不知道你也想要的话别去找妈妈才行",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4514.ogg",
+        "matched_line": "那就拜托了！德丽莎！！",
+        "recognized_text": "那就拜托了德莉莎",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1194.ogg",
+        "matched_line": "开开开开什么玩笑！这个数量是捅了马蜂窝吗！？",
+        "recognized_text": "开什么玩笑这个数量是马蜂窝吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_184.ogg",
+        "matched_line": "莉莉娅，我没看错吧？这个人是…",
+        "recognized_text": "我没看错吧这个人是",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_214.ogg",
+        "matched_line": "好了，我们赶紧回去见可可利亚妈妈吧！",
+        "recognized_text": "好了我们赶紧回去见可可恋妈妈吧",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_639.ogg",
+        "matched_line": "难得今天有观众，让布洛妮娅看看我们的小剧场吧？",
+        "recognized_text": "难得今天有观众你看看我们的小剧场吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5402.ogg",
+        "matched_line": "（不要啊，我的尾巴很敏感的！）",
+        "recognized_text": "不要啊我的尾巴很明显的",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1281.ogg",
+        "matched_line": "那边头发乱蓬蓬的家伙和那个红发双马尾，一看就是缺乏运动的书呆子。",
+        "recognized_text": "那边头发乱砰砰的家伙和那个红色双马尾一看就是缺乏运动的书呆子",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_668.ogg",
+        "matched_line": "莉莉娅，你能不能少说几句！",
+        "recognized_text": "你能不能少说几句",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1399.ogg",
+        "matched_line": "好幸运，竟然抽到了女主角，这难道是上天要让我胜利的预兆吗！",
+        "recognized_text": "好幸运居然抽到了女主角男的是上天让我生命的预兆吗",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4522.ogg",
+        "matched_line": "我一般都负责搞破坏，这种细活从来都是莉莉娅做的。",
+        "recognized_text": "我一般都负责搞破坏这种熄火从来都是历厉害做的",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5406.ogg",
+        "matched_line": "你们好呀~首先向没见过的大家做个自我介绍吧。",
+        "recognized_text": "你们好呀首先向没见过的大家做个自我介绍吧",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_436.ogg",
+        "matched_line": "什么，竟然还有残留的敌人？",
+        "recognized_text": "什么竟然还有残留的敌人",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1273.ogg",
+        "matched_line": "这个女人和可可利亚妈妈看起来年龄差不多嘛……这种年纪真的可以来参赛吗？",
+        "recognized_text": "这个女人呵呵呵让妈妈看起来年龄差不多嘛这种年纪真的可以来猜猜吗",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1411.ogg",
+        "matched_line": "这帮家伙居然乱评价莉莉娅刚才精彩的演技。不要伤心，莉莉娅，我会夺下女主角的位置给你看的！",
+        "recognized_text": "这帮家伙据居然乱评价力量刚才精彩的演技不要伤心啊我会夺下女主角的位置给你看的",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1275.ogg",
+        "matched_line": "那个女仆打扮的家伙，应该是会场的保洁员吧。",
+        "recognized_text": "那个女仆打扮的家伙应该是非常的保洁员吧",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_433.ogg",
+        "matched_line": "说起来，之前就觉得你身上有一种奇特的味道，不像是普通的小孩子。",
+        "recognized_text": "说起来之前就觉得你身上有一种奇特的味道不像是普通的小孩子",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_718.ogg",
+        "matched_line": "感觉就像是回到了以前，在孤儿院的院子里和大家一起玩的时候。",
+        "recognized_text": "感觉就像是回到了以前在孤儿院的院子里和他在一起玩的时候",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1204.ogg",
+        "matched_line": "我的脑袋也晕晕乎乎的，明明没吃什么奇怪的东西。",
+        "recognized_text": "我的脑袋也晕晕乎乎的明明没吃什么奇怪的东西",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_879.ogg",
+        "matched_line": "我从来…都没有见妈妈那么害怕过。",
+        "recognized_text": "我从来都没有见妈妈那么害怕过",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5312.ogg",
+        "matched_line": "德丽莎总是会说一些很难懂的话，她真的和我们一个年纪吗？",
+        "recognized_text": "葛莉莎总是会说一些很难懂的话他真的和我们一个年纪吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1197.ogg",
+        "matched_line": "幸亏战斗已经结束了……",
+        "recognized_text": "幸亏战斗已经结束了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_716.ogg",
+        "matched_line": "第一幕~",
+        "recognized_text": "第一幕",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4594.ogg",
+        "matched_line": "睡美人，助我一臂之力吧！",
+        "recognized_text": "睡美人做一臂之力吧",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4614.ogg",
+        "matched_line": "（能不能做到，和要不要去做是两回事……！）",
+        "recognized_text": "能能不能做到喝要不要去做是两回事",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_733.ogg",
+        "matched_line": "啊，被发现了！",
+        "recognized_text": "是啊被发现了",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5426.ogg",
+        "matched_line": "嗯？小朋友，你说谁是孩子呢。",
+        "recognized_text": "小朋友你说谁是孩子呢",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1282.ogg",
+        "matched_line": "不用担心，从年龄上来讲，她们完全不是对手。",
+        "recognized_text": "不用担心从年龄上来讲他们完全不是对手",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5335.ogg",
+        "matched_line": "他不会是要选你当下一任盟主吧！",
+        "recognized_text": "她不会需要学你当下一任盟主吧",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4507.ogg",
+        "matched_line": "那，看我把这家伙剁得粉粉碎！",
+        "recognized_text": "那看我把这家伙多得纷纷碎",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4499.ogg",
+        "matched_line": "莉莉娅的气息，正在不断从那只怪物的身体里传出来！我知道了，我知道莉莉娅在哪里了！",
+        "recognized_text": "今天的七夕正在不断从那怪物的身体传出来我知道了我知道你厉害在哪里啊",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_850.ogg",
+        "matched_line": "莉莉娅现在一到晚上7点左右就会睡着。这家伙，永远是个长不大的孩子。",
+        "recognized_text": "丽丽现在一到晚上七点左右就会睡着这家伙永远是个长不大的孩子",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5301.ogg",
+        "matched_line": "嘁，白高兴一场。我还以为以后能靠你的面子蹭吃蹭玩了呢。",
+        "recognized_text": "白高兴一场我还以为以后能靠你的面子蹭吃蹭玩了呢",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_259.ogg",
+        "matched_line": "快放我们下去，我们要去救妈妈！",
+        "recognized_text": "我们下去我们要去救妈妈",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_874.ogg",
+        "matched_line": "虽然莉莉娅留下了贪睡的后遗症，但这也是最好的结果了。",
+        "recognized_text": "虽然莉莉娅留下了贪睡的后遗症但这也是最好的结果了",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_720.ogg",
+        "matched_line": "发生了一些事，现在只有我们两个。",
+        "recognized_text": "发生了一些事现在只有我们两个",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5331.ogg",
+        "matched_line": "不过，我懂她的意思。",
+        "recognized_text": "不过我懂他的意思",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_853.ogg",
+        "matched_line": "希儿和你离开后，妈妈经常把自己一个人关在房间里。",
+        "recognized_text": "心儿和你离开后妈妈经常把自己一个人关在房间里",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_880.ogg",
+        "matched_line": "以前都是布洛妮娅和妈妈保护我们，现在，我和莉莉娅也能和你们一起战斗了。",
+        "recognized_text": "以前都是你和妈妈保护我们现在我和力量也能和你们一起战斗了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5404.ogg",
+        "matched_line": "就是就是，说出来吓死你，我和莉莉娅的身体里各有一只崩坏兽，我们超厉害的！",
+        "recognized_text": "就是就是说出来吓死你我和力量的身体里都有一只崩坏兽我们超厉害的",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4618.ogg",
+        "matched_line": "——给我！变成星星吧！",
+        "recognized_text": "给我变成星星吧",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1471.ogg",
+        "matched_line": "旷课三十二节，逃学十二天！你，被开除了！",
+        "recognized_text": "旷课32节跑十二天你被开除了",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1264.ogg",
+        "matched_line": "不放心的话，不如一起去打探下其他选手的情报吧！",
+        "recognized_text": "不放心的话不如一起去打探一下其他学生的情报吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1400.ogg",
+        "matched_line": "我抽到的剧本是……第六章的结局，《梦醒》？",
+        "recognized_text": "我抽到的基本是第六章的结局梦醒",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1422.ogg",
+        "matched_line": "可恶，这次抽到了女三号。为什么！我明明那么适合演女主角。",
+        "recognized_text": "我这次抽到了女生哈为什么我明明那么适合演女主角",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_885.ogg",
+        "matched_line": "那一天在海边，我也是像现在这样背着生病的她。",
+        "recognized_text": "每天在海边我也是像现在这样背着生病的她",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_266.ogg",
+        "matched_line": "怎么会！明明我们离开的时候什么事都没有！",
+        "recognized_text": "怎么会明明我们离开的时候什么事都没有",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5417.ogg",
+        "matched_line": "喂，谁是笨蛋啊！",
+        "recognized_text": "谁是笨蛋",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_877.ogg",
+        "matched_line": "但不得不承认，没有那些实验，我们就不会得救。",
+        "recognized_text": "但不得不承认没有那些实验我们就不会得救",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_771.ogg",
+        "matched_line": "发现这里的时候，感觉就像在做梦一样。",
+        "recognized_text": "发现这里的时候感觉就像在做梦一样",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1249.ogg",
+        "matched_line": "于是，在妈妈不舍的送别声中，我们决定勇敢踏上追梦的道路！",
+        "recognized_text": "于是在妈妈不舍的送别声中我们决定勇敢踏上追梦的道路",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1472.ogg",
+        "matched_line": "（啊！有了。如果是妈妈的话，会对逃课的我说……）",
+        "recognized_text": "有了如果是妈妈的话会对逃课的我说",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4337.ogg",
+        "matched_line": "喂！又是双子又是兽化的，这家伙是来找茬的吗！",
+        "recognized_text": "又是双子又是受害的这家伙是来找茬的吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_732.ogg",
+        "matched_line": "还有崩坏兽！",
+        "recognized_text": "还有崩坏兽",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_875.ogg",
+        "matched_line": "她很难过，虽然她在大家面前装没事，但我们一眼就能看出来。",
+        "recognized_text": "她很难过虽然他在大家面前装没事但我们一眼就能看出来",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_876.ogg",
+        "matched_line": "我们身上长出了角和尾巴，身体也变得比以前更轻盈。那些可怕的死士和崩坏兽现在也都不是我们的对手。",
+        "recognized_text": "我们身上长出了角和尾巴身体也变得比以前更轻盈那些可怕的死侍和崩坏兽现在也都不是我们的对手",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1393.ogg",
+        "matched_line": "“女主角在虚拟空间的梦境中苏醒，被强大的敌人掳走，她的姨妈身受重伤，躺在地上。”",
+        "recognized_text": "女主角在虚拟空间的梦境中苏醒被强大的敌人掳走她的姨妈身受重伤躺在地上",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5183.ogg",
+        "matched_line": "你这个笨蛋，别自说自话就跳进量子之海里啊，担心死我啦！",
+        "recognized_text": "你这个笨蛋名字说这话就跳进两子是海里啊担心死我了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5346.ogg",
+        "matched_line": "我还是第一次吃到加了糖和奶油的蛋糕！",
+        "recognized_text": "我还是第一次知道加了糖和奶油的蛋糕",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4500.ogg",
+        "matched_line": "什、什么，我做不到啊！",
+        "recognized_text": "什么我做不到啊",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4517.ogg",
+        "matched_line": "虽然很淡，但和那个臭家伙不同，有莉莉娅甜甜的味道！",
+        "recognized_text": "虽然很大但和那个臭家伙不同丽丽甜甜的味道",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1298.ogg",
+        "matched_line": "没……没事的，她的身高应该完全不适合出演女主角——",
+        "recognized_text": "没事的他的身高应该完全不适合出演女主角",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1456.ogg",
+        "matched_line": "看来今天运气之神似乎站在了琪亚娜的背后。",
+        "recognized_text": "看来今天运气之神似乎站在了天亮的背后",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_177.ogg",
+        "matched_line": "莉莉娅，按照之前打的赌，你要把晚餐的小蛋糕让给我！",
+        "recognized_text": "李亮按照之前打的赌你要把晚餐的小蛋糕让给我",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1183.ogg",
+        "matched_line": "怎么杀都杀不完，它们是孤儿院里的蟑螂吗！？",
+        "recognized_text": "怎么杀都杀不完他们是跟你的蟑螂吗",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1416.ogg",
+        "matched_line": "毕竟她冷漠的外表底下埋藏着一颗火热的心。",
+        "recognized_text": "毕竟他的目的外表下埋藏着一颗火热的心",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_423.ogg",
+        "matched_line": "可是，天命竟然连这里都要破坏，真是太过分了！",
+        "recognized_text": "可是清明节连这里都要破坏真是太过分了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5319.ogg",
+        "matched_line": "瓦尔特·扎伊切克……根本就是男人的名字嘛！",
+        "recognized_text": "瓦尔特塞根本就是男人的名字吗",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_638.ogg",
+        "matched_line": "——每一场演出都座无虚席！",
+        "recognized_text": "每场演出都座无虚席",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1455.ogg",
+        "matched_line": "可恶，当老师这种事，我完全没经验啊！",
+        "recognized_text": "当老师这种事我完全没经验啊",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4380.ogg",
+        "matched_line": "你……不许你这样说妈妈！",
+        "recognized_text": "不许你这样说妈妈",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1250.ogg",
+        "matched_line": "呼……妈妈真是的！我们都已经是大人了。",
+        "recognized_text": "唉妈妈真是的我们都已经是大人了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4609.ogg",
+        "matched_line": "（我不能没有莉莉娅，莉莉娅也不能没有我！）",
+        "recognized_text": "我不能没有丽丽啊也不能没有我",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1267.ogg",
+        "matched_line": "莉莉娅，这次比赛的排场好大呀！",
+        "recognized_text": "莉莉娅这次比赛的排场好大呀",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1418.ogg",
+        "matched_line": "（琪亚娜这个家伙……剧本上真的有这句台词吗？）",
+        "recognized_text": "那这个家伙基本上真的有这句台词吗",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_640.ogg",
+        "matched_line": "——许多观众没有座位，只能站着看完全场！",
+        "recognized_text": "许多观众没有座位只能站着看完全场",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_782.ogg",
+        "matched_line": "对不起，布洛妮娅，没有事先告诉你。",
+        "recognized_text": "对不起你啊没有事先告诉你",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1693.ogg",
+        "matched_line": "我们…",
+        "recognized_text": "我们能",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_282.ogg",
+        "matched_line": "第一幕~",
+        "recognized_text": "第一",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5154.ogg",
+        "matched_line": "我们…",
+        "recognized_text": "我们",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1780.ogg",
+        "matched_line": "我们…",
+        "recognized_text": "我们能",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9464.ogg",
+        "matched_line": "嘿嘿…这也是没办法的事嘛！",
+        "recognized_text": "良药苦口这也是没办法的事",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1603.ogg",
+        "matched_line": "我们…",
+        "recognized_text": "我们能",
+        "match_score": 67
+    }
+]

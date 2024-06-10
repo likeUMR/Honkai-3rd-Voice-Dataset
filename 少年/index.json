@@ -1,0 +1,38 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_2222.ogg",
+        "matched_line": "瓦尔特……",
+        "recognized_text": "瓦尔特",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2227.ogg",
+        "matched_line": "我的名字……是瓦尔特……",
+        "recognized_text": "我的名字是瓦尔特",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2229.ogg",
+        "matched_line": "我……可以和大家一样拥有名字吗？",
+        "recognized_text": "可以和大家一样拥有名字吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1921.ogg",
+        "matched_line": "你们……要对我做什么？",
+        "recognized_text": "你们要对我做什么",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2226.ogg",
+        "matched_line": "医生们在哪儿？如果不按时接受治疗的话，他们会生气的……",
+        "recognized_text": "你说的在哪儿如果不按时接受治疗的话他们会生气的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5565.ogg",
+        "matched_line": "瓦尔特……",
+        "recognized_text": "瓦尔特",
+        "match_score": 75
+    }
+]

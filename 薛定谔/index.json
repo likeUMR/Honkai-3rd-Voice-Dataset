@@ -1,0 +1,80 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4434.ogg",
+        "matched_line": "这数十年的时间里，我一直都在“门”的另一边。",
+        "recognized_text": "这数十年的时间里我一直都在门的另一边",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4436.ogg",
+        "matched_line": "简单来说，我跌落到了量子之海的底部，一片什么都没有的虚无之地。",
+        "recognized_text": "简单来说我跌落到了量子之海的底部一片什么都没有的虚无之地",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4446.ogg",
+        "matched_line": "真想让你也看一看，你自己现在的表情。",
+        "recognized_text": "真想让你也看看你自己现在的表情",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5122.ogg",
+        "matched_line": "爱因斯坦，我找到她们的位置了。",
+        "recognized_text": "爱因斯坦我找到他们的位置",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4423.ogg",
+        "matched_line": "没错，我在那场意外中丧失了作为物理实体存在的“稳定性”，成为了一个量子化的个体。",
+        "recognized_text": "没错我在那场意外中丧失了作为物理实体存在的稳定性成为了一个量子化的个体",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4425.ogg",
+        "matched_line": "但现在这里的能量高得难以想象，高到我在另一个世界泡中都能明显察觉到异常。",
+        "recognized_text": "但现在这里的能量高得难以想象搞得我在另一个世界泡妞都能明显察觉到异常",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4433.ogg",
+        "matched_line": "能量失衡，实体消退，消失在了另一个维度，你想这么说对吧？",
+        "recognized_text": "能量失衡实体消退消失在了另一个维度你想这么说对吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4426.ogg",
+        "matched_line": "这些能量都来自于同一个点，我甚至无法接近那里。",
+        "recognized_text": "这些能量都来自于同一个点我甚至无法接近那里",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4439.ogg",
+        "matched_line": "我们还是边走边说吧。",
+        "recognized_text": "我还是边走边说吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4447.ogg",
+        "matched_line": "我想尽办法逃离了那里，但却彻底失去了回到这个世界的“信标”。",
+        "recognized_text": "我想尽办法逃离的那里感觉彻底失去了回到这个世界的目标",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4444.ogg",
+        "matched_line": "因为这场对话……会持续很久。",
+        "recognized_text": "因为这场对话会持续很久",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4429.ogg",
+        "matched_line": "我不知道你们做了什么。在场所有人，我认识的只有你一个。",
+        "recognized_text": "我不知道你们做了什么在场所有人我认识的只有你一个",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4441.ogg",
+        "matched_line": "我曾在其他地方遇到过这个世界的人，但看来，你们和她们没有交集。",
+        "recognized_text": "我曾在其他地方遇到过这个世界的人刚看来你们和他们没有交集",
+        "match_score": 88
+    }
+]

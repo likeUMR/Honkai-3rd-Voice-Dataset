@@ -1,0 +1,122 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1802.ogg",
+        "matched_line": "你怎么在这里？",
+        "recognized_text": "现场你怎么在这里",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2327.ogg",
+        "matched_line": "回答我的问题！",
+        "recognized_text": "回答我的问题",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10524.ogg",
+        "matched_line": "你怎么知道…",
+        "recognized_text": "你怎么知道",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7561.ogg",
+        "matched_line": "回答我的问题！",
+        "recognized_text": "废话少说快回答我的问题",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6777.ogg",
+        "matched_line": "你怎么知道…",
+        "recognized_text": "怎么知道你啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_518.ogg",
+        "matched_line": "好。",
+        "recognized_text": "好",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5973.ogg",
+        "matched_line": "你怎么知道…",
+        "recognized_text": "你怎么知道",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1587.ogg",
+        "matched_line": "你怎么在这里？",
+        "recognized_text": "经常你怎么还在这里",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5779.ogg",
+        "matched_line": "你怎么在这里？",
+        "recognized_text": "可能会让你怎么也在这里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6798.ogg",
+        "matched_line": "果然是这样。",
+        "recognized_text": "哈哈果然是这样",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9614.ogg",
+        "matched_line": "你，究竟还隐瞒着什么？",
+        "recognized_text": "你究竟在隐瞒什么",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7040.ogg",
+        "matched_line": "果然是这样。",
+        "recognized_text": "果然是这样",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7857.ogg",
+        "matched_line": "说话了…",
+        "recognized_text": "说了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_437.ogg",
+        "matched_line": "你怎么在这里？",
+        "recognized_text": "你怎么会在这里",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3156.ogg",
+        "matched_line": "你怎么在这里？",
+        "recognized_text": "天呐你怎么会在这里",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1111.ogg",
+        "matched_line": "说话了…",
+        "recognized_text": "说了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1618.ogg",
+        "matched_line": "告诉我！",
+        "recognized_text": "告诉我",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4071.ogg",
+        "matched_line": "你……看到了什么？",
+        "recognized_text": "我看到了什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2753.ogg",
+        "matched_line": "你怎么在这里？",
+        "recognized_text": "你住在这里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1108.ogg",
+        "matched_line": "换衣服？",
+        "recognized_text": "换衣服",
+        "match_score": 86
+    }
+]

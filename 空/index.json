@@ -1,0 +1,626 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_2848.ogg",
+        "matched_line": "超喜欢！",
+        "recognized_text": "喜欢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5129.ogg",
+        "matched_line": "不是的！",
+        "recognized_text": "呵呵不是的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2680.ogg",
+        "matched_line": "不是的！",
+        "recognized_text": "不是的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1138.ogg",
+        "matched_line": "可谁也没有想到，悲剧就这么发生了……",
+        "recognized_text": "可是也没有想到悲剧就这么发生了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2526.ogg",
+        "matched_line": "你的咖喱能让大家都绽露笑容，给琪亚娜吃了，那些不开心的事一定也都会烟消云散的。",
+        "recognized_text": "你的咖喱能让大家都站着笑容他吃了那些不开心的事一定也都会烟消云散的",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1151.ogg",
+        "matched_line": "我永远忘不了那一刻，她对着夕阳立下的誓言——",
+        "recognized_text": "我永远忘不了那一刻他对着夕阳立下的誓言",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2493.ogg",
+        "matched_line": "不过……老师真的不和我们一起走吗？",
+        "recognized_text": "不过老师真的不和我们一起走吗",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1143.ogg",
+        "matched_line": "我到现在还记得老师那时的样子。",
+        "recognized_text": "我到现在还记得老师那时的样子",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1210.ogg",
+        "matched_line": "芽衣，我把咖喱分完了，大家都特别开心。",
+        "recognized_text": "便宜我把咖喱分完了大家都特别开心",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_918.ogg",
+        "matched_line": "当然，老师从没有给我们定下任何标准。不管收集的材料是多是少，每个月的补给都不会变。",
+        "recognized_text": "当然老师从没有给我们定下任何标准不管收集的材料是多是少每个月的补给都不会变",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1142.ogg",
+        "matched_line": "四个月前，世界上发生了一起大崩坏。",
+        "recognized_text": "四个月前世界上发生了一起大崩坏",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1213.ogg",
+        "matched_line": "明天，我们一定能找到琪亚娜。",
+        "recognized_text": "明天我们一定能找到西安的",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1160.ogg",
+        "matched_line": "唉，要是老师也能有芽衣这样的厨艺就好了。她哪里都好，唯独做的饭实在让人喜欢不起来……",
+        "recognized_text": "唉要是老师也能有压抑这样的厨艺就好了他哪里都好我都做的饭实在让人喜欢不起来",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1073.ogg",
+        "matched_line": "没有没有！……对你来说，她一定是个特别重要的人",
+        "recognized_text": "没有没有对你来说他一定是个特别重要的人",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1155.ogg",
+        "matched_line": "老师不是那种天生就有钱有地位的人，她童年遭遇不幸，人生从一无所有开始。",
+        "recognized_text": "老师不是那种天生就有钱有地位的人他童年遭遇不幸人生从一无所有开始",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1202.ogg",
+        "matched_line": "灾难毁灭了长空市，但我们仍要活下去，努力活下去，因为好好地活着就是在向命运抗争。",
+        "recognized_text": "才能毁灭了长空室但我们仍要活下去努力活下去因为好好的活着就是在向命运抗争",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1156.ogg",
+        "matched_line": "但她努力向上爬呀爬呀，在各个国家和各种人打交道，经历了许多事，花了十几年时间，终于积累了一笔自己的资产。",
+        "recognized_text": "但他努力向上爬呀爬呀在各个国家和各种人打交道经历了许多事花了十几年时间终于积累了一笔自己的资产",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1129.ogg",
+        "matched_line": "她用绝大部分积蓄在一个遥远的国家……我忘记名字了……买下了一座私人岛屿。",
+        "recognized_text": "他用绝大部分积蓄在一个遥远的国家我忘记名字了卖下了一座私人岛屿从此过上自由平静的生活",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_821.ogg",
+        "matched_line": "……是的。是、是一个圆圆的、蓝蓝的小机器人……",
+        "recognized_text": "这个圆圆的蓝蓝的小机器人",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_873.ogg",
+        "matched_line": "哇……马克兔，欢迎回家！",
+        "recognized_text": "马克兔欢迎回家",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2510.ogg",
+        "matched_line": "唔……不知道是不是我的错觉，总觉得，芽衣好像有心事。",
+        "recognized_text": "不知道是不是我的错觉从前的牙医好像有心事",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_912.ogg",
+        "matched_line": "我和大家打过招呼了，你们是我的救命恩人，巢欢迎你们。",
+        "recognized_text": "我和大家打过招呼了你们是我的救命恩人城欢迎你们",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1057.ogg",
+        "matched_line": "你的家人呢？",
+        "recognized_text": "你的家人呢",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_879.ogg",
+        "matched_line": "我记性不好，以前的事很多都不记得了。",
+        "recognized_text": "我记性不好以前的事很多都不记得了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1215.ogg",
+        "matched_line": "“马克兔，马克兔，我是谁呀？”",
+        "recognized_text": "马克吐马克吐我是谁呀",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1204.ogg",
+        "matched_line": "嗯！芽衣和老师都是很温柔的人，你们一定聊得来。",
+        "recognized_text": "牙医和老师都是很温柔的人你们一定聊得来",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1226.ogg",
+        "matched_line": "可我一点记忆都没有，不知道大家在说什么，也不知道自己该做什么。我只好一直跟着老师，她去哪里，我就去哪里。",
+        "recognized_text": "出一点记忆都没有不知道大家在说什么也不知道自己该做什么回去后一直跟着老师他去哪里我就去哪里",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_915.ogg",
+        "matched_line": "总觉得，最近长空市越来越不对劲了……老师没事吧……对了，你们想问她什么？",
+        "recognized_text": "总觉得最近成功是越来越不对劲了老师没事吧哦对了你们想问他什么",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_914.ogg",
+        "matched_line": "大家都经历过灾难，所以更要互相帮助，互相扶持，老师一直是这么教导我们的。",
+        "recognized_text": "大家都经历过灾难所以更要互相帮助互相扶持老师一直是这么教导我们的",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1139.ogg",
+        "matched_line": "巢里的生活很寂寞，我们总是缠着老师让她讲自己的故事，所以知道了很多她的事。",
+        "recognized_text": "厂里的生活很寂寞我们总是缠着老师让他讲自己的故事所以知道了很多他的事",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_916.ogg",
+        "matched_line": "三年前她帮助无处可去的我们建立了这个家。老师自己会经常外出，回来时总会给我们带吃的用的，偶尔还有一些奇怪的礼物。",
+        "recognized_text": "三年前他帮助无处可去的我们建立了这个家老师自己会经常外出回来时总会给我们带吃的用的偶尔还有一些奇怪的礼物",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1205.ogg",
+        "matched_line": "老实说，我的人生好普通，比我想象的还要普通。",
+        "recognized_text": "老实说我的人生好普通比我想象的还要普通",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1390.ogg",
+        "matched_line": "我之前从来没有见过它……它就像，兽群的领袖一样。",
+        "recognized_text": "我之前从来没有见过他她就像领袖",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1212.ogg",
+        "matched_line": "她教我……怎么“好好活下去”。",
+        "recognized_text": "他教我怎么好好活下去",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1145.ogg",
+        "matched_line": "芽衣……咖喱很好吃，我……想让大家也尝尝……",
+        "recognized_text": "加一咖喱很好吃想让大家也尝尝",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1508.ogg",
+        "matched_line": "她只是来找朋友的，找到了就会离开……凭老师的本事，一定能找到芽衣的朋友。",
+        "recognized_text": "他就是来找朋友的找到了就会离开萍老师的本事一定能找到压抑的朋友",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_920.ogg",
+        "matched_line": "她不在时，孩子们就会去城里拾荒，把有用的东西带回来，放进仓库以备不时之需。",
+        "recognized_text": "他不在时孩子们就会去城里拾荒把有用的东西带回来放进仓库已备不时之需",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1067.ogg",
+        "matched_line": "我看看……啊，是的，那是长空市著名的千羽学园，好像是有钱人念书的地方。",
+        "recognized_text": "我看看是的那是长空是著名的千羽学园好像是有钱人念书的地方",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1195.ogg",
+        "matched_line": "老师拿我没办法，只好开始教我一些东西。她也不能一直待在巢，总得教会我们如何在长空市独立生活。",
+        "recognized_text": "老师拿我没办法只好开始教我一些东西他也不能一直呆在场总得教会我们如何在尝试独立生活",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2464.ogg",
+        "matched_line": "你和博士都是很好的人，是除了老师以外对我们最好的人。我不会忘记你们的！",
+        "recognized_text": "所以我想把它送给你我希望牙医的心愿也能实现以后博士都是很好的人是除了老师以外对我们最好的人我不会忘记你们的",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1389.ogg",
+        "matched_line": "难道……是因为我昨天遇到的那只大崩坏兽？",
+        "recognized_text": "难道是因为我昨天遇到的那只大崩坏兽",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_911.ogg",
+        "matched_line": "唔……我没有。老师一定有办法帮你们，但她现在不在。要不……你先去问问其他人？",
+        "recognized_text": "我没有老师你有办法帮你买但他现在不在要不你先去问问其他人",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_875.ogg",
+        "matched_line": "……它怎么不理我？",
+        "recognized_text": "他怎么不理我",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1221.ogg",
+        "matched_line": "老师说，只有这样，我才能明白如何“好好活着”。",
+        "recognized_text": "老师说只有这样我才能明白如何好好活着",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1223.ogg",
+        "matched_line": "老师把和我一样的孩子聚集起来，带我们搬进巢，告诉大家以后要共同生活。",
+        "recognized_text": "老师和我一样的孩子聚集起来带我们班进场告诉大家以后要共同生活",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2462.ogg",
+        "matched_line": "啊……这样啊，对不起……我是不是打扰你们了？",
+        "recognized_text": "这样的啊对不起我是不是打扰你们了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_927.ogg",
+        "matched_line": "谢谢你们送我回家。",
+        "recognized_text": "谢谢你们送我回家",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1133.ogg",
+        "matched_line": "当时老师就在长空市。崩坏兽一只接着一只出现，她独自与它们战斗着，保护巢不受攻击。",
+        "recognized_text": "当时老师就在场控室崩坏兽一只接着一只出现她独自与他们战斗着保护不受攻击",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1232.ogg",
+        "matched_line": "我很奇怪，我连自己的名字都不知道，老师又怎么会知道我的生日？",
+        "recognized_text": "我很奇怪我连自己的名字都不知道老师又怎么会知道我的生日",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1075.ogg",
+        "matched_line": "咦……那、那你岂不是……超级大小姐？",
+        "recognized_text": "那你岂不是超级大小姐",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_150~VO_Weekly_Dialog_10262.ogg",
+        "matched_line": "不是的！",
+        "recognized_text": "不是的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1136.ogg",
+        "matched_line": "“无论付出多少代价，人类一定会战胜崩坏……！！”",
+        "recognized_text": "无论付出多少代价人类一定会产生崩坏",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1229.ogg",
+        "matched_line": "我相信……这就是老师建立巢的意义，也是她在那一天，将马克兔——将我的过去作为礼物送给我的理由。",
+        "recognized_text": "我相信这就是老师建立的意义其实他在那一天将马克兔将我的过去作为礼物送给我的理由",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2505.ogg",
+        "matched_line": "嗯，都好了，随时可以出发！",
+        "recognized_text": "多好了随时可以出发",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1033.ogg",
+        "matched_line": "不用担心，你战斗的时候，我会好好藏起来的。",
+        "recognized_text": "不用担心你战斗的时候我会好好藏起来的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_828.ogg",
+        "matched_line": "马克兔的脑袋里装了许多东西，没有它，很多事我都做不了……",
+        "recognized_text": "那个秃的脑袋里了许多东西没有他很多事我都做不了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1387.ogg",
+        "matched_line": "就在长空壁附近，我带你们过去。",
+        "recognized_text": "就在长空碧附近我带你们过去",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2454.ogg",
+        "matched_line": "嘿嘿，说来你可能不信，老师这次回来，竟然是要带我们离开长空市。",
+        "recognized_text": "说了你可能不信老师这次回来请假是要带我们离开成功",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_809.ogg",
+        "matched_line": "谢谢你们救了我……",
+        "recognized_text": "谢谢你们救了我",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_807.ogg",
+        "matched_line": "对……大家都叫我小空或者阿空。",
+        "recognized_text": "大家都叫我小坑或者架空",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1032.ogg",
+        "matched_line": "要去西城区，得先穿过长空壁。那儿的地形很复杂，我给你带路吧。我也想……你们能快点找到琪亚娜。",
+        "recognized_text": "要去西城区得先穿过长空碧那儿的地形很复杂我给你带路吧我也想你们能快点找到提案的",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_922.ogg",
+        "matched_line": "唔……其实我也奇怪。算算时间，老师昨天就该回来了。",
+        "recognized_text": "其实我也奇怪算算时间老师昨天就该回来了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1137.ogg",
+        "matched_line": "……明明放了这么多辣椒，却一点儿都不辣，反而还很爽口。",
+        "recognized_text": "明明放了这么多辣椒却一点都不辣反而还很爽口",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1220.ogg",
+        "matched_line": "总有一天，我们会离开这里，去到大海的另一边，回到阳光中，回到晴天下。",
+        "recognized_text": "总有一天我会离开这里去到大海的另一边回到阳光中回到擎天下",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1071.ogg",
+        "matched_line": "诶，可以吗……嘿嘿，说出来挺不好意思的……我们那儿只有罐头，我早就想吃点别的啦。",
+        "recognized_text": "可以吗说出来挺不好意思的我们那儿只有罐头我早就想吃点别的了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_926.ogg",
+        "matched_line": "老师在地图上划了一片安全区，只要不跑出去就没有危险。大家开始还有些不适应拾荒的生活，后来也就渐渐习惯了。",
+        "recognized_text": "老师在地图上画了一片安全区只要不跑出去就没有危险大家开始还有些不适应使唤的生活后来也就渐渐习惯了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1225.ogg",
+        "matched_line": "失去的记忆没有恢复，可看着这些文字，我却觉得自己好像真的经历过这些。",
+        "recognized_text": "失去的记忆没有恢复可看着这些文字我却觉得自己好像真的经历过这些",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1507.ogg",
+        "matched_line": "见、见不到了吗……？",
+        "recognized_text": "见不到了吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1224.ogg",
+        "matched_line": "……好好活下去，她总是把这句话挂在嘴边。",
+        "recognized_text": "好好活下去他总是把这句话挂在嘴边",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1146.ogg",
+        "matched_line": "风波持续了几个小时才平息，大家终于松了口气。但就在这时，远方却传来了噩耗——",
+        "recognized_text": "风波持续了几个小时才平息大家终于松了口气但就在这时远方却传来了噩耗",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2521.ogg",
+        "matched_line": "嗯！我会好好享受这次旅行的！",
+        "recognized_text": "我会好好享受这次旅行的",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1227.ogg",
+        "matched_line": "而我们抗争过的样子，一定会在未来，成为另一个人活下去的希望。",
+        "recognized_text": "我们看中国的样子一定会在未来成为令另一个人活下去的希望",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2269.ogg",
+        "matched_line": "不是的！",
+        "recognized_text": "不是的",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_835.ogg",
+        "matched_line": "它叫马克兔，是我的好朋友，老师送给我的。我总是把它带在身边，可醒来后……它就不见了……",
+        "recognized_text": "他叫马克兔是我的好朋友老师送给我的我总是把他带在身边可醒来后就不见了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1203.ogg",
+        "matched_line": "那场灾难让我的记忆变得一片空白，家人、朋友、生活、理想……以前的事我一点都不记得，只剩下很浅很浅的印象。",
+        "recognized_text": "那场灾难上午的记忆变得一片空白家人朋友生活理想以前的事我一点都不记得只剩下很浅很浅的印象",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1217.ogg",
+        "matched_line": "可是……这确实是我的人生。",
+        "recognized_text": "可是却确实是我的人生",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1198.ogg",
+        "matched_line": "……啊，天开始黑了，我先回房了，芽衣也快回去吧。",
+        "recognized_text": "天开始黑了我先回房了也快回去吧",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2453.ogg",
+        "matched_line": "她说在外面准备了一个新家，要带我们去住一段时间。",
+        "recognized_text": "他说在外面准备了一个新家要带我们去住一段时间",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_913.ogg",
+        "matched_line": "我出门找她，结果不当心走出了安全区，遇到了从没见过的崩坏兽，被它一路追着就摔下了楼……",
+        "recognized_text": "我出门找他结果不当心走出了安全区遇到了从没见过的崩坏兽被他一路追着就摔下了楼",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1207.ogg",
+        "matched_line": "……是我的人生。",
+        "recognized_text": "是我的人生",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1161.ogg",
+        "matched_line": "啊……这当然是有原因的。",
+        "recognized_text": "吃当然是有原因的",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1140.ogg",
+        "matched_line": "她面无表情，默不作声，却不停地在房间里来回踱步，奔跑，打滚……嘴上不停念叨没事没事，眼泪却大滴大滴地往下掉。",
+        "recognized_text": "他面无表情默不作声却不停的在房间里来回踱步奔跑打滚嘴上不停地念叨没事没事眼泪去大地大滴的往下掉",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1148.ogg",
+        "matched_line": "最后老师终于忍不住冲出去，对着大海的尽头嚎啕大哭，像个孩子一样伤心难过……",
+        "recognized_text": "最后乐视终于忍不住冲出去对着大海的镜头嚎啕大哭像个孩子一样伤心难过一直哭一直哭到眼泪干了嗓子哑了才站起来",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1206.ogg",
+        "matched_line": "我最初的记忆就是在老师怀里。她抱着我穿过废墟，一句话都不说。",
+        "recognized_text": "我最初的记忆就是在老师怀里他抱着我穿过废墟一句话都不说",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2494.ogg",
+        "matched_line": "明明已经找到琪亚娜了，为什么还是闷闷不乐的呢……难道，是吵架了？",
+        "recognized_text": "零零已经找到家了了为什么还是闷闷不乐的呢难道市场价了",
+        "match_score": 66
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1200.ogg",
+        "matched_line": "那天天很黑，乌云压得很低，但我……却觉得好像有光洒在我的身上。",
+        "recognized_text": "那天天很黑乌云压的很低但我却觉得好像有过撒在我的身上",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_872.ogg",
+        "matched_line": "马克兔就像是我的另一个脑袋，忘记了什么事，它都会提醒我。",
+        "recognized_text": "打开to就像是我的另一个脑袋忘记了什么事他都会提醒我",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2458.ogg",
+        "matched_line": "大家可开心了，都在收拾行李呢。可我还是惦记着你和琪亚娜的事，就悄悄溜了出来，想在走之前看看你们。",
+        "recognized_text": "大家可开心了都在收拾行李呢可我还是惦记着你和其他男的事就悄悄溜了出来想在走之前看看你们",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1199.ogg",
+        "matched_line": "然后……老师把它给了我。",
+        "recognized_text": "然后老师把她给了我",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1154.ogg",
+        "matched_line": "房子马上就要竣工了，我们都为老师感到高兴。她工作了一辈子终于有了能够享受人生的地方。",
+        "recognized_text": "房子马上就要竣工了我们都为老师感到高兴他工作了一辈子终于有了能够享受人生的地方",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1524.ogg",
+        "matched_line": "老师……为什么要和芽衣战斗？",
+        "recognized_text": "老师为什么要和鸭翼战斗",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2465.ogg",
+        "matched_line": "听老师说，你已经把她带回来了。她现在在哪里呀？",
+        "recognized_text": "听老师说你已经把他带回来了他现在在哪里啊",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1058.ogg",
+        "matched_line": "听说能进那所学校，就相当于人生通关了。",
+        "recognized_text": "听说能今天所学校就相当于人生通关了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1388.ogg",
+        "matched_line": "怎么回事，为什么水位突然涨高了？长空市最近……好多怪事……",
+        "recognized_text": "怎么回事为什么会突然长高了航空是最近好多怪事",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_925.ogg",
+        "matched_line": "啊，好的。老师是这座“巢”的主人，大家的救命恩人，一位漂亮的大姐姐。",
+        "recognized_text": "好的老师是这座城的主人大家的救命恩人行为漂亮的大姐姐",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1514.ogg",
+        "matched_line": "三年前，是琪亚娜救了芽衣……就像老师救了我们……老师在我们心中有多重要，琪亚娜就在芽衣心中有多重要……！",
+        "recognized_text": "三年前是平安的就了吖就像老师叫了我们老师在我们心中有多重呀就在你心中有多重要",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1214.ogg",
+        "matched_line": "她教我怎么在城市里快速穿梭，怎么躲开游走的崩坏兽，怎么在陷入危险的时候自救。",
+        "recognized_text": "她叫我怎么在城市里快速穿梭什么躲开游走的崩坏兽什么在陷入危险的时候自救",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1219.ogg",
+        "matched_line": "原来我曾经被人爱过，也爱过别人，有喜欢做的事，也有绝对无法忍受的东西。",
+        "recognized_text": "我第一次知道自己名字叫什么生日是哪天在哪里长大以后想做什么事原来我曾经被人爱过也爱过别人有喜欢做的事也有绝对无法忍受的东西",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2452.ogg",
+        "matched_line": "是的，我自己做的！我每天都向它许愿离开长空市看看外面的世界……没想到这一天竟然真的要来临了。",
+        "recognized_text": "我自己做的我每天都像在许愿离开公司看看外面的世界想到今天竟然真的要来临了",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_928.ogg",
+        "matched_line": "这里只有一条规矩，那就是每个人都要好好活下去。",
+        "recognized_text": "这里只有一条规矩那就是每个人都要好好活下去",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1197.ogg",
+        "matched_line": "我还记得那是个普普通通的下午，老师突然和我说生日快乐，她要给我一份礼物。",
+        "recognized_text": "我还记得那是个普普通通的下午老师突然和我说生日快乐还要给我一份礼物",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1135.ogg",
+        "matched_line": "当然，她会把我们，还有她在其他地方救下的人一同带去。",
+        "recognized_text": "当然它会把我们还有他在其它地方救下的人一同带去",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1081.ogg",
+        "matched_line": "你们是不是很久没见面了？",
+        "recognized_text": "你们是不是很久没见面了",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1041.ogg",
+        "matched_line": "不是的！",
+        "recognized_text": "不是的",
+        "match_score": 86
+    }
+]

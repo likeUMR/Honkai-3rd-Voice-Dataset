@@ -1,0 +1,440 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3049.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "死你了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5010.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "死了的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3099.ogg",
+        "matched_line": "你叫什么？",
+        "recognized_text": "那叫什么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4117.ogg",
+        "matched_line": "你也过来。",
+        "recognized_text": "你过来",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9924.ogg",
+        "matched_line": "你叫什么？",
+        "recognized_text": "你叫什么",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9580.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "啥死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6575.ogg",
+        "matched_line": "我忘了。",
+        "recognized_text": "我忘了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_28.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "要死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1023.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "都死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_532.ogg",
+        "matched_line": "你叫什么？",
+        "recognized_text": "叫什么",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1352.ogg",
+        "matched_line": "你似乎总想阻止我消灭崩坏的产物。",
+        "recognized_text": "你似乎总想阻止我消灭崩坏的产物",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2091.ogg",
+        "matched_line": "我不赶你，你也不必做奴仆，我只要教你练我的功夫，将来斩妖除魔。",
+        "recognized_text": "我不管你也不避讳只要将你练我的功夫将来斩妖除魔",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1656.ogg",
+        "matched_line": "买了什么？",
+        "recognized_text": "买了什么",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1672.ogg",
+        "matched_line": "不妨事。",
+        "recognized_text": "不妨",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1461.ogg",
+        "matched_line": "我让你失望了吗？",
+        "recognized_text": "会让你失望了吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2093.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "死了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1642.ogg",
+        "matched_line": "你魂不守舍的，怎么了？",
+        "recognized_text": "你魂不守舍的怎么了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3834.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "他死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2032.ogg",
+        "matched_line": "（这个梦……是为什么而产生的呢？）",
+        "recognized_text": "这个嘛是为什么而产生的呢",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1544.ogg",
+        "matched_line": "素衣，怎么是你…师姐们呢？",
+        "recognized_text": "怎么是你师姐们呢",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2089.ogg",
+        "matched_line": "是否奉我为尊长，并不重要。",
+        "recognized_text": "是否封我为村长并不重要",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1630.ogg",
+        "matched_line": "蚩尤是天地真气汇聚而生的妖兽，它诞生时，南海因之尽毁……她们等不及我回来，就在这里与蚩尤鏖战，死于斯地。",
+        "recognized_text": "吃油是天地真气汇聚而生的一首它诞生时南海应知尽毁他们等不及我回来就在这里与蚩尤鏖战死于斯的",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1422.ogg",
+        "matched_line": "请放心，据我看来，村中已无邪气。这孩子身上也很干净。",
+        "recognized_text": "请放心据我看来村中有邪气孩子身上也很干净",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4021.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "死了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2104.ogg",
+        "matched_line": "她很特别。",
+        "recognized_text": "他很特别",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1645.ogg",
+        "matched_line": "二十年多年前，九幽人又想用邪术复活蚩尤，因此我来到这里阻止。",
+        "recognized_text": "二十多年前有人就想用邪术复活蚩尤自我来到这里阻止",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2105.ogg",
+        "matched_line": "你的名字是怎么起的？",
+        "recognized_text": "你的名字是怎么起的",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1336.ogg",
+        "matched_line": "那也不能轻忽大意，我亲自去看一看。",
+        "recognized_text": "那也不能轻忽大意我亲自去看一看",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1393.ogg",
+        "matched_line": "老丈不必如此，有话直说便可。",
+        "recognized_text": "早上不必如此有话直说便可",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1635.ogg",
+        "matched_line": "和你一样，我也要祭拜几位朋友。",
+        "recognized_text": "和你一样我也要七百几位朋友",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1666.ogg",
+        "matched_line": "你不想去么？",
+        "recognized_text": "你不想去吗",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1360.ogg",
+        "matched_line": "其它的事情，我都依着你。但这可不是耍性子的时候。",
+        "recognized_text": "其他的事情我都依着你但这可不是耍性子的时候",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2038.ogg",
+        "matched_line": "是我没能赶上，是我对不起。",
+        "recognized_text": "是我没能改善是我对不起",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1318.ogg",
+        "matched_line": "你变慢了。",
+        "recognized_text": "你变慢了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2033.ogg",
+        "matched_line": "我很怕一开口，时间也会随之流动。",
+        "recognized_text": "我很怕一开口时间也会随之流动",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1415.ogg",
+        "matched_line": "……很遗憾。",
+        "recognized_text": "很遗憾",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1644.ogg",
+        "matched_line": "我忘了。",
+        "recognized_text": "我忘了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1220.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "饿死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2022.ogg",
+        "matched_line": "这只是个梦，不是吗？梦总有破碎的时候。",
+        "recognized_text": "却只是个梦不是吗梦总有破碎的时候",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2092.ogg",
+        "matched_line": "我说过，她很特别。",
+        "recognized_text": "我说过他很特别",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2103.ogg",
+        "matched_line": "她跟你姓林，如何？",
+        "recognized_text": "他跟你姓林如何",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2085.ogg",
+        "matched_line": "或许。",
+        "recognized_text": "或许",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1668.ogg",
+        "matched_line": "有苏湄在，不必担心。",
+        "recognized_text": "有苏妹子不必担心",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1675.ogg",
+        "matched_line": "为师要往南海一行，收拾行李，你也一同去。",
+        "recognized_text": "为师要往南海一行收拾行李你也一同去",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1335.ogg",
+        "matched_line": "老丈，敢问此处可有妖物作祟？",
+        "recognized_text": "敢问此处可有药物作祟",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2037.ogg",
+        "matched_line": "我真的很高兴，能再见到你们……",
+        "recognized_text": "我真的很高兴能再见到你们",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2045.ogg",
+        "matched_line": "这是个梦，对吗？",
+        "recognized_text": "这是个梦对吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1338.ogg",
+        "matched_line": "都说没有见过妖兽。不过我能感觉到，不远处就有一道妖气。",
+        "recognized_text": "都说没有见过一首不过我能感觉到不远处就有一道邀请",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2083.ogg",
+        "matched_line": "她会说话，也识字。",
+        "recognized_text": "它会说话也识字",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2116.ogg",
+        "matched_line": "“湄”，就是水与岸交界的那一处。",
+        "recognized_text": "就是水与暗交界的那一处",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1429.ogg",
+        "matched_line": "我没有别的选择。",
+        "recognized_text": "我没有别的选择",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2771.ogg",
+        "matched_line": "那就这样吧。",
+        "recognized_text": "就这样吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1377.ogg",
+        "matched_line": "她已走火入魔，我别无办法。如今最仁慈的做法，是让林氏入土为安。",
+        "recognized_text": "他以走火入魔我别无办法舒心最仁慈的做法是让您入土为安",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1313.ogg",
+        "matched_line": "沾染崩坏的必须消灭。此事无关大小，除恶务尽。",
+        "recognized_text": "真正崩坏的必须消灭此事无关大小除恶务尽",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1428.ogg",
+        "matched_line": "小羲，这类事情总是有的。",
+        "recognized_text": "小学这里事情总是有的",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2101.ogg",
+        "matched_line": "她很特别。",
+        "recognized_text": "他很特别",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2136.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "死了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2113.ogg",
+        "matched_line": "你也过来。",
+        "recognized_text": "你也过来",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3370.ogg",
+        "matched_line": "死了。",
+        "recognized_text": "卡死了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2115.ogg",
+        "matched_line": "那就这样吧。",
+        "recognized_text": "那就这样吧",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2094.ogg",
+        "matched_line": "你学得太晚了，我也没有好好教你。",
+        "recognized_text": "你觉得太晚了我也没有好好教你",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4161.ogg",
+        "matched_line": "什么也没有。",
+        "recognized_text": "什么也没想",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2096.ogg",
+        "matched_line": "“所谓伊人，在水之湄”……湄这个字，你看好不好？",
+        "recognized_text": "所谓伊人在水之湄没这个字你看好不好",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1655.ogg",
+        "matched_line": "什么也没有。",
+        "recognized_text": "什么也没有",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2097.ogg",
+        "matched_line": "你叫什么？",
+        "recognized_text": "你叫什么",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1430.ogg",
+        "matched_line": "不能为了一时心软，遗下祸患。",
+        "recognized_text": "不能为了一时心软一下霍霍",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2107.ogg",
+        "matched_line": "买一本诗经回来。",
+        "recognized_text": "买一本诗经回来",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2040.ogg",
+        "matched_line": "总觉得如果不说话，这一刻就会一直持续下去。",
+        "recognized_text": "总觉得如果不说话这一刻就会一直持续下去",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1354.ogg",
+        "matched_line": "没有必要，她已彻底走火入魔（死士化），这是无法逆转的。死士活着就是祸患，早晚必要除去。",
+        "recognized_text": "没有必要他已彻底走火入魔这是无法逆转的四是活着就是霍霍早晚必要出去",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1340.ogg",
+        "matched_line": "不，普通的崩坏能反应而已。但它太近了，村民的反应又太过平静，其中必有蹊跷。",
+        "recognized_text": "普通的崩坏能反应而已它太近了村民的反应太过平静其中必有蹊跷",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1640.ogg",
+        "matched_line": "魂飞九天，魄落九渊…神州的古话是这样说的。但我知道死后再没有什么魂魄。她们去了，再也不会回来。",
+        "recognized_text": "魂飞九天魄落九渊神舟的古话是这样说的但我知道此后再没有什么魂魄他们去了再也不会回来",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1309.ogg",
+        "matched_line": "崩坏可不会休息。",
+        "recognized_text": "崩坏可不会休息",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1646.ogg",
+        "matched_line": "我要去的也是那里。",
+        "recognized_text": "我要去的也是那里",
+        "match_score": 94
+    }
+]

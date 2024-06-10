@@ -1,0 +1,74 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3216.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "年姐姐",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2040.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "姐姐",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2007.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "年姐姐",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3070.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "年姐姐",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4958.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "姐姐",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4064.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "姐姐",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5059.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "年姐姐",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4959.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "姐姐",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7022.ogg",
+        "matched_line": "有什么问题吗？",
+        "recognized_text": "有什么问题吗",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9825.ogg",
+        "matched_line": "有什么问题吗？",
+        "recognized_text": "怎么了有什么问题吗现场",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_508.ogg",
+        "matched_line": "算了。",
+        "recognized_text": "算了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2292.ogg",
+        "matched_line": "姐姐！",
+        "recognized_text": "姐姐啊",
+        "match_score": 67
+    }
+]

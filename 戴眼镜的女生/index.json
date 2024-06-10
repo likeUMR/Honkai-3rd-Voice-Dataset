@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_495.ogg",
+        "matched_line": "你什么时候对学习有过兴趣……",
+        "recognized_text": "你什么时候对学习有过兴趣",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_497.ogg",
+        "matched_line": "你又翘课？几次了啊，这回我可不帮你签到了。",
+        "recognized_text": "你又翘课几次了这回我可不帮你签到了",
+        "match_score": 89
+    }
+]

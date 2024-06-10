@@ -1,0 +1,20 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2566.ogg",
+        "matched_line": "在48小时之内，细菌型崩坏兽的感染者也将转化为半人半崩坏兽的存在。",
+        "recognized_text": "它可以通过吸血行为将细菌型崩坏兽注入被吸血者的体内在48小时之内细菌性崩坏兽的感染者已经转化为半人半崩坏兽的存在",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2561.ogg",
+        "matched_line": "我突然想到，这些细菌型崩坏兽，对于死去的人是不是也会有作用呢？",
+        "recognized_text": "我突然想到这些细菌性崩坏兽对于死去的人是不是也会有作用的如果如果是这样的话",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2569.ogg",
+        "matched_line": "而反过来只要A-872没有受到致命威胁，这些感染者们就能获得近乎永恒的生命。",
+        "recognized_text": "感染者的吸血行为能够对a872的力量产生正向反馈而反过来只要1872没有受到致命危险这些感染者们就能获得近乎永恒的生命",
+        "match_score": 66
+    }
+]

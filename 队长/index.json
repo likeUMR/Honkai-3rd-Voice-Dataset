@@ -1,0 +1,68 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_1952.ogg",
+        "matched_line": "你这不是挺好看的嘛。",
+        "recognized_text": "你这不是挺好看的吗",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1958.ogg",
+        "matched_line": "华啊，有句话我常挂在嘴边，说不定你都听腻了。但它真的很好：遗忘是苦口良药。",
+        "recognized_text": "啊手机号我常挂在嘴边说不定你都听腻了但他真的很好希望是苦口良药",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1968.ogg",
+        "matched_line": "要是不想和别人跳舞，就当吃自助餐也行。当然啦，我怎么说也要把你拉进舞池的。",
+        "recognized_text": "要是不想和别人跳舞就当吃自助餐也行当然了会怎么说也要把你拉进五十的",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1961.ogg",
+        "matched_line": "怎么了，你不开心？",
+        "recognized_text": "怎么啦你不开心",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1955.ogg",
+        "matched_line": "别说这个了，你真的不想去舞会？确定？挑你这身衣服可花了我不少时间。",
+        "recognized_text": "别说这个了你真的不想去舞会确定挑你这些衣服可花了我不少时间",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1962.ogg",
+        "matched_line": "……偶尔把头发束起来，还真不习惯。两边有点空，脖子那儿总有冷风在吹。",
+        "recognized_text": "偶尔把头发束起来还真不习惯还有点困我真的有冷风在吹",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1969.ogg",
+        "matched_line": "你要允许人们遗忘，允许人们快乐。在战争时期尤应如此。",
+        "recognized_text": "你要允许人们遗忘允许人们快乐在战争时期由于如此",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1970.ogg",
+        "matched_line": "士气低落的兵是没法打仗的。",
+        "recognized_text": "十七低落的兵是没法打仗的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1967.ogg",
+        "matched_line": "学会放松，华。",
+        "recognized_text": "学会放松",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1966.ogg",
+        "matched_line": "没有人无缘无故地选择忘记。遗忘是手段，我们运用它发泄痛苦，得到快乐。",
+        "recognized_text": "没有人无缘无故的选择忘记遗忘是手段我们运用她发泄痛苦得到快乐",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1956.ogg",
+        "matched_line": "我看，今晚你会是舞会上的焦点哦。",
+        "recognized_text": "今晚你会不会上的焦点啊",
+        "match_score": 67
+    }
+]

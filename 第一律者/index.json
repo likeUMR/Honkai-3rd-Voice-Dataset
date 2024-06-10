@@ -1,0 +1,68 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3274.ogg",
+        "matched_line": "可是……已经没有资格再见他一面了啊……",
+        "recognized_text": "可是已经没有资格再见她一面了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3202.ogg",
+        "matched_line": "够了，给我跪下！",
+        "recognized_text": "给我跪下",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3276.ogg",
+        "matched_line": "女武神……我究竟是谁……",
+        "recognized_text": "女神我究竟是谁",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3271.ogg",
+        "matched_line": "这么理直气壮……让我无法反驳……",
+        "recognized_text": "这么理直气壮让我无法反驳",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3217.ogg",
+        "matched_line": "我不知道你在说什么！",
+        "recognized_text": "我不知道你在说什么",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3149.ogg",
+        "matched_line": "这……才是真正的我！",
+        "recognized_text": "这才是真正的我",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3205.ogg",
+        "matched_line": "住口！你对瓦尔特……你对我根本一无所知！",
+        "recognized_text": "瓦尔特你对我根本一无所知",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3223.ogg",
+        "matched_line": "你没有资格指责我！",
+        "recognized_text": "你没有资格指责我",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3203.ogg",
+        "matched_line": "懦弱？开什么玩笑，我比任何人都强！",
+        "recognized_text": "如果说开什么玩笑我比任何人都强",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3273.ogg",
+        "matched_line": "我还以为……只有乔伊斯本人才能做到……",
+        "recognized_text": "我还以为只有乔伊斯本人才能做到",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3275.ogg",
+        "matched_line": "在离开这个世界之前，还能再一次听到有人这样斥责我……",
+        "recognized_text": "在离开这个世界之前还能再一次听到有人这样斥责我",
+        "match_score": 94
+    }
+]

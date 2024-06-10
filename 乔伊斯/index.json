@@ -1,0 +1,68 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4129.ogg",
+        "matched_line": "好的。",
+        "recognized_text": "好的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1188.ogg",
+        "matched_line": "……大哥哥。",
+        "recognized_text": "大哥哥",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3884.ogg",
+        "matched_line": "别走——",
+        "recognized_text": "别走",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5309.ogg",
+        "matched_line": "好的。",
+        "recognized_text": "好的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3941.ogg",
+        "matched_line": "好的。",
+        "recognized_text": "好的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6386.ogg",
+        "matched_line": "好的。",
+        "recognized_text": "好的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2500.ogg",
+        "matched_line": "好的。",
+        "recognized_text": "好的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_334.ogg",
+        "matched_line": "好的。",
+        "recognized_text": "好的@",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_314.ogg",
+        "matched_line": "好的。",
+        "recognized_text": "那好的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_348.ogg",
+        "matched_line": "谢谢大哥哥！",
+        "recognized_text": "谢谢大哥",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3025.ogg",
+        "matched_line": "好的。",
+        "recognized_text": "好的",
+        "match_score": 80
+    }
+]

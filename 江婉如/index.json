@@ -1,0 +1,26 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_1773.ogg",
+        "matched_line": "但要让一个人愿意活下去，却非常、非常地难。",
+        "recognized_text": "爱上一个人愿意活下去却非常非常的难",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1768.ogg",
+        "matched_line": "所以你是一个很好的人。",
+        "recognized_text": "所以你是一个很好的人",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1771.ogg",
+        "matched_line": "应该活着的，也活下来了……这样不是很好嘛？",
+        "recognized_text": "应该活着的也活下来了这样不是很好吗",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1769.ogg",
+        "matched_line": "要阻止一桩死亡是很容易的。",
+        "recognized_text": "要阻止一周死亡是很容易的",
+        "match_score": 88
+    }
+]

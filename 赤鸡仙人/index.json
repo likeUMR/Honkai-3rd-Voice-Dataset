@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1429.ogg",
+        "matched_line": "不能。",
+        "recognized_text": "不可能",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_870.ogg",
+        "matched_line": "不能。",
+        "recognized_text": "不能",
+        "match_score": 80
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_737.ogg",
+        "matched_line": "你这个——",
+        "recognized_text": "你这个",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_730.ogg",
+        "matched_line": "你这个——",
+        "recognized_text": "你这个",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_168~VO_Weekly_Dialog_10263.ogg",
+        "matched_line": "不是！",
+        "recognized_text": "不是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_713.ogg",
+        "matched_line": "不是！",
+        "recognized_text": "不是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1282.ogg",
+        "matched_line": "不是！",
+        "recognized_text": "不是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2349.ogg",
+        "matched_line": "不是！",
+        "recognized_text": "不是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_491.ogg",
+        "matched_line": "不是！",
+        "recognized_text": "是不是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1036.ogg",
+        "matched_line": "不是！",
+        "recognized_text": "不是",
+        "match_score": 80
+    }
+]

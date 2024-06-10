@@ -1,0 +1,50 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2457.ogg",
+        "matched_line": "舰长大人，休息得还好吗？",
+        "recognized_text": "店长大人休息的还好吗",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2452.ogg",
+        "matched_line": "请回忆起自己的身份，舰长大人…",
+        "recognized_text": "童话导致的记忆障碍吗请回忆起自己的身份县长大人",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2588.ogg",
+        "matched_line": "舰长大人，休息得还好吗？",
+        "recognized_text": "店长大人休息的还好吗",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2448.ogg",
+        "matched_line": "噩梦么…姑且就当做是一场梦好了…",
+        "recognized_text": "噩梦姑且就当做是一场梦好了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2582.ogg",
+        "matched_line": "不要太过悲伤，舰长大人。失去的东西，只要找回来就好了。",
+        "recognized_text": "不要太过悲伤舰长大人失去的东西只要找回来就好了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2445.ogg",
+        "matched_line": "你的任务是找出卡莲大人不会死去的未来——这一点还请务必牢记。",
+        "recognized_text": "你的任务是找出卡莲大人不会死去的未来请牢记",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2586.ogg",
+        "matched_line": "今天是你答应协助姬子小姐调查的第一夜…请不要忘记时间…",
+        "recognized_text": "今天是你答应协助妻子小姐调查的第一眼请不要忘记时间",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2456.ogg",
+        "matched_line": "今天是你答应协助姬子小姐调查的第一夜…请不要忘记时间…",
+        "recognized_text": "今天是你答应协助妻子小姐调查的第一眼请不要忘记时间",
+        "match_score": 88
+    }
+]

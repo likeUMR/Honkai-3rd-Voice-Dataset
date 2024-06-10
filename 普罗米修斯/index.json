@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4972.ogg",
+        "matched_line": "我在。",
+        "recognized_text": "我在",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1994.ogg",
+        "matched_line": "您还有一小时十二分钟的自由活动时间。",
+        "recognized_text": "还有1小时十二分钟的自由活动时间",
+        "match_score": 88
+    }
+]

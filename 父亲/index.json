@@ -1,0 +1,74 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_376.ogg",
+        "matched_line": "我以为你昨天就走了…来得及不？",
+        "recognized_text": "我以为你昨天就走了那个鸡巴",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_365.ogg",
+        "matched_line": "以后你要上班，做企业家，从政都行！那些有前途，武馆……呵呵，那不行。",
+        "recognized_text": "以后你要上班做企业家从政都行那些有前途不行",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_362.ogg",
+        "matched_line": "时候不早了，快去机场吧，还得留点时间备用呐。证件都带了吗？行李呢？",
+        "recognized_text": "时候不早了快去机场吧还得留点时间备用啊见多了吗行李呢",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_378.ogg",
+        "matched_line": "在那边就…别练什么武了，不要让同学觉得你是个怪人。爸现在住院都不好意思跟别人说我是开武馆的，小华，时代变了。",
+        "recognized_text": "在那边就别惹什么活了不要让同学觉得你是个怪人把现在住院都不好意思跟别人说我是开武馆的笑话时代变了",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_367.ogg",
+        "matched_line": "爸这边你不用操心，过几天就出院了。你多和朋友们一起玩，没什么重要的事不用回家里来，来回挺不容易的。",
+        "recognized_text": "这边儿你不用操心过几天就出院了你多和朋友们一起玩儿没什么重要的事不用回家里来来回也挺不容易的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_368.ogg",
+        "matched_line": "还有…多交朋友，我就怕你交不到朋友。",
+        "recognized_text": "还有多交朋友我就怕你交不到朋友",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_364.ogg",
+        "matched_line": "今天你就不要来看我啦，你要去上学的呀。",
+        "recognized_text": "今天你就不要来看我了你要去上学的呀",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2004.ogg",
+        "matched_line": "华，爹以后就把这家武馆留给你。",
+        "recognized_text": "别以后就把这家五官留给你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_372.ogg",
+        "matched_line": "你到那边去，要好好照顾自己。爸没什么本事，但供你上学还是没问题的，你啥也不用操心，只管好好学习。",
+        "recognized_text": "你到那边去要好好照顾自己把没什么本事但供你上学还是没问题的你啥也不用操心只管好好学习",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_370.ogg",
+        "matched_line": "我不担心你别的，华，你是个好孩子，照顾好自己。",
+        "recognized_text": "我不担心你别的你是个好孩子照顾好自己",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_373.ogg",
+        "matched_line": "好，那就好。快去吧，照顾好自己。",
+        "recognized_text": "那就好快去吧照顾好自己",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_369.ogg",
+        "matched_line": "好。来，让爸好好看看。我的好女儿…下次见你就是半年后喽。",
+        "recognized_text": "好让爸好好看看我的好女儿下次见你啊就是半年后喽",
+        "match_score": 86
+    }
+]

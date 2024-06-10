@@ -1,0 +1,20 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_1569.ogg",
+        "matched_line": "师父是最重要的存在，旁人的性命并不能与之相比。",
+        "recognized_text": "师傅是最重要的存在朋友的心理并不能与之相比",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1571.ogg",
+        "matched_line": "好不容易才有这样的机会……",
+        "recognized_text": "好容易才有这样的机会",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1772.ogg",
+        "matched_line": "要死的，最后还是死了。",
+        "recognized_text": "要死的最后还是死了",
+        "match_score": 90
+    }
+]

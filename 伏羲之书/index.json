@@ -1,0 +1,242 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_113.ogg",
+        "matched_line": "是为了你。",
+        "recognized_text": "为了你",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3251.ogg",
+        "matched_line": "什么事？",
+        "recognized_text": "没你什么事",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6070.ogg",
+        "matched_line": "是为了你。",
+        "recognized_text": "你是为了你好",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9421.ogg",
+        "matched_line": "没问题！就交给我吧~",
+        "recognized_text": "没问题这种体力活就交给我吧",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2629.ogg",
+        "matched_line": "什么事？",
+        "recognized_text": "什么事",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1355.ogg",
+        "matched_line": "等一下！先别杀它！",
+        "recognized_text": "等一下先别杀他",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1392.ogg",
+        "matched_line": "咦，你原来认得她。",
+        "recognized_text": "你原来认得他",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1473.ogg",
+        "matched_line": "精卫，你不会孤单。",
+        "recognized_text": "你不会孤单",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1353.ogg",
+        "matched_line": "那至少问问村里的人嘛，好不好？至少问清楚发生了什么，再动手也不迟呀。",
+        "recognized_text": "那至少问问村里的人吗好不好至少问清楚发生了什么再多说也不迟啊",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1469.ogg",
+        "matched_line": "她们违背了命令，想尽办法让你远离战场。",
+        "recognized_text": "他们违背了命令想尽办法让你远离战场",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1462.ogg",
+        "matched_line": "千年的时间很长，可对我而言还不够…我的电池总有一天会损坏，记忆体也会冷却。我会陷入沉眠……",
+        "recognized_text": "千年的时间很长可对我而言还不够我的电池总有一天会损坏地铁会冷却不会陷入沉眠",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1333.ogg",
+        "matched_line": "这里的人怎么说？",
+        "recognized_text": "这里的人怎么说",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1316.ogg",
+        "matched_line": "谁说不会？崩坏不也隔三差五才来一回？这些年我们见过的妖魔全都不成气候，真正的崩坏还远着呢。",
+        "recognized_text": "谁说不会啊文化不也隔三差五才来一回些年我们见过的妖魔全都不成气候真正的崩坏还远着呢",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1448.ogg",
+        "matched_line": "不，精卫…你从来不会让人们失望。你为别人做了很多，每个人都看在眼里。",
+        "recognized_text": "视频你从来不会让人们说为别人做了很多每天都看在眼里",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1455.ogg",
+        "matched_line": "我失望的是我自己…想用我们的期望凌驾你的使命，破坏博士的计划，试图把并不重要的东西留在你的心里…",
+        "recognized_text": "我失望的是我自己想让我们的期望等下你的使命破坏不是的计划头发并不重要的东西留在你的心里",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1431.ogg",
+        "matched_line": "要去…超度了那姑娘吗？",
+        "recognized_text": "要去超度了那姑娘吗",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1319.ogg",
+        "matched_line": "你就是太惯着人类了，这就应该是他们自己解决的问题嘛。",
+        "recognized_text": "你就是太惯着人类了这就应该是他们自己解决的问题吗",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1356.ogg",
+        "matched_line": "先查清楚再动手也不迟。",
+        "recognized_text": "先查清楚在东胜也不迟",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1314.ogg",
+        "matched_line": "……你又不理我。",
+        "recognized_text": "你又不理我",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1310.ogg",
+        "matched_line": "你也是几千岁的人了，别这么忙碌。",
+        "recognized_text": "也是几千岁的人了别这么忙碌",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1464.ogg",
+        "matched_line": "制造我的时候，她们对我说……",
+        "recognized_text": "去找我的时候他们对我说",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1312.ogg",
+        "matched_line": "劳逸结合，注意休息嘛。",
+        "recognized_text": "劳逸结合注意休息吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1350.ogg",
+        "matched_line": "…我不喜欢你战斗的样子。很冷酷，很可怕……",
+        "recognized_text": "我不喜欢你战斗的样子很冷酷很可怕",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1463.ogg",
+        "matched_line": "我能做到的就只有这样了。",
+        "recognized_text": "我能做到的就只有这样了",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1436.ogg",
+        "matched_line": "若是没有崩坏就好了。它为什么一直出现，一直害人呢？",
+        "recognized_text": "若是没有崩坏就好了他为什么一直出现一直害人呢",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1337.ogg",
+        "matched_line": "很强吗？",
+        "recognized_text": "很强吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1447.ogg",
+        "matched_line": "是为了你。",
+        "recognized_text": "是为了你",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1334.ogg",
+        "matched_line": "那就不是我们要找的大妖物嘛。",
+        "recognized_text": "那就不是我们要找的药物",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1358.ogg",
+        "matched_line": "那…那就晚一点嘛！",
+        "recognized_text": "那就晚一点嘛",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1470.ogg",
+        "matched_line": "但我不会离开你，精卫。我会一直等待下去，等待能够拯救你的人们出现。",
+        "recognized_text": "但我不会离开你我一直等待下去等待能够拯救你的人出现",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1454.ogg",
+        "matched_line": "我也…很努力了啊。",
+        "recognized_text": "我也很努力了呀",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1359.ogg",
+        "matched_line": "你不觉得奇怪吗？它显然是被关在这里的，那人不杀它，还给它吃的，这背后一定有什么内情。",
+        "recognized_text": "你不觉得奇怪吗他显然是被关在这里的但也不杀他还给他吃的这背后一定有什么内情",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1468.ogg",
+        "matched_line": "是伤心。",
+        "recognized_text": "是伤心",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1466.ogg",
+        "matched_line": "…就算你愿意为了世界牺牲自己，一定也会有人比起这个世界更重视你，这样的人一定会出现的。",
+        "recognized_text": "就算你愿意为了世界牺牲自己世界更是你这样的人一定会出现的",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1449.ogg",
+        "matched_line": "为什么道歉？和你生活在一起，我很快乐呀。只是遗憾没办法永远陪着你…",
+        "recognized_text": "为什么道歉和你生活在一起我很快乐呀只是遗憾没办法永远陪着你",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1441.ogg",
+        "matched_line": "还是没能做到呢。",
+        "recognized_text": "还是没能做到呢",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1471.ogg",
+        "matched_line": "我总是打扰你练功…阻止你用羽渡尘…我想尽办法，好让你和人们更亲近一些……",
+        "recognized_text": "我总是打扰你练功阻止你用语杜淳我想尽办法好让你和人们更亲近一些",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1308.ogg",
+        "matched_line": "我都一把年纪，老啦。",
+        "recognized_text": "我都一把年纪老啦",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1374.ogg",
+        "matched_line": "我们可没有杀它哦，还要问问各位是怎么回事呢！",
+        "recognized_text": "我们可没有杀他还问问各位是怎么回事呢",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1394.ogg",
+        "matched_line": "哎？你刚刚还让我们饶她一命！",
+        "recognized_text": "你刚刚还让我们饶他一命",
+        "match_score": 80
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3282.ogg",
+        "matched_line": "但战场被崩坏兽分割。机甲部队被困，无法提供有效的援助…！",
+        "recognized_text": "现场被崩坏兽分割机甲部队被困无法提供有效的援助",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3398.ogg",
+        "matched_line": "检测到剧烈的崩坏能反应！波长…和静谧宝石的数据完全一致！",
+        "recognized_text": "检测到了剧烈的崩坏能反应波长和精力保湿的数据完全一致",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3275.ogg",
+        "matched_line": "报告，德丽莎和雷电芽衣正在与律者周旋。",
+        "recognized_text": "德莉莎和雷电芽衣正在与猎者周旋",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3279.ogg",
+        "matched_line": "敌人的数量实在太多，再这样下去，我们会失去前方部队的联络！",
+        "recognized_text": "人的数量实在太多再这样下去我们会失去前方部队的联络",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2969.ogg",
+        "matched_line": "数个不明单位以时速320公里，从正前方高速逼近！正在捕捉目标影像！",
+        "recognized_text": "这个不明单位以时速320公里重庆前锋高速毕竟正在补充目标影像",
+        "match_score": 70
+    }
+]

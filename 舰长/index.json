@@ -1,0 +1,2450 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3750.ogg",
+        "matched_line": "你在干什么？",
+        "recognized_text": "你们干什么",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4265.ogg",
+        "matched_line": "冷静点了吗？",
+        "recognized_text": "冷静点",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4489.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4250.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3739.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4722.ogg",
+        "matched_line": "有害垃圾",
+        "recognized_text": "井内有垃圾",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3989.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1706.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了妻子",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4409.ogg",
+        "matched_line": "我看看…",
+        "recognized_text": "你的我看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2044.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的是你吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_781.ogg",
+        "matched_line": "去其他地方看看吧。",
+        "recognized_text": "装你去其他地方看看",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5069.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么下载了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1541.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "怎么回事",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5363.ogg",
+        "matched_line": "什么都没有啊。",
+        "recognized_text": "什么没有啊",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4385.ogg",
+        "matched_line": "留下来？",
+        "recognized_text": "留下来帮忙",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4603.ogg",
+        "matched_line": "爱因斯坦博士？",
+        "recognized_text": "爱因斯坦博士",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2765.ogg",
+        "matched_line": "不会有事的",
+        "recognized_text": "舒服你不会有事的",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2627.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4872.ogg",
+        "matched_line": "我和你一起去吧。",
+        "recognized_text": "要和你一起去",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_861.ogg",
+        "matched_line": "也只有这种时候，你才比较像个姐姐。",
+        "recognized_text": "也只有这种时候你才比较像个姐姐",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5291.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "干嘛",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_870.ogg",
+        "matched_line": "没有没有",
+        "recognized_text": "没关系有没有怪你",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3781.ogg",
+        "matched_line": "加油！",
+        "recognized_text": "加油卡",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3224.ogg",
+        "matched_line": "你要做什么！",
+        "recognized_text": "你要做什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1573.ogg",
+        "matched_line": "过山车",
+        "recognized_text": "音乐过山车",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1363.ogg",
+        "matched_line": "终于轮到我了吗？",
+        "recognized_text": "终于轮到我了吗够呛",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4406.ogg",
+        "matched_line": "可以？",
+        "recognized_text": "还可以",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4066.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "就干嘛",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2457.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2840.ogg",
+        "matched_line": "可以？",
+        "recognized_text": "说可以",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4587.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "怎么回",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4741.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1809.ogg",
+        "matched_line": "你好。",
+        "recognized_text": "你好",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3303.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你不是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2557.ogg",
+        "matched_line": "没事。",
+        "recognized_text": "没事的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2253.ogg",
+        "matched_line": "你知道我？",
+        "recognized_text": "你知道的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1005.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1117.ogg",
+        "matched_line": "拒绝",
+        "recognized_text": "你拒绝",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4497.ogg",
+        "matched_line": "等等看",
+        "recognized_text": "等等",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1164.ogg",
+        "matched_line": "没有",
+        "recognized_text": "倒没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3033.ogg",
+        "matched_line": "我们走吧。",
+        "recognized_text": "我们快走",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2004.ogg",
+        "matched_line": "交给我吧。",
+        "recognized_text": "交给我",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4198.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_693.ogg",
+        "matched_line": "可以？",
+        "recognized_text": "可以",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1643.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1590.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "干嘛",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3020.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "什么怎么回事",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3056.ogg",
+        "matched_line": "一起玩耍",
+        "recognized_text": "一起",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3623.ogg",
+        "matched_line": "哎？",
+        "recognized_text": "哎",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3951.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2722.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_373.ogg",
+        "matched_line": "没有",
+        "recognized_text": "睡醒没有",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2605.ogg",
+        "matched_line": "这样的吗？",
+        "recognized_text": "有这样的吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4863.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "去干嘛",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4016.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_813.ogg",
+        "matched_line": "这是什么时候的事？",
+        "recognized_text": "是什么时候的事",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2997.ogg",
+        "matched_line": "一起玩耍",
+        "recognized_text": "一起",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5118.ogg",
+        "matched_line": "芽衣！芽衣你听得到我在说话吗？",
+        "recognized_text": "你了听得到我说话吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3702.ogg",
+        "matched_line": "没有",
+        "recognized_text": "起来没有",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2456.ogg",
+        "matched_line": "然后呢？",
+        "recognized_text": "然后呢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2095.ogg",
+        "matched_line": "多年？",
+        "recognized_text": "多年",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4445.ogg",
+        "matched_line": "这里是…",
+        "recognized_text": "这里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4850.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有一",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2674.ogg",
+        "matched_line": "没事。",
+        "recognized_text": "没事",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3564.ogg",
+        "matched_line": "回头看看",
+        "recognized_text": "回头",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_438.ogg",
+        "matched_line": "你要做什么！",
+        "recognized_text": "你要做什么",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4786.ogg",
+        "matched_line": "这里是…",
+        "recognized_text": "这里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2355.ogg",
+        "matched_line": "没有",
+        "recognized_text": "还没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3994.ogg",
+        "matched_line": "没有",
+        "recognized_text": "我没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5169.ogg",
+        "matched_line": "你没事吧？",
+        "recognized_text": "你没事吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5109.ogg",
+        "matched_line": "你的？",
+        "recognized_text": "找你的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1962.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1389.ogg",
+        "matched_line": "抱歉…",
+        "recognized_text": "抱歉",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_713.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9360.ogg",
+        "matched_line": "话说，博士你有什么发现吗？",
+        "recognized_text": "你这里有什么发现吗",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4134.ogg",
+        "matched_line": "蓝色",
+        "recognized_text": "蓝色的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5097.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7125.ogg",
+        "matched_line": "怎么办呢？",
+        "recognized_text": "怎么办",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1953.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9430.ogg",
+        "matched_line": "这到底是什么东西！",
+        "recognized_text": "唉不过这是个什么东西",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4426.ogg",
+        "matched_line": "没有",
+        "recognized_text": "就没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9160.ogg",
+        "matched_line": "奥托主教？！",
+        "recognized_text": "奥托主教",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1945.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1577.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6875.ogg",
+        "matched_line": "这个我知道...",
+        "recognized_text": "这个我不知道",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5052.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "哦谢谢你长",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9954.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5073.ogg",
+        "matched_line": "你好。",
+        "recognized_text": "你好",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9737.ogg",
+        "matched_line": "为什么会变成这样啊……",
+        "recognized_text": "怎么会为什么会变成这样",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8503.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "干嘛",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5214.ogg",
+        "matched_line": "这到底是什么东西！",
+        "recognized_text": "这个是什么东西啊",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1840.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "说的是歌",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2152.ogg",
+        "matched_line": "诶？你刚刚说了什么？",
+        "recognized_text": "你刚刚说了什么",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6532.ogg",
+        "matched_line": "我看见了。",
+        "recognized_text": "我看见了真密码",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_223.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9827.ogg",
+        "matched_line": "是这样吗…",
+        "recognized_text": "是这样吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_259.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9950.ogg",
+        "matched_line": "这里是…",
+        "recognized_text": "这里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1446.ogg",
+        "matched_line": "为什么你这么熟练啊？！",
+        "recognized_text": "为什么你这么熟练啊花",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3904.ogg",
+        "matched_line": "你知道我？",
+        "recognized_text": "你知道吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1198.ogg",
+        "matched_line": "没有",
+        "recognized_text": "倒没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9848.ogg",
+        "matched_line": "你好。",
+        "recognized_text": "你好",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7164.ogg",
+        "matched_line": "到底怎么回事啊！",
+        "recognized_text": "练到死那是怎么回事啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1886.ogg",
+        "matched_line": "等等看",
+        "recognized_text": "等等",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4990.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6524.ogg",
+        "matched_line": "他说了什么？",
+        "recognized_text": "他说了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4260.ogg",
+        "matched_line": "那就…",
+        "recognized_text": "那就",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1578.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1740.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "说的是歌",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_432.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3668.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你按照",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5043.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8964.ogg",
+        "matched_line": "马上就要开始了。",
+        "recognized_text": "地铁就要开始了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_932.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6590.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你才是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7031.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有必要",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9071.ogg",
+        "matched_line": "对不起，是我害了你…",
+        "recognized_text": "对不起是我多问了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_65.ogg",
+        "matched_line": "我不懂你在说什么。",
+        "recognized_text": "我不明白你在说什么",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9766.ogg",
+        "matched_line": "这里是…",
+        "recognized_text": "这里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2060.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5459.ogg",
+        "matched_line": "拒绝",
+        "recognized_text": "拒绝",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6011.ogg",
+        "matched_line": "我来了。",
+        "recognized_text": "我带来了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_412.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6071.ogg",
+        "matched_line": "给我的？",
+        "recognized_text": "兄弟给我的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9514.ogg",
+        "matched_line": "你怎么会出现在这里？",
+        "recognized_text": "你是谁你怎么会出现在这里",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_693.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4253.ogg",
+        "matched_line": "这是…",
+        "recognized_text": "这是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8087.ogg",
+        "matched_line": "巧克力？",
+        "recognized_text": "克力",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6951.ogg",
+        "matched_line": "还真是没想到呢。",
+        "recognized_text": "还真是没想到",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2176.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_811.ogg",
+        "matched_line": "既然如此…",
+        "recognized_text": "既然如此见着",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3403.ogg",
+        "matched_line": "等等看",
+        "recognized_text": "等等",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4822.ogg",
+        "matched_line": "你没事吧？",
+        "recognized_text": "现场你没事吧",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2166.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3952.ogg",
+        "matched_line": "哦哦！",
+        "recognized_text": "哦哦",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5485.ogg",
+        "matched_line": "你到底是…",
+        "recognized_text": "音姑姑你到底是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1339.ogg",
+        "matched_line": "怎么办呢？",
+        "recognized_text": "这该怎么办呢",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2188.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4619.ogg",
+        "matched_line": "对吧？",
+        "recognized_text": "对吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1961.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7253.ogg",
+        "matched_line": "我已经好了。",
+        "recognized_text": "我已经知道了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2077.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_829.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_209.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7052.ogg",
+        "matched_line": "你要做什么！",
+        "recognized_text": "你删你要做什么",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_608.ogg",
+        "matched_line": "去看看吧",
+        "recognized_text": "看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8721.ogg",
+        "matched_line": "你在干什么？",
+        "recognized_text": "真的你在干什么",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5174.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你现场",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_311.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9058.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7991.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "说的是",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_352.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_349.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6647.ogg",
+        "matched_line": "等等看",
+        "recognized_text": "的等等",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10267.ogg",
+        "matched_line": "原来是这样啊。",
+        "recognized_text": "原来是这样啊徐院长",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9631.ogg",
+        "matched_line": "到底怎么回事啊！",
+        "recognized_text": "祝你到底是怎么回事",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2407.ogg",
+        "matched_line": "没有",
+        "recognized_text": "倒没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7036.ogg",
+        "matched_line": "嗯，那就快出发吧。",
+        "recognized_text": "那就出发吧",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9742.ogg",
+        "matched_line": "怎么会…",
+        "recognized_text": "怎么会",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1360.ogg",
+        "matched_line": "没有",
+        "recognized_text": "倒没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1667.ogg",
+        "matched_line": "你对吼姆有什么不满！",
+        "recognized_text": "你的红木有什么不满",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2907.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8779.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6296.ogg",
+        "matched_line": "我来了。",
+        "recognized_text": "那我不来了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2009.ogg",
+        "matched_line": "我们走吧。",
+        "recognized_text": "零零我们走吧",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1248.ogg",
+        "matched_line": "没有",
+        "recognized_text": "倒没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_106.ogg",
+        "matched_line": "是这样吗…",
+        "recognized_text": "触碰是这样吗",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7140.ogg",
+        "matched_line": "我有种不好的预感。",
+        "recognized_text": "总觉得有不太好的预感",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4486.ogg",
+        "matched_line": "可以？",
+        "recognized_text": "可以的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_318.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2172.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4831.ogg",
+        "matched_line": "是这样的…",
+        "recognized_text": "嘿嘿是这样的吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9449.ogg",
+        "matched_line": "你没事吧？",
+        "recognized_text": "你没事吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7234.ogg",
+        "matched_line": "怎么会…",
+        "recognized_text": "怎么会",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7015.ogg",
+        "matched_line": "然后呢？",
+        "recognized_text": "然后然后呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1968.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5115.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_927.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10577.ogg",
+        "matched_line": "我听不懂！",
+        "recognized_text": "我听不懂",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_37.ogg",
+        "matched_line": "可是…",
+        "recognized_text": "可是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9488.ogg",
+        "matched_line": "原来如此，那真是太好了。",
+        "recognized_text": "原来如此真是辛苦了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4379.ogg",
+        "matched_line": "你做的很好。",
+        "recognized_text": "你做的很好",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4710.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的是你吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1192.ogg",
+        "matched_line": "没有",
+        "recognized_text": "倒没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3316.ogg",
+        "matched_line": "说起来，你为什么会在这里？",
+        "recognized_text": "说你你为什么会在这里",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_600.ogg",
+        "matched_line": "去看看吧",
+        "recognized_text": "看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_206.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5819.ogg",
+        "matched_line": "还有呢？",
+        "recognized_text": "还没有呢",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1779.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "说的是歌",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9670.ogg",
+        "matched_line": "是这样的…",
+        "recognized_text": "不是这样的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3427.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_715.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7307.ogg",
+        "matched_line": "为什么你也在这里？",
+        "recognized_text": "为什么要你倒在那里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_955.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4098.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "怎回事",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_399.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9329.ogg",
+        "matched_line": "可是…",
+        "recognized_text": "可是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1604.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_701.ogg",
+        "matched_line": "去看看吧",
+        "recognized_text": "看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7430.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9982.ogg",
+        "matched_line": "究竟是什么呢……",
+        "recognized_text": "是啊保护的究竟是什么呢",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9842.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "世界怎么回事啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_819.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10045.ogg",
+        "matched_line": "你在干什么？",
+        "recognized_text": "我在干什么",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2225.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_707.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1876.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "说的是歌",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_10111.ogg",
+        "matched_line": "怎么会…",
+        "recognized_text": "怎么会",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9257.ogg",
+        "matched_line": "那当然。",
+        "recognized_text": "那是当然",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_722.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1887.ogg",
+        "matched_line": "你好。",
+        "recognized_text": "你好",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3166.ogg",
+        "matched_line": "你没事吧？",
+        "recognized_text": "晋城你没事吧",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9694.ogg",
+        "matched_line": "你怎么会出现在这里？",
+        "recognized_text": "这个盒子怎么会出现在这里",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9206.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "怎么回事",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_428.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_366.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你经常",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9750.ogg",
+        "matched_line": "怎么办呢？",
+        "recognized_text": "怎么办",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6876.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "哦是真的吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2187.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4441.ogg",
+        "matched_line": "没有",
+        "recognized_text": "这个没有",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7797.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4108.ogg",
+        "matched_line": "蓝色",
+        "recognized_text": "蓝色的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9203.ogg",
+        "matched_line": "可是…",
+        "recognized_text": "可是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3354.ogg",
+        "matched_line": "我吃",
+        "recognized_text": "我吃这些",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1338.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_637.ogg",
+        "matched_line": "我们走吧。",
+        "recognized_text": "清晨我们走吧",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4259.ogg",
+        "matched_line": "可是…",
+        "recognized_text": "可是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9133.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3387.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_954.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "干嘛",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8831.ogg",
+        "matched_line": "等等看",
+        "recognized_text": "等等",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1342.ogg",
+        "matched_line": "那我就收下了，谢谢你，琪亚娜。",
+        "recognized_text": "现场那我就收下了谢谢",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1987.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_350.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3437.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "干嘛",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5284.ogg",
+        "matched_line": "哦哦，好的！",
+        "recognized_text": "哦好的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_694.ogg",
+        "matched_line": "去看看吧",
+        "recognized_text": "看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4116.ogg",
+        "matched_line": "去看看吧",
+        "recognized_text": "看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_605.ogg",
+        "matched_line": "去看看吧",
+        "recognized_text": "看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2044.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_818.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5092.ogg",
+        "matched_line": "我不懂你在说什么。",
+        "recognized_text": "装俩听不懂呀你姐姐在说什么",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_998.ogg",
+        "matched_line": "不过？",
+        "recognized_text": "不过",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1669.ogg",
+        "matched_line": "你对吼姆有什么不满！",
+        "recognized_text": "你对红木有什么不满",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6535.ogg",
+        "matched_line": "那个原来是你写的吗！",
+        "recognized_text": "那个是你吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1924.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_16.ogg",
+        "matched_line": "可能性？",
+        "recognized_text": "可能性",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1471.ogg",
+        "matched_line": "马上就要开始了。",
+        "recognized_text": "就开始了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1372.ogg",
+        "matched_line": "…现在还不是睡觉的时候。",
+        "recognized_text": "现在不是睡觉的时候",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1520.ogg",
+        "matched_line": "我有种不好的预感。",
+        "recognized_text": "我有种不妙的感觉",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1208.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_616.ogg",
+        "matched_line": "这里是…",
+        "recognized_text": "这里是",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_513.ogg",
+        "matched_line": "多年？",
+        "recognized_text": "多年",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_490.ogg",
+        "matched_line": "我看见了。",
+        "recognized_text": "我看了的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_769.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了理他",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1508.ogg",
+        "matched_line": "真的没事吧？",
+        "recognized_text": "你真的没事吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2011.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1589.ogg",
+        "matched_line": "这是…",
+        "recognized_text": "这是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1384.ogg",
+        "matched_line": "我有种不好的预感。",
+        "recognized_text": "不是我有种不好的预感",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3589.ogg",
+        "matched_line": "你没事吧？",
+        "recognized_text": "没事吧",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3329.ogg",
+        "matched_line": "我是…",
+        "recognized_text": "我只是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_503.ogg",
+        "matched_line": "如你所愿。",
+        "recognized_text": "如你所愿",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_823.ogg",
+        "matched_line": "你好。",
+        "recognized_text": "你好",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3219.ogg",
+        "matched_line": "赢的人，是我！",
+        "recognized_text": "错的人是我",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2296.ogg",
+        "matched_line": "都不是。",
+        "recognized_text": "都是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1594.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3315.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_763.ogg",
+        "matched_line": "这里是…",
+        "recognized_text": "这里是",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_31.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_948.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_796.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1883.ogg",
+        "matched_line": "没有",
+        "recognized_text": "还没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3236.ogg",
+        "matched_line": "我求求你不要再添乱了……",
+        "recognized_text": "我求求你不要再振动了",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1401.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "怎么回事脑袋",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_956.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3256.ogg",
+        "matched_line": "我都干了些什么！",
+        "recognized_text": "我干了什么",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1211.ogg",
+        "matched_line": "这是…",
+        "recognized_text": "这是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2927.ogg",
+        "matched_line": "你的？",
+        "recognized_text": "去你的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1872.ogg",
+        "matched_line": "左边",
+        "recognized_text": "是左边",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3015.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2757.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2777.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1323.ogg",
+        "matched_line": "什么都不买",
+        "recognized_text": "什么都不说了",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1689.ogg",
+        "matched_line": "特斯拉？",
+        "recognized_text": "特斯拉不",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3403.ogg",
+        "matched_line": "你知道我？",
+        "recognized_text": "你知道么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3225.ogg",
+        "matched_line": "等等…我的身份…",
+        "recognized_text": "我的身份",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3502.ogg",
+        "matched_line": "终于结束了…",
+        "recognized_text": "终于结束了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1855.ogg",
+        "matched_line": "这是…",
+        "recognized_text": "这是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3062.ogg",
+        "matched_line": "我想想…",
+        "recognized_text": "嗯嗯我想想",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1888.ogg",
+        "matched_line": "嗯？你们有没有听到什么声音？",
+        "recognized_text": "你有听到什么声音吗",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3437.ogg",
+        "matched_line": "你没事吧？",
+        "recognized_text": "你没事吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2414.ogg",
+        "matched_line": "没有",
+        "recognized_text": "我没有哭",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1478.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_632.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "不是怎么了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1860.ogg",
+        "matched_line": "找到了，就是这个！",
+        "recognized_text": "找到了就是他",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2395.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1988.ogg",
+        "matched_line": "你知道我？",
+        "recognized_text": "你知道",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2873.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3594.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "么了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3065.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_981.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3095.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2143.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3067.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1516.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3507.ogg",
+        "matched_line": "这里是…",
+        "recognized_text": "这里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2341.ogg",
+        "matched_line": "稍等一下",
+        "recognized_text": "等一下",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2981.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3458.ogg",
+        "matched_line": "你怎么会出现在这里？",
+        "recognized_text": "你不应该出现在这里",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3291.ogg",
+        "matched_line": "还有呢？",
+        "recognized_text": "还有呢来了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_769.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2135.ogg",
+        "matched_line": "这是…",
+        "recognized_text": "这是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_974.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3397.ogg",
+        "matched_line": "可能性？",
+        "recognized_text": "可能",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_660.ogg",
+        "matched_line": "你没事吧？",
+        "recognized_text": "没事吧",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1330.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_79.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3386.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有人在",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2061.ogg",
+        "matched_line": "给我的？",
+        "recognized_text": "有给我弄的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_451.ogg",
+        "matched_line": "再听一遍",
+        "recognized_text": "一遍",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1315.ogg",
+        "matched_line": "可以？",
+        "recognized_text": "可以",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1640.ogg",
+        "matched_line": "都不是。",
+        "recognized_text": "都是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_650.ogg",
+        "matched_line": "嗯嗯嗯。",
+        "recognized_text": "嗯嗯嗯嗯",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_970.ogg",
+        "matched_line": "我是…",
+        "recognized_text": "我只是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_676.ogg",
+        "matched_line": "你在干什么？",
+        "recognized_text": "你干什么",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_804.ogg",
+        "matched_line": "这是…",
+        "recognized_text": "这是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1465.ogg",
+        "matched_line": "你的？",
+        "recognized_text": "你要的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_432.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1404.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1260.ogg",
+        "matched_line": "悄…悄悄话？",
+        "recognized_text": "悄悄话",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1373.ogg",
+        "matched_line": "对吧？",
+        "recognized_text": "对吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1351.ogg",
+        "matched_line": "你知道我？",
+        "recognized_text": "你知道吗",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_648.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有见面",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_855.ogg",
+        "matched_line": "没有",
+        "recognized_text": "还没有",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1157.ogg",
+        "matched_line": "我们走吧。",
+        "recognized_text": "让我走吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1322.ogg",
+        "matched_line": "这是…",
+        "recognized_text": "这是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_42.ogg",
+        "matched_line": "可以？",
+        "recognized_text": "那可以",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_105.ogg",
+        "matched_line": "就算你这么说…",
+        "recognized_text": "谢你这么说",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_488.ogg",
+        "matched_line": "你知道我？",
+        "recognized_text": "你知道",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1306.ogg",
+        "matched_line": "你在这呢。",
+        "recognized_text": "你在哪呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1137.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "怎么了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1459.ogg",
+        "matched_line": "对吧？",
+        "recognized_text": "对吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1675.ogg",
+        "matched_line": "我来了。",
+        "recognized_text": "我来了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_262.ogg",
+        "matched_line": "你的？",
+        "recognized_text": "你的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_755.ogg",
+        "matched_line": "可以？",
+        "recognized_text": "可以",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1255.ogg",
+        "matched_line": "等等等等…",
+        "recognized_text": "等等等等",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_863.ogg",
+        "matched_line": "你没事吧？",
+        "recognized_text": "出来的你没事吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1619.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "怎么回事",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1238.ogg",
+        "matched_line": "这里是…",
+        "recognized_text": "这里",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_998.ogg",
+        "matched_line": "没事。",
+        "recognized_text": "没事",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1883.ogg",
+        "matched_line": "你好。",
+        "recognized_text": "你好",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2392.ogg",
+        "matched_line": "还有一个人？",
+        "recognized_text": "还有一个",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_900.ogg",
+        "matched_line": "也许？",
+        "recognized_text": "也许",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4448.ogg",
+        "matched_line": "可是…",
+        "recognized_text": "我可是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1681.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "干嘛呢",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1412.ogg",
+        "matched_line": "还是不要打扰他了…",
+        "recognized_text": "还是不要了",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4291.ogg",
+        "matched_line": "也许？",
+        "recognized_text": "也许",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1131.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "秀干嘛",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1626.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_662.ogg",
+        "matched_line": "你的？",
+        "recognized_text": "你的笑",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2567.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_787.ogg",
+        "matched_line": "可是…",
+        "recognized_text": "可是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1366.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "都说的是",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3698.ogg",
+        "matched_line": "你知道我？",
+        "recognized_text": "你知道",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_410.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3093.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "他干嘛",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_916.ogg",
+        "matched_line": "不过？",
+        "recognized_text": "不过",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2743.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4054.ogg",
+        "matched_line": "没事。",
+        "recognized_text": "没事",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4131.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1000.ogg",
+        "matched_line": "我还不知道…",
+        "recognized_text": "我还不知道你",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4539.ogg",
+        "matched_line": "没有",
+        "recognized_text": "还没有死",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_67.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_295.ogg",
+        "matched_line": "原来如此。",
+        "recognized_text": "原来如此",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1124.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3174.ogg",
+        "matched_line": "你的？",
+        "recognized_text": "你丫的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1439.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "说的是",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_992.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1404.ogg",
+        "matched_line": "丢了？",
+        "recognized_text": "丢脸了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3997.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "说的是",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4397.ogg",
+        "matched_line": "谢谢你。",
+        "recognized_text": "谢谢你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_736.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4132.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_878.ogg",
+        "matched_line": "怎么了？",
+        "recognized_text": "我怎么了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4314.ogg",
+        "matched_line": "说的也是。",
+        "recognized_text": "说的是",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2489.ogg",
+        "matched_line": "等等看",
+        "recognized_text": "等等",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_58.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_250.ogg",
+        "matched_line": "你的？",
+        "recognized_text": "给你的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2252.ogg",
+        "matched_line": "没有没有",
+        "recognized_text": "没有没有哈哈哈",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3687.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3660.ogg",
+        "matched_line": "哼哼？",
+        "recognized_text": "哼哼",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3139.ogg",
+        "matched_line": "你认识她？",
+        "recognized_text": "你认识",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_225.ogg",
+        "matched_line": "我来试试。",
+        "recognized_text": "我试试",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4179.ogg",
+        "matched_line": "真的吗？",
+        "recognized_text": "真的吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2749.ogg",
+        "matched_line": "不过？",
+        "recognized_text": "不过",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_693.ogg",
+        "matched_line": "你知道我？",
+        "recognized_text": "你知道不",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1752.ogg",
+        "matched_line": "你们……",
+        "recognized_text": "你们",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1474.ogg",
+        "matched_line": "没有",
+        "recognized_text": "没有",
+        "match_score": 100
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_482.ogg",
+        "matched_line": "打扰了。",
+        "recognized_text": "没事打扰了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3004.ogg",
+        "matched_line": "你是？",
+        "recognized_text": "你是",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2979.ogg",
+        "matched_line": "什么时间嗷？",
+        "recognized_text": "肚子什么时间",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1836.ogg",
+        "matched_line": "去看看吧",
+        "recognized_text": "看看",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2014.ogg",
+        "matched_line": "我睡了多久了？",
+        "recognized_text": "修了多久了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3401.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "干嘛",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_291.ogg",
+        "matched_line": "没有别的办法了吗？",
+        "recognized_text": "没有别的办法",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1102.ogg",
+        "matched_line": "怎么回事？",
+        "recognized_text": "怎么回事",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_265.ogg",
+        "matched_line": "哦哦！",
+        "recognized_text": "哦哦嗯",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4030.ogg",
+        "matched_line": "干嘛？",
+        "recognized_text": "干嘛呢",
+        "match_score": 67
+    }
+]

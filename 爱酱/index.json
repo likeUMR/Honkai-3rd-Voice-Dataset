@@ -1,0 +1,32 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1863.ogg",
+        "matched_line": "你来了。",
+        "recognized_text": "现场你来了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7805.ogg",
+        "matched_line": "你来了。",
+        "recognized_text": "你了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3372.ogg",
+        "matched_line": "你来了。",
+        "recognized_text": "那你下来了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_2823.ogg",
+        "matched_line": "你来了。",
+        "recognized_text": "你来了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1768.ogg",
+        "matched_line": "你来了。",
+        "recognized_text": "你来了",
+        "match_score": 86
+    }
+]

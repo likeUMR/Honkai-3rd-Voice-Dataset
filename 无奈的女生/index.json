@@ -1,0 +1,32 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_521.ogg",
+        "matched_line": "…那只是媒体为了吸引眼球瞎写的啦，怎么可能真的有丧尸这种东西。",
+        "recognized_text": "那只是媒体为了吸引眼球瞎写的啦怎么可能真的有丧尸这种东西",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_514.ogg",
+        "matched_line": "走啦，要上课了。",
+        "recognized_text": "走啦要上课了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_518.ogg",
+        "matched_line": "小点声！她能听见的！",
+        "recognized_text": "小点声她能听见的",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_520.ogg",
+        "matched_line": "刺激个头啦，少看点恐怖电影！绮罗要是吓哭了，你得负责哄她喔。",
+        "recognized_text": "刺激个头啦少看点恐怖电影许诺要是吓哭了你得负责哄他",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_524.ogg",
+        "matched_line": "…那个穿制服的女生一直在看你，你认识她吗？",
+        "recognized_text": "个穿制服的女生一直在看你你认识他吗",
+        "match_score": 84
+    }
+]

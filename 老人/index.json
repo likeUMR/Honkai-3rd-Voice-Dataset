@@ -1,0 +1,68 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_1381.ogg",
+        "matched_line": "唉，说来话长。那妖物原是村中林家的媳妇儿，也不知上个月中了什么邪术，忽然变了妖怪。",
+        "recognized_text": "唉说来话长咬我原始村中林家的媳妇儿也不知上个月中了什么邪术忽然变成妖怪",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1399.ogg",
+        "matched_line": "担心林氏哪日挣脱了困锁，又来村中杀人。",
+        "recognized_text": "担心零食哪里挣脱的困锁来村中杀人",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1398.ogg",
+        "matched_line": "林氏已化为妖物，活着也是生不如死。我们这么锁着吊着，又能坚持几天？村里人明着不说，暗地里都惧怕，",
+        "recognized_text": "零食异化为妖物活着也是生不如死我们这么锁着钓着又能坚持几天村里人明着不说暗地里都惧怕",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1400.ogg",
+        "matched_line": "方才乡亲们俱在，多双耳朵听着，这事如何说得出口？林家汉子与她那幼子知晓了，定会忌恨咱们。",
+        "recognized_text": "刚才乡亲们聚在多双耳朵听着这是如何说的出口邻家汉子与他的幼子知晓了并会记恨咱们",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1397.ogg",
+        "matched_line": "姑娘莫非是仙人？",
+        "recognized_text": "姑娘莫非是仙人",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1339.ogg",
+        "matched_line": "…姑娘说笑了，本村素来安宁，几百年未曾有妖邪之事。",
+        "recognized_text": "姑娘说笑了本村速来安宁几百年卫生有要挟之",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1401.ogg",
+        "matched_line": "我们都是凡夫俗子，对除妖一事哪有计较。幸而仙人今日到访，想是冥冥中自有天意，着仙人来除此妖。",
+        "recognized_text": "我们都是凡夫俗子对除一局势哪有计较杏儿新人精致高仿像是冥冥中自有天意着先人来如此一",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1396.ogg",
+        "matched_line": "仙人莫要见怪，这里是偏僻乡下，实没见过神仙。老朽的祖父曾见过仙人一面，方才见您风姿卓越，绝非凡人。故而斗胆一猜。",
+        "recognized_text": "新人没要见怪这里是偏僻乡下没见过神仙老朽的祖父曾见过新人一面刚才建宁风姿卓越非凡人而斗胆一猜",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1380.ogg",
+        "matched_line": "她没做什么坏事，她丈夫和孩子也……",
+        "recognized_text": "他没做什么坏事她丈夫和孩子",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1378.ogg",
+        "matched_line": "先打伤了自家汉子，又闯出去见人就砍。幸好青年壮丁都在，一起将她擒住，带去后山锁了起来，没再伤着旁人。",
+        "recognized_text": "先打上了自家汉子又闯出去见人就砍青年壮丁都在一起将它群众带去后山锁了起来没在伤着旁人",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1395.ogg",
+        "matched_line": "老朽想请仙人超度林家媳妇。",
+        "recognized_text": "老想亲亲人超度林家媳妇",
+        "match_score": 75
+    }
+]

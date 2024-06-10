@@ -1,0 +1,26 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4803.ogg",
+        "matched_line": "各单位注意，死士已经侵入地下31层，系统将在五秒后自动启动隔离墙！",
+        "recognized_text": "各单位注意此事已经侵入地下31层系统将在五秒后自动启动隔离墙",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4802.ogg",
+        "matched_line": "非战斗人员立即进入安全设施，避免和伤员接触！",
+        "recognized_text": "非战斗人员立即进入安全设施避免和商业接触",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3491.ogg",
+        "matched_line": "——所有非战斗人员，立即进入最近的避难设施。",
+        "recognized_text": "所有非战斗人员立即进入最近的避难设施",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_27.ogg",
+        "matched_line": "前方侦测到大量崩坏能反应——",
+        "recognized_text": "前方侦测到大量崩坏能反应",
+        "match_score": 92
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4330.ogg",
+        "matched_line": "是么？",
+        "recognized_text": "是么",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9983.ogg",
+        "matched_line": "呵，谁知道呢？",
+        "recognized_text": "谁知道呢",
+        "match_score": 73
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "audio_file": "AUDIO_3_8_4_0_995.ogg",
+        "matched_line": "我也超喜欢的！它的动画在长空市很流行呀！",
+        "recognized_text": "我也超喜欢的它的动画在成功是很流行呀",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_976.ogg",
+        "matched_line": "不过，也可能是我的错觉，毕竟我们离得很远。",
+        "recognized_text": "不过也可能是我的错觉毕竟我们离得很远",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_992.ogg",
+        "matched_line": "“你们大可不必上升到哲学的高度——今天，我只是打算清除一些绊脚石而已。”",
+        "recognized_text": "你们大可不必上升到哲学的高度今天我只是打算清楚一些绊脚石而已",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_977.ogg",
+        "matched_line": "看到她的时候，我总觉得她的样子很悲伤。",
+        "recognized_text": "看到他的时候我总觉得他的样子很悲伤",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1010.ogg",
+        "matched_line": "我还能背出无印倒数第三话的名台词——",
+        "recognized_text": "我还能背出吴音倒数第三华的名台词",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_955.ogg",
+        "matched_line": "白头发，蓝眼睛的女孩……是不是穿着一件白色紧身衣？",
+        "recognized_text": "白头发蓝眼睛的女孩是不是穿着一件白色紧身衣",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_958.ogg",
+        "matched_line": "是在东城区广场……现在那儿都是崩坏兽，我没法靠近……",
+        "recognized_text": "是在东城区广场现在那儿都是崩坏兽我没法靠近",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_954.ogg",
+        "matched_line": "我听说……你能和崩坏兽战斗？",
+        "recognized_text": "我听说你能和崩坏兽战斗",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_951.ogg",
+        "matched_line": "我看见她往西城区方向去了。",
+        "recognized_text": "我看见了我新城区方向去了",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_952.ogg",
+        "matched_line": "可以帮我找一样东西吗？是一条红宝石吊坠，链子是银色的。",
+        "recognized_text": "可以帮我找样东西吗是一条红宝石吊坠链子是银色的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1005.ogg",
+        "matched_line": "太虚皇帝把主角团一个一个干掉的名场面真是太帅了！我看了几十遍呢！",
+        "recognized_text": "太虚皇帝把主角团一个个更掉的名场面真是太帅了我看了几十遍了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_950.ogg",
+        "matched_line": "我看到那女孩后不久，就突然被紫色的大崩坏兽袭击，不当心弄丢了它。",
+        "recognized_text": "我看着那女孩后不久就突然被紫色的大崩坏兽袭击不东西弄丢了她",
+        "match_score": 82
+    }
+]

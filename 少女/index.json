@@ -1,0 +1,50 @@
+[
+    {
+        "audio_file": "AUDIO_3_5_3_6_906.ogg",
+        "matched_line": "凯文，我和梅博士之间的争执，还有我对你说过的那些话……我很抱歉。",
+        "recognized_text": "凯文我和梅博士之间的争执还有我对你说过的那些话我很抱歉",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_896.ogg",
+        "matched_line": "是吗……那我该说些什么？",
+        "recognized_text": "是吗那我该说些什么",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_904.ogg",
+        "matched_line": "凯文，我希望今天之后，人类能继续走下去。",
+        "recognized_text": "看电视我希望今天之后省类能继续走下去",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_780.ogg",
+        "matched_line": "别担心！我一定会救你的！不要放弃！",
+        "recognized_text": "我一定会叫你的不要放弃",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_779.ogg",
+        "matched_line": "求求你……不要死……求求你……",
+        "recognized_text": "求求你不要死求求你",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_776.ogg",
+        "matched_line": "太好了……太好了……果然有人活着！真是太好了！",
+        "recognized_text": "太好了太好了哈哈果然有人活着真是太好了",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_767.ogg",
+        "matched_line": "等一下！我马上救你出来！",
+        "recognized_text": "等一下晚上叫你出来",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_772.ogg",
+        "matched_line": "加油…再坚持一下！",
+        "recognized_text": "再坚持一下",
+        "match_score": 71
+    }
+]

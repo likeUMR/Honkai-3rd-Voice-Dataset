@@ -1,0 +1,20 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4173.ogg",
+        "matched_line": "我来说吧。",
+        "recognized_text": "我来说吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_502.ogg",
+        "matched_line": "没错。",
+        "recognized_text": "没错",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_6544.ogg",
+        "matched_line": "我来说吧。",
+        "recognized_text": "对我来说",
+        "match_score": 67
+    }
+]

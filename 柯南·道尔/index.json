@@ -1,0 +1,50 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4381.ogg",
+        "matched_line": "小心！",
+        "recognized_text": "小心",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_229.ogg",
+        "matched_line": "能力？",
+        "recognized_text": "能力的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3311.ogg",
+        "matched_line": "小心！",
+        "recognized_text": "小心",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7228.ogg",
+        "matched_line": "小心！",
+        "recognized_text": "小心",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9500.ogg",
+        "matched_line": "不见了？",
+        "recognized_text": "听不见了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_1000.ogg",
+        "matched_line": "不见了？",
+        "recognized_text": "见了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_788.ogg",
+        "matched_line": "是呼吸。",
+        "recognized_text": "呼吸",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_5_3_6_834.ogg",
+        "matched_line": "不见了？",
+        "recognized_text": "见了",
+        "match_score": 67
+    }
+]

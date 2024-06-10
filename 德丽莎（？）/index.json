@@ -1,0 +1,32 @@
+[
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3019.ogg",
+        "matched_line": "就往西伯利亚发射了战术导弹，想让她和第二律者同归于尽。",
+        "recognized_text": "就这样发生了战术导弹想让她和第二律者同归于尽",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3009.ogg",
+        "matched_line": "可怜的齐格飞，他无法面对妻子的死，更无法面对那个害死自己妻子的女儿。",
+        "recognized_text": "无法面对妻子的死更无法面对那个害死自己妻子的女儿",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3023.ogg",
+        "matched_line": "他就是为了躲避你这个灾星才逃得远远的。",
+        "recognized_text": "他就是为了躲避你这个灾星才逃的远远的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3021.ogg",
+        "matched_line": "你父母一生最大的不幸，就是生下了你啊。",
+        "recognized_text": "父母一生最大的不是就是生下了你呀",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_3024.ogg",
+        "matched_line": "虽然你一直想要知道，但是对不起，我没法告诉你齐格飞的下落。",
+        "recognized_text": "虽然你一直想要知道但是对不起我没办法告诉你七个飞的下落",
+        "match_score": 86
+    }
+]

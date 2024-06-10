@@ -1,0 +1,32 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_2785.ogg",
+        "matched_line": "我…是你的分身？",
+        "recognized_text": "我是你的分身",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2752.ogg",
+        "matched_line": "那具身体是被抛下的，它的里面没有灵魂。",
+        "recognized_text": "那句身体是被抛下的它的里面没有灵魂",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2787.ogg",
+        "matched_line": "原来如此，你是那时候的……",
+        "recognized_text": "原来如此你是那时候的",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2761.ogg",
+        "matched_line": "——那一瞬间，我发动了羽渡尘的第零额定功率，将自己的意识转移在一根羽毛上，压制空之律者的存在。",
+        "recognized_text": "但瞬间我发动了与都城的帝陵和定功率将自己的意识转移在一根羽毛上瞎子控制律者的存在",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2744.ogg",
+        "matched_line": "被他杀死的那一瞬间——",
+        "recognized_text": "被他杀死的一瞬间",
+        "match_score": 84
+    }
+]

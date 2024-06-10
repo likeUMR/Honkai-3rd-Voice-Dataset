@@ -1,0 +1,602 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_4612.ogg",
+        "matched_line": "还差…一点点……",
+        "recognized_text": "还差一点",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_8818.ogg",
+        "matched_line": "……你说的对。",
+        "recognized_text": "你说的不对",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4340.ogg",
+        "matched_line": "结束了。",
+        "recognized_text": "结束了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1906.ogg",
+        "matched_line": "是我自己要求的。",
+        "recognized_text": "这不是我自己的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1968.ogg",
+        "matched_line": "是我自己要求的。",
+        "recognized_text": "我自己的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_1868.ogg",
+        "matched_line": "结束了。",
+        "recognized_text": "就结束了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_3425.ogg",
+        "matched_line": "结束了。",
+        "recognized_text": "就结束了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_503.ogg",
+        "matched_line": "我不像你们，天生就拥有能抵抗崩坏的圣痕。对我来说，想要活下去，这是唯一的办法。",
+        "recognized_text": "我不像你们天生就拥有能抵抗崩坏的圣痕对我来说想要活下去唯一的办法",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_773.ogg",
+        "matched_line": "放心吧，我一定会救你出去，请你相信我……",
+        "recognized_text": "放心吧我一定会叫你出去请你相信我",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1347.ogg",
+        "matched_line": "一切都变得没有意义，一切都变得遥不可及。",
+        "recognized_text": "姐姐都变得没有意义气息都变得遥不可及",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1014.ogg",
+        "matched_line": "安娜，我们已经突破了天命的防线…别管我，快走……！",
+        "recognized_text": "我们已经突破了天天的奉献别管我快走",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_364.ogg",
+        "matched_line": "根据胡狼的说法，它能大幅干扰律者核心和虚数空间的连接，在短时间内将二者的“通道”扭曲，使律者体内的崩坏能陷入紊乱。",
+        "recognized_text": "根据湖南的说法它能大幅干扰律者核心和叙述空间的连接这段时间内将二者的通道扭曲十六中体内的崩坏能迅速判断",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_653.ogg",
+        "matched_line": "这是你给我的命，也将为你燃烧到最后一秒。",
+        "recognized_text": "其实你给我的命你想问你燃烧到最后一秒",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_370.ogg",
+        "matched_line": "抱歉，身为律者的你，一定会觉得很残忍吧？",
+        "recognized_text": "抱歉身为律者的你一定会觉得很残忍吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_495.ogg",
+        "matched_line": "我身体74%的器官已经改造成了机械，衣服只是装饰罢了，这点寒冷影响不了我。",
+        "recognized_text": "我身体74%的器官已经改造成了机械衣服只是装饰罢了确定寒冷影响不了我",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_255.ogg",
+        "matched_line": "虽然你的力量能与之抗衡，但要捕获她并不容易。",
+        "recognized_text": "虽然你的力量能与之抗衡他要不和他并不容易",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_366.ogg",
+        "matched_line": "雷电芽衣，你先保护渡鸦寻找制高点。我需要一些时间组装陷阱。",
+        "recognized_text": "雷电压抑你先保护动要寻找至高点我需要一些时间组装陷阱",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1013.ogg",
+        "matched_line": "离开这里…这样你就能…活下去了……",
+        "recognized_text": "离开这里这样你就能喝下去",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_185.ogg",
+        "matched_line": "这就是尊主说的雷之律者么……",
+        "recognized_text": "这就是尊主说的雷之律者吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1336.ogg",
+        "matched_line": "我只想，在你看不见的地方默默望着你。",
+        "recognized_text": "我只想在你看不见的地方默默望着你",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1531.ogg",
+        "matched_line": "明明…明明我只是想再见她一面……只是想告诉她我的心意……难道…这也有错么……？",
+        "recognized_text": "秘密明明我只是想再见他一面只是想告诉他我的心情难道有错吗",
+        "match_score": 66
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_362.ogg",
+        "matched_line": "嗯，我也是这么想的……",
+        "recognized_text": "嗯我也是这么想的",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1335.ogg",
+        "matched_line": "就代替我，活下去吧。",
+        "recognized_text": "就代替我活下去吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1236.ogg",
+        "matched_line": "我究竟……做错了什么……",
+        "recognized_text": "我究竟做错了什么",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_535.ogg",
+        "matched_line": "另外，黄泉之杖的触发时间很短，请务必将律者引诱至正确的位置。",
+        "recognized_text": "另外皇权至上的出发时间很短请务必将掠者仅有这正确的位置",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1332.ogg",
+        "matched_line": "但毫无疑问，如果没有你，我早就死在了崩坏的废墟中……",
+        "recognized_text": "好喜欢如果没有我早就死在了崩溃的废墟中",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_654.ogg",
+        "matched_line": "别担心，今天不管发生什么事情，我会在你身边……",
+        "recognized_text": "别担心今天不管发生什么事情我会在你身边",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_257.ogg",
+        "matched_line": "我们……需要一个更完善的对策。",
+        "recognized_text": "我们需要一个更完善的对策",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_652.ogg",
+        "matched_line": "没想到我们会以这种形式再次相遇……真是意外。",
+        "recognized_text": "没想到我们会以这种形式再次相聚确实喜欢",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_221.ogg",
+        "matched_line": "不如省点力气，用在和律者的战斗上面。",
+        "recognized_text": "省点力气现在和绿色的战斗上面",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_669.ogg",
+        "matched_line": "但是……雷电芽衣，既然你可以控制律者的力量，那我也一定能让安娜做到！",
+        "recognized_text": "但是水电压力其实你可以控制绿色的力量我一定能让安娜做到",
+        "match_score": 66
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1355.ogg",
+        "matched_line": "我这条命，就还给你吧。",
+        "recognized_text": "我这条命还给你吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1343.ogg",
+        "matched_line": "我不知道自己做错了什么，也不知道应该去做什么。",
+        "recognized_text": "我不知道自己做错了什么不知道应该去做什么",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1233.ogg",
+        "matched_line": "原来……一切还是和以前一样……没有丝毫改变……",
+        "recognized_text": "选择姐姐还是和以前一样没有丝毫改变",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_500.ogg",
+        "matched_line": "两年前，我遭遇了一场崩坏。虽然侥幸活了下来，但原本的身体受到了严重的损伤。",
+        "recognized_text": "两年前我遭遇了一场崩坏虽然侥幸活了下来但原本的身体受到了严重的损伤",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_394.ogg",
+        "matched_line": "但即使能接近律者，我们也需要更完备的计划。不然，只会让她再次逃走。",
+        "recognized_text": "但就是能接近律者我们也需要更完备的计划不然只会让他再次逃走",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1362.ogg",
+        "matched_line": "或许我应该感谢你…或许我也应该恨你……",
+        "recognized_text": "或许我应该感谢你或许我应该恨你",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_853.ogg",
+        "matched_line": "结束了。",
+        "recognized_text": "结束",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_319.ogg",
+        "matched_line": "……你说的对。",
+        "recognized_text": "你说的对",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_501.ogg",
+        "matched_line": "不过别担心，我没你想的那么脆弱。",
+        "recognized_text": "不过别担心我没你想的那么脆弱",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_256.ogg",
+        "matched_line": "律者的能力我们都见识过了，比想象中更难对付。",
+        "recognized_text": "就这能力我们都见识过了比想象中更难对付",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1333.ogg",
+        "matched_line": "冥冥之中，我找到了与你相遇的契机……",
+        "recognized_text": "冥冥之中我找到了与你相遇的奇迹",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_666.ogg",
+        "matched_line": "我知道世界蛇的目的，你们不会给我机会，我也没有其他选择。",
+        "recognized_text": "我知道世界上的目的你们不会给我机会我也没有其他选择",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_647.ogg",
+        "matched_line": "你的那半还在么，你总是那么粗心大意，该不会弄丢了吧？",
+        "recognized_text": "你在哪办还在吗你总是那么粗心大意可不能丢了吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_182.ogg",
+        "matched_line": "雷电芽衣……大人，这次崩坏已确定诞生了第五律者。",
+        "recognized_text": "雷电牙医大人这次崩坏已经确定诞生的第五律者",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_191.ogg",
+        "matched_line": "好吧…那我就拭目以待了。",
+        "recognized_text": "好吧那我就拭目以待了",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1257.ogg",
+        "matched_line": "我只是想陪在你身边……为什么连这么简单的愿望都无法实现……",
+        "recognized_text": "我只是想陪在你的身边为什么这么简单的愿望都无法实现",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_181.ogg",
+        "matched_line": "那个S级女武神？你惹她干什么，自讨苦吃……",
+        "recognized_text": "那个女武神你惹它干什么自讨苦吃",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1220.ogg",
+        "matched_line": "我说过……除非先杀死我……否则，谁也不能伤害她……",
+        "recognized_text": "说过除非杀死我否则谁也不能伤害她",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_390.ogg",
+        "matched_line": "既不会杀死律者，又能极大程度地限制她的行动。",
+        "recognized_text": "这不会杀死猎者就能极大程度的限制他的行动",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_393.ogg",
+        "matched_line": "到那时，律者就会陷入假死状态，变成一个安全无害的……“植物人”。",
+        "recognized_text": "到那时对角就会陷入假死状态变成一个安全无害的植物人",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_511.ogg",
+        "matched_line": "……原来如此，谢谢你的关心。",
+        "recognized_text": "原来如此谢谢你的关系",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_677.ogg",
+        "matched_line": "还是说服不了你么……",
+        "recognized_text": "还是说服不了你吗",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1239.ogg",
+        "matched_line": "谁能告诉我……",
+        "recognized_text": "谁能告诉我",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_838.ogg",
+        "matched_line": "让开，幽兰黛尔和雷电芽衣已经失败，你也一样阻止不了我们。",
+        "recognized_text": "幽兰戴尔和雷电牙医已经失败你也一样阻止不了我们",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_783.ogg",
+        "matched_line": "……是的，我一定会带你离开这里。",
+        "recognized_text": "我一定会带你离开这里",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1540.ogg",
+        "matched_line": "已经不重要了……只不过是命运给我和安娜，开了一个玩笑。",
+        "recognized_text": "其实不重要了只不过是命运给我和安娜一个玩笑",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1341.ogg",
+        "matched_line": "最后，我选择了自暴自弃，踏上了毁灭自己的道路。",
+        "recognized_text": "最后我选择了自暴自弃他说毁灭自己的道路",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1241.ogg",
+        "matched_line": "不可能……不可能……不可能……",
+        "recognized_text": "不可能不可能不可能",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_326.ogg",
+        "matched_line": "……你的表情变得还真快。",
+        "recognized_text": "你的表情变得还真快",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1344.ogg",
+        "matched_line": "将一切交付给你，我的力量也将成为你的一部分。",
+        "recognized_text": "将一切交付给你我的力量现在成为你的一部分",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_686.ogg",
+        "matched_line": "安娜……我一定会让你……活下去！",
+        "recognized_text": "我一定会让你我下去",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_531.ogg",
+        "matched_line": "设置陷阱需要10分钟左右的时间，完成后我会向你发送坐标。如果有突发情况，我会尽力配合你……",
+        "recognized_text": "设置陷阱需要十分钟左右的时间完成后我会向你发送坐标如果有突发情况我会请你配合你",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1342.ogg",
+        "matched_line": "于是，我开始调查崩坏，调查天命…调查一切与你有关的东西。",
+        "recognized_text": "去世我开始调查崩坏调查甜蜜调查一切与你有关的东西",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1168.ogg",
+        "matched_line": "太好了…这样…只要告诉所有人你已经变回了人类！我们就不用再逃跑了！",
+        "recognized_text": "太好了这样需要告诉所有人已经变回了人类就不用再逃跑了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_498.ogg",
+        "matched_line": "是我自己要求的。",
+        "recognized_text": "是我自己要求的",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_504.ogg",
+        "matched_line": "这就是我为世界蛇战斗的理由，是不是很可笑？",
+        "recognized_text": "这就是我为世界射战斗的理由是不是很可笑",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_371.ogg",
+        "matched_line": "……我只是觉得，好歹我们身边也有一个律者。",
+        "recognized_text": "我只是觉得好歹我们身边也有一个旅者",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_183.ogg",
+        "matched_line": "算了…我是世界蛇干部，代号夜枭，初次见面。",
+        "recognized_text": "算了我是世界上干布代号也行初次见面",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_378.ogg",
+        "matched_line": "简而言之，是一种针对律者核心的限制装置。",
+        "recognized_text": "简而言之是一种针对律者核心的现实充值",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_373.ogg",
+        "matched_line": "……不过，那个律者曾经是训练有素的女武神，这个方案会不会太过简单了？",
+        "recognized_text": "不过那个绿色曾经是训练有素的女武神这个方案会不会太过简单了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_193.ogg",
+        "matched_line": "感觉……还有点软弱呢。交给她，真的没问题么？",
+        "recognized_text": "感觉还有点软弱呢交给他真的没问题吗",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_507.ogg",
+        "matched_line": "最后我只能抛弃原来的身体。在机械的帮助下，我至少可以活得更久一些。",
+        "recognized_text": "最后我只能抛弃原来的身体在机械的帮助下我至少可以活得更久一些",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_321.ogg",
+        "matched_line": "所以……她才把自己冰封了起来。",
+        "recognized_text": "所以他才把自己冰封了起来",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1537.ogg",
+        "matched_line": "是啊……已经结束了……",
+        "recognized_text": "是啊已经结束了",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_645.ogg",
+        "matched_line": "不过没关系，本来就不是什么重要的东西……不管你记不记得，我都会履行自己的责任。",
+        "recognized_text": "没关系本来就不是什么重要的东西不管你记不记得我都会履行自己的责任",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_188.ogg",
+        "matched_line": "这次，我会协助你们一同完成任务。",
+        "recognized_text": "对此我会协助你们一同完成任务",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_651.ogg",
+        "matched_line": "安娜，你还记得这个吊坠么？",
+        "recognized_text": "你还记得这个吊坠吗",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_383.ogg",
+        "matched_line": "发现律者后，我会将黄泉之杖安置在陷阱中，再由你来引诱律者踏入陷阱。",
+        "recognized_text": "发现六折后我会将皇权智障安置在陷阱中再由你来引用率者他说陷阱",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_546.ogg",
+        "matched_line": "收到……已确认律者路径，黄泉之杖即将启动。",
+        "recognized_text": "收到已确认离着路径黄泉之杖你想启动",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_223.ogg",
+        "matched_line": "有雷电芽衣在，我这点本事也帮不上什么忙。",
+        "recognized_text": "有雷电牙医我这点本事也帮不上什么",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1364.ogg",
+        "matched_line": "从那天起，我失去了一切，失去了所有支撑我的东西。",
+        "recognized_text": "从明天起我失去了一切失去了所有支撑我的东西",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_197.ogg",
+        "matched_line": "这样啊……那律者就拜托你们了，我先走了。",
+        "recognized_text": "这啊那里早就拜托你们了我先走了",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1348.ogg",
+        "matched_line": "虽然这个世界已经没有我们的容身之处…但如果还有机会的话……",
+        "recognized_text": "虽然这个世界已经没有我们的容身之处但如果还有机会的话",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1169.ogg",
+        "matched_line": "安娜…别开玩笑了，你在说什么蠢话？为什么要……",
+        "recognized_text": "别开玩笑了你说什么说话为什么要",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_244.ogg",
+        "matched_line": "目标锁定，黄泉之杖……准备装填！",
+        "recognized_text": "目标锁定黄泉之杖准备种田",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_506.ogg",
+        "matched_line": "谢谢，我也是这么想的。",
+        "recognized_text": "谢谢我也是这么想的",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1237.ogg",
+        "matched_line": "为什么……为什么你总是在逃避我……总是将感情封闭在自己心里……",
+        "recognized_text": "喝什么为什么你总是在逃避我测试前感情封闭在自己心里",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_386.ogg",
+        "matched_line": "既然如此，那就尽快制定作战方案吧。时间拖得越久，对我们越不利。",
+        "recognized_text": "既然如此那就尽快制定作战方案吧时间拖的越久对我们越不利",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_187.ogg",
+        "matched_line": "你们怎么才来……",
+        "recognized_text": "你们怎么才来",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_854.ogg",
+        "matched_line": "我们没有时间和你纠缠，现在让开还来得及……！",
+        "recognized_text": "我没有时间和你纠缠现在看还来得及",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1324.ogg",
+        "matched_line": "结束了。",
+        "recognized_text": "结束了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1546.ogg",
+        "matched_line": "我们是律者，是必须要消灭的怪物，你只是做了自己该做的事情。",
+        "recognized_text": "我的世界是必须要消灭的怪物你只是做了自己该做的事情",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1353.ogg",
+        "matched_line": "我的身体已经不再是人类，我的生命也聊无多时。",
+        "recognized_text": "我的身体已经不再是山寨我的生命谢谢弧度",
+        "match_score": 63
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_385.ogg",
+        "matched_line": "正常状态下，这种束缚持续不了多久。但如果你能先一步对冰之律者造成重创，削弱她的力量……",
+        "recognized_text": "正常状态下这种束缚持续不了多久但如果你能先一步对冰之旅者造成重创削弱他的力量",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_496.ogg",
+        "matched_line": "我想要在世界蛇找到治愈自己的方法，但越是寻找就越感到无力。",
+        "recognized_text": "我想要在世界蛇找到治愈自己的方法但也是寻找舅舅感到无力",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_1_4_2_1349.ogg",
+        "matched_line": "最终，我将你当做最后的希望，希望我们能够再次相遇，能够重新开始。",
+        "recognized_text": "我想你当做最后的希望希望我们能够再次相遇那个重新开始",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_804.ogg",
+        "matched_line": "谢谢，我也是这么想的。",
+        "recognized_text": "我也是这么想的",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4091.ogg",
+        "matched_line": "……你说的对。",
+        "recognized_text": "你说的对啊",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_4113.ogg",
+        "matched_line": "……你说的对。",
+        "recognized_text": "你说的对啊",
+        "match_score": 67
+    }
+]

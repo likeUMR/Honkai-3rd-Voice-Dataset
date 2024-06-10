@@ -1,0 +1,1052 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_3934.ogg",
+        "matched_line": "你要什么？",
+        "recognized_text": "你要什么",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1702.ogg",
+        "matched_line": "当然没问题。布洛妮娅，欢迎你加入极东支部第五小队。",
+        "recognized_text": "当然没问题不知道你啊欢迎你加入极东支部第五小队",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1246.ogg",
+        "matched_line": "偶像业界的黑暗根本不是小孩子能想像的。像这样的选角活动，充满了各种内幕交易。",
+        "recognized_text": "偶像业界的黑暗根本不是小孩子能想象的这样的选择活动充满了各种内幕交易",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3438.ogg",
+        "matched_line": "布洛妮娅，我听说你来到这里前，有过一段不愉快的回忆。",
+        "recognized_text": "不管你我听说你来到这里前有过一段不愉快的回忆",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1943.ogg",
+        "matched_line": "分头跑吧！布洛妮娅，你和希儿带着他先走，在撤离地点等我们。",
+        "recognized_text": "分头跑吧不是你你和馨儿带着他先走在撤离地点等我们",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2210.ogg",
+        "matched_line": "第五小队尝试追踪未果，彻底丢失了对方的线索。",
+        "recognized_text": "第五小队尝试追踪未果彻底丢失了对方的线索",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5159.ogg",
+        "matched_line": "放心吧，他们不会对我怎么样的。",
+        "recognized_text": "放心吧他们不会对我怎么样的",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1884.ogg",
+        "matched_line": "我们拿走了他用来识别权限的“钥匙”，你们那边的情况如何？",
+        "recognized_text": "我们拿走了用来识别权限的钥匙情况如何",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1738.ogg",
+        "matched_line": "我是在西伯利亚的孤儿院长大的，对年幼的我来说，努力活下去就是生活的全部。",
+        "recognized_text": "或是在西伯利亚的孤儿院长大的对年幼的我来说努力活下去就是生活的全部",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4287.ogg",
+        "matched_line": "灰蛇……为什么要擅自启动海渊之眼！",
+        "recognized_text": "会说为什么要擅自启动海之言",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5162.ogg",
+        "matched_line": "我这几十年，做了许多事，也犯过许多错。说没有后悔，是不可能的。",
+        "recognized_text": "我这几十年做了许多事也犯过许多错说没有后悔是不可能的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_299.ogg",
+        "matched_line": "我已经为你准备好了必要的仪器设施，你可以随意摆弄。",
+        "recognized_text": "我已经为你准备好了必要的仪器设施你可以随意摆弄",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2233.ogg",
+        "matched_line": "不是这种东西。",
+        "recognized_text": "不是这种东西",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5171.ogg",
+        "matched_line": "你有让大家团结起来的能力，所以别忘了多回头看看她们。",
+        "recognized_text": "你有让大家团结起来的能力可别忘了回头看看他们",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1838.ogg",
+        "matched_line": "不像是。银狐是这座城市的地头蛇，以一介地下组织的成员而言，他的身份过于张扬了。",
+        "recognized_text": "不像是银湖是这座城市的地头蛇一间地下组织的成员而言她的身份过于张扬了",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1708.ogg",
+        "matched_line": "如果女武神没有自己的判断，没有自己认为的对错，只是服从命令……那根本和工具没有任何区别。",
+        "recognized_text": "如果女武神没有自己的判断没有自己认为的对错只是服从命令那根本和工具没有任何区别",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_309.ogg",
+        "matched_line": "爱因斯坦，人算不如天算。",
+        "recognized_text": "爱因斯坦人算不如天算",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1715.ogg",
+        "matched_line": "她们在与律者战斗的同时，还对西伯利亚及周边地区发起援救，保护了大量平民。",
+        "recognized_text": "他们在与绿者战斗的同时还对西伯利亚及周边地区发起研究保护了大量平民",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5167.ogg",
+        "matched_line": "而你，则太喜欢把一切事都扛在自己肩上。",
+        "recognized_text": "而你这太喜欢把一切事都扛在自己肩上",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1657.ogg",
+        "matched_line": "那么，让我们看着影像资料开始今天的历史课吧。",
+        "recognized_text": "让我们看着影像资料开始今天的历史课吧",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2127.ogg",
+        "matched_line": "……你的理由是？",
+        "recognized_text": "你的理由是",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1661.ogg",
+        "matched_line": "说的很好，看来你有认真预习。只不过，有个小错误。",
+        "recognized_text": "说得很好看来你有认真预习只不过有个小错误",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_305.ogg",
+        "matched_line": "我很高兴你们愿意向我伸出援手…",
+        "recognized_text": "我很高兴你们愿意向我伸出援手",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1720.ogg",
+        "matched_line": "今天的课就上到这里。马上就要考试了，大家可要好好复习。下课。",
+        "recognized_text": "今天的课就上到这里马上就要考试了大家可以好好复习下课",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1714.ogg",
+        "matched_line": "你可以尽情地探索这个学校，尽情地认识朋友，尽情地想象自己的未来。",
+        "recognized_text": "你可以尽情的探索这个学校尽情的认识朋友尽情地想象自己的未来",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5207.ogg",
+        "matched_line": "和大家在一起的地方，才是你的“家”。",
+        "recognized_text": "和大家在一起的地方才是你的家",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1664.ogg",
+        "matched_line": "上课了，大家都回到位子上吧。历史课要开始了。",
+        "recognized_text": "上课了大家都回到位置上吧历史课要开始了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5192.ogg",
+        "matched_line": "呵，说不定必要的时候，我还能得到一些戴罪立功的机会呢。",
+        "recognized_text": "说不定必要的时候货还能得到一些戴罪立功的机会呢",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1954.ogg",
+        "matched_line": "他本来应该被关在实验舱里的，但银狐擅自把他给放了出来。",
+        "recognized_text": "他本来应该被关在实验舱里的等盐湖擅自把他给放了出来",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3931.ogg",
+        "matched_line": "你迟到了，灰蛇。我希望你能给我一个解释。",
+        "recognized_text": "你迟到了会我希望你能给我一个解释",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1121.ogg",
+        "matched_line": "我们已经决定放弃海渊城，跟我们一起走。",
+        "recognized_text": "我们已经决定放弃海源城跟我们一起走",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_324.ogg",
+        "matched_line": "我说了，只是因为一些小小的“意外”。",
+        "recognized_text": "我说了只是因为一些小小的意外",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2211.ogg",
+        "matched_line": "我相信你，布洛妮娅。在不远的未来，你一定会成为一个优秀的女武神。",
+        "recognized_text": "突然你啊我相信你不远的未来一定会成为一个优秀的女武神",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_313.ogg",
+        "matched_line": "我投降。以这里的兵力对抗前S级女武神毫无胜算，是我输了。",
+        "recognized_text": "我投降这里的兵力对抗且还是给女武神毫无胜算是我说了",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5160.ogg",
+        "matched_line": "她们都很喜欢你，都在努力追赶着你。",
+        "recognized_text": "他们都很喜欢你都在努力追赶着你",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1692.ogg",
+        "matched_line": "布洛妮娅，我听说你来到这里前，有过一段不愉快的回忆。",
+        "recognized_text": "不管你啊听说你来到这里前有过一段不愉快的回忆",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1655.ogg",
+        "matched_line": "嗯，也可以理解，毕竟第二次崩坏爆发的地点是你的家乡。",
+        "recognized_text": "也可以理解毕竟第二次崩坏爆发的地点是你的家乡",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5188.ogg",
+        "matched_line": "你总是独自背负，永远看着前面，却忘了身边还有一群和你一同前进的人。",
+        "recognized_text": "你总是独自背负永远看着前面却忘了身边还有一群和你一同前进的人",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1112.ogg",
+        "matched_line": "海渊之眼暴走了，数以千计的崩坏兽正在朝这里袭来。",
+        "recognized_text": "海员职业暴走了数以千计的崩坏兽正在朝这里袭来",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1790.ogg",
+        "matched_line": "布洛妮娅，给你介绍一下小队里的其他成员。",
+        "recognized_text": "突然啊给你介绍一下小队里的其他成员",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2232.ogg",
+        "matched_line": "当然可以，这是你的自由。",
+        "recognized_text": "当然可以这是你的自由",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_306.ogg",
+        "matched_line": "呵呵，你们现在还真有天命通缉犯的样子。",
+        "recognized_text": "呵呵你们现在还真有天命通缉犯的样子",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1693.ogg",
+        "matched_line": "但在我看来，她们没有做错。",
+        "recognized_text": "但在我看来他们没有做错",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1724.ogg",
+        "matched_line": "嗯……为什么？老师也疑惑过这个问题。",
+        "recognized_text": "嗯为什么老师也疑惑过这个问题",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1951.ogg",
+        "matched_line": "机甲凭空出现，随即又消失得无影无踪……我对这种力量有印象。",
+        "recognized_text": "机甲凭空出现随即又消失的无影无踪我对这种力量有印象",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_795.ogg",
+        "matched_line": "既然你这么认为，那就这样吧…",
+        "recognized_text": "既然你这么认为那就这样吧",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1875.ogg",
+        "matched_line": "收到，我们直接在那里汇合。",
+        "recognized_text": "我们直接在那里汇合",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1735.ogg",
+        "matched_line": "这样的孩子在北方并不少见，成长的过程中，我也见到过许多和我一样的孤儿。",
+        "recognized_text": "这样的孩子在北方并不少见成长的过程中我也见到过许多和我一样的孤儿",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1961.ogg",
+        "matched_line": "那是第一律者，理之律者的能力。",
+        "recognized_text": "是第一律者李之律者的能力",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_816.ogg",
+        "matched_line": "…是妈妈心急了。妈妈只是不想放过捕获律者的机会。",
+        "recognized_text": "是妈妈心急了妈妈只是不想放过不会律者的机会",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1891.ogg",
+        "matched_line": "布洛妮娅，银狐已经被我们解决了。",
+        "recognized_text": "已经被我们解决了",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1705.ogg",
+        "matched_line": "事出突然，我们今晚就得出发。我待会儿把任务资料给你，准备一下吧。",
+        "recognized_text": "事出突然我们今晚就得出发我待会儿把任务资料给你准备一下吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3433.ogg",
+        "matched_line": "但不管过去发生了什么，都已经过去了。",
+        "recognized_text": "但不管过去发生了什么都已经过去了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1804.ogg",
+        "matched_line": "你竟然会迟到，怎么了吗？",
+        "recognized_text": "你竟然会迟到怎么了吗",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5215.ogg",
+        "matched_line": "希儿很会照顾别人，也能把事情都做得很好，可她性格懦弱，有些缺乏主见。",
+        "recognized_text": "是很会照顾别人也能把事情都做得很好可他性格懦弱有些缺乏主见",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1157.ogg",
+        "matched_line": "但是，千万不要靠近量子之海！",
+        "recognized_text": "千万不要靠近量子之海",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4298.ogg",
+        "matched_line": "你以为我在开玩笑吗！？",
+        "recognized_text": "你以为我在开玩笑吗",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_310.ogg",
+        "matched_line": "因为一些小小的意外，渴望宝石已经落入「量子之海」中了。",
+        "recognized_text": "因为一些小小的意外渴望宝石已经落入量子之海中了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_322.ogg",
+        "matched_line": "你也看到，天命已经发现了这里，我们为什么不坐下来好好商讨一下反击的对策呢？",
+        "recognized_text": "也看的天命已经发现了这里我们为什么不坐下来好好商讨一下反击的对策呢",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1830.ogg",
+        "matched_line": "姬子和符华会与我一同给银狐来个登门拜访。",
+        "recognized_text": "妻子和浮华会和我一同给银狐来个登门拜访",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2116.ogg",
+        "matched_line": "看来大家都平安逃出来了。",
+        "recognized_text": "看来大家都平安逃出来了",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5155.ogg",
+        "matched_line": "我不知道，真的不知道。",
+        "recognized_text": "我不知道真的不知道",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2207.ogg",
+        "matched_line": "另外，圣芙蕾雅学园会多出一个普通的转校生，不过这件事就不用汇报给总部了。",
+        "recognized_text": "另外幸福蕾雅学员会多出一个普通的转校生不过这件事就不用汇报给总部了",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_303.ogg",
+        "matched_line": "我当然知道，所以才会求助于你，只有你才能把渴望宝石带回来。",
+        "recognized_text": "我当然知道所以才会求助于你只有你才能把渴望宝石带回来",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5168.ogg",
+        "matched_line": "但有一件事，我从未后悔过。",
+        "recognized_text": "但有一件事我从未后悔过",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_452.ogg",
+        "matched_line": "不过现在也没什么需要向你们隐瞒的了，随意调查吧。",
+        "recognized_text": "不过现在也没什么需要向你们隐瞒的了随调查吧",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5193.ogg",
+        "matched_line": "不过，这段时间，孤儿院就得拜托你们照顾了。",
+        "recognized_text": "不过这段时间孤儿院就拜托你们照顾了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1700.ogg",
+        "matched_line": "其二就是天命S级女武神塞西莉亚·沙尼亚特所率领的雪狼小队。",
+        "recognized_text": "其二就是天命s级女武神cc莉亚沙尼亚特所率领的雪狼小队",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2122.ogg",
+        "matched_line": "说得好，我也是这么认为的。",
+        "recognized_text": "说得好我也是这么认为的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2118.ogg",
+        "matched_line": "好了，把他带过来吧。",
+        "recognized_text": "好了把他带过来吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1709.ogg",
+        "matched_line": "如果没有她们的努力，崩坏带给世界的伤痛将更加难以愈合。",
+        "recognized_text": "如果没有他们的努力崩坏给世界带来的伤痛会更加难以愈合",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_298.ogg",
+        "matched_line": "恭候多时了，爱因斯坦，还有休伯利安的各位。",
+        "recognized_text": "恭候多时了一次疼还有修伯利安的各位",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_451.ogg",
+        "matched_line": "祝你们好运。",
+        "recognized_text": "祝你们好运",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_450.ogg",
+        "matched_line": "再往前就是海渊城的内部。按规定，里面的东西是逆熵的最高机密。",
+        "recognized_text": "再往前就是海源城的内部按规定里面的东西是硬伤的最高机密",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1962.ogg",
+        "matched_line": "我和你想的一样，这个孩子就是失踪的“物资”，我们要回收的任务目标。",
+        "recognized_text": "我和你想的一样这个孩子就是失踪的物资我们要回收的任务目标",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3427.ogg",
+        "matched_line": "我相信你，布洛妮娅。在不远的未来，你一定会成为一个优秀的女武神。",
+        "recognized_text": "突然你我相信你在不远的未来一定会成为一个优秀的女武神",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1713.ogg",
+        "matched_line": "但不管过去发生了什么，都已经过去了。",
+        "recognized_text": "但不管过去发生了什么都已经过去了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5200.ogg",
+        "matched_line": "在这种非常时期，没人会把时间精力放在叛徒身上。",
+        "recognized_text": "在这种非常时期没人会把时间精力放在叛徒身上",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5220.ogg",
+        "matched_line": "看来爱因斯坦和你说了不少事。",
+        "recognized_text": "看来一次坦和你说了不少事",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_297.ogg",
+        "matched_line": "谁能保证你们带走了渴望宝石，天命就不会继续攻击我们呢？",
+        "recognized_text": "谁能保证你们带走了渴望宝石甜蜜也就不会继续攻击我们的",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1118.ogg",
+        "matched_line": "海渊之眼被启动了，崩坏兽是被它吸引过来的！",
+        "recognized_text": "海员之眼被启动了崩坏兽是被她吸引过来的",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2228.ogg",
+        "matched_line": "对了，我还没有问过你的名字。",
+        "recognized_text": "哦对了我还没有问过你的名字",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1837.ogg",
+        "matched_line": "趁这段时间，布洛妮娅和希儿仔细调查一下周边的地形，找出可能藏匿失踪物资的地点。",
+        "recognized_text": "趁这段时间不说你要和熙儿仔细调查一下周边的地形找出可能藏匿失踪物资的地点",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5222.ogg",
+        "matched_line": "我不知道，也没有必要去想这件事。没有人会在意失败者的想法。",
+        "recognized_text": "我不知道也没有必要去想这件事没有人会在意失败者的想法",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2204.ogg",
+        "matched_line": "果然，带上你是正确的选择。",
+        "recognized_text": "果然带上你是正确的选择",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1802.ogg",
+        "matched_line": "运输舰还有几分钟就会抵达，希望你们都已经做好了准备。",
+        "recognized_text": "叶书剑还有几分钟就会抵达希望你们都已经做好了准备",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3908.ogg",
+        "matched_line": "我可以让部队驻扎到海渊城，但我没有办法启动海渊之眼。",
+        "recognized_text": "我可以让部队驻扎到海源城但我没有办法启动还愿之夜",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1831.ogg",
+        "matched_line": "既然如此，我们就有必要见见他了。",
+        "recognized_text": "既然如此我们就有必要见见他了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1660.ogg",
+        "matched_line": "得益于天命的果断，世界上大部分区域都避免了这场灾难。",
+        "recognized_text": "得益于天命的果断世界上大部分区域都避免了这场灾难",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2225.ogg",
+        "matched_line": "放心吧，你再也不会见到他们了。",
+        "recognized_text": "放心吧你再也不会见到他们了",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3932.ogg",
+        "matched_line": "除了盟主和他最信任的人外，没有人知道如何启动那座传送门。",
+        "recognized_text": "除了盟主和他最信任的人外没有人知道如何启动那个传送门",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1942.ogg",
+        "matched_line": "既然如此，他身上的那些伤……",
+        "recognized_text": "见如此他身上的那些伤",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2230.ogg",
+        "matched_line": "圣芙蕾雅学园，你以后的家。",
+        "recognized_text": "胜负蕾雅学院你以后的家",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4293.ogg",
+        "matched_line": "我最后再说一遍，我要看到布洛妮娅平安无事地回来。",
+        "recognized_text": "我最后再说一遍我要看到你平安无事的回来",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1958.ogg",
+        "matched_line": "我在总部的档案中看到过，用崩坏能复现事物的构造，并将其转化为实体的能力——",
+        "recognized_text": "我在总部的档案中看到过用崩坏能复现事物的构造并将其转化为实体的能力",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4602.ogg",
+        "matched_line": "哼，我明白……这是“互利合作”。",
+        "recognized_text": "我明白这是互利合作",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5191.ogg",
+        "matched_line": "那就是在2012年的春天，从西伯利亚的雪原带回了你。",
+        "recognized_text": "那就是在2012年的春天从西伯利亚的雪原回了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1707.ogg",
+        "matched_line": "其一是天命北美支部所研发的战术机甲。它们在第二次崩坏中首次被投入使用，并展现出了不亚于女武神的作战能力。",
+        "recognized_text": "即使天命北美支部所研发的战术机甲他们在第二次崩坏中首次被投入使用并展现出了不亚于女武神的作战能力",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1719.ogg",
+        "matched_line": "这也是我在那场灾难中，从塞西莉亚学园长身上得到的宝物。",
+        "recognized_text": "这也是我在那场灾难中赛菲莉亚学院长身上得到的宝物",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1718.ogg",
+        "matched_line": "毕竟，我也是当年被她们拯救了的人。",
+        "recognized_text": "毕竟我也是当年被他们拯救了的人",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_317.ogg",
+        "matched_line": "更何况…你们从一开始就只想着拿走宝石，根本没有考虑过我们的安危。",
+        "recognized_text": "更何况你们从一开始就只想着拿走宝石根本没有考虑过我们的",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1698.ogg",
+        "matched_line": "嗯。因为我意识到，不管我走哪条路，都有办法让那些孩子在火炉旁吃上面包。",
+        "recognized_text": "因为我意识到不管我走哪条路都有办法让那些孩子在火炉旁吃上面包",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2234.ogg",
+        "matched_line": "你很快就会知道了。",
+        "recognized_text": "你很快就会知道了",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1712.ogg",
+        "matched_line": "希望和自由。",
+        "recognized_text": "希望和自由",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_323.ogg",
+        "matched_line": "再把它捞出来就行了，我相信你一定能做到，爱因斯坦博士。",
+        "recognized_text": "再把它捞出来就行了我相信你一定能做到爱因斯坦博士",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_301.ogg",
+        "matched_line": "不过在你研究办法的这段时间里，就得麻烦休伯利安的各位一直保护海渊城了。",
+        "recognized_text": "不过在研究办法的这段时间里就得麻烦休伯利安的各位一直保护海员成了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1111.ogg",
+        "matched_line": "哼，你想送死是你的事，我管不着。",
+        "recognized_text": "你享受死是你的事我管不着",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_320.ogg",
+        "matched_line": "哼，如果我不给呢？",
+        "recognized_text": "如果我不给呢",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1123.ogg",
+        "matched_line": "你能做什么？听我的话，赶紧离开这里！",
+        "recognized_text": "你能做什么听我的话赶紧离开这里",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5217.ogg",
+        "matched_line": "布洛妮娅，你是我的骄傲。",
+        "recognized_text": "布洛尼亚你是我的骄傲",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_290.ogg",
+        "matched_line": "我说过，我们这是互利合作，天命才是我们共同的敌人。",
+        "recognized_text": "我说过我们这是互利合作天命才是我们共同的敌人",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_293.ogg",
+        "matched_line": "渴望宝石就放在海渊城里，你们自己去拿吧…",
+        "recognized_text": "渴望宝石就放在海源城里你们自己去拿吧",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2111.ogg",
+        "matched_line": "接下来只要把那个孩子交还给总部的联络人，任务就能圆满结束。",
+        "recognized_text": "接下来只要把那个孩子交还给总部的联络人任务就能圆满结束",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4292.ogg",
+        "matched_line": "你把布洛妮娅卷了进来！她和这件事情没有任何关系！",
+        "recognized_text": "你不说你要剪了进来他和这件事情没有任何关系",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5195.ogg",
+        "matched_line": "萝莎莉娅和莉莉娅心地善良，总想着给大家带来笑容。但她们涉世尚浅，很多事还不明白。",
+        "recognized_text": "我家里和丽丽心地善良总想着给大家带来笑容但他们说是上去很多事还不明白",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3933.ogg",
+        "matched_line": "海渊之眼？你们要用它做什么？",
+        "recognized_text": "海洋之眼你们要用它做什么",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1119.ogg",
+        "matched_line": "……战术机甲，给我拦住她！",
+        "recognized_text": "战术机甲陪我拦住他",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_316.ogg",
+        "matched_line": "你们可以自由出入这座遗迹。如果怀疑我藏着渴望宝石，也请随便检查。",
+        "recognized_text": "你们可以自由出入这座遗迹如果怀疑我藏着渴望宝石也请随便检查",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2112.ogg",
+        "matched_line": "那当然，我们可是圣芙蕾雅的女武神。",
+        "recognized_text": "那当然我们可是幸福蕾雅的女武神",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1644.ogg",
+        "matched_line": "嚯，今天缺席的同学还真多。",
+        "recognized_text": "今天清洗的同学还真多",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4526.ogg",
+        "matched_line": "我会尽力为你们争取时间……",
+        "recognized_text": "会尽力为你们争取时间",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1651.ogg",
+        "matched_line": "第二次崩坏在西伯利亚爆发后，天命立刻采取了行动，成功控制了周边地区的伤亡，而律者也在诞生后22小时后被消灭。",
+        "recognized_text": "第二次崩坏在西伯利亚爆发后甜蜜立刻采取了行动成功控制了周边地区的伤亡而律者也在诞生22小时后被消灭",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1736.ogg",
+        "matched_line": "这里是圣芙蕾雅学园，你不用再像以前那样顺从别人的命令生活。",
+        "recognized_text": "这里是圣芙蕾雅学院你不用再像以前那样顺从别人的命令生活",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2223.ogg",
+        "matched_line": "名字是你的象征，是你希望别人对自己的称呼。",
+        "recognized_text": "名字是你的象征是你希望别人对自己的称呼",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1728.ogg",
+        "matched_line": "我相信在座的各位都明白这点，所以你们才会选择来到圣芙蕾雅——这座由塞西莉亚女士所创立的学园。",
+        "recognized_text": "我相信在座的各位都明白这一点所以你们才会选择来到圣芙蕾雅制作有cc的女士所创立的学员",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4515.ogg",
+        "matched_line": "战术机甲撑不了多久，你快带着萝莎莉娅撤退……",
+        "recognized_text": "战术机甲撑不了多久你快带着咱俩撤退",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_5198.ogg",
+        "matched_line": "是吗……原来，我之前都没有说过吗。",
+        "recognized_text": "是吗原来我之前都没有说过吗",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1806.ogg",
+        "matched_line": "没事。给你介绍一下，这是今天新加入我们的布洛妮娅，年纪比你稍微大一些。",
+        "recognized_text": "没关系给你介绍一下这是今天新加入我们的伯尔尼年纪比你稍微大一些",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1792.ogg",
+        "matched_line": "还有一个人……嗯，没到吗？",
+        "recognized_text": "还有一个人嗯没到吗",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4291.ogg",
+        "matched_line": "如果布洛妮娅不能平安无事地回来，我们的交易就到此为止。",
+        "recognized_text": "如果不让你也不能平安无事的回来我们的交易就到此为止",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_315.ogg",
+        "matched_line": "我只是为了确保部队能够平安撤离。",
+        "recognized_text": "我只是为了确保部队能够平安撤离",
+        "match_score": 97
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1122.ogg",
+        "matched_line": "但布洛妮娅，我不允许你进去。",
+        "recognized_text": "我不允许你进去",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1733.ogg",
+        "matched_line": "我想为她们做些什么，比如……加入军队保护流浪的孩子，或是建立一个孤儿院给她们温暖的家。",
+        "recognized_text": "我想为他们做些什么比如加入军队保护流浪的孩子建立一个孤儿院给它们温暖的家",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1803.ogg",
+        "matched_line": "布洛妮娅，这是希儿。她有些怕生，但是个好孩子。你们会成为好朋友的。",
+        "recognized_text": "说你啊这是他有点怕生但是个好孩子你们会成为好朋友的",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1113.ogg",
+        "matched_line": "天命也绝对不会按兵不动，留在这里就是死路一条。",
+        "recognized_text": "甜蜜也绝对不会按兵不动比如在这里就是死路一条",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1691.ogg",
+        "matched_line": "但有些东西，只有女武神……圣芙蕾雅学园的女武神，才能给予她们。",
+        "recognized_text": "但有些东西只有女武神幸福蕾雅学院的女武神才能给予他们",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1842.ogg",
+        "matched_line": "尽量避免引起注意，等我们那边搞定了就来和你们汇合。",
+        "recognized_text": "尽量避免引起注意等我们那边搞定了就来和你们汇合",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1721.ogg",
+        "matched_line": "尽情地去做你想做的事，你是自由的。",
+        "recognized_text": "尽情的去做你想做的事你是自由的",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1926.ogg",
+        "matched_line": "这个废弃仓库就是银狐的藏匿点？",
+        "recognized_text": "这个废弃仓库就是银狐的长一点",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2113.ogg",
+        "matched_line": "你们做得很好，尤其是希儿和布洛妮娅，你们做出了不可或缺的贡献。",
+        "recognized_text": "你们做得很好尤其是吸烟和不是你啊你们做出了不可或缺的贡献",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3909.ogg",
+        "matched_line": "说吧，要我做什么？",
+        "recognized_text": "说吧叫我做什么",
+        "match_score": 75
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1120.ogg",
+        "matched_line": "我才想问你们做了什么！",
+        "recognized_text": "我才想问你们做了什么",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2205.ogg",
+        "matched_line": "作为任务负责人，我会承担起所有的责任。",
+        "recognized_text": "作为任务负责人我会承担起所有的责任",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_803.ogg",
+        "matched_line": "你知道，只要对律者的研究顺利…",
+        "recognized_text": "你知道只要对律者的研究顺利",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1717.ogg",
+        "matched_line": "哈哈，是我说的那些话勾起了你的兴趣吗。",
+        "recognized_text": "是我说的那些话勾起了你的兴趣吗",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_286.ogg",
+        "matched_line": "你这么关心我，还真是让人感动呢，博士。",
+        "recognized_text": "你这么关心我还真是让人感动的博士",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1658.ogg",
+        "matched_line": "今天我们顺着上一节课的内容，讲一讲第二次崩坏。",
+        "recognized_text": "今天我们顺着上一节课的内容讲一讲第二次崩坏",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1739.ogg",
+        "matched_line": "值得一提的是，在这场战争中，有两股力量起到了决定战局的作用。",
+        "recognized_text": "值得一提的是在这场战争中有两股力量起到了决定战局的作用",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3918.ogg",
+        "matched_line": "呵……渴望宝石可不便宜。",
+        "recognized_text": "渴望宝石可不便宜",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2206.ogg",
+        "matched_line": "任务失败了。虽然我们找到了情报贩子银狐，但是还是被逆熵先一步转移走了失踪物资。",
+        "recognized_text": "任务失败了虽然我们找到了情报贩子银狐但是还是被你伤心一步转移走了失踪物资",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1704.ogg",
+        "matched_line": "但崩坏结束后，雪狼小队受到了质疑。有人认为她们擅离职守，因为天命从来没有给她们发出过撤离民众的指示。",
+        "recognized_text": "崩坏结束后雪狼小队受到了质疑有人认为他们擅离职守因为天命从来没有给他们发出过撤离民众的指示",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1703.ogg",
+        "matched_line": "算上学生，现在能出动的人数有多少？",
+        "recognized_text": "色色学生现在能出动的人数有多少",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1793.ogg",
+        "matched_line": "首先是姬子老师。然后是符华，你的班长。",
+        "recognized_text": "首先是机子老师然后是浮华你的班长",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1663.ogg",
+        "matched_line": "布洛妮娅，你自己对这场灾难有多少了解呢？",
+        "recognized_text": "突然你你自己对这场灾难有多少了解呢",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_311.ogg",
+        "matched_line": "希望，我们合作愉快。",
+        "recognized_text": "希望我们合作愉快",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4487.ogg",
+        "matched_line": "虽然我们之间发生过很多事……但求你了，救救她……！",
+        "recognized_text": "我们之间发生过很多事求你了",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_1924.ogg",
+        "matched_line": "赶紧拿“钥匙”打开仓库。让我们来看看，被偷走的究竟是什么宝贝吧。",
+        "recognized_text": "赶紧来钥匙打开仓库让我们来看看被偷走的究竟是什么宝贝",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4300.ogg",
+        "matched_line": "我们不一样……！",
+        "recognized_text": "我们不一样",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5232.ogg",
+        "matched_line": "太平洋西部。北纬11°20.9´，东经142°11.5´。我会在那里静候各位的到来……",
+        "recognized_text": "太平洋西部北纬十一度20点9分东经142度11点5分我会在那里静候各位的到来",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5243.ogg",
+        "matched_line": "但天命的每一步行动都能走在我们之前。",
+        "recognized_text": "天命的每一步行动都能走在我们之前",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5237.ogg",
+        "matched_line": "我更喜欢称它为互利合作。",
+        "recognized_text": "我更喜欢称它为互利合作",
+        "match_score": 96
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5244.ogg",
+        "matched_line": "空之律者再次降临，整个世界都陷入了灾变。我想，作为逆熵的一员，是时候该做些什么了。",
+        "recognized_text": "空之律者再次降临整个世界都陷入了灾变我想作为女生的一员是时候该做些什么了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5250.ogg",
+        "matched_line": "我知道各位在全世界范围内搜寻着空之律者的下落。",
+        "recognized_text": "我知道各位在全世界范围内搜寻着空之律者的下落",
+        "match_score": 98
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5248.ogg",
+        "matched_line": "我们应该在天命无暇顾及的地方站稳脚跟，重新开辟战场。让天命跟着我们的步调来。",
+        "recognized_text": "不是放弃我们应该在天命无暇顾及的地方站稳脚跟重新开辟战场让天命跟着我们的步调来",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5234.ogg",
+        "matched_line": "奥托想要回收四块散失的律者核心，恢复空之律者全盛时期的力量。看来，复活空之律者，已经不能满足这家伙的疯狂了。",
+        "recognized_text": "奥拓想要回收四块三十的绿色核心恢复控制力者全盛时期的力量看来复活空之律者已经不能满足这家伙的疯狂了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5231.ogg",
+        "matched_line": "至于德丽莎女士，过去彼此的立场不同，但如今奥托是我们共同的敌人了。",
+        "recognized_text": "至于德丽莎女士过去彼此的立场不同如今奥拓是是我们共同的敌人了",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5251.ogg",
+        "matched_line": "布洛妮娅，小可爱。很高兴看到你能平安无事。",
+        "recognized_text": "不说你啊小可爱很高兴看到你能平安无事",
+        "match_score": 72
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5257.ogg",
+        "matched_line": "各位久违了。近况如何？",
+        "recognized_text": "各位久违了近况如何",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5233.ogg",
+        "matched_line": "所以，还请各位暂时放下疑虑，和我一起对抗奥托。",
+        "recognized_text": "所以还请各位暂时放下疑虑和我一起对抗奥",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5246.ogg",
+        "matched_line": "博士，我知道你们不信任我。但没有关系，总有一天，我会证明自己对逆熵信念的忠诚。",
+        "recognized_text": "我知道你们不信任我他没有关系总有一天我会证明自己对你信念的忠诚",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_4491.ogg",
+        "matched_line": "祝你们好运。",
+        "recognized_text": "祝你们好运",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5239.ogg",
+        "matched_line": "因为找到空之律者可能只是他计划中的一环。",
+        "recognized_text": "因为找到空间律者可能只是他计划中的一环",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5247.ogg",
+        "matched_line": "当然这是无可奈何的事情。毕竟逆熵掌握的资源有限，光是跟上天命的步伐已经很不容易了……",
+        "recognized_text": "当然这是无可奈何的事情毕竟硬伤掌握的资源有限光是跟上拼命的步伐已经很不容易了",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_5256.ogg",
+        "matched_line": "要想在交锋中占据优势，更是难上加难。军人的经验告诉我，我们这样僵持下去，迟早会一败涂地。",
+        "recognized_text": "要想在交锋中占据优势更是难上加难别人的经验告诉我我们这样僵持下去迟早会一败涂地",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3602.ogg",
+        "matched_line": "可以了。",
+        "recognized_text": "可以了",
+        "match_score": 86
+    }
+]

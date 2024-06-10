@@ -1,0 +1,236 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_2667.ogg",
+        "matched_line": "它替我挡了很多灾祸，我希望你也能受到神的庇护。",
+        "recognized_text": "他替我挡了很多灾祸我希望你也能受到神的庇护",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2684.ogg",
+        "matched_line": "这个十字架，我希望由你来替我保管。",
+        "recognized_text": "这个十字架我希望由你来替我包括",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2790.ogg",
+        "matched_line": "我犯了太多的错，能做的就是为自己的过去负责。",
+        "recognized_text": "我犯了太多的错想做的属于自己的过去负责",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2744.ogg",
+        "matched_line": "“第二次，是明白有些事不只有对与错。”",
+        "recognized_text": "二组使明白有些事不只有对与错",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2781.ogg",
+        "matched_line": "我总是会问自己，那个时候有没有另一种办法能救下他的父亲？",
+        "recognized_text": "我总是会问自己这个时候有没有另一种方法就像他的父亲",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2360.ogg",
+        "matched_line": "呵，我多买几个回来，大家一起分着吃吧。",
+        "recognized_text": "活动买几个回来大家一起分着吃吧",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2342.ogg",
+        "matched_line": "德丽莎，你想吃苦瓜饼吗？",
+        "recognized_text": "你想吃苦瓜饼吗",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2681.ogg",
+        "matched_line": "明天一早就要启程，今晚早点休息吧。",
+        "recognized_text": "明天一早就骑车今晚早点休息吧",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2783.ogg",
+        "matched_line": "但我们两人都受到了诅咒，她在两年后便离世了。",
+        "recognized_text": "我们俩人都受到了诅咒他在两年后被淋湿了",
+        "match_score": 68
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2747.ogg",
+        "matched_line": "“一个人的一生会经历三次成长。”",
+        "recognized_text": "一个人的一生会经历三次成长",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2679.ogg",
+        "matched_line": "让你们担心了。给，你爱吃的苦瓜饼。对不起……已经冷掉了。",
+        "recognized_text": "让你们担心了你还吃的苦瓜饼对不起已经冷掉了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2857.ogg",
+        "matched_line": "因为死亡先过去了，也不再有悲伤、哭嚎、恐怖，因为过去的事已经过去。",
+        "recognized_text": "因为死亡先过去了也不再有悲伤哭嚎胡同恐怖因为过去的事已经过去",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_3425.ogg",
+        "matched_line": "对与错，不能解答这个世界上所有的问题。",
+        "recognized_text": "对于错不能解答这个世界上所有的问题",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2741.ogg",
+        "matched_line": "孩子们，我已经回不去了。",
+        "recognized_text": "孩子们我回不去了",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2762.ogg",
+        "matched_line": "但……幸好有你们。谢谢你们让我能在回首过去时，发现自己还有幸福温暖的回忆。",
+        "recognized_text": "幸好有你们谢谢你们生活能再回收过去式发现自己还有幸福温暖的回忆",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2344.ogg",
+        "matched_line": "嗯？大家在吃饭吗。",
+        "recognized_text": "大家在吃饭吗",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2773.ogg",
+        "matched_line": "所以，我尊重他的选择。",
+        "recognized_text": "我尊重他的选择",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2304.ogg",
+        "matched_line": "孩子们，我们回去吧。你们还有什么话想对他们说么？",
+        "recognized_text": "孩子们我们回去吧你们还有什么话想对他们说吗",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2328.ogg",
+        "matched_line": "快去准备吧。今天好好和大家道个别，不要留下遗憾。",
+        "recognized_text": "快去准备吧今天好好和大家道个别不要留下遗憾",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2778.ogg",
+        "matched_line": "太好了……你们都没事……",
+        "recognized_text": "太好了你们都没事",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2791.ogg",
+        "matched_line": "“第三次，是在明白有些事没有对错之后，依然坚定地去做自己相信的事，并为之负起责任。”",
+        "recognized_text": "第三组实在明白有些事没有对错之后依然坚定的去做自己相信的事因为是夫妻咋",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2308.ogg",
+        "matched_line": "因为死亡先过去了，也不再有悲伤、哭嚎、恐怖，因为过去的事已经过去。",
+        "recognized_text": "因为死亡先过去了也不再有悲伤图片因为过去的事已经过去",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2784.ogg",
+        "matched_line": "我和她一起逃离组织，把罪恶的源头封印在不为人知的地方。",
+        "recognized_text": "我和他一起逃离组织把罪恶的源头封印在不为人知的地方",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2743.ogg",
+        "matched_line": "德丽莎，我的十字架好像掉在雪地里了。",
+        "recognized_text": "这里我的十字架好像掉在雪地里了",
+        "match_score": 79
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2758.ogg",
+        "matched_line": "对与错，不能解答这个世界上所有的问题。",
+        "recognized_text": "对与错不能解答这个世界上所有的问题",
+        "match_score": 94
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2753.ogg",
+        "matched_line": "我理解他的感受，让他变成了孤儿的人……是我。",
+        "recognized_text": "我理解她的感受让他变成了孤儿的事十五",
+        "match_score": 70
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2788.ogg",
+        "matched_line": "我在异国埋葬了她，来这里建立了孤儿院。",
+        "recognized_text": "我在异国埋葬了他在车里建立了孤儿院",
+        "match_score": 78
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2761.ogg",
+        "matched_line": "在那个人的弥留之际，我问她，是否后悔做出这样的选择。",
+        "recognized_text": "这里一个人的弥留之际我问他是否后悔做出这样的选择",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2733.ogg",
+        "matched_line": "我理解约阿希姆的迷茫，或者不如说，我也曾经这样迷茫过。",
+        "recognized_text": "理解与阿西莫特迷茫或者不如说我也曾经这样迷茫过",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2770.ogg",
+        "matched_line": "“第一次，是明白事情的对与错。”",
+        "recognized_text": "第一次明白事情的对与错",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2306.ogg",
+        "matched_line": "我的孩子们，如果你们问我为什么有的人早早离世……",
+        "recognized_text": "我的孩子们如果你们问我为什么有的人早早离世",
+        "match_score": 93
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2769.ogg",
+        "matched_line": "而现在，我将把她的回答传达给你们。",
+        "recognized_text": "而现在我想把他的回答传达给你们",
+        "match_score": 81
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2687.ogg",
+        "matched_line": "约阿希姆，你的行李都整理好了？",
+        "recognized_text": "需要什么你的行李都整理好了",
+        "match_score": 64
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2776.ogg",
+        "matched_line": "或许是因为在他身上，我看到了过去的自己……那个我想了结的自己。",
+        "recognized_text": "或许是因为在他身上我看到了过去的自己我想要的自己",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2359.ogg",
+        "matched_line": "马上就入冬了，我想去杂货店多采购一些食材。",
+        "recognized_text": "马上就入冬了我想去杂货店都采购一些食材",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2748.ogg",
+        "matched_line": "我相信你，约阿希姆，我相信你会找到自己的路。",
+        "recognized_text": "我相信你系统我相信你会找到自己的路",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2677.ogg",
+        "matched_line": "没事没事，只是小病，睡一晚就好了。",
+        "recognized_text": "没事没事只是小编晚就好",
+        "match_score": 71
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2682.ogg",
+        "matched_line": "……我今天去村子里，想替你挑一份饯别礼。最后我觉得，还是这个十字架最适合。",
+        "recognized_text": "我今天去村子里想替你挑一份鉴别的最后我觉得还是这个十字架的时候",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2757.ogg",
+        "matched_line": "但不管我怎么想，那一天，我还是选择了杀死他",
+        "recognized_text": "不管我怎么想每天我还是选择了杀死他",
+        "match_score": 84
+    }
+]

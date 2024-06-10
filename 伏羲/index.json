@@ -1,0 +1,272 @@
+[
+    {
+        "audio_file": "AUDIO_3_0_3_4_22.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_4111.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的一",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_3_0_3_4_2043.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_9478.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_1009.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_951.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_730.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_7967.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "都是的",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2475.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_BEFORE_2_9_2479.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_3_8_4_0_664.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_766.ogg",
+        "matched_line": "使用羽渡尘，你可以去除那些无用的记忆；如果不舍得，也可以把它们分离出来，暂时保存在神之键上……",
+        "recognized_text": "使用许多丞你可以去除那些无用的鸡如果不舍得也可以把它们分离出来暂时保存在神之键上",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1459.ogg",
+        "matched_line": "所以，我们创造了你。",
+        "recognized_text": "所以我们创造了你",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_758.ogg",
+        "matched_line": "经年累月的守望，正是你的重担。那愈发频繁的头痛，是你的大脑发出的抗议啊，华。",
+        "recognized_text": "今年累月的守望正是你的重担那愈发频繁的头痛是你的大脑发出的抗议啊",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2048.ogg",
+        "matched_line": "我们已经死了。",
+        "recognized_text": "我们已经死了",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3626.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1757.ogg",
+        "matched_line": "我们已经死了。",
+        "recognized_text": "我已经死了",
+        "match_score": 83
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1754.ogg",
+        "matched_line": "我们已经死了。",
+        "recognized_text": "已经死了",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_724.ogg",
+        "matched_line": "你的头会痛吗？",
+        "recognized_text": "你的头会痛吗",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2046.ogg",
+        "matched_line": "要见我们并不困难。",
+        "recognized_text": "看见我们并不困难",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1453.ogg",
+        "matched_line": "但是，一切都设定好了。",
+        "recognized_text": "但是一切都设定好了",
+        "match_score": 90
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3441.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2044.ogg",
+        "matched_line": "是的，梦总有结束的时候。",
+        "recognized_text": "是的孟总要结束的时候",
+        "match_score": 73
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_762.ogg",
+        "matched_line": "或者，只是做简单的精神操作，你不想动用羽渡尘的话……那个融合战士也可以帮你。",
+        "recognized_text": "或者只是做简单的精神操作你不想动你就馋的慌那个融合战士也可以帮你",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_728.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_829.ogg",
+        "matched_line": "我啊……没有那么伟大。在那个时候活下来，进入休眠舱，接受辅佐赤鸢的任务……都只是在执行博士的指令而已。",
+        "recognized_text": "我没有那么伟大在那个时候活下来进入休眠仓接受支援的任务只是在职博士的指令而已",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_626.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_753.ogg",
+        "matched_line": "又痛了吗？感觉是怎样的？",
+        "recognized_text": "又痛了吗感觉是怎样的",
+        "match_score": 91
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_823.ogg",
+        "matched_line": "我并不喜欢博士，也不喜欢这项任务。只是受其之托，忠人之事罢了。",
+        "recognized_text": "我并不喜欢博士也不喜欢这项任务其实受其之托忠人之事罢了",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_801.ogg",
+        "matched_line": "……我们能做的也只有延缓它而已。",
+        "recognized_text": "不能做的只有延缓它而已",
+        "match_score": 74
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_3123.ogg",
+        "matched_line": "是的。",
+        "recognized_text": "是的",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1445.ogg",
+        "matched_line": "以后精卫就交给你了。",
+        "recognized_text": "以后就交给你了",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_732.ogg",
+        "matched_line": "头痛吗？",
+        "recognized_text": "头痛吗",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2023.ogg",
+        "matched_line": "你一点都没变呢。",
+        "recognized_text": "一点都没变呢",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_763.ogg",
+        "matched_line": "博士将羽渡尘交给你的原因，你明白吗？",
+        "recognized_text": "不是将与杜淳交给你的原因你明白吗",
+        "match_score": 65
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_752.ogg",
+        "matched_line": "那些对我们来说稍纵即逝的时光……会永远在你的脑中重复着存在、增殖与再生……最终填满你的思海。",
+        "recognized_text": "那些对我们来说稍纵即逝的时光会永远在你的脑中重复着存在增值与再生最终填满你的四海",
+        "match_score": 88
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_764.ogg",
+        "matched_line": "也会永恒地保留住所有的记忆，让遗忘成为难以成真的奢求。",
+        "recognized_text": "你会永恒的保留住所有的记忆真希望成为难以成真的奢求",
+        "match_score": 77
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1443.ogg",
+        "matched_line": "精卫有一个使命。",
+        "recognized_text": "虽然有一个使命",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_757.ogg",
+        "matched_line": "就算是为了自己好，请你尽快下决心吧。再这样下去，你的状况只会越来越差。",
+        "recognized_text": "就算是为了自己好请尽快下决心吧再这样下去你的状况只会越来越差",
+        "match_score": 92
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1446.ogg",
+        "matched_line": "那样的话，希望你会做出和我们一样的决定。",
+        "recognized_text": "那样的话希望你会做出和我们一样的决定",
+        "match_score": 95
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_815.ogg",
+        "matched_line": "它消散后，此地的崩坏能浓度已回落至正常水平。",
+        "recognized_text": "他销售后此地的崩坏能浓度一回落至正常水平",
+        "match_score": 76
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_2039.ogg",
+        "matched_line": "……既然我们还能对话，应该是这样没错吧。",
+        "recognized_text": "姐我们还能对话应该是这样没错吧",
+        "match_score": 80
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_1472.ogg",
+        "matched_line": "但，我们不会给你下达什么指令。",
+        "recognized_text": "我们不会给你下达什么指令",
+        "match_score": 89
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_817.ogg",
+        "matched_line": "……你认为应该执行下个阶段吗？",
+        "recognized_text": "认为应该执行下个阶段吗",
+        "match_score": 85
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_756.ogg",
+        "matched_line": "你和我们，不一样……融合因子让你的身体拥有极强的恢复力。它首先作用于脑部，令脑细胞持续活化。",
+        "recognized_text": "你和我们不一样如何因子让你的身体拥有极强的恢复力它首先作用于脑部脑细胞持续活化",
+        "match_score": 87
+    }
+]

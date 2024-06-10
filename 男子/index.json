@@ -1,0 +1,50 @@
+[
+    {
+        "audio_file": "AUDIO_4_3_4_5_341.ogg",
+        "matched_line": "行，快去吧。也别担心，不就是受了点伤嘛多大点事，你安安心心上学，你爸交给我们了。去吧。",
+        "recognized_text": "快去吧也别担心不就是受了点伤吗多大点事儿你安安心心上学你吧交给我们了去吧",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_344.ogg",
+        "matched_line": "你怎么还在跑步啊？学校不是今天开学吗？你别第一天就旷课，给学校留下坏印象不好的。",
+        "recognized_text": "你怎么还在跑步学校不是今天开学吗你别第一天就旷课啊给学校留下换一下不好的",
+        "match_score": 84
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_347.ogg",
+        "matched_line": "再说，上次不是有个老板说要盘你家武馆开个饭店么？钱肯定不少给的。",
+        "recognized_text": "再说上次不是个老板说要拍你家武馆开个饭店吧钱肯定不少给的",
+        "match_score": 87
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_339.ogg",
+        "matched_line": "…哈哈，你啊，就是太孝顺喽。别怪飒哥说话直，有时你也得替自己想想。",
+        "recognized_text": "你呀就是太孝顺了别把三哥说话啊有时你也得替自己想想",
+        "match_score": 69
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_340.ogg",
+        "matched_line": "担心你爸？没事，我们街坊邻居都帮你看着的，你爸这些年没少帮助咱们，现在他出点小状况，我们还能让他饿着？",
+        "recognized_text": "相信你吧没事我们街坊邻居都帮你看着的你把这些年没少帮助咱们现在它出点小状况我们还让他饿着",
+        "match_score": 82
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_343.ogg",
+        "matched_line": "没谈成，所以你爸没跟你说吧。要我说也好，这年头哪个还练武功喔。你一个女孩子家，当然是去读书有出息了。",
+        "recognized_text": "哈哈没谈成所以你爸没跟你说吧要我说也好这年头哪个还练功夫一个女孩子家当然是去读书有出息",
+        "match_score": 86
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_342.ogg",
+        "matched_line": "一会儿去看你爸？",
+        "recognized_text": "一块儿去看你吧",
+        "match_score": 67
+    },
+    {
+        "audio_file": "AUDIO_4_3_4_5_337.ogg",
+        "matched_line": "你将来还想继承武馆？当个女掌门啊？",
+        "recognized_text": "你将来还想继承武馆当个女掌门啊",
+        "match_score": 94
+    }
+]
